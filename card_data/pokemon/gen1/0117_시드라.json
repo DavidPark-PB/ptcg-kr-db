@@ -234,7 +234,7 @@
         ]
     },
     {
-        "id": "SI-083",
+        "id": "S8b-025",
         "cardID": "시드물090물대040",
         "name": "시드라",
         "supertype": "포켓몬",
@@ -295,7 +295,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_025.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001025",
-                "debug": "2"
+                "debug": "1"
             },
             {
                 "number": "083",
@@ -307,7 +307,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_083.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003083",
-                "debug": "1"
+                "debug": "2"
             }
         ]
     },
@@ -475,6 +475,66 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4K/SV4K_018.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023021018",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV6a-011",
+        "cardID": "시드물090원군000날카040",
+        "name": "시드라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "시드라",
+                "pokedexNumber": 117
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "원군",
+                "cost": "(물)",
+                "damage": "",
+                "text": "자신의 덱에서 포켓몬을 3장까지 선택해서 상대에게 보여주고 패로 가져온다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "날카로운 지느러미",
+                "cost": "(무색)(무색)",
+                "damage": "40",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "수컷이 새끼를 기른다. 새끼를 기르는 동안 등에 난 가시의 독소는 강해지고 짙어진다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "011",
+                "prodNumber": "064",
+                "prodCode": "SV6a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「나이트원더러」",
+                "artist": "Yuya Oka",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6a/SV6a_011.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024011011",
                 "debug": "1"
             }
         ]

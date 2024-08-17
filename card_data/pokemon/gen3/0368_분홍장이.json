@@ -42,6 +42,7 @@
         "retreatCost": 0,
         "flavorText": "헤엄치는 모습이 굉장히 우아하다. 가는 입으로 바위 틈새에 나 있는 해초를 먹는다.",
         "regulationMark": [
+            "DP",
             "XY"
         ],
         "version_infos": [
@@ -56,6 +57,18 @@
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY5/XY5_TS_029.jpg?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015002029",
                 "debug": "3"
+            },
+            {
+                "number": "18",
+                "prodNumber": "40",
+                "prodCode": "bs5",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs5.png",
+                "prodName": "DP 확장팩 7개의 신비",
+                "artist": "Ken Sugimori",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS5/bs5_ko_18.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010005018",
+                "debug": "2"
             }
         ]
     },
@@ -229,66 +242,6 @@
                 "rarity": "U",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_025.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018025",
-                "debug": "1"
-            }
-        ]
-    },
-    {
-        "id": "bs5-18",
-        "cardID": "분홍물080유혹의000사이030",
-        "name": "분홍장이",
-        "supertype": "포켓몬",
-        "subtypes": [
-            "1진화"
-        ],
-        "rules": [],
-        "hp": 80,
-        "pokemons": [
-            {
-                "name": "분홍장이",
-                "pokedexNumber": 368
-            }
-        ],
-        "type": "(물)",
-        "attacks": [
-            {
-                "name": "유혹의 키스",
-                "cost": "(0코)",
-                "damage": "",
-                "text": "상대의 벤치 포켓몬을 1마리 선택해서 상대의 배틀 포켓몬과 교체한다. 그 뒤 새로 나온 포켓몬에게 10데미지를 준다."
-            },
-            {
-                "name": "사이코스냅",
-                "cost": "(물)(무색)",
-                "damage": "30+",
-                "text": "자신에게 (초) 에너지가 붙어 있다면 20데미지를 추가하고 상대를 혼란으로 만든다."
-            }
-        ],
-        "abilities": [],
-        "weakness": {
-            "type": "(번개)",
-            "value": "20"
-        },
-        "resistance": {
-            "type": "",
-            "value": "--"
-        },
-        "retreatCost": 0,
-        "flavorText": "바다의 밑바닥에 살고 있지만 봄이 되면 몸의 분홍색이 웬일인지 선명하게 물든다.",
-        "regulationMark": [
-            "DP"
-        ],
-        "version_infos": [
-            {
-                "number": "18",
-                "prodNumber": "40",
-                "prodCode": "bs5",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs5.png",
-                "prodName": "DP 확장팩 7개의 신비",
-                "artist": "Ken Sugimori",
-                "rarity": "U",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS5/bs5_ko_18.jpg?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010005018",
                 "debug": "1"
             }
         ]

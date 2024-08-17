@@ -279,7 +279,7 @@
         ]
     },
     {
-        "id": "SPD-008",
+        "id": "S8b-069",
         "cardID": "크레초120크레000포톤030",
         "name": "크레세리아",
         "supertype": "포켓몬",
@@ -337,6 +337,18 @@
                 "debug": "2"
             },
             {
+                "number": "069",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "Kagemaru Himeno",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_069.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001069",
+                "debug": "1"
+            },
+            {
                 "number": "182",
                 "prodNumber": "414",
                 "prodCode": "SI",
@@ -358,7 +370,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SP/SPD_008.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022013008",
-                "debug": "1"
+                "debug": "2"
             }
         ]
     },
@@ -418,6 +430,66 @@
                 "rarity": "R",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10D_028.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022007028",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV6a-021",
+        "cardID": "크레초120치유000크레080",
+        "name": "크레세리아",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "크레세리아",
+                "pokedexNumber": 488
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "치유춤",
+                "cost": "(초)",
+                "damage": "",
+                "text": "자신의 포켓몬 전원의 HP를 각각 「20」회복한다."
+            },
+            {
+                "name": "크레센트퍼지",
+                "cost": "(초)(초)(초)",
+                "damage": "80+",
+                "text": "원한다면 뒷면으로 된 자신의 프라이즈를 1장 선택해서 앞면으로 한다. 그 경우, 80데미지를 추가한다. (대전이 종료될 때까지 그 프라이즈는 앞면이 위를 향한 채로 둔다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "비행할 때는 베일 같은 날개에서 빛나는 입자를 흩뿌린다. 초승달의 화신으로 불리고 있다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "021",
+                "prodNumber": "064",
+                "prodCode": "SV6a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「나이트원더러」",
+                "artist": "matazo",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6a/SV6a_021.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024011021",
                 "debug": "1"
             }
         ]

@@ -705,6 +705,18 @@
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6/SV6_041.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024008041",
                 "debug": "1"
+            },
+            {
+                "number": "118",
+                "prodNumber": "101",
+                "prodCode": "SV6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「변환의 가면」",
+                "artist": "PLANETA Yamashita",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6/SV6_118.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024008118",
+                "debug": "2"
             }
         ]
     },

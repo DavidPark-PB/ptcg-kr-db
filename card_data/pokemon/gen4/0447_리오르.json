@@ -301,7 +301,7 @@
     },
     {
         "id": "sm8b-055",
-        "cardID": "리오격070판별000잽잽010B",
+        "cardID": "리오격070판별000잽잽010",
         "name": "리오르",
         "supertype": "포켓몬",
         "subtypes": [
@@ -342,6 +342,7 @@
         "retreatCost": 1,
         "flavorText": "밤새 달릴 수 있는 지구력을 갖고 있고 노력가지만 아직 햇병아리다.",
         "regulationMark": [
+            "A",
             "B"
         ],
         "version_infos": [
@@ -403,6 +404,18 @@
                 "rarity": "S",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8B/SM8b_181.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019002181",
+                "debug": "2"
+            },
+            {
+                "number": "061",
+                "prodNumber": "SM-P",
+                "prodCode": "SM-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "썬&문 프로모 카드 포켓몬 카드 게임 프로모 팩 제3탄",
+                "artist": "Kyoko Umemoto",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_079.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000085",
                 "debug": "2"
             }
         ]
@@ -655,6 +668,30 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S9/S9_054.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022002054",
+                "debug": "2"
+            },
+            {
+                "number": "076",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "Teeziro",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_076.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001076",
+                "debug": "2"
+            },
+            {
+                "number": "201",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "Kouki Saitou",
+                "rarity": "AR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_201.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001201",
                 "debug": "2"
             },
             {
@@ -1027,66 +1064,6 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS4/bs4_ko_27.jpg?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010004027",
-                "debug": "1"
-            }
-        ]
-    },
-    {
-        "id": "SM-P-061",
-        "cardID": "리오격070판별000잽잽010A",
-        "name": "리오르",
-        "supertype": "포켓몬",
-        "subtypes": [
-            "기본"
-        ],
-        "rules": [],
-        "hp": 70,
-        "pokemons": [
-            {
-                "name": "리오르",
-                "pokedexNumber": 447
-            }
-        ],
-        "type": "(격투)",
-        "attacks": [
-            {
-                "name": "판별",
-                "cost": "(무색)",
-                "damage": "",
-                "text": "동전을 1번 던져서 앞면이 나오면 상대의 다음 차례에 이 포켓몬은 기술의 데미지나 효과를 받지 않는다."
-            },
-            {
-                "name": "잽",
-                "cost": "(격투)",
-                "damage": "10",
-                "text": ""
-            }
-        ],
-        "abilities": [],
-        "weakness": {
-            "type": "(초)",
-            "value": "×2"
-        },
-        "resistance": {
-            "type": "",
-            "value": "--"
-        },
-        "retreatCost": 1,
-        "flavorText": "밤새 달릴 수 있는 지구력을 갖고 있고 노력가지만 아직 햇병아리다.",
-        "regulationMark": [
-            "A"
-        ],
-        "version_infos": [
-            {
-                "number": "061",
-                "prodNumber": "SM-P",
-                "prodCode": "SM-P",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
-                "prodName": "썬&문 프로모 카드 포켓몬 카드 게임 프로모 팩 제3탄",
-                "artist": "Kyoko Umemoto",
-                "rarity": "N",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_079.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000085",
                 "debug": "1"
             }
         ]

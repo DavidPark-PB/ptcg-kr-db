@@ -652,5 +652,65 @@
                 "debug": "1"
             }
         ]
+    },
+    {
+        "id": "SV6a-002",
+        "cardID": "전툴풀100복안찌리050",
+        "name": "전툴라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "전툴라",
+                "pokedexNumber": 596
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "찌리리웹",
+                "cost": "(풀)(무색)",
+                "damage": "50+",
+                "text": "이 포켓몬에게 (번개) 에너지가 붙어 있다면 80데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "복안",
+                "text": "이 포켓몬이 사용하는 기술이 상대 배틀필드의 특성을 가진 포켓몬에게 주는 데미지는 「+50」이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "전기를 띤 배의 털을 날려서 공격한다. 털에 찔리면 삼 일 밤낮으로 전신이 마비된다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "002",
+                "prodNumber": "064",
+                "prodCode": "SV6a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「나이트원더러」",
+                "artist": "mashu",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6a/SV6a_002.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024011002",
+                "debug": "1"
+            }
+        ]
     }
 ]

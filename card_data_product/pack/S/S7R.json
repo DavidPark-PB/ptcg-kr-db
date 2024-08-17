@@ -873,8 +873,7 @@
         "name": "셀러",
         "supertype": "포켓몬",
         "subtypes": [
-            "기본",
-            "연격"
+            "기본"
         ],
         "rules": [],
         "hp": 70,
@@ -927,8 +926,7 @@
         "name": "파르셀",
         "supertype": "포켓몬",
         "subtypes": [
-            "1진화",
-            "연격"
+            "1진화"
         ],
         "rules": [],
         "hp": 130,
@@ -1248,8 +1246,7 @@
         "name": "약어리",
         "supertype": "포켓몬",
         "subtypes": [
-            "기본",
-            "연격"
+            "기본"
         ],
         "rules": [],
         "hp": 30,
@@ -1461,8 +1458,7 @@
         "name": "플러시",
         "supertype": "포켓몬",
         "subtypes": [
-            "기본",
-            "연격"
+            "기본"
         ],
         "rules": [],
         "hp": 70,
@@ -1509,8 +1505,7 @@
         "name": "마이농",
         "supertype": "포켓몬",
         "subtypes": [
-            "기본",
-            "연격"
+            "기본"
         ],
         "rules": [],
         "hp": 70,
@@ -1811,8 +1806,7 @@
         "supertype": "포켓몬",
         "subtypes": [
             "기본",
-            "V",
-            "연격"
+            "V"
         ],
         "rules": [
             "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
@@ -2336,8 +2330,7 @@
         "supertype": "포켓몬",
         "subtypes": [
             "기본",
-            "V",
-            "연격"
+            "V"
         ],
         "rules": [
             "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
@@ -2393,8 +2386,7 @@
         "supertype": "포켓몬",
         "subtypes": [
             "V진화",
-            "VMAX",
-            "연격"
+            "VMAX"
         ],
         "rules": [
             "포켓몬 VMAX가 기절한 경우 상대는 프라이즈를 3장 가져간다."
@@ -2449,8 +2441,7 @@
         "name": "지가르데",
         "supertype": "포켓몬",
         "subtypes": [
-            "기본",
-            "연격"
+            "기본"
         ],
         "rules": [],
         "hp": 130,
@@ -3188,5 +3179,587 @@
         "regulationMark": "D",
         "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7R_067.png?w=512",
         "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021012067"
+    },
+    {
+        "id": "S7R-068",
+        "cardID": "대로풀210생명030섀도120",
+        "name": "대로트 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "대로트",
+                "pokedexNumber": 709
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "생명흡수",
+                "cost": "(풀)(무색)",
+                "damage": "30",
+                "text": "이 포켓몬의 HP를 「30」회복한다."
+            },
+            {
+                "name": "섀도크루",
+                "cost": "(풀)(풀)(무색)",
+                "damage": "120",
+                "text": "상대의 패에서 앞면을 보지 않고 1장 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "068",
+        "prodNumber": "067",
+        "prodCode": "S7R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7R.png",
+        "prodName": "소드&실드 확장팩 「창공스트림」",
+        "artist": "MUGENUP",
+        "rarity": "SR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7R_068.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021009068"
+    },
+    {
+        "id": "S7R-069",
+        "cardID": "불카불210와류020불대160",
+        "name": "불카모스 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "불카모스",
+                "pokedexNumber": 637
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "와류하는불꽃",
+                "cost": "(불꽃)",
+                "damage": "20+",
+                "text": "자신의 트래쉬에 있는 기본 에너지를 모두 상대에게 보여주고 그 장수 × 20데미지를 추가한다. 그 뒤, 보여준 에너지를 덱으로 되돌리고 섞는다."
+            },
+            {
+                "name": "불대문자",
+                "cost": "(불꽃)(불꽃)(무색)",
+                "damage": "160",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "069",
+        "prodNumber": "067",
+        "prodCode": "S7R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7R.png",
+        "prodName": "소드&실드 확장팩 「창공스트림」",
+        "artist": "Eske Yoshinob",
+        "rarity": "SR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7R_069.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021009069"
+    },
+    {
+        "id": "S7R-070",
+        "cardID": "갸라물220격분020헤비180",
+        "name": "갸라도스 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "갸라도스",
+                "pokedexNumber": 130
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "격분",
+                "cost": "(물)(물)(무색)",
+                "damage": "20×",
+                "text": "이 포켓몬에게 올려져 있는 데미지 카운터의 수 × 20데미지를 준다."
+            },
+            {
+                "name": "헤비스톰",
+                "cost": "(물)(물)(물)(무색)",
+                "damage": "180",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "number": "070",
+        "prodNumber": "067",
+        "prodCode": "S7R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7R.png",
+        "prodName": "소드&실드 확장팩 「창공스트림」",
+        "artist": "PLANETA Tsuji",
+        "rarity": "SR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7R_070.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021009070"
+    },
+    {
+        "id": "S7R-071",
+        "cardID": "요가격210요가000스매100",
+        "name": "요가램 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "요가램",
+                "pokedexNumber": 308
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "요가루프",
+                "cost": "(무색)(무색)",
+                "damage": "",
+                "text": "상대의 포켓몬 1마리에게 데미지 카운터를 2개 올린다. 이 기술로 상대의 포켓몬이 기절했다면 이 차례가 끝나면 다시 1번 자신의 차례를 시작한다. 자신의 이전 차례에 자신의 포켓몬이 「요가루프」를 사용했다면 이 기술은 사용할 수 없다."
+            },
+            {
+                "name": "스매시어퍼",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "100",
+                "text": "이 기술의 데미지는 저항력 계산을 하지 않는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "071",
+        "prodNumber": "067",
+        "prodCode": "S7R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7R.png",
+        "prodName": "소드&실드 확장팩 「창공스트림」",
+        "artist": "Satoshi Shirai",
+        "rarity": "SR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7R_071.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021009071"
+    },
+    {
+        "id": "S7R-072",
+        "cardID": "요가격210요가000스매100",
+        "name": "요가램 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "요가램",
+                "pokedexNumber": 308
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "요가루프",
+                "cost": "(무색)(무색)",
+                "damage": "",
+                "text": "상대의 포켓몬 1마리에게 데미지 카운터를 2개 올린다. 이 기술로 상대의 포켓몬이 기절했다면 이 차례가 끝나면 다시 1번 자신의 차례를 시작한다. 자신의 이전 차례에 자신의 포켓몬이 「요가루프」를 사용했다면 이 기술은 사용할 수 없다."
+            },
+            {
+                "name": "스매시어퍼",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "100",
+                "text": "이 기술의 데미지는 저항력 계산을 하지 않는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "072",
+        "prodNumber": "067",
+        "prodCode": "S7R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7R.png",
+        "prodName": "소드&실드 확장팩 「창공스트림」",
+        "artist": "KIYOTAKA OSHIYAMA",
+        "rarity": "SR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7R_072.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021009072"
+    },
+    {
+        "id": "S7R-073",
+        "cardID": "망나드230찢기050드래250",
+        "name": "망나뇽 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 230,
+        "pokemons": [
+            {
+                "name": "망나뇽",
+                "pokedexNumber": 149
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "찢기",
+                "cost": "(무색)(무색)",
+                "damage": "50",
+                "text": "이 기술의 데미지는 상대의 배틀 포켓몬에게 걸려 있는 효과를 계산하지 않는다."
+            },
+            {
+                "name": "드래곤게일",
+                "cost": "(물)(물)(번개)",
+                "damage": "250",
+                "text": "자신의 벤치 포켓몬 전원에게도 각각 20데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "number": "073",
+        "prodNumber": "067",
+        "prodCode": "S7R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7R.png",
+        "prodName": "소드&실드 확장팩 「창공스트림」",
+        "artist": "Saki Hayashiro",
+        "rarity": "SR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7R_073.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021009073"
+    },
+    {
+        "id": "S7R-074",
+        "cardID": "망나드230찢기050드래250",
+        "name": "망나뇽 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 230,
+        "pokemons": [
+            {
+                "name": "망나뇽",
+                "pokedexNumber": 149
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "찢기",
+                "cost": "(무색)(무색)",
+                "damage": "50",
+                "text": "이 기술의 데미지는 상대의 배틀 포켓몬에게 걸려 있는 효과를 계산하지 않는다."
+            },
+            {
+                "name": "드래곤게일",
+                "cost": "(물)(물)(번개)",
+                "damage": "250",
+                "text": "자신의 벤치 포켓몬 전원에게도 각각 20데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "number": "074",
+        "prodNumber": "067",
+        "prodCode": "S7R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7R.png",
+        "prodName": "소드&실드 확장팩 「창공스트림」",
+        "artist": "Atsushi Furusawa",
+        "rarity": "SR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7R_074.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021009074"
+    },
+    {
+        "id": "S7R-075",
+        "cardID": "레쿠드210용의040스파020",
+        "name": "레쿠쟈 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "레쿠쟈",
+                "pokedexNumber": 384
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "용의파동",
+                "cost": "(번개)",
+                "damage": "40",
+                "text": "자신의 덱을 위에서부터 2장 트래쉬한다."
+            },
+            {
+                "name": "스파이럴 버스트",
+                "cost": "(불꽃)(번개)",
+                "damage": "20+",
+                "text": "원한다면 이 포켓몬에게 붙어 있는 (불꽃)  또는 (번개) 타입 중 어느 한쪽의 기본 에너지를 2장까지 트래쉬하고 그 장수 × 80데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "075",
+        "prodNumber": "067",
+        "prodCode": "S7R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7R.png",
+        "prodName": "소드&실드 확장팩 「창공스트림」",
+        "artist": "PLANETA Mochizuki",
+        "rarity": "SR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7R_075.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021009075"
+    },
+    {
+        "id": "S7R-076",
+        "cardID": "레쿠드210용의040스파020",
+        "name": "레쿠쟈 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "레쿠쟈",
+                "pokedexNumber": 384
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "용의파동",
+                "cost": "(번개)",
+                "damage": "40",
+                "text": "자신의 덱을 위에서부터 2장 트래쉬한다."
+            },
+            {
+                "name": "스파이럴 버스트",
+                "cost": "(불꽃)(번개)",
+                "damage": "20+",
+                "text": "원한다면 이 포켓몬에게 붙어 있는 (불꽃)  또는 (번개) 타입 중 어느 한쪽의 기본 에너지를 2장까지 트래쉬하고 그 장수 × 80데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "076",
+        "prodNumber": "067",
+        "prodCode": "S7R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7R.png",
+        "prodName": "소드&실드 확장팩 「창공스트림」",
+        "artist": "Ryuta Fuse",
+        "rarity": "SR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7R_076.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021009076"
+    },
+    {
+        "id": "S7R-077",
+        "cardID": "사나",
+        "name": "사나",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패를 모두 덱으로 되돌리고 섞는다.",
+            "그 뒤, 덱을 5장 뽑는다."
+        ],
+        "number": "077",
+        "prodNumber": "067",
+        "prodCode": "S7R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7R.png",
+        "prodName": "소드&실드 확장팩 「창공스트림」",
+        "artist": "Yuu Nishida",
+        "rarity": "SR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7R_077.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021009077"
+    },
+    {
+        "id": "S7R-078",
+        "cardID": "스쿨보이",
+        "name": "스쿨보이",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱을 2장 뽑는다.",
+            "상대의 남은 프라이즈 장수가 5장・3장・1장이라면 2장 더 뽑는다."
+        ],
+        "number": "078",
+        "prodNumber": "067",
+        "prodCode": "S7R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7R.png",
+        "prodName": "소드&실드 확장팩 「창공스트림」",
+        "artist": "Hideki Ishikawa",
+        "rarity": "SR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7R_078.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021009078"
+    },
+    {
+        "id": "S7R-079",
+        "cardID": "피아나의 결의",
+        "name": "피아나의 결의",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드는 자신의 패를 2장 트래쉬하지 않으면 사용할 수 없다.",
+            "상대 필드의 포켓몬의 수만큼 자신의 덱을 뽑는다."
+        ],
+        "number": "079",
+        "prodNumber": "067",
+        "prodCode": "S7R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7R.png",
+        "prodName": "소드&실드 확장팩 「창공스트림」",
+        "artist": "Taira Akitsu",
+        "rarity": "SR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7R_079.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021009079"
     }
 ]

@@ -9,12 +9,12 @@
             "SV"
         ],
         "regulations": [
-            "H",
-            "G"
+            "G",
+            "H"
         ],
         "in_standard_regu": true,
         "release_date": "1970-01-01",
-        "update_date": "2024-07-31",
+        "update_date": "2024-08-17",
         "image_symbol_url": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
         "card_list_index": [
             1328,
@@ -137,7 +137,7 @@
             1447,
             1448,
             1449,
-            15206
+            15820
         ],
         "card_list_detail": [
             {

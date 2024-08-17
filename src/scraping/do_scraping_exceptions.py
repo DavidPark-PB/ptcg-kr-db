@@ -308,6 +308,213 @@ def parse_alola():
     json_file_path = '../ptcg_kr_card_data/BS/2017/BS_2017_004_'+do_scraping.to_three_digit(parsed_card_num)+'.json'
     with open(json_file_path,mode='w',encoding='utf-8') as file:
         json.dump(data_json,file,ensure_ascii=False, indent=4)
+        
+#소드&실드 하이클래스팩 「VMAX 클라이맥스」277에 에너지8종까지. 56-59를 모르페코vunion이 차지해서 60번 보질 못함. 285까지 볼것
+# https://pokemoncard.co.kr/cards/detail/BS2022001257
+# 226 ~ 229 행방불명 -> 모르페코 Vunion
+def parse_VMAXCLIMAX():
+    url_head = 'https://pokemoncard.co.kr/cards/detail/BS2022001'
+    nums = list(range(286))
+    
+    parsed_card_num = 0
+    data_json = []
+    for num in nums:
+        url = url_head+do_scraping.to_three_digit(num)
+        if num == 1 or num % 5 == 0:
+            print(url)
+        
+        card_data, state = do_scraping.scrape_ptcg_kr(url)
+    
+        if state == "success":
+            data_json.append(card_data)
+            parsed_card_num += 1
+        elif state == "fail":
+            pass
+         
+    json_file_path = '../ptcg_kr_card_data/BS/2022/BS_2022_001_'+do_scraping.to_three_digit(parsed_card_num)+'.json'
+    with open(json_file_path,mode='w',encoding='utf-8') as file:
+        json.dump(data_json,file,ensure_ascii=False, indent=4)
+
+#소드&실드 확장팩 「창공스트림」 67까지는 BS2021012xxx를 따르다가 68~79에서 BS2021009xxx를 따름. 이건 인텔vmax덱인데 다행히 충돌은 없음
+# https://pokemoncard.co.kr/cards/detail/BS2021012050
+def parse_ChangGong():
+    url_head = 'https://pokemoncard.co.kr/cards/detail/BS2021012'
+    nums = list(range(68))
+    
+    parsed_card_num = 0
+    data_json = []
+    for num in nums:
+        url = url_head+do_scraping.to_three_digit(num)
+        if num == 1 or num % 5 == 0:
+            print(url)
+        
+        card_data, state = do_scraping.scrape_ptcg_kr(url)
+    
+        if state == "success":
+            data_json.append(card_data)
+            parsed_card_num += 1
+        elif state == "fail":
+            pass
+        
+    url_head = 'https://pokemoncard.co.kr/cards/detail/BS2021009'
+    nums = list(range(68,80))
+    
+    for num in nums:
+        url = url_head+do_scraping.to_three_digit(num)
+        if num == 1 or num % 5 == 0:
+            print(url)
+        
+        card_data, state = do_scraping.scrape_ptcg_kr(url)
+    
+        if state == "success":
+            data_json.append(card_data)
+            parsed_card_num += 1
+        elif state == "fail":
+            pass
+         
+    json_file_path = '../ptcg_kr_card_data/BS/2021/BS_2021_012_'+do_scraping.to_three_digit(parsed_card_num)+'.json'
+    with open(json_file_path,mode='w',encoding='utf-8') as file:
+        json.dump(data_json,file,ensure_ascii=False, indent=4)
+        
+#소드&실드 확장팩 「마천퍼펙트」창공스트림과 동일. 67까지는 BS2021011xxx를 따르다가 68~79에서 BS2021008xxx를 따름. 이건 팬텀vmax덱인데 다행히 충돌은 없음
+#https://pokemoncard.co.kr/cards/detail/BS2021011050
+def parse_MaCheon():
+    url_head = 'https://pokemoncard.co.kr/cards/detail/BS2021011'
+    nums = list(range(68))
+    
+    parsed_card_num = 0
+    data_json = []
+    for num in nums:
+        url = url_head+do_scraping.to_three_digit(num)
+        if num == 1 or num % 5 == 0:
+            print(url)
+        
+        card_data, state = do_scraping.scrape_ptcg_kr(url)
+    
+        if state == "success":
+            data_json.append(card_data)
+            parsed_card_num += 1
+        elif state == "fail":
+            pass
+        
+    url_head = 'https://pokemoncard.co.kr/cards/detail/BS2021008'
+    nums = list(range(68,80))
+    
+    for num in nums:
+        url = url_head+do_scraping.to_three_digit(num)
+        if num == 1 or num % 5 == 0:
+            print(url)
+        
+        card_data, state = do_scraping.scrape_ptcg_kr(url)
+    
+        if state == "success":
+            data_json.append(card_data)
+            parsed_card_num += 1
+        elif state == "fail":
+            pass
+         
+    json_file_path = '../ptcg_kr_card_data/BS/2021/BS_2021_011_'+do_scraping.to_three_digit(parsed_card_num)+'.json'
+    with open(json_file_path,mode='w',encoding='utf-8') as file:
+        json.dump(data_json,file,ensure_ascii=False, indent=4)
+
+#소드&실드 하이클래스팩 「VSTAR 유니버스」173에서 링크가 끊김. 250까지 있고, 에너지 8종도 있음. 258까지 볼것
+#https://pokemoncard.co.kr/cards/detail/BS2023001245
+def parse_VSTARUni():
+    url_head = 'https://pokemoncard.co.kr/cards/detail/BS2023001'
+    nums = list(range(260))
+    
+    parsed_card_num = 0
+    data_json = []
+    for num in nums:
+        url = url_head+do_scraping.to_three_digit(num)
+        if num == 1 or num % 5 == 0:
+            print(url)
+        
+        card_data, state = do_scraping.scrape_ptcg_kr(url)
+    
+        if state == "success":
+            data_json.append(card_data)
+            parsed_card_num += 1
+        elif state == "fail":
+            pass
+         
+    json_file_path = '../ptcg_kr_card_data/BS/2023/BS_2023_001_'+do_scraping.to_three_digit(parsed_card_num)+'.json'
+    with open(json_file_path,mode='w',encoding='utf-8') as file:
+        json.dump(data_json,file,ensure_ascii=False, indent=4)
+
+#소드&실드 확장팩 「25th ANNIVERSARY COLLECTION」25가 피카츄vunion.  38까지 있음
+#https://pokemoncard.co.kr/cards/detail/BS2021015020
+def parse_25th():
+    url_head = 'https://pokemoncard.co.kr/cards/detail/BS2021015'
+    nums = list(range(40))
+    
+    parsed_card_num = 0
+    data_json = []
+    for num in nums:
+        url = url_head+do_scraping.to_three_digit(num)
+        if num == 1 or num % 5 == 0:
+            print(url)
+        
+        card_data, state = do_scraping.scrape_ptcg_kr(url)
+    
+        if state == "success":
+            data_json.append(card_data)
+            parsed_card_num += 1
+        elif state == "fail":
+            pass
+         
+    json_file_path = '../ptcg_kr_card_data/BS/2021/BS_2021_015_'+do_scraping.to_three_digit(parsed_card_num)+'.json'
+    with open(json_file_path,mode='w',encoding='utf-8') as file:
+        json.dump(data_json,file,ensure_ascii=False, indent=4)
+
+#스칼렛&바이올렛 확장팩 「변환의 가면」	133까지 다시보기
+#https://pokemoncard.co.kr/cards/detail/BS2024008025
+def parse_Mask():
+    url_head = 'https://pokemoncard.co.kr/cards/detail/BS2024008'
+    nums = list(range(134))
+    
+    parsed_card_num = 0
+    data_json = []
+    for num in nums:
+        url = url_head+do_scraping.to_three_digit(num)
+        if num == 1 or num % 5 == 0:
+            print(url)
+        
+        card_data, state = do_scraping.scrape_ptcg_kr(url)
+    
+        if state == "success":
+            data_json.append(card_data)
+            parsed_card_num += 1
+        elif state == "fail":
+            pass
+         
+    json_file_path = '../ptcg_kr_card_data/BS/2024/BS_2024_008_'+do_scraping.to_three_digit(parsed_card_num)+'.json'
+    with open(json_file_path,mode='w',encoding='utf-8') as file:
+        json.dump(data_json,file,ensure_ascii=False, indent=4)
+
+#스칼렛&바이올렛 확장팩 「나이트 원더러」	64까지 BS2024011064
+def parse_Night():
+    url_head = 'https://pokemoncard.co.kr/cards/detail/BS2024011'
+    nums = list(range(65))
+    
+    parsed_card_num = 0
+    data_json = []
+    for num in nums:
+        url = url_head+do_scraping.to_three_digit(num)
+        if num == 1 or num % 5 == 0:
+            print(url)
+        
+        card_data, state = do_scraping.scrape_ptcg_kr(url)
+    
+        if state == "success":
+            data_json.append(card_data)
+            parsed_card_num += 1
+        elif state == "fail":
+            pass
+         
+    json_file_path = '../ptcg_kr_card_data/BS/2024/BS_2024_011_'+do_scraping.to_three_digit(parsed_card_num)+'.json'
+    with open(json_file_path,mode='w',encoding='utf-8') as file:
+        json.dump(data_json,file,ensure_ascii=False, indent=4)
 
 if __name__ == "__main__":
     #parse_bestxy()
@@ -319,4 +526,13 @@ if __name__ == "__main__":
     #parse_SM_promos()
     #parse_a_medal()
     #parse_ultra_force()
-    parse_alola()
+    #parse_alola()
+    
+    # ver 1.1을 위해
+    #parse_VMAXCLIMAX()
+    #parse_ChangGong()
+    #parse_MaCheon()
+    #parse_25th()
+    #parse_Mask()
+    #parse_Night()
+    parse_VSTARUni()

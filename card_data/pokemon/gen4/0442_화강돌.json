@@ -504,7 +504,7 @@
         ]
     },
     {
-        "id": "S5a-049",
+        "id": "S8b-107",
         "cardID": "화강악070망자000도깨020",
         "name": "화강돌",
         "supertype": "포켓몬",
@@ -559,6 +559,18 @@
                 "rarity": "U",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5a/S5a_049.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021003049",
+                "debug": "2"
+            },
+            {
+                "number": "107",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "Shibuzoh.",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_107.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001107",
                 "debug": "1"
             }
         ]
@@ -703,6 +715,18 @@
                 "rarity": "CHR",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10a/S10a_076.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022011125",
+                "debug": "2"
+            },
+            {
+                "number": "084",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "sui",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_084.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001084",
                 "debug": "2"
             },
             {

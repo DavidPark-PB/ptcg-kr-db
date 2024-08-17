@@ -277,7 +277,79 @@
                 "rarity": "U",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4/S4_052.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020014052",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S8b-081",
+        "cardID": "마휘초090추가레인010",
+        "name": "마휘핑",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "마휘핑",
+                "pokedexNumber": 869
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "레인보우 플레이버",
+                "cost": "(무색)(무색)",
+                "damage": "10+",
+                "text": "자신의 필드의 포켓몬에게 붙어 있는 기본 에너지의 타입의 수 × 40데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "추가오더",
+                "text": "이 포켓몬이 배틀필드에 있는 한, 자신의 「마스터」를 사용해도 자신의 차례는 끝나지 않는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "손에서 나오는 크림은 마휘핑이 행복할 때 단맛과 감칠맛이 깊어진다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "081",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "sowsow",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_081.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001081",
                 "debug": "3"
+            },
+            {
+                "number": "201",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "OKACHEKE",
+                "rarity": "CHR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_201.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001201",
+                "debug": "2"
             }
         ]
     }

@@ -640,7 +640,7 @@
         ]
     },
     {
-        "id": "SA_R-001",
+        "id": "SV2a-037",
         "cardID": "식스불070불꽃020",
         "name": "식스테일",
         "supertype": "포켓몬",
@@ -658,10 +658,10 @@
         "type": "(불꽃)",
         "attacks": [
             {
-                "name": "불꽃",
-                "cost": "(불꽃)",
+                "name": "불꽃으로 그을리기",
+                "cost": "(불꽃)(무색)",
                 "damage": "20",
-                "text": ""
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 화상으로 만든다."
             }
         ],
         "abilities": [],
@@ -674,9 +674,10 @@
             "value": "--"
         },
         "retreatCost": 1,
-        "flavorText": "어리지만 6개의 꼬리가 아름답다. 성장하면 한층 꼬리 수가 늘어난다.",
+        "flavorText": "6개의 꼬리는 자라면서 털의 결이 좋아지며 아름다워진다. 안으면 살짝 따듯하다.",
         "regulationMark": [
-            "D"
+            "D",
+            "G"
         ],
         "version_infos": [
             {
@@ -689,6 +690,18 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SA/SA_R_001.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020001025",
+                "debug": "2"
+            },
+            {
+                "number": "037",
+                "prodNumber": "165",
+                "prodCode": "SV2a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV2a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「포켓몬 카드 151」",
+                "artist": "kawayoo",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2a/SV2a_037.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023014037",
                 "debug": "1"
             }
         ]
@@ -1149,60 +1162,6 @@
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S11a/S11a_087.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022016087",
                 "debug": "2"
-            }
-        ]
-    },
-    {
-        "id": "SV2a-037",
-        "cardID": "식스불070불꽃으020",
-        "name": "식스테일",
-        "supertype": "포켓몬",
-        "subtypes": [
-            "기본"
-        ],
-        "rules": [],
-        "hp": 70,
-        "pokemons": [
-            {
-                "name": "식스테일",
-                "pokedexNumber": 37
-            }
-        ],
-        "type": "(불꽃)",
-        "attacks": [
-            {
-                "name": "불꽃으로 그을리기",
-                "cost": "(불꽃)(무색)",
-                "damage": "20",
-                "text": "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 화상으로 만든다."
-            }
-        ],
-        "abilities": [],
-        "weakness": {
-            "type": "(물)",
-            "value": "×2"
-        },
-        "resistance": {
-            "type": "",
-            "value": "--"
-        },
-        "retreatCost": 1,
-        "flavorText": "6개의 꼬리는 자라면서 털의 결이 좋아지며 아름다워진다. 안으면 살짝 따듯하다.",
-        "regulationMark": [
-            "G"
-        ],
-        "version_infos": [
-            {
-                "number": "037",
-                "prodNumber": "165",
-                "prodCode": "SV2a",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV2a.png",
-                "prodName": "스칼렛&바이올렛 강화 확장팩 「포켓몬 카드 151」",
-                "artist": "kawayoo",
-                "rarity": "C",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2a/SV2a_037.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023014037",
-                "debug": "1"
             }
         ]
     },

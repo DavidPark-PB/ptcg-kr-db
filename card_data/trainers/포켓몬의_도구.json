@@ -4838,42 +4838,7 @@
         ]
     },
     {
-        "id": "S1W-056",
-        "cardID": "리샘열매",
-        "name": "리샘열매",
-        "supertype": "트레이너스",
-        "subtypes": [
-            "포켓몬의 도구"
-        ],
-        "rules": [
-            "포켓몬의 도구는 자신의 포켓몬에게 붙여서 사용한다.",
-            "포켓몬 1마리에게 1장만 붙일 수 있고 붙인 채로 둔다.",
-            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
-        ],
-        "texts": [
-            "서로의 차례의 마지막에 이 카드를 붙이고 있는 포켓몬이 특수 상태라면 그 포켓몬의 특수 상태를 모두 회복한다.",
-            "그 뒤, 이 카드를 트래쉬한다."
-        ],
-        "regulationMark": [
-            "D"
-        ],
-        "version_infos": [
-            {
-                "number": "056",
-                "prodNumber": "060",
-                "prodCode": "S1W",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1W.png",
-                "prodName": "소드&실드 확장팩 「소드」",
-                "artist": "Yoshinobu Saito",
-                "rarity": "U",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1W/S1W_056.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020002056",
-                "debug": "3"
-            }
-        ]
-    },
-    {
-        "id": "S1W-058",
+        "id": "S8b-146",
         "cardID": "풍선",
         "name": "풍선",
         "supertype": "트레이너스",
@@ -4914,6 +4879,53 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_171.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016171",
+                "debug": "3"
+            },
+            {
+                "number": "146",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "Yoshinobu Saito",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_146.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001146",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "S1W-056",
+        "cardID": "리샘열매",
+        "name": "리샘열매",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "포켓몬의 도구"
+        ],
+        "rules": [
+            "포켓몬의 도구는 자신의 포켓몬에게 붙여서 사용한다.",
+            "포켓몬 1마리에게 1장만 붙일 수 있고 붙인 채로 둔다.",
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "서로의 차례의 마지막에 이 카드를 붙이고 있는 포켓몬이 특수 상태라면 그 포켓몬의 특수 상태를 모두 회복한다.",
+            "그 뒤, 이 카드를 트래쉬한다."
+        ],
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "056",
+                "prodNumber": "060",
+                "prodCode": "S1W",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1W.png",
+                "prodName": "소드&실드 확장팩 「소드」",
+                "artist": "Yoshinobu Saito",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1W/S1W_056.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020002056",
                 "debug": "3"
             }
         ]
@@ -5056,7 +5068,7 @@
         ]
     },
     {
-        "id": "S4a-170",
+        "id": "S8b-145",
         "cardID": "터프니스 망토",
         "name": "터프니스 망토",
         "supertype": "트레이너스",
@@ -5097,6 +5109,18 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_170.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016170",
+                "debug": "3"
+            },
+            {
+                "number": "145",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "inose yukie",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_145.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001145",
                 "debug": "3"
             }
         ]
@@ -5171,7 +5195,7 @@
         ]
     },
     {
-        "id": "S4-091",
+        "id": "S8b-143",
         "cardID": "망원스코프",
         "name": "망원스코프",
         "supertype": "트레이너스",
@@ -5201,11 +5225,23 @@
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4/S4_091.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020014091",
                 "debug": "3"
+            },
+            {
+                "number": "143",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "Toyste Beach",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_143.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001143",
+                "debug": "3"
             }
         ]
     },
     {
-        "id": "S4-092",
+        "id": "S8b-144",
         "cardID": "메모리캡슐",
         "name": "메모리캡슐",
         "supertype": "트레이너스",
@@ -5235,6 +5271,18 @@
                 "rarity": "U",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4/S4_092.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020014092",
+                "debug": "3"
+            },
+            {
+                "number": "144",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "sadaji",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_144.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001144",
                 "debug": "3"
             }
         ]
@@ -5947,76 +5995,6 @@
         ]
     },
     {
-        "id": "S7D-060",
-        "cardID": "구멍파기글러브",
-        "name": "구멍파기글러브",
-        "supertype": "트레이너스",
-        "subtypes": [
-            "포켓몬의 도구"
-        ],
-        "rules": [
-            "포켓몬의 도구는 자신의 포켓몬에게 붙여서 사용한다.",
-            "포켓몬 1마리에게 1장만 붙일 수 있고 붙인 채로 둔다.",
-            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
-        ],
-        "texts": [
-            "이 카드를 붙이고 있는 포켓몬이 사용하는 기술이 상대 배틀필드의 (격투) 포켓몬에게 주는 데미지는 「+30」이 된다."
-        ],
-        "regulationMark": [
-            "E"
-        ],
-        "version_infos": [
-            {
-                "number": "060",
-                "prodNumber": "067",
-                "prodCode": "S7D",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
-                "prodName": "소드&실드 확장팩 「마천퍼펙트」",
-                "artist": "Toyste Beach",
-                "rarity": "U",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_060.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011060",
-                "debug": "3"
-            }
-        ]
-    },
-    {
-        "id": "S7D-061",
-        "cardID": "일격의 두루마리 아룡의 권",
-        "name": "일격의 두루마리 아룡의 권",
-        "supertype": "트레이너스",
-        "subtypes": [
-            "포켓몬의 도구",
-            "일격"
-        ],
-        "rules": [
-            "포켓몬의 도구는 자신의 포켓몬에게 붙여서 사용한다.",
-            "포켓몬 1마리에게 1장만 붙일 수 있고 붙인 채로 둔다.",
-            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
-        ],
-        "texts": [
-            "이 카드를 붙이고 있는 「일격」의 포켓몬은 이 카드에 적혀 있는 기술을 사용할 수 있다.",
-            "(기술을 사용하기 위한 에너지는 필요하다.)"
-        ],
-        "regulationMark": [
-            "E"
-        ],
-        "version_infos": [
-            {
-                "number": "061",
-                "prodNumber": "067",
-                "prodCode": "S7D",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
-                "prodName": "소드&실드 확장팩 「마천퍼펙트」",
-                "artist": "5ban Graphics",
-                "rarity": "U",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_061.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011061",
-                "debug": "3"
-            }
-        ]
-    },
-    {
         "id": "S7R-060",
         "cardID": "고무글러브",
         "name": "고무글러브",
@@ -6087,6 +6065,76 @@
         ]
     },
     {
+        "id": "S7D-060",
+        "cardID": "구멍파기글러브",
+        "name": "구멍파기글러브",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "포켓몬의 도구"
+        ],
+        "rules": [
+            "포켓몬의 도구는 자신의 포켓몬에게 붙여서 사용한다.",
+            "포켓몬 1마리에게 1장만 붙일 수 있고 붙인 채로 둔다.",
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드를 붙이고 있는 포켓몬이 사용하는 기술이 상대 배틀필드의 (격투) 포켓몬에게 주는 데미지는 「+30」이 된다."
+        ],
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "060",
+                "prodNumber": "067",
+                "prodCode": "S7D",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+                "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+                "artist": "Toyste Beach",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_060.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011060",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "S7D-061",
+        "cardID": "일격의 두루마리 아룡의 권",
+        "name": "일격의 두루마리 아룡의 권",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "포켓몬의 도구",
+            "일격"
+        ],
+        "rules": [
+            "포켓몬의 도구는 자신의 포켓몬에게 붙여서 사용한다.",
+            "포켓몬 1마리에게 1장만 붙일 수 있고 붙인 채로 둔다.",
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드를 붙이고 있는 「일격」의 포켓몬은 이 카드에 적혀 있는 기술을 사용할 수 있다.",
+            "(기술을 사용하기 위한 에너지는 필요하다.)"
+        ],
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "061",
+                "prodNumber": "067",
+                "prodCode": "S7D",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+                "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+                "artist": "5ban Graphics",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_061.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011061",
+                "debug": "3"
+            }
+        ]
+    },
+    {
         "id": "S8-093",
         "cardID": "스펀지글러브",
         "name": "스펀지글러브",
@@ -6151,6 +6199,74 @@
                 "rarity": "U",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_094.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018094",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "S8b-142",
+        "cardID": "내치기글러브",
+        "name": "내치기글러브",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "포켓몬의 도구"
+        ],
+        "rules": [
+            "포켓몬의 도구는 자신의 포켓몬에게 붙여서 사용한다.",
+            "포켓몬 1마리에게 1장만 붙일 수 있고 붙인 채로 둔다.",
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드를 붙이고 있는 포켓몬이 사용하는 기술이 상대 배틀필드의 (초) 포켓몬에게 주는 데미지는 「+30」이 된다."
+        ],
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "142",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "Toyste Beach",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_142.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001142",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "S8b-147",
+        "cardID": "헌터글러브",
+        "name": "헌터글러브",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "포켓몬의 도구"
+        ],
+        "rules": [
+            "포켓몬의 도구는 자신의 포켓몬에게 붙여서 사용한다.",
+            "포켓몬 1마리에게 1장만 붙일 수 있고 붙인 채로 둔다.",
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드를 붙이고 있는 포켓몬이 사용하는 기술이 상대 배틀필드의 (페어리) 포켓몬에게 주는 데미지는 「+30」이 된다."
+        ],
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "147",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "Toyste Beach",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_147.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001147",
                 "debug": "3"
             }
         ]
@@ -6234,6 +6350,18 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SP/SPZ_012.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022012012",
+                "debug": "3"
+            },
+            {
+                "number": "145",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "Studio Bora Inc.",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_145.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001145",
                 "debug": "3"
             },
             {
@@ -6501,6 +6629,18 @@
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_146.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001146",
                 "debug": "3"
+            },
+            {
+                "number": "146",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "Studio Bora Inc.",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_146.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001146",
+                "debug": "3"
             }
         ]
     },
@@ -6697,6 +6837,18 @@
             "F"
         ],
         "version_infos": [
+            {
+                "number": "147",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "AYUMI ODASHIMA",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_147.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001147",
+                "debug": "3"
+            },
             {
                 "number": "147",
                 "prodNumber": "172",
@@ -7780,6 +7932,74 @@
                 "rarity": "U",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6/SV6_095.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024008095",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "SV6a-057",
+        "cardID": "사슬떡",
+        "name": "사슬떡",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "포켓몬의 도구"
+        ],
+        "rules": [
+            "포켓몬의 도구는 자신의 포켓몬에게 붙여서 사용한다.",
+            "포켓몬 1마리에게 1장만 붙일 수 있고 붙인 채로 둔다.",
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드를 붙이고 있는 독 포켓몬이 사용하는 기술이 상대의 배틀 포켓몬에게 주는 데미지는 「+40」이 된다."
+        ],
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "057",
+                "prodNumber": "064",
+                "prodCode": "SV6a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「나이트원더러」",
+                "artist": "5ban Graphics",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6a/SV6a_057.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024011057",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "SV6a-058",
+        "cardID": "힘의 모래시계",
+        "name": "힘의 모래시계",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "포켓몬의 도구"
+        ],
+        "rules": [
+            "포켓몬의 도구는 자신의 포켓몬에게 붙여서 사용한다.",
+            "포켓몬 1마리에게 1장만 붙일 수 있고 붙인 채로 둔다.",
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 차례의 마지막에 이 카드를 붙이고 있는 포켓몬이 배틀필드에 있다면 자신의 트래쉬에서 기본 에너지를 1장 선택해서 그 포켓몬에게 붙여도 좋다."
+        ],
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "058",
+                "prodNumber": "064",
+                "prodCode": "SV6a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「나이트원더러」",
+                "artist": "Studio Bora Inc.",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6a/SV6a_058.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024011058",
                 "debug": "3"
             }
         ]

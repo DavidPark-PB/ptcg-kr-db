@@ -354,7 +354,7 @@
         ]
     },
     {
-        "id": "SPZ-002",
+        "id": "S8b-051",
         "cardID": "메리번070울음000찌릿020",
         "name": "메리프",
         "supertype": "포켓몬",
@@ -421,7 +421,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_051.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001051",
-                "debug": "2"
+                "debug": "3"
             },
             {
                 "number": "002",
@@ -433,7 +433,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SP/SPZ_002.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022012002",
-                "debug": "3"
+                "debug": "2"
             }
         ]
     },
@@ -517,6 +517,30 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SO/SO_009.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022018009",
+                "debug": "2"
+            },
+            {
+                "number": "036",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "Yukiko Baba",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_036.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001036",
+                "debug": "2"
+            },
+            {
+                "number": "209",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "Kouki Saitou",
+                "rarity": "AR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_209.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001209",
                 "debug": "2"
             },
             {

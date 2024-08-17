@@ -460,13 +460,12 @@
         ]
     },
     {
-        "id": "SI-262",
+        "id": "S8b-103",
         "cardID": "헬가악130일격어둠050",
         "name": "헬가",
         "supertype": "포켓몬",
         "subtypes": [
-            "1진화",
-            "일격"
+            "1진화"
         ],
         "rules": [],
         "hp": 130,
@@ -531,6 +530,30 @@
                 "debug": "2"
             },
             {
+                "number": "103",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "Ryota Murayama",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_103.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001103",
+                "debug": "1"
+            },
+            {
+                "number": "206",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "NC Empire",
+                "rarity": "CHR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_206.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001206",
+                "debug": "2"
+            },
+            {
                 "number": "262",
                 "prodNumber": "414",
                 "prodCode": "SI",
@@ -540,7 +563,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_262.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003262",
-                "debug": "1"
+                "debug": "2"
             }
         ]
     },
@@ -723,6 +746,66 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_072.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016072",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV6a-008",
+        "cardID": "헬가불120물기050바크100",
+        "name": "헬가",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "헬가",
+                "pokedexNumber": 229
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "물기",
+                "cost": "(무색)(무색)",
+                "damage": "50",
+                "text": ""
+            },
+            {
+                "name": "바크아웃",
+                "cost": "(불꽃)(무색)(무색)",
+                "damage": "100",
+                "text": "상대의 다음 차례에 이 기술을 받은 포켓몬이 사용하는 기술의 데미지는 「-100」이 된다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "기분 나쁜 울음소리를 들은 포켓몬은 겁이 나서 그대로 곧장 자신의 둥지로 돌아간다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "008",
+                "prodNumber": "064",
+                "prodCode": "SV6a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「나이트원더러」",
+                "artist": "burari",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6a/SV6a_008.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024011008",
                 "debug": "1"
             }
         ]

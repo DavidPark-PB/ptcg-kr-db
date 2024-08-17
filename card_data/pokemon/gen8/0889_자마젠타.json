@@ -1,6 +1,6 @@
 [
     {
-        "id": "SJ-017",
+        "id": "S8b-118",
         "cardID": "자마강230불굴어솔130",
         "name": "자마젠타 V",
         "supertype": "포켓몬",
@@ -94,7 +94,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SJ/SJ_017.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021019017",
-                "debug": "1"
+                "debug": "2"
             },
             {
                 "number": "030",
@@ -106,6 +106,30 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SJ/SJ_030.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021019030",
+                "debug": "2"
+            },
+            {
+                "number": "118",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "aky CG Works",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_118.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001118",
+                "debug": "3"
+            },
+            {
+                "number": "251",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "Ryuta Fuse",
+                "rarity": "CSR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_251.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001251",
                 "debug": "2"
             }
         ]
@@ -424,7 +448,31 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SP6/SP6_005.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022015005",
-                "debug": "3"
+                "debug": "1"
+            },
+            {
+                "number": "103",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "PLANETA Mochizuki",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_103.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001103",
+                "debug": "2"
+            },
+            {
+                "number": "232",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "Haru Akasaka",
+                "rarity": "SAR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_232.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001232",
+                "debug": "2"
             },
             {
                 "number": "103",

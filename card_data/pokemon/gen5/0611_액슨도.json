@@ -418,5 +418,65 @@
                 "debug": "1"
             }
         ]
+    },
+    {
+        "id": "SV6a-045",
+        "cardID": "액슨드100긴장용의080",
+        "name": "액슨도",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "액슨도",
+                "pokedexNumber": 611
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "용의파동",
+                "cost": "(격투)(강철)",
+                "damage": "80",
+                "text": "자신의 덱을 위에서부터 1장 트래쉬한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "긴장감",
+                "text": "이 포켓몬은 상대가 패에서 아이템 또는 서포트를 꺼내서 사용했을 때 그 효과를 받지 않는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "굵은 어금니를 사용해 먹이를 깔끔하게 손질하여 먹을 것과 보관할 것을 나눈다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "045",
+                "prodNumber": "064",
+                "prodCode": "SV6a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「나이트원더러」",
+                "artist": "Uninori",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6a/SV6a_045.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024011045",
+                "debug": "1"
+            }
+        ]
     }
 ]

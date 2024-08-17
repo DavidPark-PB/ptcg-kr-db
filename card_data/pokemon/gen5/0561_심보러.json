@@ -394,7 +394,7 @@
         ]
     },
     {
-        "id": "S2-041",
+        "id": "S8b-070",
         "cardID": "심보초110반격사이030",
         "name": "심보러",
         "supertype": "포켓몬",
@@ -449,7 +449,7 @@
                 "rarity": "U",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S2/S2_041.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020005041",
-                "debug": "1"
+                "debug": "2"
             },
             {
                 "number": "074",
@@ -462,6 +462,18 @@
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_074.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016074",
                 "debug": "2"
+            },
+            {
+                "number": "070",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "Naoyo Kimura",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_070.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001070",
+                "debug": "1"
             }
         ]
     },

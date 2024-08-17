@@ -620,6 +620,18 @@
                 "debug": "2"
             },
             {
+                "number": "068",
+                "prodNumber": "067",
+                "prodCode": "S7R",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7R.png",
+                "prodName": "소드&실드 확장팩 「창공스트림」",
+                "artist": "MUGENUP",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7R_068.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021009068",
+                "debug": "2"
+            },
+            {
                 "number": "028",
                 "prodNumber": "414",
                 "prodCode": "SI",

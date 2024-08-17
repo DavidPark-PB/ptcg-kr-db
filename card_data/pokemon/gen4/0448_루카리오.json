@@ -1311,6 +1311,18 @@
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_077.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001077",
                 "debug": "2"
+            },
+            {
+                "number": "077",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "NC Empire",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_077.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001077",
+                "debug": "2"
             }
         ]
     },
@@ -1461,6 +1473,70 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S-P/S-P_186.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SP000000186",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S12a-226",
+        "cardID": "루카격270파이120VS070",
+        "name": "루카리오 VSTAR",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VSTAR"
+        ],
+        "rules": [
+            "포켓몬 VSTAR가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 270,
+        "pokemons": [
+            {
+                "name": "루카리오",
+                "pokedexNumber": 448
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "파이팅너클",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "120+",
+                "text": "상대의 배틀 포켓몬이 「포켓몬 V」라면 120데미지를 추가한다."
+            },
+            {
+                "name": "VSTAR 파워",
+                "cost": "(격투)(무색)",
+                "damage": "70×",
+                "text": "상대 필드의 포켓몬에게 붙어 있는 에너지의 개수 × 70데미지를 준다. (대전 중 자신은 [VSTAR] 파워를 1번만 사용할 수 있다.)",
+                "special": "VSTAR"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "226",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "hncl",
+                "rarity": "SAR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_226.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001226",
                 "debug": "1"
             }
         ]

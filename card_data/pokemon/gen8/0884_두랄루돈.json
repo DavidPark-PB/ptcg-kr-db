@@ -281,6 +281,42 @@
                 "debug": "2"
             },
             {
+                "number": "075",
+                "prodNumber": "067",
+                "prodCode": "S7D",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+                "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+                "artist": "PLANETA Mochizuki",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_075.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021008075",
+                "debug": "2"
+            },
+            {
+                "number": "076",
+                "prodNumber": "067",
+                "prodCode": "S7D",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+                "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+                "artist": "Naoki Saito",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_076.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021008076",
+                "debug": "2"
+            },
+            {
+                "number": "122",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "PLANETA Mochizuki",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_122.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001122",
+                "debug": "2"
+            },
+            {
                 "number": "325",
                 "prodNumber": "414",
                 "prodCode": "SI",
@@ -307,14 +343,13 @@
         ]
     },
     {
-        "id": "SI-326",
+        "id": "S8b-123",
         "cardID": "두랄드330마천거다220",
         "name": "두랄루돈 VMAX",
         "supertype": "포켓몬",
         "subtypes": [
             "V진화",
-            "VMAX",
-            "일격"
+            "VMAX"
         ],
         "rules": [
             "포켓몬 VMAX가 기절한 경우 상대는 프라이즈를 3장 가져간다."
@@ -369,6 +404,30 @@
                 "debug": "2"
             },
             {
+                "number": "123",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "PLANETA Mochizuki",
+                "rarity": "RRR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_123.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001123",
+                "debug": "1"
+            },
+            {
+                "number": "253",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "AKIRA EGAWA",
+                "rarity": "CSR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_253.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001253",
+                "debug": "2"
+            },
+            {
                 "number": "326",
                 "prodNumber": "414",
                 "prodCode": "SI",
@@ -378,7 +437,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_326.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003326",
-                "debug": "1"
+                "debug": "2"
             }
         ]
     }

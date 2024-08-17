@@ -138,13 +138,12 @@
         ]
     },
     {
-        "id": "SI-116",
+        "id": "S8b-036",
         "cardID": "울머물060계속000더블020",
         "name": "울머기",
         "supertype": "포켓몬",
         "subtypes": [
-            "기본",
-            "연격"
+            "기본"
         ],
         "rules": [],
         "hp": 60,
@@ -206,7 +205,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_036.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001036",
-                "debug": "2"
+                "debug": "3"
             },
             {
                 "number": "116",
@@ -218,7 +217,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_116.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003116",
-                "debug": "3"
+                "debug": "2"
             }
         ]
     }

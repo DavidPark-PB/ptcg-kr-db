@@ -216,8 +216,8 @@
         ]
     },
     {
-        "id": "sm3n-008",
-        "cardID": "잉어물030튀어올010",
+        "id": "SV1a-022",
+        "cardID": "잉어물030튀어010",
         "name": "잉어킹",
         "supertype": "포켓몬",
         "subtypes": [
@@ -234,10 +234,10 @@
         "type": "(물)",
         "attacks": [
             {
-                "name": "튀어올라 피하기",
+                "name": "튀어오르기 고수",
                 "cost": "(물)",
-                "damage": "10",
-                "text": "동전을 1번 던져서 앞면이 나오면 상대의 다음 차례에 이 포켓몬은 기술의 데미지나 효과를 받지 않는다."
+                "damage": "10+",
+                "text": "동전을 2번 던져서 모두 앞면이 나오면 20데미지를 추가한다."
             }
         ],
         "abilities": [],
@@ -250,9 +250,11 @@
             "value": "--"
         },
         "retreatCost": 1,
-        "flavorText": "힘은 약하고 믿음직스럽지 못하지만 번식력만은 엄청나다. 질릴 정도로 눈에 띈다.",
+        "flavorText": "힘없는 한심한 포켓몬이다. 가끔 높이 뛰어오르지만 2m를 겨우 넘기는 게 고작이다.",
         "regulationMark": [
-            "A"
+            "A",
+            "C",
+            "G"
         ],
         "version_infos": [
             {
@@ -265,7 +267,43 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM3N/SM3N_008.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017009008",
+                "debug": "2"
+            },
+            {
+                "number": "014",
+                "prodNumber": "051",
+                "prodCode": "smL",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smL.png",
+                "prodName": "패밀리 포켓몬 카드 게임 「뮤츠 GX 덱」",
+                "artist": "Shigenori Negishi",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SML_/SML_014.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019006048",
+                "debug": "2"
+            },
+            {
+                "number": "022",
+                "prodNumber": "073",
+                "prodCode": "SV1a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV1a.png",
+                "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 강화 확장팩 「트리플렛비트」",
+                "artist": "HYOGONOSUKE",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV1a/SV1a_022.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023010022",
                 "debug": "1"
+            },
+            {
+                "number": "080",
+                "prodNumber": "073",
+                "prodCode": "SV1a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV1a.png",
+                "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 강화 확장팩 「트리플렛비트」",
+                "artist": "Shinji Kanda",
+                "rarity": "AR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV1a/SV1a_080.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023010080",
+                "debug": "2"
             }
         ]
     },
@@ -620,60 +658,6 @@
         ]
     },
     {
-        "id": "smL-014",
-        "cardID": "잉어물030튀어오010",
-        "name": "잉어킹",
-        "supertype": "포켓몬",
-        "subtypes": [
-            "기본"
-        ],
-        "rules": [],
-        "hp": 30,
-        "pokemons": [
-            {
-                "name": "잉어킹",
-                "pokedexNumber": 129
-            }
-        ],
-        "type": "(물)",
-        "attacks": [
-            {
-                "name": "튀어오르기",
-                "cost": "(무색)",
-                "damage": "10",
-                "text": ""
-            }
-        ],
-        "abilities": [],
-        "weakness": {
-            "type": "(번개)",
-            "value": "×2"
-        },
-        "resistance": {
-            "type": "",
-            "value": "--"
-        },
-        "retreatCost": 1,
-        "flavorText": "먼 옛날에는 그럭저럭 강한 편이었으나 시간이 흐르면서 점점 약해졌다.",
-        "regulationMark": [
-            "C"
-        ],
-        "version_infos": [
-            {
-                "number": "014",
-                "prodNumber": "051",
-                "prodCode": "smL",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smL.png",
-                "prodName": "패밀리 포켓몬 카드 게임 「뮤츠 GX 덱」",
-                "artist": "Shigenori Negishi",
-                "rarity": "N",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SML_/SML_014.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019006048",
-                "debug": "1"
-            }
-        ]
-    },
-    {
         "id": "S1a-020",
         "cardID": "잉어물030튀튀000",
         "name": "잉어킹",
@@ -788,128 +772,8 @@
         ]
     },
     {
-        "id": "SV1S-013",
-        "cardID": "잉어물030튀어날000",
-        "name": "잉어킹",
-        "supertype": "포켓몬",
-        "subtypes": [
-            "기본"
-        ],
-        "rules": [],
-        "hp": 30,
-        "pokemons": [
-            {
-                "name": "잉어킹",
-                "pokedexNumber": 129
-            }
-        ],
-        "type": "(물)",
-        "attacks": [
-            {
-                "name": "튀어날기",
-                "cost": "(물)",
-                "damage": "",
-                "text": "동전을 1번 던져서 앞면이 나오면 상대의 포켓몬 1마리에게 10데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
-            }
-        ],
-        "abilities": [],
-        "weakness": {
-            "type": "(번개)",
-            "value": "×2"
-        },
-        "resistance": {
-            "type": "",
-            "value": "--"
-        },
-        "retreatCost": 1,
-        "flavorText": "힘없는 한심한 포켓몬이다. 가끔 높이 뛰어오르지만 2m를 겨우 넘기는 게 고작이다.",
-        "regulationMark": [
-            "G"
-        ],
-        "version_infos": [
-            {
-                "number": "013",
-                "prodNumber": "078",
-                "prodCode": "SV1S",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV1S.png",
-                "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 확장팩 「스칼렛 ex」",
-                "artist": "KIYOTAKA OSHIYAMA",
-                "rarity": "C",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV1S/SV1S_013.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023006013",
-                "debug": "1"
-            }
-        ]
-    },
-    {
-        "id": "SV1a-022",
-        "cardID": "잉어물030튀어고010",
-        "name": "잉어킹",
-        "supertype": "포켓몬",
-        "subtypes": [
-            "기본"
-        ],
-        "rules": [],
-        "hp": 30,
-        "pokemons": [
-            {
-                "name": "잉어킹",
-                "pokedexNumber": 129
-            }
-        ],
-        "type": "(물)",
-        "attacks": [
-            {
-                "name": "튀어오르기 고수",
-                "cost": "(물)",
-                "damage": "10+",
-                "text": "동전을 2번 던져서 모두 앞면이 나오면 20데미지를 추가한다."
-            }
-        ],
-        "abilities": [],
-        "weakness": {
-            "type": "(번개)",
-            "value": "×2"
-        },
-        "resistance": {
-            "type": "",
-            "value": "--"
-        },
-        "retreatCost": 1,
-        "flavorText": "힘없는 한심한 포켓몬이다. 가끔 높이 뛰어오르지만 2m를 겨우 넘기는 게 고작이다.",
-        "regulationMark": [
-            "G"
-        ],
-        "version_infos": [
-            {
-                "number": "022",
-                "prodNumber": "073",
-                "prodCode": "SV1a",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV1a.png",
-                "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 강화 확장팩 「트리플렛비트」",
-                "artist": "HYOGONOSUKE",
-                "rarity": "C",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV1a/SV1a_022.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023010022",
-                "debug": "1"
-            },
-            {
-                "number": "080",
-                "prodNumber": "073",
-                "prodCode": "SV1a",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV1a.png",
-                "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 강화 확장팩 「트리플렛비트」",
-                "artist": "Shinji Kanda",
-                "rarity": "AR",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV1a/SV1a_080.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023010080",
-                "debug": "2"
-            }
-        ]
-    },
-    {
         "id": "SV2a-129",
-        "cardID": "잉어물030튀어튀000",
+        "cardID": "잉어물030튀어000",
         "name": "잉어킹",
         "supertype": "포켓몬",
         "subtypes": [
@@ -947,6 +811,18 @@
             "G"
         ],
         "version_infos": [
+            {
+                "number": "013",
+                "prodNumber": "078",
+                "prodCode": "SV1S",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV1S.png",
+                "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 확장팩 「스칼렛 ex」",
+                "artist": "KIYOTAKA OSHIYAMA",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV1S/SV1S_013.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023006013",
+                "debug": "2"
+            },
             {
                 "number": "129",
                 "prodNumber": "165",

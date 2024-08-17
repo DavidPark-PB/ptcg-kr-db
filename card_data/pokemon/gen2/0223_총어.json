@@ -252,13 +252,12 @@
         ]
     },
     {
-        "id": "SI-089",
+        "id": "S8b-030",
         "cardID": "총어물060물대010날카020",
         "name": "총어",
         "supertype": "포켓몬",
         "subtypes": [
-            "기본",
-            "연격"
+            "기본"
         ],
         "rules": [],
         "hp": 60,
@@ -332,7 +331,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_030.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001030",
-                "debug": "2"
+                "debug": "1"
             },
             {
                 "number": "089",
@@ -344,7 +343,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_089.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003089",
-                "debug": "1"
+                "debug": "2"
             }
         ]
     },

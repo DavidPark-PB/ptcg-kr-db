@@ -264,7 +264,7 @@
         ]
     },
     {
-        "id": "SI-334",
+        "id": "S8b-127",
         "cardID": "해피무250자연해피010",
         "name": "해피너스 V",
         "supertype": "포켓몬",
@@ -349,6 +349,30 @@
                 "debug": "2"
             },
             {
+                "number": "127",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "Saki Hayashiro",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_127.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001127",
+                "debug": "1"
+            },
+            {
+                "number": "254",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "You Iribi",
+                "rarity": "CSR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_254.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001254",
+                "debug": "2"
+            },
+            {
                 "number": "334",
                 "prodNumber": "414",
                 "prodCode": "SI",
@@ -358,7 +382,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_334.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003334",
-                "debug": "1"
+                "debug": "2"
             }
         ]
     },
@@ -614,6 +638,18 @@
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6/SV6_085.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024008085",
                 "debug": "1"
+            },
+            {
+                "number": "121",
+                "prodNumber": "101",
+                "prodCode": "SV6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「변환의 가면」",
+                "artist": "PLANETA Tsuji",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6/SV6_121.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024008121",
+                "debug": "2"
             }
         ]
     },

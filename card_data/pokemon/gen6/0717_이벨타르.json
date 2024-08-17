@@ -878,5 +878,65 @@
                 "debug": "2"
             }
         ]
+    },
+    {
+        "id": "SV6a-035",
+        "cardID": "이벨악120침식000파괴100",
+        "name": "이벨타르",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "이벨타르",
+                "pokedexNumber": 717
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "침식하는바람",
+                "cost": "(악)",
+                "damage": "",
+                "text": "데미지 카운터가 올려져 있는 상대의 포켓몬 전원에게 각각 데미지 카운터를 2개 올린다."
+            },
+            {
+                "name": "파괴빔",
+                "cost": "(악)(악)(무색)",
+                "damage": "100",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "날개와 꼬리를 펼치고 빨갛게 빛날 때 살아 있는 생명을 빨아들이는 전설의 포켓몬.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "035",
+                "prodNumber": "064",
+                "prodCode": "SV6a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「나이트원더러」",
+                "artist": "SIE NANAHARA",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6a/SV6a_035.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024011035",
+                "debug": "1"
+            }
+        ]
     }
 ]

@@ -632,6 +632,18 @@
                 "debug": "2"
             },
             {
+                "number": "108",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "Souichirou Gunjima",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_108.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001108",
+                "debug": "2"
+            },
+            {
                 "number": "053",
                 "prodNumber": "S-P",
                 "prodCode": "S-P",
@@ -646,7 +658,7 @@
         ]
     },
     {
-        "id": "S8-066",
+        "id": "S12a-231",
         "cardID": "후파악220더블섀도170",
         "name": "후파 V",
         "supertype": "포켓몬",
@@ -705,7 +717,7 @@
                 "rarity": "RR",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_066.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018066",
-                "debug": "1"
+                "debug": "2"
             },
             {
                 "number": "107",
@@ -718,6 +730,18 @@
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_107.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018107",
                 "debug": "2"
+            },
+            {
+                "number": "231",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "OKACHEKE",
+                "rarity": "SAR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_231.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001231",
+                "debug": "1"
             }
         ]
     },

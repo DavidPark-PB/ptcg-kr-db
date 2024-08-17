@@ -351,8 +351,8 @@
         ]
     },
     {
-        "id": "cp6-035",
-        "cardID": "피카번060갉기010전격03020",
+        "id": "S8a-001",
+        "cardID": "피카번060갉기010전격030",
         "name": "피카츄",
         "supertype": "포켓몬",
         "subtypes": [
@@ -378,7 +378,7 @@
                 "name": "전격",
                 "cost": "(번개)(무색)",
                 "damage": "30",
-                "text": "동전을 한 번 던져서 뒷면이 나오면 이 포켓몬에게도 10데미지를 준다."
+                "text": "동전을 1번 던져서 뒷면이 나오면 이 포켓몬에게도 10데미지를 준다."
             }
         ],
         "abilities": [],
@@ -387,13 +387,14 @@
             "value": "×2"
         },
         "resistance": {
-            "type": "(강철)",
-            "value": "-20"
+            "type": "",
+            "value": "--"
         },
         "retreatCost": 1,
         "flavorText": "뺨의 양쪽에 작은 전기 주머니가 있다. 위기 상황일 때 방전한다.",
         "regulationMark": [
-            "XY"
+            "XY",
+            "E"
         ],
         "version_infos": [
             {
@@ -406,6 +407,18 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP6/CP6_035.jpg?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016009035",
+                "debug": "2"
+            },
+            {
+                "number": "001",
+                "prodNumber": "028",
+                "prodCode": "S8a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8a.png",
+                "prodName": "소드&실드 확장팩 「25th ANNIVERSARY COLLECTION」",
+                "artist": "Mitsuhiro Arita",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8a/S8a_001.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021015001",
                 "debug": "1"
             }
         ]
@@ -1439,6 +1452,18 @@
                 "debug": "2"
             },
             {
+                "number": "222",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "Ryota Murayama",
+                "rarity": "CSR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_222.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001222",
+                "debug": "2"
+            },
+            {
                 "number": "073",
                 "prodNumber": "S-P",
                 "prodCode": "S-P",
@@ -1529,6 +1554,18 @@
                 "rarity": "RRR",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_046.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001046",
+                "debug": "2"
+            },
+            {
+                "number": "223",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "Souichirou Gunjima",
+                "rarity": "CSR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_223.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001223",
                 "debug": "2"
             },
             {
@@ -1687,66 +1724,6 @@
         ]
     },
     {
-        "id": "S8a-001",
-        "cardID": "피카번060갉기010전격03025",
-        "name": "피카츄",
-        "supertype": "포켓몬",
-        "subtypes": [
-            "기본"
-        ],
-        "rules": [],
-        "hp": 60,
-        "pokemons": [
-            {
-                "name": "피카츄",
-                "pokedexNumber": 25
-            }
-        ],
-        "type": "(번개)",
-        "attacks": [
-            {
-                "name": "갉기",
-                "cost": "(무색)",
-                "damage": "10",
-                "text": ""
-            },
-            {
-                "name": "전격",
-                "cost": "(번개)(무색)",
-                "damage": "30",
-                "text": "동전을 1번 던져서 뒷면이 나오면 이 포켓몬에게도 10데미지를 준다."
-            }
-        ],
-        "abilities": [],
-        "weakness": {
-            "type": "(격투)",
-            "value": "×2"
-        },
-        "resistance": {
-            "type": "",
-            "value": "--"
-        },
-        "retreatCost": 1,
-        "flavorText": "뺨의 양쪽에 작은 전기 주머니가 있다. 위기 상황일 때 방전한다.",
-        "regulationMark": [
-            "E"
-        ],
-        "version_infos": [
-            {
-                "number": "001",
-                "prodNumber": "028",
-                "prodCode": "S8a",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8a.png",
-                "prodName": "소드&실드 확장팩 「25th ANNIVERSARY COLLECTION」",
-                "artist": "Mitsuhiro Arita",
-                "rarity": "N",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8a/S8a_001.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021015001",
-                "debug": "1"
-            }
-        ]
-    },
-    {
         "id": "S8a-021",
         "cardID": "피카번190전기020공중120",
         "name": "공중날기 피카츄 V",
@@ -1811,7 +1788,7 @@
     },
     {
         "id": "S8a-022",
-        "cardID": "피카번310다이벌160",
+        "cardID": "피카번310다이160",
         "name": "공중날기 피카츄 VMAX",
         "supertype": "포켓몬",
         "subtypes": [
@@ -1863,6 +1840,18 @@
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8a/S8a_022.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021015022",
                 "debug": "1"
+            },
+            {
+                "number": "024",
+                "prodNumber": "028",
+                "prodCode": "S8a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8a.png",
+                "prodName": "소드&실드 확장팩 「25th ANNIVERSARY COLLECTION」",
+                "artist": "aky CG Works",
+                "rarity": "RRR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8a/S8a_024.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021015024",
+                "debug": "2"
             }
         ]
     },
@@ -1919,63 +1908,6 @@
                 "rarity": "RR",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8a/S8a_023.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021015023",
-                "debug": "1"
-            }
-        ]
-    },
-    {
-        "id": "S8a-024",
-        "cardID": "피카번310다이서160",
-        "name": "파도타기 피카츄 VMAX",
-        "supertype": "포켓몬",
-        "subtypes": [
-            "V진화",
-            "VMAX"
-        ],
-        "rules": [
-            "포켓몬 VMAX가 기절한 경우 상대는 프라이즈를 3장 가져간다."
-        ],
-        "hp": 310,
-        "pokemons": [
-            {
-                "name": "피카츄",
-                "pokedexNumber": 25
-            }
-        ],
-        "type": "(번개)",
-        "attacks": [
-            {
-                "name": "다이서핑",
-                "cost": "(물)(물)(물)",
-                "damage": "160",
-                "text": "상대의 벤치 포켓몬 전원에게도 각각 30데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
-            }
-        ],
-        "abilities": [],
-        "weakness": {
-            "type": "(격투)",
-            "value": "×2"
-        },
-        "resistance": {
-            "type": "",
-            "value": "--"
-        },
-        "retreatCost": 1,
-        "flavorText": "",
-        "regulationMark": [
-            "E"
-        ],
-        "version_infos": [
-            {
-                "number": "024",
-                "prodNumber": "028",
-                "prodCode": "S8a",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8a.png",
-                "prodName": "소드&실드 확장팩 「25th ANNIVERSARY COLLECTION」",
-                "artist": "aky CG Works",
-                "rarity": "RRR",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8a/S8a_024.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021015024",
                 "debug": "1"
             }
         ]
@@ -2052,6 +1984,18 @@
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8a/S8a_025.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021015025",
                 "debug": "1"
+            },
+            {
+                "number": "025",
+                "prodNumber": "028",
+                "prodCode": "S8a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8a.png",
+                "prodName": "소드&실드 확장팩 「25th ANNIVERSARY COLLECTION」",
+                "artist": "5ban Graphics 외 24인",
+                "rarity": "RRR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8a/S8a_025.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021015025",
+                "debug": "2"
             }
         ]
     },
@@ -2492,6 +2436,18 @@
                 "rarity": "CHR",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10a/S10a_073.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022011122",
+                "debug": "2"
+            },
+            {
+                "number": "205",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "Kouki Saitou",
+                "rarity": "AR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_205.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001205",
                 "debug": "2"
             }
         ]

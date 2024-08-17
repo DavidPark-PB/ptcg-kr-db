@@ -360,7 +360,7 @@
         ]
     },
     {
-        "id": "SI-082",
+        "id": "S8b-024",
         "cardID": "쏘드물060연막010",
         "name": "쏘드라",
         "supertype": "포켓몬",
@@ -421,7 +421,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_024.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001024",
-                "debug": "2"
+                "debug": "1"
             },
             {
                 "number": "082",
@@ -433,7 +433,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_082.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003082",
-                "debug": "1"
+                "debug": "2"
             }
         ]
     },
@@ -613,6 +613,66 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV-P/SV-P_057.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SVP000000057",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV6a-010",
+        "cardID": "쏘드물060가만000지느020",
+        "name": "쏘드라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "쏘드라",
+                "pokedexNumber": 116
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "가만히있기",
+                "cost": "(물)",
+                "damage": "",
+                "text": "이 포켓몬의 HP를 「30」회복한다."
+            },
+            {
+                "name": "지느러미 커터",
+                "cost": "(무색)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "잔잔하게 흐르는 고요한 바다에 산다. 습격당하면 새까만 먹물을 내뿜고 그 틈에 도망친다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "010",
+                "prodNumber": "064",
+                "prodCode": "SV6a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「나이트원더러」",
+                "artist": "Shimaris Yukichi",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6a/SV6a_010.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024011010",
                 "debug": "1"
             }
         ]

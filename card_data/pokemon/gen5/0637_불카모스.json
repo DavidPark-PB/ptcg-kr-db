@@ -690,6 +690,18 @@
                 "debug": "2"
             },
             {
+                "number": "069",
+                "prodNumber": "067",
+                "prodCode": "S7R",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7R.png",
+                "prodName": "소드&실드 확장팩 「창공스트림」",
+                "artist": "Eske Yoshinob",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7R_069.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021009069",
+                "debug": "2"
+            },
+            {
                 "number": "065",
                 "prodNumber": "414",
                 "prodCode": "SI",

@@ -569,6 +569,30 @@
                 "debug": "2"
             },
             {
+                "number": "073",
+                "prodNumber": "067",
+                "prodCode": "S7D",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+                "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+                "artist": "Ayaka Yoshida",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_073.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021008073",
+                "debug": "2"
+            },
+            {
+                "number": "074",
+                "prodNumber": "067",
+                "prodCode": "S7D",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+                "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+                "artist": "Mitsuhiro Arita",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_074.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021008074",
+                "debug": "2"
+            },
+            {
                 "number": "321",
                 "prodNumber": "414",
                 "prodCode": "SI",

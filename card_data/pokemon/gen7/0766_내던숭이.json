@@ -360,7 +360,7 @@
         ]
     },
     {
-        "id": "S5a-043",
+        "id": "S8b-088",
         "cardID": "내던격110스로내던000",
         "name": "내던숭이",
         "supertype": "포켓몬",
@@ -387,7 +387,7 @@
         "abilities": [
             {
                 "name": "스로잉코치",
-                "text": "이 포켓몬이 있는 한, 자신의 「연격」의 포켓몬이 사용하는 기술이 상대 벤치의 「포켓몬 V ・ GX」에게 주는 데미지는 「+30」이 된다. 이 효과는 이 특성을 가진 포켓몬이 몇 마리 있더라도 중복되지 않는다.",
+                "text": "이 포켓몬이 있는 한, 자신의 「연격」의 포켓몬이 사용하는 기술이 상대 벤치의 「포켓몬 V・GX」에게 주는 데미지는 「+30」이 된다. 이 효과는 이 특성을 가진 포켓몬이 몇 마리 있더라도 중복되지 않는다.",
                 "type": "특성"
             }
         ],
@@ -415,7 +415,31 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5a/S5a_043.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021003043",
-                "debug": "1"
+                "debug": "2"
+            },
+            {
+                "number": "088",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "Teeziro",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_088.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001088",
+                "debug": "3"
+            },
+            {
+                "number": "203",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "nagimiso",
+                "rarity": "CHR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_203.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001203",
+                "debug": "2"
             }
         ]
     },
@@ -469,7 +493,7 @@
                 "rarity": "U",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2D/SV2D_044.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023012044",
-                "debug": "3"
+                "debug": "1"
             }
         ]
     }

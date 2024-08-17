@@ -639,7 +639,7 @@
         ]
     },
     {
-        "id": "S6K-033",
+        "id": "S8b-072",
         "cardID": "칼라초120연격040",
         "name": "칼라마네로",
         "supertype": "포켓몬",
@@ -688,7 +688,31 @@
                 "rarity": "U",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S6/S6K_033.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021005033",
+                "debug": "2"
+            },
+            {
+                "number": "072",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "Kagemaru Himeno",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_072.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001072",
                 "debug": "1"
+            },
+            {
+                "number": "199",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "Fumie Kittaka",
+                "rarity": "CHR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_199.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001199",
+                "debug": "2"
             }
         ]
     },
@@ -808,6 +832,66 @@
                 "rarity": "U",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV3/SV3_076.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023015076",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV6a-034",
+        "cardID": "칼라악120결탁000회전090",
+        "name": "칼라마네로",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "칼라마네로",
+                "pokedexNumber": 687
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "결탁텐타클",
+                "cost": "(악)",
+                "damage": "",
+                "text": "상대의 벤치 포켓몬을 1마리 선택해서 배틀 포켓몬과 교체한다. 그 뒤, 새로 나온 포켓몬에게 120데미지를 준다. 이 차례에 패에서 「크세로시키의 속셈」을 꺼내서 사용하지 않았다면 이 기술은 실패한다."
+            },
+            {
+                "name": "회전어택",
+                "cost": "(악)(무색)(무색)",
+                "damage": "90",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "발광체의 빛을 보면 순식간에 최면 상태가 되어 칼라마네로에게 조종당한다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "034",
+                "prodNumber": "064",
+                "prodCode": "SV6a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「나이트원더러」",
+                "artist": "akagi",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6a/SV6a_034.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024011034",
                 "debug": "1"
             }
         ]

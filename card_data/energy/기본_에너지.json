@@ -10,7 +10,8 @@
         "rules": [],
         "texts": [],
         "regulationMark": [
-            "BE"
+            "BE",
+            ""
         ],
         "version_infos": [
             {
@@ -216,6 +217,16 @@
             {
                 "number": "000",
                 "prodNumber": "GRA",
+                "prodCode": "S8a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8a.png",
+                "prodName": "소드&실드 확장팩 「25th ANNIVERSARY COLLECTION」",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8a/S8a_031.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021015031"
+            },
+            {
+                "number": "000",
+                "prodNumber": "GRA",
                 "prodCode": "SH",
                 "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SH.png",
                 "prodName": "소드&실드 「패밀리 포켓몬 카드 게임」",
@@ -226,12 +237,32 @@
             {
                 "number": "000",
                 "prodNumber": "GRA",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_278.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001278"
+            },
+            {
+                "number": "000",
+                "prodNumber": "000",
                 "prodCode": "S10b",
                 "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10b.png",
                 "prodName": "소드&실드 강화 확장팩 「Pokémon GO」",
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10b/S10b_094.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022010094"
+            },
+            {
+                "number": "251",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_251.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001251"
             },
             {
                 "number": "000",
@@ -252,6 +283,16 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVB/SVB_029.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023009029"
+            },
+            {
+                "number": "099",
+                "prodNumber": "071",
+                "prodCode": "SV2D",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV2D.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「클레이버스트」",
+                "rarity": "UR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2D/SV2D_099.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023012099"
             },
             {
                 "number": "000",
@@ -386,7 +427,8 @@
         "rules": [],
         "texts": [],
         "regulationMark": [
-            "BE"
+            "BE",
+            ""
         ],
         "version_infos": [
             {
@@ -642,6 +684,16 @@
             {
                 "number": "000",
                 "prodNumber": "FIR",
+                "prodCode": "S8a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8a.png",
+                "prodName": "소드&실드 확장팩 「25th ANNIVERSARY COLLECTION」",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8a/S8a_032.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021015032"
+            },
+            {
+                "number": "000",
+                "prodNumber": "FIR",
                 "prodCode": "SH",
                 "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SH.png",
                 "prodName": "소드&실드 「패밀리 포켓몬 카드 게임」",
@@ -652,6 +704,16 @@
             {
                 "number": "000",
                 "prodNumber": "FIR",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_279.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001279"
+            },
+            {
+                "number": "000",
+                "prodNumber": "000",
                 "prodCode": "S10b",
                 "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10b.png",
                 "prodName": "소드&실드 강화 확장팩 「Pokémon GO」",
@@ -668,6 +730,16 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SO/SO_031.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022018031"
+            },
+            {
+                "number": "252",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_252.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001252"
             },
             {
                 "number": "000",
@@ -822,7 +894,8 @@
         "rules": [],
         "texts": [],
         "regulationMark": [
-            "BE"
+            "BE",
+            ""
         ],
         "version_infos": [
             {
@@ -1088,6 +1161,16 @@
             {
                 "number": "000",
                 "prodNumber": "WAT",
+                "prodCode": "S8a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8a.png",
+                "prodName": "소드&실드 확장팩 「25th ANNIVERSARY COLLECTION」",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8a/S8a_033.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021015033"
+            },
+            {
+                "number": "000",
+                "prodNumber": "WAT",
                 "prodCode": "SH",
                 "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SH.png",
                 "prodName": "소드&실드 「패밀리 포켓몬 카드 게임」",
@@ -1098,12 +1181,32 @@
             {
                 "number": "000",
                 "prodNumber": "WAT",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_280.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001280"
+            },
+            {
+                "number": "000",
+                "prodNumber": "000",
                 "prodCode": "S10b",
                 "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10b.png",
                 "prodName": "소드&실드 강화 확장팩 「Pokémon GO」",
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10b/S10b_096.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022010096"
+            },
+            {
+                "number": "253",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_253.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001253"
             },
             {
                 "number": "000",
@@ -1268,7 +1371,8 @@
         "rules": [],
         "texts": [],
         "regulationMark": [
-            "BE"
+            "BE",
+            ""
         ],
         "version_infos": [
             {
@@ -1524,6 +1628,16 @@
             {
                 "number": "000",
                 "prodNumber": "LIG",
+                "prodCode": "S8a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8a.png",
+                "prodName": "소드&실드 확장팩 「25th ANNIVERSARY COLLECTION」",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8a/S8a_034.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021015034"
+            },
+            {
+                "number": "000",
+                "prodNumber": "LIG",
                 "prodCode": "S8a-G",
                 "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8a-G.png",
                 "prodName": "소드&실드 「25th ANNIVERSARY GOLDEN BOX」",
@@ -1544,6 +1658,16 @@
             {
                 "number": "000",
                 "prodNumber": "LIG",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_281.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001281"
+            },
+            {
+                "number": "000",
+                "prodNumber": "LIG",
                 "prodCode": "SN",
                 "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SN.png",
                 "prodName": "소드&실드 「스타트 덱 100 피카츄 V & 이브이 V」",
@@ -1553,7 +1677,7 @@
             },
             {
                 "number": "000",
-                "prodNumber": "LIG",
+                "prodNumber": "000",
                 "prodCode": "S10b",
                 "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10b.png",
                 "prodName": "소드&실드 강화 확장팩 「Pokémon GO」",
@@ -1580,6 +1704,16 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SO/SO_032.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022018032"
+            },
+            {
+                "number": "254",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_254.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001254"
             },
             {
                 "number": "000",
@@ -1734,7 +1868,8 @@
         "rules": [],
         "texts": [],
         "regulationMark": [
-            "BE"
+            "BE",
+            ""
         ],
         "version_infos": [
             {
@@ -1950,6 +2085,26 @@
             {
                 "number": "000",
                 "prodNumber": "PSY",
+                "prodCode": "S8a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8a.png",
+                "prodName": "소드&실드 확장팩 「25th ANNIVERSARY COLLECTION」",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8a/S8a_035.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021015035"
+            },
+            {
+                "number": "000",
+                "prodNumber": "PSY",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_282.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001282"
+            },
+            {
+                "number": "000",
+                "prodNumber": "000",
                 "prodCode": "S10b",
                 "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10b.png",
                 "prodName": "소드&실드 강화 확장팩 「Pokémon GO」",
@@ -1966,6 +2121,16 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SP/SPD_021.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022013021"
+            },
+            {
+                "number": "255",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_255.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001255"
             },
             {
                 "number": "000",
@@ -2130,7 +2295,8 @@
         "rules": [],
         "texts": [],
         "regulationMark": [
-            "BE"
+            "BE",
+            ""
         ],
         "version_infos": [
             {
@@ -2316,12 +2482,32 @@
             {
                 "number": "000",
                 "prodNumber": "FIG",
+                "prodCode": "S8a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8a.png",
+                "prodName": "소드&실드 확장팩 「25th ANNIVERSARY COLLECTION」",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8a/S8a_036.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021015036"
+            },
+            {
+                "number": "000",
+                "prodNumber": "FIG",
                 "prodCode": "SH",
                 "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SH.png",
                 "prodName": "소드&실드 「패밀리 포켓몬 카드 게임」",
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SH/SH_025_D.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021013077"
+            },
+            {
+                "number": "000",
+                "prodNumber": "FIG",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_283.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001283"
             },
             {
                 "number": "000",
@@ -2335,13 +2521,23 @@
             },
             {
                 "number": "000",
-                "prodNumber": "FIG",
+                "prodNumber": "000",
                 "prodCode": "S10b",
                 "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10b.png",
                 "prodName": "소드&실드 강화 확장팩 「Pokémon GO」",
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10b/S10b_099.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022010099"
+            },
+            {
+                "number": "256",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_256.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001256"
             },
             {
                 "number": "000",
@@ -2486,7 +2682,8 @@
         "rules": [],
         "texts": [],
         "regulationMark": [
-            "BE"
+            "BE",
+            ""
         ],
         "version_infos": [
             {
@@ -2692,6 +2889,16 @@
             {
                 "number": "000",
                 "prodNumber": "DAR",
+                "prodCode": "S8a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8a.png",
+                "prodName": "소드&실드 확장팩 「25th ANNIVERSARY COLLECTION」",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8a/S8a_037.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021015037"
+            },
+            {
+                "number": "000",
+                "prodNumber": "DAR",
                 "prodCode": "SH",
                 "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SH.png",
                 "prodName": "소드&실드 「패밀리 포켓몬 카드 게임」",
@@ -2712,6 +2919,16 @@
             {
                 "number": "000",
                 "prodNumber": "DAR",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_284.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001284"
+            },
+            {
+                "number": "000",
+                "prodNumber": "DAR",
                 "prodCode": "SLD",
                 "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SLD.png",
                 "prodName": "소드&실드 스타터 세트 VSTAR 「다크라이」",
@@ -2721,13 +2938,23 @@
             },
             {
                 "number": "000",
-                "prodNumber": "DAR",
+                "prodNumber": "000",
                 "prodCode": "S10b",
                 "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10b.png",
                 "prodName": "소드&실드 강화 확장팩 「Pokémon GO」",
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10b/S10b_100.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022010100"
+            },
+            {
+                "number": "257",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_257.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001257"
             },
             {
                 "number": "000",
@@ -2902,7 +3129,8 @@
         "rules": [],
         "texts": [],
         "regulationMark": [
-            "BE"
+            "BE",
+            ""
         ],
         "version_infos": [
             {
@@ -3078,6 +3306,16 @@
             {
                 "number": "000",
                 "prodNumber": "MET",
+                "prodCode": "S8a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8a.png",
+                "prodName": "소드&실드 확장팩 「25th ANNIVERSARY COLLECTION」",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8a/S8a_038.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021015038"
+            },
+            {
+                "number": "000",
+                "prodNumber": "MET",
                 "prodCode": "SJ",
                 "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SJ.png",
                 "prodName": "소드&실드 스페셜 덱 세트 「자시안·자마젠타 VS 무한다이노」",
@@ -3088,12 +3326,32 @@
             {
                 "number": "000",
                 "prodNumber": "MET",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_285.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001285"
+            },
+            {
+                "number": "000",
+                "prodNumber": "000",
                 "prodCode": "S10b",
                 "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10b.png",
                 "prodName": "소드&실드 강화 확장팩 「Pokémon GO」",
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10b/S10b_101.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022010101"
+            },
+            {
+                "number": "258",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_258.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001258"
             },
             {
                 "number": "000",

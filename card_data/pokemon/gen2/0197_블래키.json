@@ -454,14 +454,13 @@
         ]
     },
     {
-        "id": "SI-255",
+        "id": "S8b-100",
         "cardID": "블래악200검은030월광080",
         "name": "블래키 V",
         "supertype": "포켓몬",
         "subtypes": [
             "기본",
-            "V",
-            "일격"
+            "V"
         ],
         "rules": [
             "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
@@ -540,6 +539,30 @@
                 "debug": "2"
             },
             {
+                "number": "100",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_100.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001100",
+                "debug": "1"
+            },
+            {
+                "number": "244",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "Ligton",
+                "rarity": "CSR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_244.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001244",
+                "debug": "2"
+            },
+            {
                 "number": "255",
                 "prodNumber": "414",
                 "prodCode": "SI",
@@ -549,19 +572,18 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_255.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003255",
-                "debug": "1"
+                "debug": "2"
             }
         ]
     },
     {
-        "id": "SI-256",
+        "id": "S8b-101",
         "cardID": "블래악310다크다이160",
         "name": "블래키 VMAX",
         "supertype": "포켓몬",
         "subtypes": [
             "V진화",
-            "VMAX",
-            "일격"
+            "VMAX"
         ],
         "rules": [
             "포켓몬 VMAX가 기절한 경우 상대는 프라이즈를 3장 가져간다."
@@ -616,6 +638,30 @@
                 "debug": "2"
             },
             {
+                "number": "101",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "AKIRA EGAWA",
+                "rarity": "RRR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_101.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001101",
+                "debug": "1"
+            },
+            {
+                "number": "245",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "kawayoo",
+                "rarity": "CSR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_245.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001245",
+                "debug": "2"
+            },
+            {
                 "number": "256",
                 "prodNumber": "414",
                 "prodCode": "SI",
@@ -625,7 +671,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_256.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003256",
-                "debug": "1"
+                "debug": "2"
             }
         ]
     },

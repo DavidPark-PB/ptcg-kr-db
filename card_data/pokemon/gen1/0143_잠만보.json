@@ -340,7 +340,7 @@
     },
     {
         "id": "smL-038",
-        "cardID": "잠만무150굉장100C",
+        "cardID": "잠만무150굉장100",
         "name": "잠만보",
         "supertype": "포켓몬",
         "subtypes": [
@@ -375,6 +375,7 @@
         "retreatCost": 3,
         "flavorText": "먹거나 자는 것밖에 안 하지만 일단 진심을 다하게 되면 굉장한 파워를 발휘하는 듯하다.",
         "regulationMark": [
+            "B",
             "C"
         ],
         "version_infos": [
@@ -389,6 +390,18 @@
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SML_/SML_038.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019006059",
                 "debug": "1"
+            },
+            {
+                "number": "060",
+                "prodNumber": "080",
+                "prodCode": "SM30A",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM30A.png",
+                "prodName": "썬&문 「랜덤30장덱」",
+                "artist": "Akira Komayama",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM30A/SM30A_060.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019018060",
+                "debug": "2"
             }
         ]
     },
@@ -448,60 +461,6 @@
                 "rarity": "R",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10/SM10_076.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019007076",
-                "debug": "1"
-            }
-        ]
-    },
-    {
-        "id": "SM30A-060",
-        "cardID": "잠만무150굉장100B",
-        "name": "잠만보",
-        "supertype": "포켓몬",
-        "subtypes": [
-            "기본"
-        ],
-        "rules": [],
-        "hp": 150,
-        "pokemons": [
-            {
-                "name": "잠만보",
-                "pokedexNumber": 143
-            }
-        ],
-        "type": "(무색)",
-        "attacks": [
-            {
-                "name": "굉장한코골기",
-                "cost": "(무색)(무색)(무색)(무색)",
-                "damage": "100",
-                "text": ""
-            }
-        ],
-        "abilities": [],
-        "weakness": {
-            "type": "(격투)",
-            "value": "×2"
-        },
-        "resistance": {
-            "type": "",
-            "value": "--"
-        },
-        "retreatCost": 3,
-        "flavorText": "먹거나 자는 것밖에 안 하지만 일단 진심을 다하게 되면 굉장한 파워를 발휘하는 듯하다.",
-        "regulationMark": [
-            "B"
-        ],
-        "version_infos": [
-            {
-                "number": "060",
-                "prodNumber": "080",
-                "prodCode": "SM30A",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM30A.png",
-                "prodName": "썬&문 「랜덤30장덱」",
-                "artist": "Akira Komayama",
-                "rarity": "N",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM30A/SM30A_060.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019018060",
                 "debug": "1"
             }
         ]
@@ -759,7 +718,7 @@
         ]
     },
     {
-        "id": "S4-084",
+        "id": "S8b-126",
         "cardID": "잠만무130먹어누르100",
         "name": "잠만보",
         "supertype": "포켓몬",
@@ -814,6 +773,18 @@
                 "rarity": "R",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4/S4_084.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020014084",
+                "debug": "2"
+            },
+            {
+                "number": "126",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "Narumi Sato",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_126.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001126",
                 "debug": "1"
             }
         ]

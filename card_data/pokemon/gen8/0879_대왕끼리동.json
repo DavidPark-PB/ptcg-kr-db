@@ -440,5 +440,65 @@
                 "debug": "2"
             }
         ]
+    },
+    {
+        "id": "SV6a-042",
+        "cardID": "대왕강200왕큰노즈130",
+        "name": "대왕끼리동",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 200,
+        "pokemons": [
+            {
+                "name": "대왕끼리동",
+                "pokedexNumber": 879
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "노즈래리엇",
+                "cost": "(강철)(강철)(강철)(무색)",
+                "damage": "130+",
+                "text": "원한다면 100데미지를 추가한다. 그 경우, 자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "왕큰 몸",
+                "text": "이 포켓몬이 배틀필드에 있는 한, 상대는 패에서 스타디움을 꺼낼 수 없다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 4,
+        "flavorText": "자존심이 강하고 성미가 까다롭다. 선명한 녹색 피부를 띠는 개체일수록 동료들에게 존경받는다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "042",
+                "prodNumber": "064",
+                "prodCode": "SV6a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「나이트원더러」",
+                "artist": "kawayoo",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6a/SV6a_042.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024011042",
+                "debug": "1"
+            }
+        ]
     }
 ]

@@ -504,6 +504,60 @@
         ]
     },
     {
+        "id": "SV6a-017",
+        "cardID": "슬리초110백일080",
+        "name": "슬리퍼",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "슬리퍼",
+                "pokedexNumber": 97
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "백일몽",
+                "cost": "(초)(무색)",
+                "damage": "80",
+                "text": "상대의 다음 차례에 이 기술을 받은 포켓몬에게 상대가 패에서 에너지를 붙였다면 상대의 차례는 끝난다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "항상 지니고 있는 추를 규칙적인 리듬으로 흔들고 있다. 가까이 가면 어쩐지 졸린다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "017",
+                "prodNumber": "064",
+                "prodCode": "SV6a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「나이트원더러」",
+                "artist": "Masako Tomii",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6a/SV6a_017.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024011017",
+                "debug": "1"
+            }
+        ]
+    },
+    {
         "id": "bs7-18",
         "cardID": "슬리초080드림000최면060",
         "name": "슬리퍼",

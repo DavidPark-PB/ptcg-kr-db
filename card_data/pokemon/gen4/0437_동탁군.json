@@ -524,7 +524,7 @@
         ]
     },
     {
-        "id": "SI-303",
+        "id": "S8b-113",
         "cardID": "동탁강110메탈사념070",
         "name": "동탁군",
         "supertype": "포켓몬",
@@ -582,6 +582,30 @@
                 "debug": "2"
             },
             {
+                "number": "113",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "Atsushi Furusawa",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_113.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001113",
+                "debug": "1"
+            },
+            {
+                "number": "208",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "Hataya",
+                "rarity": "CHR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_208.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001208",
+                "debug": "2"
+            },
+            {
                 "number": "303",
                 "prodNumber": "414",
                 "prodCode": "SI",
@@ -591,7 +615,19 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_303.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003303",
-                "debug": "1"
+                "debug": "2"
+            },
+            {
+                "number": "099",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "Hasuno",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_099.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001099",
+                "debug": "2"
             },
             {
                 "number": "099",

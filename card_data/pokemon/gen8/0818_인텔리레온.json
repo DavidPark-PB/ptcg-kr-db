@@ -282,13 +282,12 @@
         ]
     },
     {
-        "id": "SI-118",
+        "id": "S8b-038",
         "cardID": "인텔물150퀵슈폭포070",
         "name": "인텔리레온",
         "supertype": "포켓몬",
         "subtypes": [
-            "2진화",
-            "연격"
+            "2진화"
         ],
         "rules": [],
         "hp": 150,
@@ -350,7 +349,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_038.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001038",
-                "debug": "2"
+                "debug": "3"
             },
             {
                 "number": "118",
@@ -362,7 +361,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_118.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003118",
-                "debug": "3"
+                "debug": "2"
             }
         ]
     },

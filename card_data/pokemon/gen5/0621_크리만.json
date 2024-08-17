@@ -503,5 +503,77 @@
                 "debug": "1"
             }
         ]
+    },
+    {
+        "id": "S8b-121",
+        "cardID": "크리드120리벤040드래120",
+        "name": "크리만",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "크리만",
+                "pokedexNumber": 621
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "리벤지",
+                "cost": "(불꽃)(물)",
+                "damage": "40+",
+                "text": "상대의 이전 차례에 기술의 데미지로 자신의 포켓몬이 기절했다면 120데미지를 추가한다."
+            },
+            {
+                "name": "드래곤크루",
+                "cost": "(불꽃)(물)(무색)",
+                "damage": "120",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "난폭하고 교활하다. 다른 포켓몬이 파낸 굴을 빼앗아 거처로 삼는다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "121",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "Ryo Ueda",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_121.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001121",
+                "debug": "1"
+            },
+            {
+                "number": "209",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "Teeziro",
+                "rarity": "CHR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_209.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001209",
+                "debug": "2"
+            }
+        ]
     }
 ]

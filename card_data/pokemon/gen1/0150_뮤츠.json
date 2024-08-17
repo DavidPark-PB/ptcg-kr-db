@@ -1496,6 +1496,18 @@
                 "debug": "2"
             },
             {
+                "number": "050",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "Nurikabe",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_050.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001050",
+                "debug": "2"
+            },
+            {
                 "number": "160",
                 "prodNumber": "S-P",
                 "prodCode": "S-P",
@@ -1666,6 +1678,82 @@
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S11a/S11a_035.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022016035",
                 "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S12a-051",
+        "cardID": "뮤츠초280사이090VS000",
+        "name": "뮤츠 VSTAR",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VSTAR"
+        ],
+        "rules": [
+            "포켓몬 VSTAR가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 280,
+        "pokemons": [
+            {
+                "name": "뮤츠",
+                "pokedexNumber": 150
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "사이코퍼지",
+                "cost": "(초)(무색)",
+                "damage": "90×",
+                "text": "자신의 필드의 포켓몬에게 붙어 있는 (초) 에너지를 3장까지 트래쉬하고 그 장수 × 90데미지를 준다."
+            },
+            {
+                "name": "VSTAR 파워\n스타레이드",
+                "cost": "(초)(무색)",
+                "damage": "",
+                "text": "상대의 「포켓몬 V」 전원에게 각각 120데미지를 준다. 이 기술의 데미지는 약점, 저항력 계산을 하지 않는다. (대전 중 자신은 VSTAR 파워를 1번만 사용할 수 있다.)",
+                "special": "VSTAR"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "051",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "PLANETA Mochizuki",
+                "rarity": "RRR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_051.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001051",
+                "debug": "1"
+            },
+            {
+                "number": "221",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "GOSSAN",
+                "rarity": "SAR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_221.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001221",
+                "debug": "2"
             }
         ]
     },

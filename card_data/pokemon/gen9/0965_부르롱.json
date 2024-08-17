@@ -436,5 +436,65 @@
                 "debug": "1"
             }
         ]
+    },
+    {
+        "id": "SV6a-043",
+        "cardID": "부르강070경직000머리020",
+        "name": "부르롱",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "부르롱",
+                "pokedexNumber": 965
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "경직",
+                "cost": "(강철)",
+                "damage": "",
+                "text": "상대의 다음 차례에 이 포켓몬이 받는 기술의 데미지는 「-30」이 된다."
+            },
+            {
+                "name": "머리박치기",
+                "cost": "(강철)(강철)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "강철로 된 몸이 본체다. 바위에 달라붙은 다음, 그 성분을 에너지로 바꿔 활동한다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "043",
+                "prodNumber": "064",
+                "prodCode": "SV6a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「나이트원더러」",
+                "artist": "HAGIYA Kaoru",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6a/SV6a_043.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024011043",
+                "debug": "1"
+            }
+        ]
     }
 ]

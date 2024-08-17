@@ -742,6 +742,18 @@
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_091.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001091",
                 "debug": "1"
+            },
+            {
+                "number": "091",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "Souichirou Gunjima",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_091.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001091",
+                "debug": "2"
             }
         ]
     },
@@ -951,6 +963,18 @@
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_128.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001128",
                 "debug": "2"
+            },
+            {
+                "number": "128",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "aky CG Works",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_128.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001128",
+                "debug": "2"
             }
         ]
     },
@@ -1052,6 +1076,137 @@
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_129.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001129",
                 "debug": "2"
+            },
+            {
+                "number": "129",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "aky CG Works",
+                "rarity": "RRR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_129.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001129",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S12a-234",
+        "cardID": "조로무270저주050",
+        "name": "히스이 조로아크 VSTAR",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VSTAR"
+        ],
+        "rules": [
+            "자신의 차례에 사용할 수 있다. 자신의 패를 모두 트래쉬하고 덱을 7장 뽑는다. (대전 중 자신은 [VSTAR] 파워를 1번만 사용할 수 있다.)",
+            "포켓몬 VSTAR가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 270,
+        "pokemons": [
+            {
+                "name": "조로아크",
+                "pokedexNumber": 571,
+                "region": "히스이"
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "저주새기기",
+                "cost": "(무색)(무색)",
+                "damage": "50×",
+                "text": "자신의 필드의 데미지 카운터가 올려져 있는 포켓몬의 수 × 50데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "234",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "SIE NANAHARA",
+                "rarity": "SAR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_234.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001234",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV6a-032",
+        "cardID": "조로악120환영060발톱110",
+        "name": "조로아크",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "조로아크",
+                "pokedexNumber": 571
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "환영잭",
+                "cost": "(무색)(무색)",
+                "damage": "60×",
+                "text": "상대 필드의 「포켓몬 ex・V」의 수 × 60데미지를 준다."
+            },
+            {
+                "name": "발톱 베어가르기",
+                "cost": "(악)(무색)(무색)",
+                "damage": "110",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "한 번에 많은 사람을 속이는 힘을 가졌다. 환영의 경치를 보여 줘서 거처를 지킨다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "032",
+                "prodNumber": "064",
+                "prodCode": "SV6a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「나이트원더러」",
+                "artist": "nagimiso",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6a/SV6a_032.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024011032",
+                "debug": "1"
             }
         ]
     },

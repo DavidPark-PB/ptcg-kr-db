@@ -460,5 +460,65 @@
                 "debug": "1"
             }
         ]
+    },
+    {
+        "id": "SV6a-044",
+        "cardID": "터검드070할퀴010예리030",
+        "name": "터검니",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "터검니",
+                "pokedexNumber": 610
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "할퀴기",
+                "cost": "(격투)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "예리한이빨",
+                "cost": "(격투)(강철)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "바위나 나무에서 독특한 이빨 자국을 발견했다면 근처에 터검니가 살고 있는 것이다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "044",
+                "prodNumber": "064",
+                "prodCode": "SV6a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「나이트원더러」",
+                "artist": "Orca",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6a/SV6a_044.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024011044",
+                "debug": "1"
+            }
+        ]
     }
 ]

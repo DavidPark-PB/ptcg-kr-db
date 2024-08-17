@@ -548,6 +548,18 @@
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6/SV6_074.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024008074",
                 "debug": "1"
+            },
+            {
+                "number": "111",
+                "prodNumber": "101",
+                "prodCode": "SV6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「변환의 가면」",
+                "artist": "Dsuke",
+                "rarity": "AR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6/SV6_111.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024008111",
+                "debug": "2"
             }
         ]
     },

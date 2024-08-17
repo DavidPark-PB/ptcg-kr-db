@@ -579,6 +579,66 @@
         ]
     },
     {
+        "id": "SV6a-005",
+        "cardID": "모크풀150페더000스트170",
+        "name": "모크나이퍼",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "모크나이퍼",
+                "pokedexNumber": 724
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "페더스톡",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 패가 7장이 되도록 덱을 뽑는다."
+            },
+            {
+                "name": "스트롱샷",
+                "cost": "(풀)",
+                "damage": "170",
+                "text": "자신의 패에서 「기본 (풀) 에너지」를 1장 트래쉬한다. 트래쉬할 수 없다면 이 기술은 실패한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "날개에 숨겨진 살깃을 활과 화살처럼 이용해서 쏜다. 노린 표적은 빗나가지 않는다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "005",
+                "prodNumber": "064",
+                "prodCode": "SV6a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「나이트원더러」",
+                "artist": "DOM",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6a/SV6a_005.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024011005",
+                "debug": "1"
+            }
+        ]
+    },
+    {
         "id": "SM-P-008",
         "cardID": "모크풀140리프030브레120",
         "name": "모크나이퍼",

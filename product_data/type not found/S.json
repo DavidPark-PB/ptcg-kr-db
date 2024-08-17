@@ -1,0 +1,1446 @@
+[
+    {
+        "code": "S7R",
+        "name": "소드 & 실드   확장팩   「창공스트림」",
+        "type": "type not found",
+        "printed_total": "067",
+        "total": 79,
+        "series": [
+            "S"
+        ],
+        "regulations": [
+            "E",
+            "D"
+        ],
+        "in_standard_regu": false,
+        "release_date": "1970-01-01",
+        "update_date": "2024-08-17",
+        "price": "price not found",
+        "contents": "contents not found",
+        "caution": "caution not found",
+        "prod_url": "url not found",
+        "image_symbol_url": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7R.png",
+        "image_cover_url": "cover_url not found",
+        "card_list_index": [
+            11658,
+            11659,
+            11660,
+            11661,
+            11662,
+            11663,
+            11664,
+            11665,
+            11666,
+            11667,
+            11668,
+            11669,
+            11670,
+            11671,
+            11672,
+            11673,
+            11674,
+            11675,
+            11676,
+            11677,
+            11678,
+            11679,
+            11680,
+            11681,
+            11682,
+            11683,
+            11684,
+            11685,
+            11686,
+            11687,
+            11688,
+            11689,
+            11690,
+            11691,
+            11692,
+            11693,
+            11694,
+            11695,
+            11696,
+            11697,
+            11698,
+            11699,
+            11700,
+            11701,
+            11702,
+            11703,
+            11704,
+            11705,
+            11706,
+            11707,
+            11708,
+            11709,
+            11710,
+            11711,
+            11712,
+            11713,
+            11714,
+            11715,
+            11716,
+            11717,
+            11718,
+            11719,
+            11720,
+            11721,
+            11722,
+            11723,
+            11724,
+            11725,
+            11726,
+            11727,
+            11728,
+            11729,
+            11730,
+            11731,
+            11732,
+            11733,
+            11734,
+            11735,
+            11736
+        ],
+        "card_list_detail": [
+            {
+                "num": "001",
+                "prod_num": "067",
+                "name": "통통코",
+                "supertype": "포켓몬",
+                "subtypes": [
+                    "기본"
+                ],
+                "type": "(풀)",
+                "pokemons": [
+                    {
+                        "name": "통통코",
+                        "pokedexNumber": 187
+                    }
+                ],
+                "rarity": "C",
+                "regulation": "E"
+            },
+            {
+                "num": "002",
+                "prod_num": "067",
+                "name": "두코",
+                "supertype": "포켓몬",
+                "subtypes": [
+                    "1진화"
+                ],
+                "type": "(풀)",
+                "pokemons": [
+                    {
+                        "name": "두코",
+                        "pokedexNumber": 188
+                    }
+                ],
+                "rarity": "C",
+                "regulation": "E"
+            },
+            {
+                "num": "003",
+                "prod_num": "067",
+                "name": "솜솜코",
+                "supertype": "포켓몬",
+                "subtypes": [
+                    "2진화"
+                ],
+                "type": "(풀)",
+                "pokemons": [
+                    {
+                        "name": "솜솜코",
+                        "pokedexNumber": 189
+                    }
+                ],
+                "rarity": "R",
+                "regulation": "E"
+            },
+            {
+                "num": "004",
+                "prod_num": "067",
+                "name": "트로피우스",
+                "supertype": "포켓몬",
+                "subtypes": [
+                    "기본"
+                ],
+                "type": "(풀)",
+                "pokemons": [
+                    {
+                        "name": "트로피우스",
+                        "pokedexNumber": 357
+                    }
+                ],
+                "rarity": "C",
+                "regulation": "E"
+            },
+            {
+                "num": "005",
+                "prod_num": "067",
+                "name": "야나프",
+                "supertype": "포켓몬",
+                "subtypes": [
+                    "기본"
+                ],
+                "type": "(풀)",
+                "pokemons": [
+                    {
+                        "name": "야나프",
+                        "pokedexNumber": 511
+                    }
+                ],
+                "rarity": "C",
+                "regulation": "E"
+            },
+            {
+                "num": "006",
+                "prod_num": "067",
+                "name": "야나키",
+                "supertype": "포켓몬",
+                "subtypes": [
+                    "1진화"
+                ],
+                "type": "(풀)",
+                "pokemons": [
+                    {
+                        "name": "야나키",
+                        "pokedexNumber": 512
+                    }
+                ],
+                "rarity": "C",
+                "regulation": "E"
+            },
+            {
+                "num": "007",
+                "prod_num": "067",
+                "name": "대로트 V",
+                "supertype": "포켓몬",
+                "subtypes": [
+                    "기본",
+                    "V"
+                ],
+                "type": "(풀)",
+                "pokemons": [
+                    {
+                        "name": "대로트",
+                        "pokedexNumber": 709
+                    }
+                ],
+                "rarity": "RR",
+                "regulation": "E"
+            },
+            {
+                "num": "008",
+                "prod_num": "067",
+                "name": "대로트 VMAX",
+                "supertype": "포켓몬",
+                "subtypes": [
+                    "V진화",
+                    "VMAX"
+                ],
+                "type": "(풀)",
+                "pokemons": [
+                    {
+                        "name": "대로트",
+                        "pokedexNumber": 709
+                    }
+                ],
+                "rarity": "RRR",
+                "regulation": "E"
+            },
+            {
+                "num": "009",
+                "prod_num": "067",
+                "name": "과사삭벌레",
+                "supertype": "포켓몬",
+                "subtypes": [
+                    "기본"
+                ],
+                "type": "(풀)",
+                "pokemons": [
+                    {
+                        "name": "과사삭벌레",
+                        "pokedexNumber": 840
+                    }
+                ],
+                "rarity": "C",
+                "regulation": "E"
+            },
+            {
+                "num": "010",
+                "prod_num": "067",
+                "name": "식스테일",
+                "supertype": "포켓몬",
+                "subtypes": [
+                    "기본"
+                ],
+                "type": "(불꽃)",
+                "pokemons": [
+                    {
+                        "name": "식스테일",
+                        "pokedexNumber": 37
+                    }
+                ],
+                "rarity": "C",
+                "regulation": "E"
+            },
+            {
+                "num": "011",
+                "prod_num": "067",
+                "name": "나인테일",
+                "supertype": "포켓몬",
+                "subtypes": [
+                    "1진화"
+                ],
+                "type": "(불꽃)",
+                "pokemons": [
+                    {
+                        "name": "나인테일",
+                        "pokedexNumber": 38
+                    }
+                ],
+                "rarity": "C",
+                "regulation": "E"
+            },
+            {
+                "num": "012",
+                "prod_num": "067",
+                "name": "비크티니",
+                "supertype": "포켓몬",
+                "subtypes": [
+                    "기본"
+                ],
+                "type": "(불꽃)",
+                "pokemons": [
+                    {
+                        "name": "비크티니",
+                        "pokedexNumber": 494
+                    }
+                ],
+                "rarity": "R",
+                "regulation": "E"
+            },
+            {
+                "num": "013",
+                "prod_num": "067",
+                "name": "바오프",
+                "supertype": "포켓몬",
+                "subtypes": [
+                    "기본"
+                ],
+                "type": "(불꽃)",
+                "pokemons": [
+                    {
+                        "name": "바오프",
+                        "pokedexNumber": 513
+                    }
+                ],
+                "rarity": "C",
+                "regulation": "E"
+            },
+            {
+                "num": "014",
+                "prod_num": "067",
+                "name": "바오키",
+                "supertype": "포켓몬",
+                "subtypes": [
+                    "1진화"
+                ],
+                "type": "(불꽃)",
+                "pokemons": [
+                    {
+                        "name": "바오키",
+                        "pokedexNumber": 514
+                    }
+                ],
+                "rarity": "C",
+                "regulation": "E"
+            },
+            {
+                "num": "015",
+                "prod_num": "067",
+                "name": "불카모스 V",
+                "supertype": "포켓몬",
+                "subtypes": [
+                    "기본",
+                    "V"
+                ],
+                "type": "(불꽃)",
+                "pokemons": [
+                    {
+                        "name": "불카모스",
+                        "pokedexNumber": 637
+                    }
+                ],
+                "rarity": "RR",
+                "regulation": "E"
+            },
+            {
+                "num": "016",
+                "prod_num": "067",
+                "name": "태우지네",
+                "supertype": "포켓몬",
+                "subtypes": [
+                    "기본"
+                ],
+                "type": "(불꽃)",
+                "pokemons": [
+                    {
+                        "name": "태우지네",
+                        "pokedexNumber": 850
+                    }
+                ],
+                "rarity": "C",
+                "regulation": "E"
+            },
+            {
+                "num": "017",
+                "prod_num": "067",
+                "name": "다태우지네",
+                "supertype": "포켓몬",
+                "subtypes": [
+                    "1진화"
+                ],
+                "type": "(불꽃)",
+                "pokemons": [
+                    {
+                        "name": "다태우지네",
+                        "pokedexNumber": 851
+                    }
+                ],
+                "rarity": "U",
+                "regulation": "E"
+            },
+            {
+                "num": "018",
+                "prod_num": "067",
+                "name": "셀러",
+                "supertype": "포켓몬",
+                "subtypes": [
+                    "기본"
+                ],
+                "type": "(물)",
+                "pokemons": [
+                    {
+                        "name": "셀러",
+                        "pokedexNumber": 90
+                    }
+                ],
+                "rarity": "C",
+                "regulation": "E"
+            },
+            {
+                "num": "019",
+                "prod_num": "067",
+                "name": "파르셀",
+                "supertype": "포켓몬",
+                "subtypes": [
+                    "1진화"
+                ],
+                "type": "(물)",
+                "pokemons": [
+                    {
+                        "name": "파르셀",
+                        "pokedexNumber": 91
+                    }
+                ],
+                "rarity": "U",
+                "regulation": "E"
+            },
+            {
+                "num": "020",
+                "prod_num": "067",
+                "name": "갸라도스 V",
+                "supertype": "포켓몬",
+                "subtypes": [
+                    "기본",
+                    "V"
+                ],
+                "type": "(물)",
+                "pokemons": [
+                    {
+                        "name": "갸라도스",
+                        "pokedexNumber": 130
+                    }
+                ],
+                "rarity": "RR",
+                "regulation": "E"
+            },
+            {
+                "num": "021",
+                "prod_num": "067",
+                "name": "갸라도스 VMAX",
+                "supertype": "포켓몬",
+                "subtypes": [
+                    "V진화",
+                    "VMAX"
+                ],
+                "type": "(물)",
+                "pokemons": [
+                    {
+                        "name": "갸라도스",
+                        "pokedexNumber": 130
+                    }
+                ],
+                "rarity": "RRR",
+                "regulation": "E"
+            },
+            {
+                "num": "022",
+                "prod_num": "067",
+                "name": "가라르 달막화",
+                "supertype": "포켓몬",
+                "subtypes": [
+                    "기본"
+                ],
+                "type": "(물)",
+                "pokemons": [
+                    {
+                        "name": "달막화",
+                        "pokedexNumber": 554,
+                        "region": "가라르"
+                    }
+                ],
+                "rarity": "C",
+                "regulation": "E"
+            },
+            {
+                "num": "023",
+                "prod_num": "067",
+                "name": "가라르 불비달마",
+                "supertype": "포켓몬",
+                "subtypes": [
+                    "1진화"
+                ],
+                "type": "(물)",
+                "pokemons": [
+                    {
+                        "name": "불비달마",
+                        "pokedexNumber": 555,
+                        "region": "가라르"
+                    }
+                ],
+                "rarity": "C",
+                "regulation": "E"
+            },
+            {
+                "num": "024",
+                "prod_num": "067",
+                "name": "프리지오",
+                "supertype": "포켓몬",
+                "subtypes": [
+                    "기본"
+                ],
+                "type": "(물)",
+                "pokemons": [
+                    {
+                        "name": "프리지오",
+                        "pokedexNumber": 615
+                    }
+                ],
+                "rarity": "C",
+                "regulation": "E"
+            },
+            {
+                "num": "025",
+                "prod_num": "067",
+                "name": "약어리",
+                "supertype": "포켓몬",
+                "subtypes": [
+                    "기본"
+                ],
+                "type": "(물)",
+                "pokemons": [
+                    {
+                        "name": "약어리",
+                        "pokedexNumber": 746
+                    }
+                ],
+                "rarity": "U",
+                "regulation": "E"
+            },
+            {
+                "num": "026",
+                "prod_num": "067",
+                "name": "메리프",
+                "supertype": "포켓몬",
+                "subtypes": [
+                    "기본"
+                ],
+                "type": "(번개)",
+                "pokemons": [
+                    {
+                        "name": "메리프",
+                        "pokedexNumber": 179
+                    }
+                ],
+                "rarity": "C",
+                "regulation": "E"
+            },
+            {
+                "num": "027",
+                "prod_num": "067",
+                "name": "보송송",
+                "supertype": "포켓몬",
+                "subtypes": [
+                    "1진화"
+                ],
+                "type": "(번개)",
+                "pokemons": [
+                    {
+                        "name": "보송송",
+                        "pokedexNumber": 180
+                    }
+                ],
+                "rarity": "U",
+                "regulation": "E"
+            },
+            {
+                "num": "028",
+                "prod_num": "067",
+                "name": "전룡",
+                "supertype": "포켓몬",
+                "subtypes": [
+                    "2진화"
+                ],
+                "type": "(번개)",
+                "pokemons": [
+                    {
+                        "name": "전룡",
+                        "pokedexNumber": 181
+                    }
+                ],
+                "rarity": "U",
+                "regulation": "E"
+            },
+            {
+                "num": "029",
+                "prod_num": "067",
+                "name": "플러시",
+                "supertype": "포켓몬",
+                "subtypes": [
+                    "기본"
+                ],
+                "type": "(번개)",
+                "pokemons": [
+                    {
+                        "name": "플러시",
+                        "pokedexNumber": 311
+                    }
+                ],
+                "rarity": "C",
+                "regulation": "E"
+            },
+            {
+                "num": "030",
+                "prod_num": "067",
+                "name": "마이농",
+                "supertype": "포켓몬",
+                "subtypes": [
+                    "기본"
+                ],
+                "type": "(번개)",
+                "pokemons": [
+                    {
+                        "name": "마이농",
+                        "pokedexNumber": 312
+                    }
+                ],
+                "rarity": "C",
+                "regulation": "E"
+            },
+            {
+                "num": "031",
+                "prod_num": "067",
+                "name": "일레즌",
+                "supertype": "포켓몬",
+                "subtypes": [
+                    "기본"
+                ],
+                "type": "(번개)",
+                "pokemons": [
+                    {
+                        "name": "일레즌",
+                        "pokedexNumber": 848
+                    }
+                ],
+                "rarity": "C",
+                "regulation": "E"
+            },
+            {
+                "num": "032",
+                "prod_num": "067",
+                "name": "스트린더",
+                "supertype": "포켓몬",
+                "subtypes": [
+                    "1진화"
+                ],
+                "type": "(번개)",
+                "pokemons": [
+                    {
+                        "name": "스트린더",
+                        "pokedexNumber": 849
+                    }
+                ],
+                "rarity": "R",
+                "regulation": "E"
+            },
+            {
+                "num": "033",
+                "prod_num": "067",
+                "name": "레지에레키",
+                "supertype": "포켓몬",
+                "subtypes": [
+                    "기본"
+                ],
+                "type": "(번개)",
+                "pokemons": [
+                    {
+                        "name": "레지에레키",
+                        "pokedexNumber": 894
+                    }
+                ],
+                "rarity": "R",
+                "regulation": "E"
+            },
+            {
+                "num": "034",
+                "prod_num": "067",
+                "name": "모래두지",
+                "supertype": "포켓몬",
+                "subtypes": [
+                    "기본"
+                ],
+                "type": "(격투)",
+                "pokemons": [
+                    {
+                        "name": "모래두지",
+                        "pokedexNumber": 27
+                    }
+                ],
+                "rarity": "C",
+                "regulation": "E"
+            },
+            {
+                "num": "035",
+                "prod_num": "067",
+                "name": "고지",
+                "supertype": "포켓몬",
+                "subtypes": [
+                    "1진화"
+                ],
+                "type": "(격투)",
+                "pokemons": [
+                    {
+                        "name": "고지",
+                        "pokedexNumber": 28
+                    }
+                ],
+                "rarity": "C",
+                "regulation": "E"
+            },
+            {
+                "num": "036",
+                "prod_num": "067",
+                "name": "요가램 V",
+                "supertype": "포켓몬",
+                "subtypes": [
+                    "기본",
+                    "V"
+                ],
+                "type": "(격투)",
+                "pokemons": [
+                    {
+                        "name": "요가램",
+                        "pokedexNumber": 308
+                    }
+                ],
+                "rarity": "RR",
+                "regulation": "E"
+            },
+            {
+                "num": "037",
+                "prod_num": "067",
+                "name": "오뚝군",
+                "supertype": "포켓몬",
+                "subtypes": [
+                    "기본"
+                ],
+                "type": "(격투)",
+                "pokemons": [
+                    {
+                        "name": "오뚝군",
+                        "pokedexNumber": 343
+                    }
+                ],
+                "rarity": "C",
+                "regulation": "E"
+            },
+            {
+                "num": "038",
+                "prod_num": "067",
+                "name": "점토도리",
+                "supertype": "포켓몬",
+                "subtypes": [
+                    "1진화"
+                ],
+                "type": "(격투)",
+                "pokemons": [
+                    {
+                        "name": "점토도리",
+                        "pokedexNumber": 344
+                    }
+                ],
+                "rarity": "U",
+                "regulation": "E"
+            },
+            {
+                "num": "039",
+                "prod_num": "067",
+                "name": "랜드로스",
+                "supertype": "포켓몬",
+                "subtypes": [
+                    "기본"
+                ],
+                "type": "(격투)",
+                "pokemons": [
+                    {
+                        "name": "랜드로스",
+                        "pokedexNumber": 645
+                    }
+                ],
+                "rarity": "R",
+                "regulation": "E"
+            },
+            {
+                "num": "040",
+                "prod_num": "067",
+                "name": "포곰곰",
+                "supertype": "포켓몬",
+                "subtypes": [
+                    "기본"
+                ],
+                "type": "(격투)",
+                "pokemons": [
+                    {
+                        "name": "포곰곰",
+                        "pokedexNumber": 759
+                    }
+                ],
+                "rarity": "C",
+                "regulation": "E"
+            },
+            {
+                "num": "041",
+                "prod_num": "067",
+                "name": "이븐곰",
+                "supertype": "포켓몬",
+                "subtypes": [
+                    "1진화"
+                ],
+                "type": "(격투)",
+                "pokemons": [
+                    {
+                        "name": "이븐곰",
+                        "pokedexNumber": 760
+                    }
+                ],
+                "rarity": "U",
+                "regulation": "E"
+            },
+            {
+                "num": "042",
+                "prod_num": "067",
+                "name": "망나뇽 V",
+                "supertype": "포켓몬",
+                "subtypes": [
+                    "기본",
+                    "V"
+                ],
+                "type": "(드래곤)",
+                "pokemons": [
+                    {
+                        "name": "망나뇽",
+                        "pokedexNumber": 149
+                    }
+                ],
+                "rarity": "RR",
+                "regulation": "E"
+            },
+            {
+                "num": "043",
+                "prod_num": "067",
+                "name": "아공이",
+                "supertype": "포켓몬",
+                "subtypes": [
+                    "기본"
+                ],
+                "type": "(드래곤)",
+                "pokemons": [
+                    {
+                        "name": "아공이",
+                        "pokedexNumber": 371
+                    }
+                ],
+                "rarity": "C",
+                "regulation": "E"
+            },
+            {
+                "num": "044",
+                "prod_num": "067",
+                "name": "쉘곤",
+                "supertype": "포켓몬",
+                "subtypes": [
+                    "1진화"
+                ],
+                "type": "(드래곤)",
+                "pokemons": [
+                    {
+                        "name": "쉘곤",
+                        "pokedexNumber": 372
+                    }
+                ],
+                "rarity": "C",
+                "regulation": "E"
+            },
+            {
+                "num": "045",
+                "prod_num": "067",
+                "name": "보만다",
+                "supertype": "포켓몬",
+                "subtypes": [
+                    "2진화"
+                ],
+                "type": "(드래곤)",
+                "pokemons": [
+                    {
+                        "name": "보만다",
+                        "pokedexNumber": 373
+                    }
+                ],
+                "rarity": "R",
+                "regulation": "E"
+            },
+            {
+                "num": "046",
+                "prod_num": "067",
+                "name": "레쿠쟈 V",
+                "supertype": "포켓몬",
+                "subtypes": [
+                    "기본",
+                    "V"
+                ],
+                "type": "(드래곤)",
+                "pokemons": [
+                    {
+                        "name": "레쿠쟈",
+                        "pokedexNumber": 384
+                    }
+                ],
+                "rarity": "RR",
+                "regulation": "E"
+            },
+            {
+                "num": "047",
+                "prod_num": "067",
+                "name": "레쿠쟈 VMAX",
+                "supertype": "포켓몬",
+                "subtypes": [
+                    "V진화",
+                    "VMAX"
+                ],
+                "type": "(드래곤)",
+                "pokemons": [
+                    {
+                        "name": "레쿠쟈",
+                        "pokedexNumber": 384
+                    }
+                ],
+                "rarity": "RRR",
+                "regulation": "E"
+            },
+            {
+                "num": "048",
+                "prod_num": "067",
+                "name": "지가르데",
+                "supertype": "포켓몬",
+                "subtypes": [
+                    "기본"
+                ],
+                "type": "(드래곤)",
+                "pokemons": [
+                    {
+                        "name": "지가르데",
+                        "pokedexNumber": 718
+                    }
+                ],
+                "rarity": "R",
+                "regulation": "E"
+            },
+            {
+                "num": "049",
+                "prod_num": "067",
+                "name": "폭거북스",
+                "supertype": "포켓몬",
+                "subtypes": [
+                    "기본"
+                ],
+                "type": "(드래곤)",
+                "pokemons": [
+                    {
+                        "name": "폭거북스",
+                        "pokedexNumber": 776
+                    }
+                ],
+                "rarity": "U",
+                "regulation": "E"
+            },
+            {
+                "num": "050",
+                "prod_num": "067",
+                "name": "애프룡",
+                "supertype": "포켓몬",
+                "subtypes": [
+                    "1진화"
+                ],
+                "type": "(드래곤)",
+                "pokemons": [
+                    {
+                        "name": "애프룡",
+                        "pokedexNumber": 841
+                    }
+                ],
+                "rarity": "U",
+                "regulation": "E"
+            },
+            {
+                "num": "051",
+                "prod_num": "067",
+                "name": "단지래플",
+                "supertype": "포켓몬",
+                "subtypes": [
+                    "1진화"
+                ],
+                "type": "(드래곤)",
+                "pokemons": [
+                    {
+                        "name": "단지래플",
+                        "pokedexNumber": 842
+                    }
+                ],
+                "rarity": "U",
+                "regulation": "E"
+            },
+            {
+                "num": "052",
+                "prod_num": "067",
+                "name": "레지드래고",
+                "supertype": "포켓몬",
+                "subtypes": [
+                    "기본"
+                ],
+                "type": "(드래곤)",
+                "pokemons": [
+                    {
+                        "name": "레지드래고",
+                        "pokedexNumber": 895
+                    }
+                ],
+                "rarity": "R",
+                "regulation": "E"
+            },
+            {
+                "num": "053",
+                "prod_num": "067",
+                "name": "럭키",
+                "supertype": "포켓몬",
+                "subtypes": [
+                    "기본"
+                ],
+                "type": "(무색)",
+                "pokemons": [
+                    {
+                        "name": "럭키",
+                        "pokedexNumber": 113
+                    }
+                ],
+                "rarity": "C",
+                "regulation": "E"
+            },
+            {
+                "num": "054",
+                "prod_num": "067",
+                "name": "해피너스",
+                "supertype": "포켓몬",
+                "subtypes": [
+                    "1진화"
+                ],
+                "type": "(무색)",
+                "pokemons": [
+                    {
+                        "name": "해피너스",
+                        "pokedexNumber": 242
+                    }
+                ],
+                "rarity": "U",
+                "regulation": "E"
+            },
+            {
+                "num": "055",
+                "prod_num": "067",
+                "name": "노라키",
+                "supertype": "포켓몬",
+                "subtypes": [
+                    "기본"
+                ],
+                "type": "(무색)",
+                "pokemons": [
+                    {
+                        "name": "노라키",
+                        "pokedexNumber": 234
+                    }
+                ],
+                "rarity": "C",
+                "regulation": "E"
+            },
+            {
+                "num": "056",
+                "prod_num": "067",
+                "name": "뽑기 아이스",
+                "supertype": "트레이너스",
+                "subtypes": [
+                    "아이템"
+                ],
+                "rarity": "U",
+                "regulation": "E"
+            },
+            {
+                "num": "057",
+                "prod_num": "067",
+                "name": "수퍼볼",
+                "supertype": "트레이너스",
+                "subtypes": [
+                    "아이템"
+                ],
+                "rarity": "U",
+                "regulation": "D"
+            },
+            {
+                "num": "058",
+                "prod_num": "067",
+                "name": "토이캐처",
+                "supertype": "트레이너스",
+                "subtypes": [
+                    "아이템"
+                ],
+                "rarity": "U",
+                "regulation": "E"
+            },
+            {
+                "num": "059",
+                "prod_num": "067",
+                "name": "포켓몬 교체",
+                "supertype": "트레이너스",
+                "subtypes": [
+                    "아이템"
+                ],
+                "rarity": "U",
+                "regulation": "D"
+            },
+            {
+                "num": "060",
+                "prod_num": "067",
+                "name": "고무글러브",
+                "supertype": "트레이너스",
+                "subtypes": [
+                    "포켓몬의 도구"
+                ],
+                "rarity": "U",
+                "regulation": "E"
+            },
+            {
+                "num": "061",
+                "prod_num": "067",
+                "name": "연격의 두루마리 비룡의 권",
+                "supertype": "트레이너스",
+                "subtypes": [
+                    "포켓몬의 도구",
+                    "연격"
+                ],
+                "rarity": "U",
+                "regulation": "E"
+            },
+            {
+                "num": "062",
+                "prod_num": "067",
+                "name": "영계의 가면",
+                "supertype": "트레이너스",
+                "subtypes": [
+                    "포켓몬의 도구"
+                ],
+                "rarity": "U",
+                "regulation": "E"
+            },
+            {
+                "num": "063",
+                "prod_num": "067",
+                "name": "사나",
+                "supertype": "트레이너스",
+                "subtypes": [
+                    "서포트"
+                ],
+                "rarity": "C",
+                "regulation": "E"
+            },
+            {
+                "num": "064",
+                "prod_num": "067",
+                "name": "스쿨보이",
+                "supertype": "트레이너스",
+                "subtypes": [
+                    "서포트"
+                ],
+                "rarity": "C",
+                "regulation": "E"
+            },
+            {
+                "num": "065",
+                "prod_num": "067",
+                "name": "피아나의 결의",
+                "supertype": "트레이너스",
+                "subtypes": [
+                    "서포트"
+                ],
+                "rarity": "U",
+                "regulation": "E"
+            },
+            {
+                "num": "066",
+                "prod_num": "067",
+                "name": "폭풍산맥",
+                "supertype": "트레이너스",
+                "subtypes": [
+                    "스타디움"
+                ],
+                "rarity": "U",
+                "regulation": "E"
+            },
+            {
+                "num": "067",
+                "prod_num": "067",
+                "name": "오로라 에너지",
+                "supertype": "에너지",
+                "subtypes": [
+                    "특수 에너지"
+                ],
+                "rarity": "U",
+                "regulation": "D"
+            },
+            {
+                "num": "068",
+                "prod_num": "067",
+                "name": "대로트 V",
+                "supertype": "포켓몬",
+                "subtypes": [
+                    "기본",
+                    "V"
+                ],
+                "type": "(풀)",
+                "pokemons": [
+                    {
+                        "name": "대로트",
+                        "pokedexNumber": 709
+                    }
+                ],
+                "rarity": "SR",
+                "regulation": "E"
+            },
+            {
+                "num": "069",
+                "prod_num": "067",
+                "name": "불카모스 V",
+                "supertype": "포켓몬",
+                "subtypes": [
+                    "기본",
+                    "V"
+                ],
+                "type": "(불꽃)",
+                "pokemons": [
+                    {
+                        "name": "불카모스",
+                        "pokedexNumber": 637
+                    }
+                ],
+                "rarity": "SR",
+                "regulation": "E"
+            },
+            {
+                "num": "070",
+                "prod_num": "067",
+                "name": "갸라도스 V",
+                "supertype": "포켓몬",
+                "subtypes": [
+                    "기본",
+                    "V"
+                ],
+                "type": "(물)",
+                "pokemons": [
+                    {
+                        "name": "갸라도스",
+                        "pokedexNumber": 130
+                    }
+                ],
+                "rarity": "SR",
+                "regulation": "E"
+            },
+            {
+                "num": "071",
+                "prod_num": "067",
+                "name": "요가램 V",
+                "supertype": "포켓몬",
+                "subtypes": [
+                    "기본",
+                    "V"
+                ],
+                "type": "(격투)",
+                "pokemons": [
+                    {
+                        "name": "요가램",
+                        "pokedexNumber": 308
+                    }
+                ],
+                "rarity": "SR",
+                "regulation": "E"
+            },
+            {
+                "num": "072",
+                "prod_num": "067",
+                "name": "요가램 V",
+                "supertype": "포켓몬",
+                "subtypes": [
+                    "기본",
+                    "V"
+                ],
+                "type": "(격투)",
+                "pokemons": [
+                    {
+                        "name": "요가램",
+                        "pokedexNumber": 308
+                    }
+                ],
+                "rarity": "SR",
+                "regulation": "E"
+            },
+            {
+                "num": "073",
+                "prod_num": "067",
+                "name": "망나뇽 V",
+                "supertype": "포켓몬",
+                "subtypes": [
+                    "기본",
+                    "V"
+                ],
+                "type": "(드래곤)",
+                "pokemons": [
+                    {
+                        "name": "망나뇽",
+                        "pokedexNumber": 149
+                    }
+                ],
+                "rarity": "SR",
+                "regulation": "E"
+            },
+            {
+                "num": "074",
+                "prod_num": "067",
+                "name": "망나뇽 V",
+                "supertype": "포켓몬",
+                "subtypes": [
+                    "기본",
+                    "V"
+                ],
+                "type": "(드래곤)",
+                "pokemons": [
+                    {
+                        "name": "망나뇽",
+                        "pokedexNumber": 149
+                    }
+                ],
+                "rarity": "SR",
+                "regulation": "E"
+            },
+            {
+                "num": "075",
+                "prod_num": "067",
+                "name": "레쿠쟈 V",
+                "supertype": "포켓몬",
+                "subtypes": [
+                    "기본",
+                    "V"
+                ],
+                "type": "(드래곤)",
+                "pokemons": [
+                    {
+                        "name": "레쿠쟈",
+                        "pokedexNumber": 384
+                    }
+                ],
+                "rarity": "SR",
+                "regulation": "E"
+            },
+            {
+                "num": "076",
+                "prod_num": "067",
+                "name": "레쿠쟈 V",
+                "supertype": "포켓몬",
+                "subtypes": [
+                    "기본",
+                    "V"
+                ],
+                "type": "(드래곤)",
+                "pokemons": [
+                    {
+                        "name": "레쿠쟈",
+                        "pokedexNumber": 384
+                    }
+                ],
+                "rarity": "SR",
+                "regulation": "E"
+            },
+            {
+                "num": "077",
+                "prod_num": "067",
+                "name": "사나",
+                "supertype": "트레이너스",
+                "subtypes": [
+                    "서포트"
+                ],
+                "rarity": "SR",
+                "regulation": "E"
+            },
+            {
+                "num": "078",
+                "prod_num": "067",
+                "name": "스쿨보이",
+                "supertype": "트레이너스",
+                "subtypes": [
+                    "서포트"
+                ],
+                "rarity": "SR",
+                "regulation": "E"
+            },
+            {
+                "num": "079",
+                "prod_num": "067",
+                "name": "피아나의 결의",
+                "supertype": "트레이너스",
+                "subtypes": [
+                    "서포트"
+                ],
+                "rarity": "SR",
+                "regulation": "E"
+            }
+        ]
+    }
+]

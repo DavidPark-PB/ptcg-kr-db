@@ -358,5 +358,65 @@
                 "debug": "1"
             }
         ]
+    },
+    {
+        "id": "SV6a-004",
+        "cardID": "빼미풀090단결020커터030",
+        "name": "빼미스로우",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "빼미스로우",
+                "pokedexNumber": 723
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "단결날개",
+                "cost": "(무색)",
+                "damage": "20×",
+                "text": "자신의 트래쉬에 있는 기술 「단결날개」를 가진 포켓몬의 장수 × 20데미지를 준다."
+            },
+            {
+                "name": "커터윈드",
+                "cost": "(풀)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "칼날깃이라고 불리는 나이프처럼 생긴 깃털을 연달아 날려서 상대의 급소를 확실하게 꿰뚫는다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "004",
+                "prodNumber": "064",
+                "prodCode": "SV6a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「나이트원더러」",
+                "artist": "Tetsu Kayama",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6a/SV6a_004.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024011004",
+                "debug": "1"
+            }
+        ]
     }
 ]

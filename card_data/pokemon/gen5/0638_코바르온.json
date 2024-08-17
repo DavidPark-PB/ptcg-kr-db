@@ -433,7 +433,7 @@
         ]
     },
     {
-        "id": "SI-306",
+        "id": "S8b-114",
         "cardID": "코바강120헤드040메탈130",
         "name": "코바르온",
         "supertype": "포켓몬",
@@ -491,6 +491,18 @@
                 "debug": "2"
             },
             {
+                "number": "114",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "Kazuma Koda",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_114.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001114",
+                "debug": "1"
+            },
+            {
                 "number": "306",
                 "prodNumber": "414",
                 "prodCode": "SI",
@@ -500,7 +512,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_306.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003306",
-                "debug": "1"
+                "debug": "2"
             }
         ]
     },

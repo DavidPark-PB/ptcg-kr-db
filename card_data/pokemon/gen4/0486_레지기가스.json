@@ -335,6 +335,18 @@
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_123.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001123",
                 "debug": "2"
+            },
+            {
+                "number": "123",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "Yuya Oka",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_123.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001123",
+                "debug": "2"
             }
         ]
     },
@@ -398,6 +410,18 @@
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_124.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001124",
                 "debug": "1"
+            },
+            {
+                "number": "124",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "PLANETA Mochizuki",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_124.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001124",
+                "debug": "2"
             }
         ]
     },
@@ -461,6 +485,76 @@
                 "rarity": "RRR",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_125.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001125",
+                "debug": "1"
+            },
+            {
+                "number": "125",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "PLANETA Mochizuki",
+                "rarity": "RRR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_125.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001125",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S12a-233",
+        "cardID": "레지무300기가230",
+        "name": "레지기가스 VSTAR",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VSTAR"
+        ],
+        "rules": [
+            "상대의 남은 프라이즈 장수가 1장이라면 자신의 차례에 사용할 수 있다. 상대의 벤치 포켓몬을 1마리 선택해서 그 포켓몬과 붙어 있는 모든 카드를 트래쉬한다. (대전 중 자신은 [VSTAR] 파워를 1번만 사용할 수 있다.)",
+            "포켓몬 VSTAR가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 300,
+        "pokemons": [
+            {
+                "name": "레지기가스",
+                "pokedexNumber": 486
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "기가임팩트",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "230",
+                "text": "자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "233",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "Aya Kusube",
+                "rarity": "SAR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_233.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001233",
                 "debug": "1"
             }
         ]

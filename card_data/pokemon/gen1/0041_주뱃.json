@@ -576,6 +576,66 @@
         ]
     },
     {
+        "id": "SV6a-027",
+        "cardID": "주뱃악050인도000어둠010",
+        "name": "주뱃",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "주뱃",
+                "pokedexNumber": 41
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "인도하기",
+                "cost": "(악)",
+                "damage": "",
+                "text": "자신의 덱에서 서포트를 1장 선택해서 상대에게 보여주고 패로 가져온다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "어둠엄니",
+                "cost": "(악)",
+                "damage": "10",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "입에서 내보내는 초음파로 주위의 상황을 살핀다. 좁은 동굴에서도 능숙하게 날아다닌다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "027",
+                "prodNumber": "064",
+                "prodCode": "SV6a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「나이트원더러」",
+                "artist": "osare",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6a/SV6a_027.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024011027",
+                "debug": "1"
+            }
+        ]
+    },
+    {
         "id": "bs8-18",
         "cardID": "주뱃초050초음000물기020",
         "name": "주뱃",

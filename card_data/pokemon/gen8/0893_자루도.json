@@ -159,7 +159,7 @@
         ]
     },
     {
-        "id": "SI-044",
+        "id": "S8b-014",
         "cardID": "자루풀130무리000반복060",
         "name": "자루도",
         "supertype": "포켓몬",
@@ -226,7 +226,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_014.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001014",
-                "debug": "2"
+                "debug": "1"
             },
             {
                 "number": "044",
@@ -238,7 +238,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_044.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003044",
-                "debug": "1"
+                "debug": "2"
             }
         ]
     },

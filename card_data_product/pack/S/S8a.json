@@ -1,7 +1,167 @@
 [
     {
+        "id": "S8a-000",
+        "cardID": "기본 풀 에너지",
+        "name": "기본 풀 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "기본 에너지"
+        ],
+        "rules": [],
+        "texts": [],
+        "number": "000",
+        "prodNumber": "GRA",
+        "prodCode": "S8a",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8a.png",
+        "prodName": "소드&실드 확장팩 「25th ANNIVERSARY COLLECTION」",
+        "rarity": "N",
+        "regulationMark": "",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8a/S8a_031.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021015031"
+    },
+    {
+        "id": "S8a-000",
+        "cardID": "기본 불꽃 에너지",
+        "name": "기본 불꽃 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "기본 에너지"
+        ],
+        "rules": [],
+        "texts": [],
+        "number": "000",
+        "prodNumber": "FIR",
+        "prodCode": "S8a",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8a.png",
+        "prodName": "소드&실드 확장팩 「25th ANNIVERSARY COLLECTION」",
+        "rarity": "N",
+        "regulationMark": "",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8a/S8a_032.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021015032"
+    },
+    {
+        "id": "S8a-000",
+        "cardID": "기본 물 에너지",
+        "name": "기본 물 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "기본 에너지"
+        ],
+        "rules": [],
+        "texts": [],
+        "number": "000",
+        "prodNumber": "WAT",
+        "prodCode": "S8a",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8a.png",
+        "prodName": "소드&실드 확장팩 「25th ANNIVERSARY COLLECTION」",
+        "rarity": "N",
+        "regulationMark": "",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8a/S8a_033.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021015033"
+    },
+    {
+        "id": "S8a-000",
+        "cardID": "기본 번개 에너지",
+        "name": "기본 번개 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "기본 에너지"
+        ],
+        "rules": [],
+        "texts": [],
+        "number": "000",
+        "prodNumber": "LIG",
+        "prodCode": "S8a",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8a.png",
+        "prodName": "소드&실드 확장팩 「25th ANNIVERSARY COLLECTION」",
+        "rarity": "N",
+        "regulationMark": "",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8a/S8a_034.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021015034"
+    },
+    {
+        "id": "S8a-000",
+        "cardID": "기본 초 에너지",
+        "name": "기본 초 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "기본 에너지"
+        ],
+        "rules": [],
+        "texts": [],
+        "number": "000",
+        "prodNumber": "PSY",
+        "prodCode": "S8a",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8a.png",
+        "prodName": "소드&실드 확장팩 「25th ANNIVERSARY COLLECTION」",
+        "rarity": "N",
+        "regulationMark": "",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8a/S8a_035.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021015035"
+    },
+    {
+        "id": "S8a-000",
+        "cardID": "기본 격투 에너지",
+        "name": "기본 격투 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "기본 에너지"
+        ],
+        "rules": [],
+        "texts": [],
+        "number": "000",
+        "prodNumber": "FIG",
+        "prodCode": "S8a",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8a.png",
+        "prodName": "소드&실드 확장팩 「25th ANNIVERSARY COLLECTION」",
+        "rarity": "N",
+        "regulationMark": "",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8a/S8a_036.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021015036"
+    },
+    {
+        "id": "S8a-000",
+        "cardID": "기본 악 에너지",
+        "name": "기본 악 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "기본 에너지"
+        ],
+        "rules": [],
+        "texts": [],
+        "number": "000",
+        "prodNumber": "DAR",
+        "prodCode": "S8a",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8a.png",
+        "prodName": "소드&실드 확장팩 「25th ANNIVERSARY COLLECTION」",
+        "rarity": "N",
+        "regulationMark": "",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8a/S8a_037.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021015037"
+    },
+    {
+        "id": "S8a-000",
+        "cardID": "기본 강철 에너지",
+        "name": "기본 강철 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "기본 에너지"
+        ],
+        "rules": [],
+        "texts": [],
+        "number": "000",
+        "prodNumber": "MET",
+        "prodCode": "S8a",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8a.png",
+        "prodName": "소드&실드 확장팩 「25th ANNIVERSARY COLLECTION」",
+        "rarity": "N",
+        "regulationMark": "",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8a/S8a_038.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021015038"
+    },
+    {
         "id": "S8a-001",
-        "cardID": "피카번060갉기010전격03025",
+        "cardID": "피카번060갉기010전격030",
         "name": "피카츄",
         "supertype": "포켓몬",
         "subtypes": [
@@ -129,6 +289,31 @@
         "regulationMark": "D",
         "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8a/S8a_003.png?w=512",
         "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021015003"
+    },
+    {
+        "id": "S8a-029",
+        "cardID": "박사의 연구(오박사)",
+        "name": "박사의 연구(오박사)",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패를 모두 트래쉬하고 덱을 7장 뽑는다."
+        ],
+        "number": "003",
+        "prodNumber": "028",
+        "prodCode": "S8a",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8a.png",
+        "prodName": "소드&실드 확장팩 「25th ANNIVERSARY COLLECTION」",
+        "artist": "Ken Sugimori",
+        "rarity": "SR",
+        "regulationMark": "D",
+        "cardImgURL": "https://firebasestorage.googleapis.com/v0/b/card32.appspot.com/o/CardImage%2F%ED%8F%AC%EC%BC%93%EB%AA%AC%EC%8A%A4%ED%84%B0%2F25th%20ANNIVERSARY%20COLLECTION%2F%ED%8F%AC%EC%BC%93%EB%AA%AC%EC%8A%A4%ED%84%B0_25th%20ANNIVERSARY%20COLLECTION_%EB%B0%95%EC%82%AC%EC%9D%98%20%EC%97%B0%EA%B5%AC_S8a-029_29.jpg?alt=media&token=bb3503ba-9ed4-4ee2-afa3-e13b2e409040",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021015029"
     },
     {
         "id": "S8a-004",
@@ -1080,7 +1265,7 @@
     },
     {
         "id": "S8a-022",
-        "cardID": "피카번310다이벌160",
+        "cardID": "피카번310다이160",
         "name": "공중날기 피카츄 VMAX",
         "supertype": "포켓몬",
         "subtypes": [
@@ -1180,7 +1365,7 @@
     },
     {
         "id": "S8a-024",
-        "cardID": "피카번310다이서160",
+        "cardID": "피카번310다이160",
         "name": "파도타기 피카츄 VMAX",
         "supertype": "포켓몬",
         "subtypes": [
@@ -1295,5 +1480,126 @@
         "regulationMark": "E",
         "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8a/S8a_025.png?w=512",
         "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021015025"
+    },
+    {
+        "id": "S8a-025",
+        "cardID": "피카번300유니000찌릿120전자150다함250",
+        "name": "피카츄 V-UNION",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V-UNION"
+        ],
+        "rules": [
+            "포켓몬 V-UNION이 기절한 경우 상대는 프라이즈를 3장 가져간다.",
+            "대전 중에 1번 자신의 차례에 자신의 트래쉬에 있는 4종류의 피카츄 V-UNION을 조합하여 벤치로 내보낸다."
+        ],
+        "hp": 300,
+        "pokemons": [
+            {
+                "name": "피카츄",
+                "pokedexNumber": 25
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "유니온게인",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 트래쉬에서 (번개) 에너지를 2장까지 선택해서 이 포켓몬에게 붙인다."
+            },
+            {
+                "name": "찌릿찌릿쇼크",
+                "cost": "(번개)(무색)",
+                "damage": "120",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다."
+            },
+            {
+                "name": "전자장해",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "150",
+                "text": "상대의 다음 차례에 상대는 패에서 아이템을 꺼내서 사용할 수 없다."
+            },
+            {
+                "name": "다함께 일렉트릭볼",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "250",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "025",
+        "prodNumber": "028",
+        "prodCode": "S8a",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8a.png",
+        "prodName": "소드&실드 확장팩 「25th ANNIVERSARY COLLECTION」",
+        "artist": "5ban Graphics 외 24인",
+        "rarity": "RRR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8a/S8a_025.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021015025"
+    },
+    {
+        "id": "S8a-030",
+        "cardID": "뮤우초060이상사이030",
+        "name": "뮤",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "뮤",
+                "pokedexNumber": 151
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "사이코숏",
+                "cost": "(초)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "이상한 꼬리",
+                "text": "이 포켓몬이 배틀필드에 있다면 자신의 차례에 1번 사용할 수 있다. 자신의 덱을 위에서부터 6장 본다. 그 중에서 아이템을 1장 선택해서 상대에게 보여주고 패로 가져온다. 남은 카드는 덱으로 되돌리고 섞는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "유전자에는 모든 포켓몬의 정보가 담겨 있기 때문에 모든 기술을 쓸 수 있다고 전해진다.",
+        "number": "030",
+        "prodNumber": "028",
+        "prodCode": "S8a",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8a.png",
+        "prodName": "소드&실드 확장팩 「25th ANNIVERSARY COLLECTION」",
+        "artist": "Saki Hayashiro",
+        "rarity": "UR",
+        "regulationMark": "E",
+        "cardImgURL": "https://firebasestorage.googleapis.com/v0/b/card32.appspot.com/o/CardImage%2F%ED%8F%AC%EC%BC%93%EB%AA%AC%EC%8A%A4%ED%84%B0%2F25th%20ANNIVERSARY%20COLLECTION%2F%ED%8F%AC%EC%BC%93%EB%AA%AC%EC%8A%A4%ED%84%B0_25th%20ANNIVERSARY%20COLLECTION_%EB%AE%A4_S8a-030_30.jpg?alt=media&token=1307fda3-e784-468a-a428-a4106510f15c",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021015030"
     }
 ]

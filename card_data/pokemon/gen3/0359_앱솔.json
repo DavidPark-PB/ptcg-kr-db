@@ -543,6 +543,30 @@
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_083.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001083",
                 "debug": "2"
+            },
+            {
+                "number": "191",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "Uta",
+                "rarity": "AR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_191.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001191",
+                "debug": "2"
+            },
+            {
+                "number": "083",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "GIDORA",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_083.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001083",
+                "debug": "2"
             }
         ]
     },
@@ -677,6 +701,60 @@
                 "rarity": "U",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV3a/SV3a_036.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023020036",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV6a-030",
+        "cardID": "앱솔악110배드020",
+        "name": "앱솔",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "앱솔",
+                "pokedexNumber": 359
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "배드폴",
+                "cost": "(무색)",
+                "damage": "20+",
+                "text": "자신의 필드에 (악) 에너지가 3개 이상 있다면 50데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "바람처럼 산과 들을 달려나간다. 초승달 모양의 뿔은 자연재해의 징조를 민감하게 감지한다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "030",
+                "prodNumber": "064",
+                "prodCode": "SV6a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「나이트원더러」",
+                "artist": "rika",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6a/SV6a_030.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024011030",
                 "debug": "1"
             }
         ]

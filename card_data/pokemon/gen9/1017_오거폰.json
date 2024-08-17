@@ -150,6 +150,42 @@
                 "debug": "2"
             },
             {
+                "number": "114",
+                "prodNumber": "101",
+                "prodCode": "SV6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「변환의 가면」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6/SV6_114.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024008114",
+                "debug": "2"
+            },
+            {
+                "number": "125",
+                "prodNumber": "101",
+                "prodCode": "SV6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「변환의 가면」",
+                "artist": "Yano Keiji",
+                "rarity": "SAR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6/SV6_125.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024008125",
+                "debug": "2"
+            },
+            {
+                "number": "131",
+                "prodNumber": "101",
+                "prodCode": "SV6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「변환의 가면」",
+                "artist": "5ban Graphics",
+                "rarity": "UR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6/SV6_131.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024008131",
+                "debug": "2"
+            },
+            {
                 "number": "090",
                 "prodNumber": "SV-P",
                 "prodCode": "SV-P",
@@ -229,6 +265,30 @@
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6/SV6_022.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024008022",
                 "debug": "1"
+            },
+            {
+                "number": "115",
+                "prodNumber": "101",
+                "prodCode": "SV6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「변환의 가면」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6/SV6_115.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024008115",
+                "debug": "2"
+            },
+            {
+                "number": "126",
+                "prodNumber": "101",
+                "prodCode": "SV6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「변환의 가면」",
+                "artist": "Yano Keiji",
+                "rarity": "SAR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6/SV6_126.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024008126",
+                "debug": "2"
             }
         ]
     },
@@ -298,6 +358,30 @@
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6/SV6_038.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024008038",
                 "debug": "1"
+            },
+            {
+                "number": "117",
+                "prodNumber": "101",
+                "prodCode": "SV6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「변환의 가면」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6/SV6_117.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024008117",
+                "debug": "2"
+            },
+            {
+                "number": "127",
+                "prodNumber": "101",
+                "prodCode": "SV6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「변환의 가면」",
+                "artist": "Yano Keiji",
+                "rarity": "SAR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6/SV6_127.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024008127",
+                "debug": "2"
             }
         ]
     },
@@ -366,6 +450,30 @@
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6/SV6_065.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024008065",
                 "debug": "1"
+            },
+            {
+                "number": "119",
+                "prodNumber": "101",
+                "prodCode": "SV6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「변환의 가면」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6/SV6_119.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024008119",
+                "debug": "2"
+            },
+            {
+                "number": "128",
+                "prodNumber": "101",
+                "prodCode": "SV6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「변환의 가면」",
+                "artist": "Yano Keiji",
+                "rarity": "SAR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6/SV6_128.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024008128",
+                "debug": "2"
             }
         ]
     }

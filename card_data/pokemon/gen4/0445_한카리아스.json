@@ -661,6 +661,18 @@
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_109.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001109",
                 "debug": "2"
+            },
+            {
+                "number": "109",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "N-DESIGN Inc.",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_109.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001109",
+                "debug": "2"
             }
         ]
     },

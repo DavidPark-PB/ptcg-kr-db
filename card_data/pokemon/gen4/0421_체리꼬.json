@@ -120,7 +120,7 @@
         ]
     },
     {
-        "id": "SI-016",
+        "id": "S8b-006",
         "cardID": "체리풀080완연씨폭070",
         "name": "체리꼬",
         "supertype": "포켓몬",
@@ -147,7 +147,7 @@
         "abilities": [
             {
                 "name": "완연한 봄",
-                "text": "자신의 차례에 몇 번이라도 사용할 수 있다. 자신의 패에서 (풀) 에너지를 1장 선택해서 자신의 포켓몬(「룰을 가진 포켓몬」을 제외)에게 붙인다.",
+                "text": "자신의 차례에 몇 번이라도 사용할 수 있다. 자신의 패에서 (풀) 에너지를 1장 선택해서 자신의 포켓몬(「룰을 가진 포켓몬」은 제외)에게 붙인다.",
                 "type": "특성"
             }
         ],
@@ -187,7 +187,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_006.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001006",
-                "debug": "2"
+                "debug": "1"
             },
             {
                 "number": "016",
@@ -199,7 +199,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_016.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003016",
-                "debug": "1"
+                "debug": "2"
             }
         ]
     },

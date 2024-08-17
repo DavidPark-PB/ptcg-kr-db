@@ -205,13 +205,12 @@
         ]
     },
     {
-        "id": "SI-090",
+        "id": "S8b-031",
         "cardID": "대포물110연격폭포050",
         "name": "대포무노",
         "supertype": "포켓몬",
         "subtypes": [
-            "1진화",
-            "연격"
+            "1진화"
         ],
         "rules": [],
         "hp": 110,
@@ -285,6 +284,18 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_031.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001031",
+                "debug": "1"
+            },
+            {
+                "number": "191",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "Shinya Komatsu",
+                "rarity": "CHR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_191.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001191",
                 "debug": "2"
             },
             {
@@ -297,7 +308,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_090.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003090",
-                "debug": "1"
+                "debug": "2"
             }
         ]
     },

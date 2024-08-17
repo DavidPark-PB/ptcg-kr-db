@@ -9,7 +9,7 @@ import io
 import re
 from collections import Counter
 
-CARDDATA_ROOT = '../../ptcg_kr_card_data_test/'
+CARDDATA_ROOT = '../../ptcg_kr_card_data/'
 
 def to_three_digit(x):
     if x >= 100 :
@@ -96,6 +96,7 @@ def fix_cardID():
                     except Exception as e:
                         print(f"Error inserting {file_path}: {e}")
                 if id_count > 0:
+                    print(file)
                     with open(file_path,'w',encoding='utf-8') as out_file:
                         json.dump(data,out_file,ensure_ascii=False, indent =4) 
                        

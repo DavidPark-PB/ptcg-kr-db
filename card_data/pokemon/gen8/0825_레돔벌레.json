@@ -84,7 +84,7 @@
         ]
     },
     {
-        "id": "S5R-037",
+        "id": "S8b-078",
         "cardID": "레돔초070레이000부딪020",
         "name": "레돔벌레",
         "supertype": "포켓몬",
@@ -139,7 +139,19 @@
                 "rarity": "U",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_037.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002037",
-                "debug": "1"
+                "debug": "2"
+            },
+            {
+                "number": "078",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "Midori Harada",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_078.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001078",
+                "debug": "3"
             }
         ]
     },
@@ -193,7 +205,7 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_009.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008009",
-                "debug": "3"
+                "debug": "1"
             }
         ]
     },

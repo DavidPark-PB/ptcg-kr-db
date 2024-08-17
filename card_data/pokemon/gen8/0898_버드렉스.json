@@ -1,6 +1,6 @@
 [
     {
-        "id": "SI-125",
+        "id": "S8b-043",
         "cardID": "버드물210궤찌040블리200",
         "name": "백마 버드렉스 V",
         "supertype": "포켓몬",
@@ -94,6 +94,18 @@
                 "rarity": "RR",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_043.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001043",
+                "debug": "3"
+            },
+            {
+                "number": "220",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "Mitsuhiro Arita",
+                "rarity": "CSR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_220.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001220",
                 "debug": "2"
             },
             {
@@ -106,12 +118,12 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_125.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003125",
-                "debug": "3"
+                "debug": "2"
             }
         ]
     },
     {
-        "id": "SI-126",
+        "id": "S8b-044",
         "cardID": "버드물320엠페010다이010",
         "name": "백마 버드렉스 VMAX",
         "supertype": "포켓몬",
@@ -181,6 +193,18 @@
                 "rarity": "RRR",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_044.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001044",
+                "debug": "1"
+            },
+            {
+                "number": "221",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "Hitoshi Ariga",
+                "rarity": "CSR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_221.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001221",
                 "debug": "2"
             },
             {
@@ -193,12 +217,12 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_126.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003126",
-                "debug": "1"
+                "debug": "2"
             }
         ]
     },
     {
-        "id": "SI-203",
+        "id": "S8b-082",
         "cardID": "버드초210섀도010아스000",
         "name": "흑마 버드렉스 V",
         "supertype": "포켓몬",
@@ -283,6 +307,30 @@
                 "debug": "2"
             },
             {
+                "number": "082",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "D.A.G Inc.",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_082.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001082",
+                "debug": "1"
+            },
+            {
+                "number": "235",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "Oswaldo KATO",
+                "rarity": "CSR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_235.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001235",
+                "debug": "2"
+            },
+            {
                 "number": "203",
                 "prodNumber": "414",
                 "prodCode": "SI",
@@ -292,12 +340,12 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_203.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003203",
-                "debug": "1"
+                "debug": "2"
             }
         ]
     },
     {
-        "id": "SI-204",
+        "id": "S8b-083",
         "cardID": "버드초320명계다이010",
         "name": "흑마 버드렉스 VMAX",
         "supertype": "포켓몬",
@@ -358,6 +406,30 @@
                 "debug": "2"
             },
             {
+                "number": "083",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "5ban Graphics",
+                "rarity": "RRR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_083.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001083",
+                "debug": "1"
+            },
+            {
+                "number": "236",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "chibi",
+                "rarity": "CSR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_236.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001236",
+                "debug": "2"
+            },
+            {
                 "number": "204",
                 "prodNumber": "414",
                 "prodCode": "SI",
@@ -367,7 +439,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_204.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003204",
-                "debug": "1"
+                "debug": "2"
             }
         ]
     },

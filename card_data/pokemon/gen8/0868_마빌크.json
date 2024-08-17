@@ -139,6 +139,66 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4/S4_051.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020014051",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S8b-080",
+        "cardID": "마빌초050인도000부딪010",
+        "name": "마빌크",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "마빌크",
+                "pokedexNumber": 868
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "인도하기",
+                "cost": "(초)",
+                "damage": "",
+                "text": "자신의 덱에서 서포트를 1장 선택해서 상대에게 보여주고 패로 가져온다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "부딪치기",
+                "cost": "(초)",
+                "damage": "10",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "마빌크가 모습을 보인 디저트 가게는 크게 번창한다고 전해지고 있다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "080",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "Misa Tsutsui",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_080.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001080",
                 "debug": "3"
             }
         ]

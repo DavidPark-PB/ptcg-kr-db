@@ -483,14 +483,13 @@
         ]
     },
     {
-        "id": "SI-191",
+        "id": "S8b-073",
         "cardID": "님피초200드림매지060",
         "name": "님피아 V",
         "supertype": "포켓몬",
         "subtypes": [
             "기본",
-            "V",
-            "연격"
+            "V"
         ],
         "rules": [
             "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
@@ -569,6 +568,30 @@
                 "debug": "2"
             },
             {
+                "number": "073",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "aky CG Works",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_073.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001073",
+                "debug": "1"
+            },
+            {
+                "number": "231",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "Megumi Mizutani",
+                "rarity": "CSR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_231.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001231",
+                "debug": "2"
+            },
+            {
                 "number": "191",
                 "prodNumber": "414",
                 "prodCode": "SI",
@@ -578,19 +601,18 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_191.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003191",
-                "debug": "1"
+                "debug": "2"
             }
         ]
     },
     {
-        "id": "SI-192",
+        "id": "S8b-074",
         "cardID": "님피초310프레000다이070",
         "name": "님피아 VMAX",
         "supertype": "포켓몬",
         "subtypes": [
             "V진화",
-            "VMAX",
-            "연격"
+            "VMAX"
         ],
         "rules": [
             "포켓몬 VMAX가 기절한 경우 상대는 프라이즈를 3장 가져간다."
@@ -645,6 +667,30 @@
                 "debug": "2"
             },
             {
+                "number": "074",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "Ryota Murayama",
+                "rarity": "RRR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_074.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001074",
+                "debug": "1"
+            },
+            {
+                "number": "232",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "sui",
+                "rarity": "CSR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_232.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001232",
+                "debug": "2"
+            },
+            {
                 "number": "192",
                 "prodNumber": "414",
                 "prodCode": "SI",
@@ -654,7 +700,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_192.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003192",
-                "debug": "1"
+                "debug": "2"
             }
         ]
     },
@@ -714,6 +760,66 @@
                 "rarity": "R",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10b/S10b_035.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022010035",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV6a-022",
+        "cardID": "님피초120미스000차밍090",
+        "name": "님피아",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "님피아",
+                "pokedexNumber": 700
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "미스틱리턴",
+                "cost": "(초)",
+                "damage": "",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 벤치 포켓몬을 1마리 선택해서 그 포켓몬과 붙어 있는 모든 카드를 상대의 덱으로 되돌리고 섞는다."
+            },
+            {
+                "name": "차밍보이스",
+                "cost": "(초)(무색)(무색)",
+                "damage": "90",
+                "text": "상대의 배틀 포켓몬을 혼란으로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "더듬이를 나부끼며 경쾌하게 춤추는 모습은 우아하지만 기술은 날카롭게 급소를 노린다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "022",
+                "prodNumber": "064",
+                "prodCode": "SV6a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「나이트원더러」",
+                "artist": "Kuroimori",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6a/SV6a_022.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024011022",
                 "debug": "1"
             }
         ]

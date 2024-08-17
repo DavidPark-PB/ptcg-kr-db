@@ -121,7 +121,7 @@
     },
     {
         "id": "sma-024",
-        "cardID": "하리격130밀어060메가손130",
+        "cardID": "하리격130밀어060메가130",
         "name": "하리뭉",
         "supertype": "포켓몬",
         "subtypes": [
@@ -176,55 +176,7 @@
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMA/SMA_024.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2017001024",
                 "debug": "3"
-            }
-        ]
-    },
-    {
-        "id": "sm1s-030",
-        "cardID": "하리격130밀어060메가뺨130",
-        "name": "하리뭉",
-        "supertype": "포켓몬",
-        "subtypes": [
-            "1진화"
-        ],
-        "rules": [],
-        "hp": 130,
-        "pokemons": [
-            {
-                "name": "하리뭉",
-                "pokedexNumber": 297
-            }
-        ],
-        "type": "(격투)",
-        "attacks": [
-            {
-                "name": "밀어내기",
-                "cost": "(격투)(무색)(무색)",
-                "damage": "60",
-                "text": "상대의 배틀 포켓몬을 벤치 포켓몬과 교체한다. (배틀필드로 내보낼 포켓몬은 상대가 선택한다.)"
             },
-            {
-                "name": "메가톤 뺨때리기",
-                "cost": "(격투)(무색)(무색)(무색)",
-                "damage": "130",
-                "text": ""
-            }
-        ],
-        "abilities": [],
-        "weakness": {
-            "type": "(초)",
-            "value": "×2"
-        },
-        "resistance": {
-            "type": "",
-            "value": "--"
-        },
-        "retreatCost": 4,
-        "flavorText": "괴력으로 알려졌지만 나이가 들면 싸우는 것을 그만두고 마크탕을 훈련시키며 지낸다.",
-        "regulationMark": [
-            "A"
-        ],
-        "version_infos": [
             {
                 "number": "030",
                 "prodNumber": "060",
@@ -235,7 +187,7 @@
                 "rarity": "U",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM1S/SM1S_030.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017001030",
-                "debug": "1"
+                "debug": "2"
             }
         ]
     },

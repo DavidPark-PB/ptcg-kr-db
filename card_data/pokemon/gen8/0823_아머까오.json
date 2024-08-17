@@ -144,7 +144,7 @@
         ]
     },
     {
-        "id": "SI-309",
+        "id": "S8b-115",
         "cardID": "아머강210꽉쥐030스카190",
         "name": "아머까오 V",
         "supertype": "포켓몬",
@@ -217,6 +217,30 @@
                 "debug": "2"
             },
             {
+                "number": "115",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "PLANETA Mochizuki",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_115.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001115",
+                "debug": "3"
+            },
+            {
+                "number": "248",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "KIYOTAKA OSHIYAMA",
+                "rarity": "CSR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_248.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001248",
+                "debug": "2"
+            },
+            {
                 "number": "309",
                 "prodNumber": "414",
                 "prodCode": "SI",
@@ -226,12 +250,12 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_309.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003309",
-                "debug": "3"
+                "debug": "2"
             }
         ]
     },
     {
-        "id": "SI-310",
+        "id": "S8b-116",
         "cardID": "아머강320러스거다240",
         "name": "아머까오 VMAX",
         "supertype": "포켓몬",
@@ -292,6 +316,30 @@
                 "debug": "2"
             },
             {
+                "number": "116",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "PLANETA Mochizuki",
+                "rarity": "RRR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_116.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001116",
+                "debug": "1"
+            },
+            {
+                "number": "249",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "Shigenori Negishi",
+                "rarity": "CSR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_249.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001249",
+                "debug": "2"
+            },
+            {
                 "number": "310",
                 "prodNumber": "414",
                 "prodCode": "SI",
@@ -301,7 +349,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_310.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003310",
-                "debug": "1"
+                "debug": "2"
             }
         ]
     },

@@ -478,5 +478,59 @@
                 "debug": "1"
             }
         ]
+    },
+    {
+        "id": "SV6a-052",
+        "cardID": "포곰무080돌진030",
+        "name": "포곰곰",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "포곰곰",
+                "pokedexNumber": 759
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "돌진",
+                "cost": "(무색)",
+                "damage": "30",
+                "text": "이 포켓몬에게도 10데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "푹신푹신한 털은 감촉이 뛰어나지만 섣불리 손을 댔다간 호되게 반격을 당하고 만다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "052",
+                "prodNumber": "064",
+                "prodCode": "SV6a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「나이트원더러」",
+                "artist": "ryoma uratsuka",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6a/SV6a_052.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024011052",
+                "debug": "1"
+            }
+        ]
     }
 ]

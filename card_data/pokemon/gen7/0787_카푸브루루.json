@@ -190,8 +190,8 @@
         ]
     },
     {
-        "id": "sm7a-009",
-        "cardID": "카푸풀130허슬020와일120B",
+        "id": "SM30A-008",
+        "cardID": "카푸풀130허슬020와일120",
         "name": "카푸브루루",
         "supertype": "포켓몬",
         "subtypes": [
@@ -232,7 +232,8 @@
         "retreatCost": 2,
         "flavorText": "울라울라의 수호신으로 게으름뱅이다. 초목을 조종해 적을 묶어서 움직임을 멈추게 하고 뿔로 단번에 받는다.",
         "regulationMark": [
-            "B"
+            "B",
+            "C"
         ],
         "version_infos": [
             {
@@ -245,56 +246,8 @@
                 "rarity": "R",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM7A/SM7A_009.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018012009",
-                "debug": "1"
-            }
-        ]
-    },
-    {
-        "id": "SM30A-008",
-        "cardID": "카푸풀130허슬020와일120C",
-        "name": "카푸브루루",
-        "supertype": "포켓몬",
-        "subtypes": [
-            "기본"
-        ],
-        "rules": [],
-        "hp": 130,
-        "pokemons": [
-            {
-                "name": "카푸브루루",
-                "pokedexNumber": 787
-            }
-        ],
-        "type": "(풀)",
-        "attacks": [
-            {
-                "name": "허슬펀치",
-                "cost": "(풀)(무색)",
-                "damage": "20x",
-                "text": "상대의 벤치 포켓몬의 수 × 20데미지를 준다."
+                "debug": "2"
             },
-            {
-                "name": "와일드태클",
-                "cost": "(풀)(풀)(무색)",
-                "damage": "120",
-                "text": "동전을 1번 던져서 뒷면이 나오면 이 포켓몬에게도 30데미지를 준다."
-            }
-        ],
-        "abilities": [],
-        "weakness": {
-            "type": "(불꽃)",
-            "value": "×2"
-        },
-        "resistance": {
-            "type": "",
-            "value": "--"
-        },
-        "retreatCost": 2,
-        "flavorText": "울라울라의 수호신으로 게으름뱅이다. 초목을 조종해 적을 묶어서 움직임을 멈추게 하고 뿔로 단번에 받는다.",
-        "regulationMark": [
-            "C"
-        ],
-        "version_infos": [
             {
                 "number": "008",
                 "prodNumber": "080",
@@ -377,6 +330,60 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_034.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003034",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV6a-006",
+        "cardID": "카푸풀140우드220",
+        "name": "카푸브루루",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "카푸브루루",
+                "pokedexNumber": 787
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "우드해머",
+                "cost": "(풀)(풀)(무색)(무색)",
+                "damage": "220",
+                "text": "이 포켓몬에게도 30데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "큰 나무를 뽑아서 빙빙 휘두른다. 초목을 무성하게 만들어 그 에너지를 흡수한다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "006",
+                "prodNumber": "064",
+                "prodCode": "SV6a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「나이트원더러」",
+                "artist": "GOSSAN",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6a/SV6a_006.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024011006",
                 "debug": "1"
             }
         ]

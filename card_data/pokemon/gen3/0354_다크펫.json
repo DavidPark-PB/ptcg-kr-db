@@ -340,7 +340,7 @@
         ]
     },
     {
-        "id": "S6H-037",
+        "id": "S8b-065",
         "cardID": "다크초080각오020괴상050",
         "name": "다크펫",
         "supertype": "포켓몬",
@@ -395,7 +395,31 @@
                 "rarity": "U",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S6/S6H_037.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021004037",
-                "debug": "1"
+                "debug": "2"
+            },
+            {
+                "number": "065",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "Megumi Higuchi",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_065.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001065",
+                "debug": "3"
+            },
+            {
+                "number": "197",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "Tomomi Kaneko",
+                "rarity": "CHR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_197.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001197",
+                "debug": "2"
             }
         ]
     },
@@ -455,7 +479,7 @@
                 "rarity": "U",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S11/S11_046.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022014046",
-                "debug": "3"
+                "debug": "1"
             }
         ]
     },

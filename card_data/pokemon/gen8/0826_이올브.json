@@ -169,6 +169,18 @@
                 "debug": "2"
             },
             {
+                "number": "214",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "Nisota Niso",
+                "rarity": "CSR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_214.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001214",
+                "debug": "2"
+            },
+            {
                 "number": "064",
                 "prodNumber": "S-P",
                 "prodCode": "S-P",
@@ -254,11 +266,23 @@
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_011.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001011",
                 "debug": "1"
+            },
+            {
+                "number": "215",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "Teeziro",
+                "rarity": "CSR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_215.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001215",
+                "debug": "2"
             }
         ]
     },
     {
-        "id": "S5R-038",
+        "id": "S8b-079",
         "cardID": "이올초110이볼000사념120",
         "name": "이올브",
         "supertype": "포켓몬",
@@ -313,6 +337,18 @@
                 "rarity": "R",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_038.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002038",
+                "debug": "2"
+            },
+            {
+                "number": "079",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "Mizue",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_079.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001079",
                 "debug": "1"
             }
         ]

@@ -86,7 +86,7 @@ def remove_pika_roto():
         for file in files:
             if file.endswith('.json'):
                 file_path = os.path.join(root, file)
-                #pika_roto_count = 0
+                pika_roto_count = 0
                 with open(file_path, 'r', encoding='utf-8') as json_file:
                     try:
                         data = json.load(json_file)
@@ -97,11 +97,11 @@ def remove_pika_roto():
                                 pika_roto_count += 1
                     except Exception as e:
                         print(f"Error inserting {file_path}: {e}")
-                #if pika_roto_count > 0:
-                #    with open(file_path,'w',encoding='utf-8') as out_file:
-                #        json.dump(data,out_file,ensure_ascii=False, indent =4) 
+                if pika_roto_count > 0:
+                    with open(file_path,'w',encoding='utf-8') as out_file:
+                        json.dump(data,out_file,ensure_ascii=False, indent =4) 
     
-    print(pika_roto_count)
+    #print(pika_roto_count)
 
 if __name__ == "__main__":
     remove_pika_roto()

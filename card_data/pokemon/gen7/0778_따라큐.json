@@ -580,7 +580,7 @@
         ]
     },
     {
-        "id": "SI-197",
+        "id": "S8b-076",
         "cardID": "따라초160더미부러000",
         "name": "따라큐 V",
         "supertype": "포켓몬",
@@ -653,6 +653,30 @@
                 "debug": "2"
             },
             {
+                "number": "076",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "Eske Yoshinob",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_076.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001076",
+                "debug": "1"
+            },
+            {
+                "number": "233",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "saino misaki",
+                "rarity": "CSR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_233.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001233",
+                "debug": "2"
+            },
+            {
                 "number": "197",
                 "prodNumber": "414",
                 "prodCode": "SI",
@@ -662,7 +686,82 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_197.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003197",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S8b-077",
+        "cardID": "따라초300오컬000다이120",
+        "name": "따라큐 VMAX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VMAX"
+        ],
+        "rules": [
+            "포켓몬 VMAX가 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 300,
+        "pokemons": [
+            {
+                "name": "따라큐",
+                "pokedexNumber": 778
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "오컬트넘버",
+                "cost": "(무색)(무색)",
+                "damage": "",
+                "text": "데미지 카운터 4개를 상대의 포켓몬에게 원하는 대로 올린다. 이 차례에 자신의 패에서 「아세로라의 예감」을 꺼내서 사용했다면 올리는 데미지 카운터의 수는 13개가 된다."
+            },
+            {
+                "name": "다이섀도",
+                "cost": "(초)(초)",
+                "damage": "120",
+                "text": "상대의 패에서 앞면을 보지 않고 1장 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "077",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "Studio Bora Inc.",
+                "rarity": "RRR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_077.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001077",
                 "debug": "1"
+            },
+            {
+                "number": "234",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "Naoki Saito",
+                "rarity": "CSR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_234.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001234",
+                "debug": "2"
             }
         ]
     },

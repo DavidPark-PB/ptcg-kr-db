@@ -1836,6 +1836,18 @@
                 "debug": "3"
             },
             {
+                "number": "077",
+                "prodNumber": "067",
+                "prodCode": "S7R",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7R.png",
+                "prodName": "소드&실드 확장팩 「창공스트림」",
+                "artist": "Yuu Nishida",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7R_077.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021009077",
+                "debug": "3"
+            },
+            {
                 "number": "050",
                 "prodNumber": "053",
                 "prodCode": "SH",
@@ -3538,6 +3550,18 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SH/SH_023_D.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021013075",
+                "debug": "3"
+            },
+            {
+                "number": "274",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "Ryuta Fuse",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_274.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001274",
                 "debug": "3"
             },
             {
@@ -7352,6 +7376,18 @@
                 "debug": "3"
             },
             {
+                "number": "079",
+                "prodNumber": "067",
+                "prodCode": "S7D",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+                "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+                "artist": "Sanosuke Sakuma",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_079.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021008079",
+                "debug": "3"
+            },
+            {
                 "number": "411",
                 "prodNumber": "414",
                 "prodCode": "SI",
@@ -11093,6 +11129,18 @@
                 "debug": "3"
             },
             {
+                "number": "153",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "kirisAki",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_153.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001153",
+                "debug": "3"
+            },
+            {
                 "number": "036",
                 "prodNumber": "S-P",
                 "prodCode": "S-P",
@@ -11648,6 +11696,18 @@
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SE/SEF_020.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2021001020",
                 "debug": "3"
+            },
+            {
+                "number": "270",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "Sanosuke Sakuma",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_270.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001270",
+                "debug": "3"
             }
         ]
     },
@@ -12029,7 +12089,7 @@
         ]
     },
     {
-        "id": "S2a-067",
+        "id": "S8b-268",
         "cardID": "순무",
         "name": "순무",
         "supertype": "트레이너스",
@@ -12070,6 +12130,18 @@
                 "rarity": "SR",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S2a/S2a_077.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020010077",
+                "debug": "3"
+            },
+            {
+                "number": "268",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "Hideki Ishikawa",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_268.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001268",
                 "debug": "3"
             }
         ]
@@ -12121,76 +12193,7 @@
         ]
     },
     {
-        "id": "S4a-172",
-        "cardID": "두송",
-        "name": "두송",
-        "supertype": "트레이너스",
-        "subtypes": [
-            "서포트"
-        ],
-        "rules": [
-            "서포트는 자신의 차례에 1장만 사용할 수 있다."
-        ],
-        "texts": [
-            "자신의 덱에서 (악) 포켓몬과 에너지를 1장씩 선택해서 상대에게 보여주고 패로 가져온다.",
-            "그리고 덱을 섞는다."
-        ],
-        "regulationMark": [
-            "D"
-        ],
-        "version_infos": [
-            {
-                "number": "094",
-                "prodNumber": "100",
-                "prodCode": "S3",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S3.png",
-                "prodName": "소드&실드 확장팩 「무한존」",
-                "artist": "take",
-                "rarity": "U",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S3/S3_094.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020011094",
-                "debug": "3"
-            },
-            {
-                "number": "109",
-                "prodNumber": "100",
-                "prodCode": "S3",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S3.png",
-                "prodName": "소드&실드 확장팩 「무한존」",
-                "artist": "kirisAki",
-                "rarity": "SR",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S3/S3_109.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020011109",
-                "debug": "3"
-            },
-            {
-                "number": "172",
-                "prodNumber": "190",
-                "prodCode": "S4a",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
-                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
-                "artist": "take",
-                "rarity": "N",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_172.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016172",
-                "debug": "3"
-            },
-            {
-                "number": "191",
-                "prodNumber": "190",
-                "prodCode": "S4a",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
-                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
-                "artist": "Megumi Mizutani",
-                "rarity": "SR",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_191.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016191",
-                "debug": "3"
-            }
-        ]
-    },
-    {
-        "id": "S4a-173",
+        "id": "S8b-152",
         "cardID": "로즈",
         "name": "로즈",
         "supertype": "트레이너스",
@@ -12255,11 +12258,23 @@
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_192.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016192",
                 "debug": "3"
+            },
+            {
+                "number": "152",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "Yusuke Ohmura",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_152.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001152",
+                "debug": "3"
             }
         ]
     },
     {
-        "id": "S4a-178",
+        "id": "S8b-159",
         "cardID": "새 조련사",
         "name": "새 조련사",
         "supertype": "트레이너스",
@@ -12312,6 +12327,214 @@
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_196.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016196",
                 "debug": "3"
+            },
+            {
+                "number": "159",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "Hideki Ishikawa",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_159.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001159",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "S8b-257",
+        "cardID": "두송",
+        "name": "두송",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱에서 (악) 포켓몬과 에너지를 1장씩 선택해서 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "094",
+                "prodNumber": "100",
+                "prodCode": "S3",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S3.png",
+                "prodName": "소드&실드 확장팩 「무한존」",
+                "artist": "take",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S3/S3_094.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020011094",
+                "debug": "3"
+            },
+            {
+                "number": "109",
+                "prodNumber": "100",
+                "prodCode": "S3",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S3.png",
+                "prodName": "소드&실드 확장팩 「무한존」",
+                "artist": "kirisAki",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S3/S3_109.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020011109",
+                "debug": "3"
+            },
+            {
+                "number": "172",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "take",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_172.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016172",
+                "debug": "3"
+            },
+            {
+                "number": "191",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "Megumi Mizutani",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_191.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016191",
+                "debug": "3"
+            },
+            {
+                "number": "257",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "GOSSAN",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_257.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001257",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "S8b-272",
+        "cardID": "어니언",
+        "name": "어니언",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱을 3장 뽑는다.",
+            "그 뒤, 자신의 패를 3장까지 선택해서 트래쉬한다.",
+            "(반드시 1장은 트래쉬한다.)"
+        ],
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "072",
+                "prodNumber": "076",
+                "prodCode": "S3a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S3a.png",
+                "prodName": "소드&실드 강화 확장팩 「전설의 고동」",
+                "artist": "take",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S3a/S3a_072.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020012072",
+                "debug": "3"
+            },
+            {
+                "number": "084",
+                "prodNumber": "076",
+                "prodCode": "S3a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S3a.png",
+                "prodName": "소드&실드 강화 확장팩 「전설의 고동」",
+                "artist": "Sanosuke Sakuma",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S3a/S3a_084.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020012084",
+                "debug": "3"
+            },
+            {
+                "number": "272",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "Jiro Sasumo",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_272.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001272",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "S8b-277",
+        "cardID": "포플러",
+        "name": "포플러",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "동전을 2번 던져서 앞면이 나온 수만큼까지 자신의 덱에서 원하는 카드를 선택해서 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "073",
+                "prodNumber": "076",
+                "prodCode": "S3a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S3a.png",
+                "prodName": "소드&실드 강화 확장팩 「전설의 고동」",
+                "artist": "take",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S3a/S3a_073.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020012073",
+                "debug": "3"
+            },
+            {
+                "number": "085",
+                "prodNumber": "076",
+                "prodCode": "S3a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S3a.png",
+                "prodName": "소드&실드 강화 확장팩 「전설의 고동」",
+                "artist": "Naoki Saito",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S3a/S3a_085.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020012085",
+                "debug": "3"
+            },
+            {
+                "number": "277",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "Taira Akitsu",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_277.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001277",
+                "debug": "3"
             }
         ]
     },
@@ -12356,97 +12579,6 @@
                 "rarity": "SR",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S3a/S3a_083.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020012083",
-                "debug": "3"
-            }
-        ]
-    },
-    {
-        "id": "S3a-072",
-        "cardID": "어니언",
-        "name": "어니언",
-        "supertype": "트레이너스",
-        "subtypes": [
-            "서포트"
-        ],
-        "rules": [
-            "서포트는 자신의 차례에 1장만 사용할 수 있다."
-        ],
-        "texts": [
-            "자신의 덱을 3장 뽑는다.",
-            "그 뒤, 자신의 패를 3장까지 선택해서 트래쉬한다.",
-            "(반드시 1장은 트래쉬한다.)"
-        ],
-        "regulationMark": [
-            "D"
-        ],
-        "version_infos": [
-            {
-                "number": "072",
-                "prodNumber": "076",
-                "prodCode": "S3a",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S3a.png",
-                "prodName": "소드&실드 강화 확장팩 「전설의 고동」",
-                "artist": "take",
-                "rarity": "U",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S3a/S3a_072.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020012072",
-                "debug": "3"
-            },
-            {
-                "number": "084",
-                "prodNumber": "076",
-                "prodCode": "S3a",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S3a.png",
-                "prodName": "소드&실드 강화 확장팩 「전설의 고동」",
-                "artist": "Sanosuke Sakuma",
-                "rarity": "SR",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S3a/S3a_084.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020012084",
-                "debug": "3"
-            }
-        ]
-    },
-    {
-        "id": "S3a-073",
-        "cardID": "포플러",
-        "name": "포플러",
-        "supertype": "트레이너스",
-        "subtypes": [
-            "서포트"
-        ],
-        "rules": [
-            "서포트는 자신의 차례에 1장만 사용할 수 있다."
-        ],
-        "texts": [
-            "동전을 2번 던져서 앞면이 나온 수만큼까지 자신의 덱에서 원하는 카드를 선택해서 패로 가져온다.",
-            "그리고 덱을 섞는다."
-        ],
-        "regulationMark": [
-            "D"
-        ],
-        "version_infos": [
-            {
-                "number": "073",
-                "prodNumber": "076",
-                "prodCode": "S3a",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S3a.png",
-                "prodName": "소드&실드 강화 확장팩 「전설의 고동」",
-                "artist": "take",
-                "rarity": "U",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S3a/S3a_073.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020012073",
-                "debug": "3"
-            },
-            {
-                "number": "085",
-                "prodNumber": "076",
-                "prodCode": "S3a",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S3a.png",
-                "prodName": "소드&실드 강화 확장팩 「전설의 고동」",
-                "artist": "Naoki Saito",
-                "rarity": "SR",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S3a/S3a_085.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020012085",
                 "debug": "3"
             }
         ]
@@ -12504,11 +12636,35 @@
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SE/SEK_019.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2021002019",
                 "debug": "3"
+            },
+            {
+                "number": "162",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "take",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_162.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001162",
+                "debug": "3"
+            },
+            {
+                "number": "271",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "saino misaki",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_271.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001271",
+                "debug": "3"
             }
         ]
     },
     {
-        "id": "SH-047",
+        "id": "S8b-150",
         "cardID": "단델",
         "name": "단델",
         "supertype": "트레이너스",
@@ -12560,44 +12716,23 @@
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SH/SH_020_D.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021013072",
                 "debug": "3"
-            }
-        ]
-    },
-    {
-        "id": "S4-094",
-        "cardID": "리그 스태프",
-        "name": "리그 스태프",
-        "supertype": "트레이너스",
-        "subtypes": [
-            "서포트"
-        ],
-        "rules": [
-            "서포트는 자신의 차례에 1장만 사용할 수 있다."
-        ],
-        "texts": [
-            "자신의 덱을 2장 뽑는다.",
-            "필드에 「슛스타디움」이 나와 있다면 2장 더 뽑는다."
-        ],
-        "regulationMark": [
-            "D"
-        ],
-        "version_infos": [
+            },
             {
-                "number": "094",
-                "prodNumber": "100",
-                "prodCode": "S4",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4.png",
-                "prodName": "소드&실드 확장팩 「앙천의 볼트태클」",
-                "artist": "Emi Ando",
-                "rarity": "U",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4/S4_094.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020014094",
+                "number": "150",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "Ken Sugimori",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_150.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001150",
                 "debug": "3"
             }
         ]
     },
     {
-        "id": "S4-096",
+        "id": "S8b-275",
         "cardID": "채두",
         "name": "채두",
         "supertype": "트레이너스",
@@ -12636,6 +12771,51 @@
                 "rarity": "SR",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4/S4_111.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020014111",
+                "debug": "3"
+            },
+            {
+                "number": "275",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "Souichirou Gunjima",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_275.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001275",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "S4-094",
+        "cardID": "리그 스태프",
+        "name": "리그 스태프",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱을 2장 뽑는다.",
+            "필드에 「슛스타디움」이 나와 있다면 2장 더 뽑는다."
+        ],
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "094",
+                "prodNumber": "100",
+                "prodCode": "S4",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4.png",
+                "prodName": "소드&실드 확장팩 「앙천의 볼트태클」",
+                "artist": "Emi Ando",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4/S4_094.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020014094",
                 "debug": "3"
             }
         ]
@@ -12828,6 +13008,18 @@
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SG/SGG_015.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021008015",
                 "debug": "3"
+            },
+            {
+                "number": "264",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "Yuu Nishida",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_264.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001264",
+                "debug": "3"
             }
         ]
     },
@@ -12896,11 +13088,35 @@
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SG/SGG_016.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021008016",
                 "debug": "3"
+            },
+            {
+                "number": "158",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "Ryuta Fuse",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_158.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001158",
+                "debug": "3"
+            },
+            {
+                "number": "266",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "NC Empire",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_266.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001266",
+                "debug": "3"
             }
         ]
     },
     {
-        "id": "SI-394",
+        "id": "S8b-156",
         "cardID": "모미",
         "name": "모미",
         "supertype": "트레이너스",
@@ -12943,6 +13159,18 @@
                 "debug": "3"
             },
             {
+                "number": "156",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "Ken Sugimori",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_156.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001156",
+                "debug": "3"
+            },
+            {
                 "number": "394",
                 "prodNumber": "414",
                 "prodCode": "SI",
@@ -12952,6 +13180,18 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_394.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003394",
+                "debug": "3"
+            },
+            {
+                "number": "151",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "Ken Sugimori",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_151.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001151",
                 "debug": "3"
             },
             {
@@ -12993,13 +13233,12 @@
         ]
     },
     {
-        "id": "SI-400",
+        "id": "S8b-160",
         "cardID": "시바",
         "name": "시바",
         "supertype": "트레이너스",
         "subtypes": [
-            "서포트",
-            "일격"
+            "서포트"
         ],
         "rules": [
             "서포트는 자신의 차례에 1장만 사용할 수 있다."
@@ -13050,6 +13289,18 @@
                 "debug": "3"
             },
             {
+                "number": "160",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "Ken Sugimori",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_160.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001160",
+                "debug": "3"
+            },
+            {
                 "number": "400",
                 "prodNumber": "414",
                 "prodCode": "SI",
@@ -13064,13 +13315,12 @@
         ]
     },
     {
-        "id": "SI-407",
+        "id": "S8b-164",
         "cardID": "코르니의 기합",
         "name": "코르니의 기합",
         "supertype": "트레이너스",
         "subtypes": [
-            "서포트",
-            "연격"
+            "서포트"
         ],
         "rules": [
             "서포트는 자신의 차례에 1장만 사용할 수 있다."
@@ -13119,6 +13369,18 @@
                 "debug": "3"
             },
             {
+                "number": "164",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "kirisAki",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_164.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001164",
+                "debug": "3"
+            },
+            {
                 "number": "407",
                 "prodNumber": "414",
                 "prodCode": "SI",
@@ -13128,6 +13390,66 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_407.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003407",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "S8b-260",
+        "cardID": "마스터드 일격의 태세",
+        "name": "마스터드 일격의 태세",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트",
+            "일격"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드는 자신의 패가 이 카드 1장일 때만 사용할 수 있다.",
+            "자신의 덱에서 「일격」의 포켓몬을 1장 선택해서 벤치로 내보낸다.",
+            "그리고 덱을 섞는다.",
+            "그 뒤, 자신의 덱을 5장 뽑는다."
+        ],
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "066",
+                "prodNumber": "070",
+                "prodCode": "S5I",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5I.png",
+                "prodName": "소드&실드 확장팩 「일격마스터」",
+                "artist": "Mitsuhiro Arita",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5I_066.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021001066",
+                "debug": "3"
+            },
+            {
+                "number": "079",
+                "prodNumber": "070",
+                "prodCode": "S5I",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5I.png",
+                "prodName": "소드&실드 확장팩 「일격마스터」",
+                "artist": "Mitsuhiro Arita",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5I_079.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021001079",
+                "debug": "3"
+            },
+            {
+                "number": "260",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "Souichirou Gunjima",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_260.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001260",
                 "debug": "3"
             }
         ]
@@ -13180,54 +13502,6 @@
         ]
     },
     {
-        "id": "S5I-066",
-        "cardID": "마스터드 일격의 태세",
-        "name": "마스터드 일격의 태세",
-        "supertype": "트레이너스",
-        "subtypes": [
-            "서포트",
-            "일격"
-        ],
-        "rules": [
-            "서포트는 자신의 차례에 1장만 사용할 수 있다."
-        ],
-        "texts": [
-            "이 카드는 자신의 패가 이 카드 1장일 때만 사용할 수 있다.",
-            "자신의 덱에서 「일격」의 포켓몬을 1장 선택해서 벤치로 내보낸다.",
-            "그리고 덱을 섞는다.",
-            "그 뒤, 자신의 덱을 5장 뽑는다."
-        ],
-        "regulationMark": [
-            "E"
-        ],
-        "version_infos": [
-            {
-                "number": "066",
-                "prodNumber": "070",
-                "prodCode": "S5I",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5I.png",
-                "prodName": "소드&실드 확장팩 「일격마스터」",
-                "artist": "Mitsuhiro Arita",
-                "rarity": "U",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5I_066.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021001066",
-                "debug": "3"
-            },
-            {
-                "number": "079",
-                "prodNumber": "070",
-                "prodCode": "S5I",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5I.png",
-                "prodName": "소드&실드 확장팩 「일격마스터」",
-                "artist": "Mitsuhiro Arita",
-                "rarity": "SR",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5I_079.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021001079",
-                "debug": "3"
-            }
-        ]
-    },
-    {
         "id": "S5I-068",
         "cardID": "회연",
         "name": "회연",
@@ -13272,7 +13546,7 @@
         ]
     },
     {
-        "id": "SPD-015",
+        "id": "S8b-151",
         "cardID": "도정",
         "name": "도정",
         "supertype": "트레이너스",
@@ -13300,6 +13574,18 @@
                 "rarity": "U",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5a/S5a_066.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021003066",
+                "debug": "3"
+            },
+            {
+                "number": "151",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "Ken Sugimori",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_151.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001151",
                 "debug": "3"
             },
             {
@@ -13476,6 +13762,192 @@
         ]
     },
     {
+        "id": "S8b-155",
+        "cardID": "멜론",
+        "name": "멜론",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 트래쉬에서 (물) 에너지를 1장 선택해서 자신의 「포켓몬 V」에게 붙인다.",
+            "그 뒤, 자신의 덱을 3장 뽑는다."
+        ],
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "065",
+                "prodNumber": "070",
+                "prodCode": "S6H",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S6H.png",
+                "prodName": "소드&실드 확장팩 「백은의 랜스」",
+                "artist": "take",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S6/S6H_065.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021004065",
+                "debug": "3"
+            },
+            {
+                "number": "080",
+                "prodNumber": "070",
+                "prodCode": "S6H",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S6H.png",
+                "prodName": "소드&실드 확장팩 「백은의 랜스」",
+                "artist": "Taira Akitsu",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S6/S6H_080.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021004080",
+                "debug": "3"
+            },
+            {
+                "number": "155",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "take",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_155.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001155",
+                "debug": "3"
+            },
+            {
+                "number": "262",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "nagimiso",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_262.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001262",
+                "debug": "3"
+            },
+            {
+                "number": "393",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "take",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_393.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003393",
+                "debug": "3"
+            },
+            {
+                "number": "150",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "take",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_150.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001150",
+                "debug": "3"
+            },
+            {
+                "number": "237",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "saino misaki",
+                "rarity": "SAR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_237.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001237",
+                "debug": "3"
+            },
+            {
+                "number": "150",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "take",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_150.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001150",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "S8b-165",
+        "cardID": "피오니",
+        "name": "피오니",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패를 모두 트래쉬하고 자신의 덱에서 트레이너스를 2장까지 선택해서 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "068",
+                "prodNumber": "070",
+                "prodCode": "S6H",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S6H.png",
+                "prodName": "소드&실드 확장팩 「백은의 랜스」",
+                "artist": "Ken Sugimori",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S6/S6H_068.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021004068",
+                "debug": "3"
+            },
+            {
+                "number": "083",
+                "prodNumber": "070",
+                "prodCode": "S6H",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S6H.png",
+                "prodName": "소드&실드 확장팩 「백은의 랜스」",
+                "artist": "Hitoshi Ariga",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S6/S6H_083.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021004083",
+                "debug": "3"
+            },
+            {
+                "number": "165",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "Ken Sugimori",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_165.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001165",
+                "debug": "3"
+            },
+            {
+                "number": "410",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "Ken Sugimori",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_410.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003410",
+                "debug": "3"
+            }
+        ]
+    },
+    {
         "id": "SI-387",
         "cardID": "국화",
         "name": "국화",
@@ -13589,75 +14061,6 @@
         ]
     },
     {
-        "id": "SI-393",
-        "cardID": "멜론",
-        "name": "멜론",
-        "supertype": "트레이너스",
-        "subtypes": [
-            "서포트"
-        ],
-        "rules": [
-            "서포트는 자신의 차례에 1장만 사용할 수 있다."
-        ],
-        "texts": [
-            "자신의 트래쉬에서 (물) 에너지를 1장 선택해서 자신의 「포켓몬 V」에게 붙인다.",
-            "그 뒤, 자신의 덱을 3장 뽑는다."
-        ],
-        "regulationMark": [
-            "E"
-        ],
-        "version_infos": [
-            {
-                "number": "065",
-                "prodNumber": "070",
-                "prodCode": "S6H",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S6H.png",
-                "prodName": "소드&실드 확장팩 「백은의 랜스」",
-                "artist": "take",
-                "rarity": "U",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S6/S6H_065.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021004065",
-                "debug": "3"
-            },
-            {
-                "number": "080",
-                "prodNumber": "070",
-                "prodCode": "S6H",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S6H.png",
-                "prodName": "소드&실드 확장팩 「백은의 랜스」",
-                "artist": "Taira Akitsu",
-                "rarity": "SR",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S6/S6H_080.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021004080",
-                "debug": "3"
-            },
-            {
-                "number": "393",
-                "prodNumber": "414",
-                "prodCode": "SI",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
-                "prodName": "소드&실드 「스타트 덱 100」",
-                "artist": "take",
-                "rarity": "N",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_393.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003393",
-                "debug": "3"
-            },
-            {
-                "number": "150",
-                "prodNumber": "172",
-                "prodCode": "S12a",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
-                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
-                "artist": "take",
-                "rarity": "U",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_150.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001150",
-                "debug": "3"
-            }
-        ]
-    },
-    {
         "id": "SI-405",
         "cardID": "즈미",
         "name": "즈미",
@@ -13710,63 +14113,6 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_405.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003405",
-                "debug": "3"
-            }
-        ]
-    },
-    {
-        "id": "SI-410",
-        "cardID": "피오니",
-        "name": "피오니",
-        "supertype": "트레이너스",
-        "subtypes": [
-            "서포트"
-        ],
-        "rules": [
-            "서포트는 자신의 차례에 1장만 사용할 수 있다."
-        ],
-        "texts": [
-            "자신의 패를 모두 트래쉬하고 자신의 덱에서 트레이너스를 2장까지 선택해서 상대에게 보여주고 패로 가져온다.",
-            "그리고 덱을 섞는다."
-        ],
-        "regulationMark": [
-            "E"
-        ],
-        "version_infos": [
-            {
-                "number": "068",
-                "prodNumber": "070",
-                "prodCode": "S6H",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S6H.png",
-                "prodName": "소드&실드 확장팩 「백은의 랜스」",
-                "artist": "Ken Sugimori",
-                "rarity": "U",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S6/S6H_068.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021004068",
-                "debug": "3"
-            },
-            {
-                "number": "083",
-                "prodNumber": "070",
-                "prodCode": "S6H",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S6H.png",
-                "prodName": "소드&실드 확장팩 「백은의 랜스」",
-                "artist": "Hitoshi Ariga",
-                "rarity": "SR",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S6/S6H_083.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021004083",
-                "debug": "3"
-            },
-            {
-                "number": "410",
-                "prodNumber": "414",
-                "prodCode": "SI",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
-                "prodName": "소드&실드 「스타트 덱 100」",
-                "artist": "Ken Sugimori",
-                "rarity": "N",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_410.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003410",
                 "debug": "3"
             }
         ]
@@ -13861,7 +14207,7 @@
         ]
     },
     {
-        "id": "SPD-016",
+        "id": "S8b-157",
         "cardID": "모험가의 발견",
         "name": "모험가의 발견",
         "supertype": "트레이너스",
@@ -13904,6 +14250,30 @@
                 "debug": "3"
             },
             {
+                "number": "157",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "Taira Akitsu",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_157.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001157",
+                "debug": "3"
+            },
+            {
+                "number": "263",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "Taira Akitsu",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_263.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001263",
+                "debug": "3"
+            },
+            {
                 "number": "016",
                 "prodNumber": "020",
                 "prodCode": "SPD",
@@ -13930,7 +14300,7 @@
         ]
     },
     {
-        "id": "SI-392",
+        "id": "S8b-261",
         "cardID": "마쿠와",
         "name": "마쿠와",
         "supertype": "트레이너스",
@@ -13971,6 +14341,18 @@
                 "rarity": "SR",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S6a/S6a_086.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021007086",
+                "debug": "3"
+            },
+            {
+                "number": "261",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "Ryuta Fuse",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_261.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001261",
                 "debug": "3"
             },
             {
@@ -14045,7 +14427,7 @@
         ]
     },
     {
-        "id": "SI-388",
+        "id": "S8b-149",
         "cardID": "금랑",
         "name": "금랑",
         "supertype": "트레이너스",
@@ -14078,6 +14460,42 @@
                 "debug": "3"
             },
             {
+                "number": "077",
+                "prodNumber": "067",
+                "prodCode": "S7D",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+                "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+                "artist": "kirisAki",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_077.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021008077",
+                "debug": "3"
+            },
+            {
+                "number": "149",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "take",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_149.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001149",
+                "debug": "3"
+            },
+            {
+                "number": "256",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "take",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_256.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001256",
+                "debug": "3"
+            },
+            {
                 "number": "388",
                 "prodNumber": "414",
                 "prodCode": "SI",
@@ -14087,6 +14505,30 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_388.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003388",
+                "debug": "3"
+            },
+            {
+                "number": "148",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "take",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_148.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001148",
+                "debug": "3"
+            },
+            {
+                "number": "235",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "GIDORA",
+                "rarity": "SAR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_235.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001235",
                 "debug": "3"
             },
             {
@@ -14159,6 +14601,18 @@
                 "debug": "3"
             },
             {
+                "number": "078",
+                "prodNumber": "067",
+                "prodCode": "S7D",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+                "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+                "artist": "Hideki Ishikawa",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_078.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021008078",
+                "debug": "3"
+            },
+            {
                 "number": "398",
                 "prodNumber": "414",
                 "prodCode": "SI",
@@ -14201,6 +14655,18 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7R_064.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021012064",
+                "debug": "3"
+            },
+            {
+                "number": "078",
+                "prodNumber": "067",
+                "prodCode": "S7R",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7R.png",
+                "prodName": "소드&실드 확장팩 「창공스트림」",
+                "artist": "Hideki Ishikawa",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7R_078.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021009078",
                 "debug": "3"
             },
             {
@@ -14249,6 +14715,18 @@
                 "debug": "3"
             },
             {
+                "number": "079",
+                "prodNumber": "067",
+                "prodCode": "S7R",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7R.png",
+                "prodName": "소드&실드 확장팩 「창공스트림」",
+                "artist": "Taira Akitsu",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7R_079.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021009079",
+                "debug": "3"
+            },
+            {
                 "number": "409",
                 "prodNumber": "414",
                 "prodCode": "SI",
@@ -14287,7 +14765,7 @@
         ]
     },
     {
-        "id": "SP5-013",
+        "id": "S8b-265",
         "cardID": "버넷박사",
         "name": "버넷박사",
         "supertype": "트레이너스",
@@ -14315,6 +14793,18 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SP5/SP5_013.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021014004",
+                "debug": "3"
+            },
+            {
+                "number": "265",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "kirisAki",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_265.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001265",
                 "debug": "3"
             }
         ]
@@ -14348,11 +14838,23 @@
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8a/S8a_003.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021015003",
                 "debug": "3"
+            },
+            {
+                "number": "003",
+                "prodNumber": "028",
+                "prodCode": "S8a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8a.png",
+                "prodName": "소드&실드 확장팩 「25th ANNIVERSARY COLLECTION」",
+                "artist": "Ken Sugimori",
+                "rarity": "SR",
+                "cardImgURL": "https://firebasestorage.googleapis.com/v0/b/card32.appspot.com/o/CardImage%2F%ED%8F%AC%EC%BC%93%EB%AA%AC%EC%8A%A4%ED%84%B0%2F25th%20ANNIVERSARY%20COLLECTION%2F%ED%8F%AC%EC%BC%93%EB%AA%AC%EC%8A%A4%ED%84%B0_25th%20ANNIVERSARY%20COLLECTION_%EB%B0%95%EC%82%AC%EC%9D%98%20%EC%97%B0%EA%B5%AC_S8a-029_29.jpg?alt=media&token=bb3503ba-9ed4-4ee2-afa3-e13b2e409040",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021015029",
+                "debug": "3"
             }
         ]
     },
     {
-        "id": "SI-408",
+        "id": "S8b-276",
         "cardID": "쿡",
         "name": "쿡",
         "supertype": "트레이너스",
@@ -14380,6 +14882,18 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SH/SH_024_R.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021013023",
+                "debug": "3"
+            },
+            {
+                "number": "276",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "Sanosuke Sakuma",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_276.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001276",
                 "debug": "3"
             },
             {
@@ -14438,6 +14952,18 @@
                 "rarity": "U",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_096.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018096",
+                "debug": "3"
+            },
+            {
+                "number": "162",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "Yusuke Ohmura",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_162.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001162",
                 "debug": "3"
             },
             {
@@ -14553,6 +15079,266 @@
         ]
     },
     {
+        "id": "S-P-072",
+        "cardID": "소도와 실디",
+        "name": "소도와 실디",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 트래쉬에서 트레이너스를 1장 선택해서 상대에게 보여주고 패로 가져가도 되는지 상대에게 묻는다.",
+            "상대가 좋다면 선택한 카드를 패로 가져온다.",
+            "그렇지 않다면 선택한 카드를 트래쉬로 되돌리고 자신의 덱을 3장 뽑는다."
+        ],
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "267",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "nagimiso",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_267.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001267",
+                "debug": "3"
+            },
+            {
+                "number": "072",
+                "prodNumber": "S-P",
+                "prodCode": "S-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "소드&실드 프로모팩 제4탄",
+                "artist": "Hideki Ishikawa",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S-P/S-P_072.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SP000000072",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "S8b-148",
+        "cardID": "가라르의 동료들",
+        "name": "가라르의 동료들",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱을 3장 뽑는다."
+        ],
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "148",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "Yuu Nishida",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_148.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001148",
+                "debug": "3"
+            },
+            {
+                "number": "255",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "Sanosuke Sakuma",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_255.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001255",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "S8b-154",
+        "cardID": "마스터",
+        "name": "마스터",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드를 사용하면 자신의 차례는 끝난다.",
+            "자신의 벤치 포켓몬을 3마리까지 선택해서 덱에서 각각 다른 타입의 기본 에너지를 1장씩 붙인다.",
+            "그리고 덱을 섞는다."
+        ],
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "154",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "Hasegawa Saki",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_154.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001154",
+                "debug": "3"
+            },
+            {
+                "number": "258",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "Sanosuke Sakuma",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_258.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001258",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "S8b-161",
+        "cardID": "아세로라의 예감",
+        "name": "아세로라의 예감",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "상대의 패를 보고 그 중에 있는 트레이너스의 장수만큼 자신의 덱을 뽑는다."
+        ],
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "161",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "Shiburingaru",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_161.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001161",
+                "debug": "3"
+            },
+            {
+                "number": "269",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "yuu",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_269.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001269",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "S8b-163",
+        "cardID": "우리",
+        "name": "우리",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱에서 기본 포켓몬(「룰을 가진 포켓몬」은 제외)을 3장까지 선택해서 벤치로 내보낸다.",
+            "그리고 덱을 섞는다."
+        ],
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "163",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "Ken Sugimori",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_163.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001163",
+                "debug": "3"
+            },
+            {
+                "number": "273",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "Naoki Saito",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_273.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001273",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "S8b-259",
+        "cardID": "마스터드 연격의 태세\n[서포트/연격]",
+        "name": "마스터드 연격의 태세\n[서포트/연격]",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트",
+            "연격"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드는 자신의 패가 이 카드 1장일 때만 사용할 수 있다.",
+            "자신의 트래쉬에서 「연격」의 포켓몬을 1장 선택해서 벤치로 내보낸다.",
+            "그 뒤, 자신의 덱을 5장 뽑는다."
+        ],
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "259",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "KIYOTAKA OSHIYAMA",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_259.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001259",
+                "debug": "3"
+            }
+        ]
+    },
+    {
         "id": "SPD-014",
         "cardID": "난천의 패기",
         "name": "난천의 패기",
@@ -14653,6 +15439,30 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SP/SPZ_014.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022012014",
+                "debug": "3"
+            },
+            {
+                "number": "149",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "Megumi Mizutani",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_149.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001149",
+                "debug": "3"
+            },
+            {
+                "number": "236",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "Atsuya Uki",
+                "rarity": "SAR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_236.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001236",
                 "debug": "3"
             },
             {
@@ -14842,6 +15652,30 @@
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_152.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001152",
                 "debug": "3"
+            },
+            {
+                "number": "245",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "Sanosuke Sakuma",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_245.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001245",
+                "debug": "3"
+            },
+            {
+                "number": "152",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "Sanosuke Sakuma",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_152.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001152",
+                "debug": "3"
             }
         ]
     },
@@ -14972,6 +15806,30 @@
                 "debug": "3"
             },
             {
+                "number": "246",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "Mitsuhiro Arita",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_246.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001246",
+                "debug": "3"
+            },
+            {
+                "number": "153",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "GIDORA",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_153.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001153",
+                "debug": "3"
+            },
+            {
                 "number": "020",
                 "prodNumber": "028",
                 "prodCode": "SVB",
@@ -15037,6 +15895,30 @@
                 "rarity": "HR",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S9/S9_122.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022002122",
+                "debug": "3"
+            },
+            {
+                "number": "161",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "Yusuke Ohmura",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_161.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001161",
+                "debug": "3"
+            },
+            {
+                "number": "244",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "chibi",
+                "rarity": "SAR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_244.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001244",
                 "debug": "3"
             },
             {
@@ -15508,6 +16390,30 @@
                 "debug": "3"
             },
             {
+                "number": "239",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "Toshinao Aoki",
+                "rarity": "SAR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_239.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001239",
+                "debug": "3"
+            },
+            {
+                "number": "156",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "Megumi Mizutani",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_156.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001156",
+                "debug": "3"
+            },
+            {
                 "number": "022",
                 "prodNumber": "028",
                 "prodCode": "SVB",
@@ -15715,6 +16621,30 @@
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_158.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001158",
                 "debug": "3"
+            },
+            {
+                "number": "241",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "Oswaldo KATO",
+                "rarity": "SAR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_241.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001241",
+                "debug": "3"
+            },
+            {
+                "number": "158",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "Hideki Ishikawa",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_158.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001158",
+                "debug": "3"
             }
         ]
     },
@@ -15771,6 +16701,30 @@
                 "rarity": "HR",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_085.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008085",
+                "debug": "3"
+            },
+            {
+                "number": "159",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "kirisAki",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_159.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001159",
+                "debug": "3"
+            },
+            {
+                "number": "242",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "Naoki Saito",
+                "rarity": "SAR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_242.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001242",
                 "debug": "3"
             },
             {
@@ -15927,6 +16881,30 @@
                 "debug": "3"
             },
             {
+                "number": "240",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "Yoriyuki Ikegami",
+                "rarity": "SAR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_240.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001240",
+                "debug": "3"
+            },
+            {
+                "number": "157",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "Yuu Nishida",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_157.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001157",
+                "debug": "3"
+            },
+            {
                 "number": "023",
                 "prodNumber": "028",
                 "prodCode": "SVB",
@@ -16030,6 +17008,30 @@
                 "rarity": "HR",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10D_084.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022007084",
+                "debug": "3"
+            },
+            {
+                "number": "160",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "Souichirou Gunjima",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_160.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001160",
+                "debug": "3"
+            },
+            {
+                "number": "243",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "Naoki Saito",
+                "rarity": "SAR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_243.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001243",
                 "debug": "3"
             },
             {
@@ -16590,6 +17592,18 @@
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10a/S10a_096.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022011145",
                 "debug": "3"
+            },
+            {
+                "number": "248",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "Souichirou Gunjima",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_248.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001248",
+                "debug": "3"
             }
         ]
     },
@@ -16761,6 +17775,30 @@
                 "rarity": "HR",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S11/S11_124.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022014123",
+                "debug": "3"
+            },
+            {
+                "number": "155",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "Naoki Saito",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_155.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001155",
+                "debug": "3"
+            },
+            {
+                "number": "238",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "kantaro",
+                "rarity": "SAR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_238.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001238",
                 "debug": "3"
             },
             {
@@ -17234,6 +18272,30 @@
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_154.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001154",
                 "debug": "3"
+            },
+            {
+                "number": "247",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "Hideki Ishikawa",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_247.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001247",
+                "debug": "3"
+            },
+            {
+                "number": "154",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "Ryuta Fuse",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_154.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001154",
+                "debug": "3"
             }
         ]
     },
@@ -17265,6 +18327,64 @@
                 "rarity": "U",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_163.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001163",
+                "debug": "3"
+            },
+            {
+                "number": "250",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "Kinu Nishimura",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_250.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001250",
+                "debug": "3"
+            },
+            {
+                "number": "163",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "kirisAki",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_163.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001163",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "S12a-249",
+        "cardID": "카밀레의 반짝임\n[서포트/퓨전]",
+        "name": "카밀레의 반짝임\n[서포트/퓨전]",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트",
+            "퓨전"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 「퓨전」의 포켓몬을 2마리까지 선택해서 덱에서 「퓨전 에너지」를 1장씩 붙인다.",
+            "그리고 덱을 섞는다."
+        ],
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "249",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "Megumi Mizutani",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_249.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001249",
                 "debug": "3"
             }
         ]
@@ -21033,6 +22153,30 @@
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6/SV6_096.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024008096",
                 "debug": "3"
+            },
+            {
+                "number": "122",
+                "prodNumber": "101",
+                "prodCode": "SV6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「변환의 가면」",
+                "artist": "kantaro",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6/SV6_122.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024008122",
+                "debug": "3"
+            },
+            {
+                "number": "129",
+                "prodNumber": "101",
+                "prodCode": "SV6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「변환의 가면」",
+                "artist": "En Morikura",
+                "rarity": "SAR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6/SV6_129.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024008129",
+                "debug": "3"
             }
         ]
     },
@@ -21066,6 +22210,30 @@
                 "rarity": "U",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6/SV6_097.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024008097",
+                "debug": "3"
+            },
+            {
+                "number": "123",
+                "prodNumber": "101",
+                "prodCode": "SV6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「변환의 가면」",
+                "artist": "GIDORA",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6/SV6_123.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024008123",
+                "debug": "3"
+            },
+            {
+                "number": "130",
+                "prodNumber": "101",
+                "prodCode": "SV6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「변환의 가면」",
+                "artist": "Teeziro",
+                "rarity": "SAR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6/SV6_130.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024008130",
                 "debug": "3"
             }
         ]
@@ -21101,13 +22269,25 @@
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6/SV6_098.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024008098",
                 "debug": "3"
+            },
+            {
+                "number": "124",
+                "prodNumber": "101",
+                "prodCode": "SV6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「변환의 가면」",
+                "artist": "GOSSAN",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6/SV6_124.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024008124",
+                "debug": "3"
             }
         ]
     },
     {
-        "id": "S-P-072",
-        "cardID": "소도와 실디",
-        "name": "소도와 실디",
+        "id": "SV6a-059",
+        "cardID": "도희의 비기",
+        "name": "도희의 비기",
         "supertype": "트레이너스",
         "subtypes": [
             "서포트"
@@ -21116,24 +22296,123 @@
             "서포트는 자신의 차례에 1장만 사용할 수 있다."
         ],
         "texts": [
-            "자신의 트래쉬에서 트레이너스를 1장 선택해서 상대에게 보여주고 패로 가져가도 되는지 상대에게 묻는다.",
-            "상대가 좋다면 선택한 카드를 패로 가져온다.",
-            "그렇지 않다면 선택한 카드를 트래쉬로 되돌리고 자신의 덱을 3장 뽑는다."
+            "자신의 (악) 포켓몬을 2마리까지 선택해서 자신의 덱에서 「기본 (악) 에너지」를 1장씩 붙인다.",
+            "그리고 덱을 섞는다.",
+            "배틀 포켓몬에게 붙였을 경우, 그 포켓몬을 독으로 만든다."
         ],
         "regulationMark": [
-            "D"
+            "H"
         ],
         "version_infos": [
             {
-                "number": "072",
-                "prodNumber": "S-P",
-                "prodCode": "S-P",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
-                "prodName": "소드&실드 프로모팩 제4탄",
-                "artist": "Hideki Ishikawa",
-                "rarity": "N",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S-P/S-P_072.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SP000000072",
+                "number": "059",
+                "prodNumber": "064",
+                "prodCode": "SV6a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「나이트원더러」",
+                "artist": "Taira Akitsu",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6a/SV6a_059.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024011059",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "SV6a-060",
+        "cardID": "아크로마의 집념",
+        "name": "아크로마의 집념",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱에서 스타디움과 에너지를 1장씩 선택해서 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "060",
+                "prodNumber": "064",
+                "prodCode": "SV6a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「나이트원더러」",
+                "artist": "hncl",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6a/SV6a_060.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024011060",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "SV6a-061",
+        "cardID": "카시오페아",
+        "name": "카시오페아",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드는 자신의 패가 이 카드 1장일 때만 사용할 수 있다.",
+            "자신의 덱에서 원하는 카드를 2장까지 선택해서 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "061",
+                "prodNumber": "064",
+                "prodCode": "SV6a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「나이트원더러」",
+                "artist": "Atsushi Furusawa",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6a/SV6a_061.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024011061",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "SV6a-062",
+        "cardID": "크세로시키의 속셈",
+        "name": "크세로시키의 속셈",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "상대는 상대 자신의 패를 3장이 되도록 트래쉬한다."
+        ],
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "062",
+                "prodNumber": "064",
+                "prodCode": "SV6a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「나이트원더러」",
+                "artist": "GOSSAN",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6a/SV6a_062.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024011062",
                 "debug": "3"
             }
         ]

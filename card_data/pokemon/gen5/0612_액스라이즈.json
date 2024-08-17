@@ -364,5 +364,65 @@
                 "debug": "1"
             }
         ]
+    },
+    {
+        "id": "SV6a-046",
+        "cardID": "액스드170액스000용의230",
+        "name": "액스라이즈",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 170,
+        "pokemons": [
+            {
+                "name": "액스라이즈",
+                "pokedexNumber": 612
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "액스다운",
+                "cost": "(격투)",
+                "damage": "",
+                "text": "상대의 배틀 포켓몬에게 특수 에너지가 붙어 있다면 그 포켓몬을 기절시킨다."
+            },
+            {
+                "name": "용의파동",
+                "cost": "(격투)(강철)",
+                "damage": "230",
+                "text": "자신의 덱을 위에서부터 3장 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "자랑스러운 어금니로 상대를 압도한다. 철탑을 단칼에 베어 버리는 예리함을 자랑한다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "046",
+                "prodNumber": "064",
+                "prodCode": "SV6a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「나이트원더러」",
+                "artist": "Tsuyoshi Nagano",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6a/SV6a_046.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024011046",
+                "debug": "1"
+            }
+        ]
     }
 ]

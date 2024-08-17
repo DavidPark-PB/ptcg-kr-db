@@ -1012,6 +1012,64 @@
         ]
     },
     {
+        "id": "S12a-228",
+        "cardID": "다크악270악의030",
+        "name": "다크라이 VSTAR",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VSTAR"
+        ],
+        "rules": [
+            "자신의 차례에 사용할 수 있다. 자신의 트래쉬에서 아이템을 2장까지 선택해서 상대에게 보여주고 패로 가져온다. (대전 중 자신은 [VSTAR] 파워를 1번만 사용할 수 있다.)",
+            "포켓몬 VSTAR가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 270,
+        "pokemons": [
+            {
+                "name": "다크라이",
+                "pokedexNumber": 491
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "악의파동",
+                "cost": "(무색)(무색)",
+                "damage": "30+",
+                "text": "자신의 필드의 포켓몬에게 붙어 있는 (악) 에너지의 개수 × 30데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "228",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "Pani Kobayashi",
+                "rarity": "SAR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_228.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001228",
+                "debug": "1"
+            }
+        ]
+    },
+    {
         "id": "SV3-074",
         "cardID": "다크악130검은020나이120",
         "name": "다크라이",

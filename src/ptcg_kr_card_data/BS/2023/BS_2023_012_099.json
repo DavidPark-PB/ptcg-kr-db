@@ -4741,5 +4741,108 @@
         "regulationMark": "G",
         "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2D/SV2D_096.png?w=512",
         "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023012096"
+    },
+    {
+        "id": "SV2D-097",
+        "cardID": "딩루격240속박랜드150",
+        "name": "딩루 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 240,
+        "pokemons": [
+            {
+                "name": "딩루",
+                "pokedexNumber": 1003
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "랜드스쿠프",
+                "cost": "(격투)(격투)(격투)",
+                "damage": "150",
+                "text": "상대의 벤치 포켓몬 1마리에게 데미지 카운터를 2개 올린다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "속박의 대지",
+                "text": "이 포켓몬이 배틀필드에 있는 한, 상대 필드의 데미지 카운터가 올려져 있는 포켓몬(포켓몬 ex는 제외)의 특성은 모두 없어진다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "",
+        "number": "097",
+        "prodNumber": "071",
+        "prodCode": "SV2D",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV2D.png",
+        "prodName": "스칼렛&바이올렛 확장팩 「클레이버스트」",
+        "artist": "5ban Graphics",
+        "rarity": "UR",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2D/SV2D_097.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023012097"
+    },
+    {
+        "id": "SV2D-098",
+        "cardID": "수퍼 에너지 회수",
+        "name": "수퍼 에너지 회수",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드는 자신의 패를 2장 트래쉬하지 않으면 사용할 수 없다.",
+            "자신의 트래쉬에서 기본 에너지를 4장까지 선택해서 상대에게 보여주고 패로 가져온다.",
+            "(이 카드의 효과로 트래쉬한 에너지는 선택할 수 없다.)"
+        ],
+        "number": "098",
+        "prodNumber": "071",
+        "prodCode": "SV2D",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV2D.png",
+        "prodName": "스칼렛&바이올렛 확장팩 「클레이버스트」",
+        "artist": "Studio Bora Inc.",
+        "rarity": "UR",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2D/SV2D_098.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023012098"
+    },
+    {
+        "id": "SV2D-099",
+        "cardID": "기본 풀 에너지",
+        "name": "기본 풀 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "기본 에너지"
+        ],
+        "rules": [],
+        "texts": [],
+        "number": "099",
+        "prodNumber": "071",
+        "prodCode": "SV2D",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV2D.png",
+        "prodName": "스칼렛&바이올렛 확장팩 「클레이버스트」",
+        "rarity": "UR",
+        "regulationMark": "",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2D/SV2D_099.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023012099"
     }
 ]

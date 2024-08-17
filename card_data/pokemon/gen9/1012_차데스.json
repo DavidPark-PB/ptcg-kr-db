@@ -55,7 +55,7 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5a/SV5a_008.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024007008",
-                "debug": "3"
+                "debug": "1"
             },
             {
                 "number": "068",
@@ -127,7 +127,7 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6/SV6_013.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024008013",
-                "debug": "1"
+                "debug": "3"
             }
         ]
     }

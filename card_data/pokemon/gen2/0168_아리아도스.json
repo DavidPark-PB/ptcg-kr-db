@@ -204,7 +204,7 @@
         ]
     },
     {
-        "id": "SJ-003",
+        "id": "S8b-098",
         "cardID": "아리악110스파독침030",
         "name": "아리아도스",
         "supertype": "포켓몬",
@@ -283,7 +283,31 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SJ/SJ_003.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021019003",
-                "debug": "1"
+                "debug": "2"
+            },
+            {
+                "number": "098",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "Shin Nagasawa",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_098.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001098",
+                "debug": "3"
+            },
+            {
+                "number": "205",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "Shiburingaru",
+                "rarity": "CHR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_205.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001205",
+                "debug": "2"
             }
         ]
     },
@@ -403,7 +427,7 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10b/S10b_007.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022010007",
-                "debug": "3"
+                "debug": "1"
             }
         ]
     },

@@ -582,7 +582,7 @@
         ]
     },
     {
-        "id": "SI-176",
+        "id": "S8b-062",
         "cardID": "킬리초080미라000",
         "name": "킬리아",
         "supertype": "포켓몬",
@@ -634,6 +634,18 @@
                 "debug": "2"
             },
             {
+                "number": "062",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "0313",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_062.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001062",
+                "debug": "1"
+            },
+            {
                 "number": "176",
                 "prodNumber": "414",
                 "prodCode": "SI",
@@ -643,7 +655,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_176.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003176",
-                "debug": "1"
+                "debug": "2"
             }
         ]
     },

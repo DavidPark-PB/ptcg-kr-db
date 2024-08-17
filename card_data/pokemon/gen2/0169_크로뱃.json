@@ -374,6 +374,30 @@
                 "debug": "2"
             },
             {
+                "number": "099",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "PLANETA Mochizuki",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_099.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001099",
+                "debug": "2"
+            },
+            {
+                "number": "243",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "GOSSAN",
+                "rarity": "CSR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_243.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001243",
+                "debug": "2"
+            },
+            {
                 "number": "010",
                 "prodNumber": "021",
                 "prodCode": "SLL",
@@ -674,6 +698,66 @@
                 "rarity": "U",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4K/SV4K_046.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023021046",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV6a-029",
+        "cardID": "크로악130그림맹독120",
+        "name": "크로뱃",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "크로뱃",
+                "pokedexNumber": 169
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "맹독엄니",
+                "cost": "(악)(무색)",
+                "damage": "120",
+                "text": "상대의 배틀 포켓몬을 독으로 만든다. 이 독으로 올리는 데미지 카운터의 수는 2개가 된다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "그림자술사",
+                "text": "이 차례에 패에서 「도희의 비기」를 꺼내서 사용했다면 자신의 차례에 1번 사용할 수 있다. 자신의 패가 8장이 되도록 덱을 뽑는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 0,
+        "flavorText": "양발이 날개로 변화했다. 소리를 내지 않고 고속으로 날아 먹이의 목덜미에 이빨을 꽂는다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "029",
+                "prodNumber": "064",
+                "prodCode": "SV6a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「나이트원더러」",
+                "artist": "Nisota Niso",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6a/SV6a_029.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024011029",
                 "debug": "1"
             }
         ]

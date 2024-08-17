@@ -1203,7 +1203,7 @@
         ]
     },
     {
-        "id": "S6a-058",
+        "id": "S8b-125",
         "cardID": "이브무070브이000밟기020",
         "name": "이브이",
         "supertype": "포켓몬",
@@ -1258,7 +1258,31 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S6a/S6a_058.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021007058",
+                "debug": "2"
+            },
+            {
+                "number": "125",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "Atsushi Furusawa",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_125.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001125",
                 "debug": "1"
+            },
+            {
+                "number": "210",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "Souichirou Gunjima",
+                "rarity": "CHR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_210.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001210",
+                "debug": "2"
             }
         ]
     },
@@ -1835,6 +1859,66 @@
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5a/SV5a_078.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024007078",
                 "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SV6a-050",
+        "cardID": "이브무070컬러000박치020",
+        "name": "이브이",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "이브이",
+                "pokedexNumber": 133
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "컬러풀캐치",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱에서 각각 다른 타입의 기본 에너지를 3장까지 선택해서 상대에게 보여주고 패로 가져온다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "박치기",
+                "cost": "(무색)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "불규칙한 유전자를 가졌다. 돌에서 나오는 방사선에 의해 몸이 돌연변이를 일으킨다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "050",
+                "prodNumber": "064",
+                "prodCode": "SV6a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「나이트원더러」",
+                "artist": "Susumu Maeya",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6a/SV6a_050.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024011050",
+                "debug": "1"
             }
         ]
     },

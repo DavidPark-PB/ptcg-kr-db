@@ -394,14 +394,13 @@
         ]
     },
     {
-        "id": "SI-057",
+        "id": "S8b-019",
         "cardID": "번치불210무릎050회오210",
         "name": "번치코 V",
         "supertype": "포켓몬",
         "subtypes": [
             "기본",
-            "V",
-            "연격"
+            "V"
         ],
         "rules": [
             "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
@@ -465,6 +464,18 @@
                 "rarity": "RR",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_019.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001019",
+                "debug": "1"
+            },
+            {
+                "number": "216",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "nagimiso",
+                "rarity": "CSR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_216.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001216",
                 "debug": "2"
             },
             {
@@ -477,7 +488,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_057.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003057",
-                "debug": "1"
+                "debug": "2"
             }
         ]
     },
@@ -553,6 +564,18 @@
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_020.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001020",
                 "debug": "1"
+            },
+            {
+                "number": "217",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "KIYOTAKA OSHIYAMA",
+                "rarity": "CSR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_217.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001217",
+                "debug": "2"
             }
         ]
     },

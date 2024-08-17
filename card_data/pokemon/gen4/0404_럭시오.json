@@ -181,7 +181,7 @@
     },
     {
         "id": "sm5m-019",
-        "cardID": "럭시번080전자030B",
+        "cardID": "럭시번080전자030",
         "name": "럭시오",
         "supertype": "포켓몬",
         "subtypes": [
@@ -216,6 +216,7 @@
         "retreatCost": 1,
         "flavorText": "날카로운 발톱의 끝에는 강한 전기가 흐르고 있어서 살짝 스치는 것만으로 상대를 기절시킨다.",
         "regulationMark": [
+            "A",
             "B"
         ],
         "version_infos": [
@@ -230,6 +231,18 @@
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM5M/SM5M_019.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018002019",
                 "debug": "1"
+            },
+            {
+                "number": "060",
+                "prodNumber": "SM-P",
+                "prodCode": "SM-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "썬&문 프로모 카드 포켓몬 카드 게임 프로모 팩 제3탄",
+                "artist": "tetsuya koizumi",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_078.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000084",
+                "debug": "2"
             }
         ]
     },
@@ -860,60 +873,6 @@
                 "rarity": "U",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS4/bs4_ko_17.jpg?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010004017",
-                "debug": "1"
-            }
-        ]
-    },
-    {
-        "id": "SM-P-060",
-        "cardID": "럭시번080전자030A",
-        "name": "럭시오",
-        "supertype": "포켓몬",
-        "subtypes": [
-            "1진화"
-        ],
-        "rules": [],
-        "hp": 80,
-        "pokemons": [
-            {
-                "name": "럭시오",
-                "pokedexNumber": 404
-            }
-        ],
-        "type": "(번개)",
-        "attacks": [
-            {
-                "name": "전자장해",
-                "cost": "(무색)",
-                "damage": "30",
-                "text": "상대의 다음 차례에 상대는 패에서 아이템을 꺼내서 사용할 수 없다."
-            }
-        ],
-        "abilities": [],
-        "weakness": {
-            "type": "(격투)",
-            "value": "×2"
-        },
-        "resistance": {
-            "type": "(강철)",
-            "value": "-20"
-        },
-        "retreatCost": 1,
-        "flavorText": "날카로운 발톱의 끝에는 강한 전기가 흐르고 있어서 살짝 스치는 것만으로 상대를 기절시킨다.",
-        "regulationMark": [
-            "A"
-        ],
-        "version_infos": [
-            {
-                "number": "060",
-                "prodNumber": "SM-P",
-                "prodCode": "SM-P",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
-                "prodName": "썬&문 프로모 카드 포켓몬 카드 게임 프로모 팩 제3탄",
-                "artist": "tetsuya koizumi",
-                "rarity": "N",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_078.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000084",
                 "debug": "1"
             }
         ]

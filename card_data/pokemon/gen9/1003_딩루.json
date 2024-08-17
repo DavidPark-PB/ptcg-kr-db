@@ -85,6 +85,18 @@
                 "debug": "2"
             },
             {
+                "number": "097",
+                "prodNumber": "071",
+                "prodCode": "SV2D",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV2D.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「클레이버스트」",
+                "artist": "5ban Graphics",
+                "rarity": "UR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2D/SV2D_097.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023012097",
+                "debug": "2"
+            },
+            {
                 "number": "113",
                 "prodNumber": "190",
                 "prodCode": "SV4a",

@@ -1412,6 +1412,66 @@
         ]
     },
     {
+        "id": "SV6a-047",
+        "cardID": "큐레드130안티트라000",
+        "name": "큐레무",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "큐레무",
+                "pokedexNumber": 646
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "트라이 프로스트",
+                "cost": "(물)(물)(강철)(강철)(무색)",
+                "damage": "",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 모두 트래쉬하고 상대의 포켓몬 3마리에게 각각 110데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "안티 플라스마",
+                "text": "상대의 트래쉬에 카드 이름에 「아크로마」가 적힌 카드가 있다면 이 포켓몬이 「트라이 프로스트」를 사용하기 위한 에너지는 (무색) 에너지 1개가 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "레시라무와 제크로무를 능가할 정도의 힘을 가졌으나 극저온의 냉기에 봉인되어 있다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "047",
+                "prodNumber": "064",
+                "prodCode": "SV6a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「나이트원더러」",
+                "artist": "Shiburingaru",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6a/SV6a_047.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024011047",
+                "debug": "1"
+            }
+        ]
+    },
+    {
         "id": "XY-P-153",
         "cardID": "큐레물130아이060프로120",
         "name": "블랙큐레무",

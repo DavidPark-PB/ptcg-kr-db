@@ -240,13 +240,12 @@
         ]
     },
     {
-        "id": "SI-261",
+        "id": "S8b-102",
         "cardID": "델빌악060물기020",
         "name": "델빌",
         "supertype": "포켓몬",
         "subtypes": [
-            "기본",
-            "일격"
+            "기본"
         ],
         "rules": [],
         "hp": 60,
@@ -305,6 +304,18 @@
                 "debug": "2"
             },
             {
+                "number": "102",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "Sanosuke Sakuma",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_102.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001102",
+                "debug": "1"
+            },
+            {
                 "number": "261",
                 "prodNumber": "414",
                 "prodCode": "SI",
@@ -314,7 +325,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_261.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003261",
-                "debug": "1"
+                "debug": "2"
             }
         ]
     },
@@ -506,6 +517,66 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_071.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016071",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV6a-007",
+        "cardID": "델빌불070갉기020뒤로050",
+        "name": "델빌",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "델빌",
+                "pokedexNumber": 228
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "갉기",
+                "cost": "(무색)(무색)",
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "뒤로 차기",
+                "cost": "(불꽃)(무색)(무색)",
+                "damage": "50",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "동료에게 연락할 때와 먹이를 쫓을 때 울음소리의 종류가 다르다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "007",
+                "prodNumber": "064",
+                "prodCode": "SV6a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「나이트원더러」",
+                "artist": "REND",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6a/SV6a_007.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024011007",
                 "debug": "1"
             }
         ]

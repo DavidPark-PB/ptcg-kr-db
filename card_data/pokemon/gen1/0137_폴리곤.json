@@ -114,8 +114,8 @@
         ]
     },
     {
-        "id": "cp6-071",
-        "cardID": "폴리무060텍스3000",
+        "id": "SV2a-137",
+        "cardID": "폴리무060텍스000",
         "name": "폴리곤",
         "supertype": "포켓몬",
         "subtypes": [
@@ -132,10 +132,10 @@
         "type": "(무색)",
         "attacks": [
             {
-                "name": "텍스처3",
+                "name": "텍스처4",
                 "cost": "(무색)",
                 "damage": "",
-                "text": "(풀) (불꽃) (물) (번개) (초) (격투) (악) (강철) (페어리) (드래곤)  중에서 타입을 1개 선택한다. 자신의 다음 차례가 끝날 때까지 이 기술을 받은 포켓몬의 약점은 선택한 타입이 된다. (약점은 「×2」로 데미지 계산을 한다.)"
+                "text": "(풀) (불꽃) (물) (번개) (초) (격투) (악) (강철) (페어리)  중에서 타입을 1개 선택한다. 이 기술을 받은 포켓몬의 약점은 선택한 타입이 된다. 이 효과는 이 기술을 받은 포켓몬이 배틀필드를 떠날 때까지 계속된다. (약점은 「×2」로 데미지 계산을 한다.)"
             }
         ],
         "abilities": [],
@@ -148,9 +148,10 @@
             "value": "--"
         },
         "retreatCost": 1,
-        "flavorText": "최강의 과학력을 이용하여 드디어 인공 포켓몬을 만드는 데 성공했다.",
+        "flavorText": "근래에는 컴퓨터 공간에서 대활약한다. 수상한 데이터가 없는지 체크하며 돌아다닌다.",
         "regulationMark": [
-            "XY"
+            "XY",
+            "G"
         ],
         "version_infos": [
             {
@@ -163,6 +164,18 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP6/CP6_071.jpg?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016009071",
+                "debug": "2"
+            },
+            {
+                "number": "137",
+                "prodNumber": "165",
+                "prodCode": "SV2a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV2a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「포켓몬 카드 151」",
+                "artist": "5ban Graphics",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2a/SV2a_137.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023014137",
                 "debug": "1"
             }
         ]
@@ -481,60 +494,6 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S11/S11_083.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022014083",
-                "debug": "1"
-            }
-        ]
-    },
-    {
-        "id": "SV2a-137",
-        "cardID": "폴리무060텍스4000",
-        "name": "폴리곤",
-        "supertype": "포켓몬",
-        "subtypes": [
-            "기본"
-        ],
-        "rules": [],
-        "hp": 60,
-        "pokemons": [
-            {
-                "name": "폴리곤",
-                "pokedexNumber": 137
-            }
-        ],
-        "type": "(무색)",
-        "attacks": [
-            {
-                "name": "텍스처4",
-                "cost": "(무색)",
-                "damage": "",
-                "text": "(풀) (불꽃) (물) (번개) (초) (격투) (악) (강철) (페어리)  중에서 타입을 1개 선택한다. 이 기술을 받은 포켓몬의 약점은 선택한 타입이 된다. 이 효과는 이 기술을 받은 포켓몬이 배틀필드를 떠날 때까지 계속된다. (약점은 「×2」로 데미지 계산을 한다.)"
-            }
-        ],
-        "abilities": [],
-        "weakness": {
-            "type": "(격투)",
-            "value": "×2"
-        },
-        "resistance": {
-            "type": "",
-            "value": "--"
-        },
-        "retreatCost": 1,
-        "flavorText": "근래에는 컴퓨터 공간에서 대활약한다. 수상한 데이터가 없는지 체크하며 돌아다닌다.",
-        "regulationMark": [
-            "G"
-        ],
-        "version_infos": [
-            {
-                "number": "137",
-                "prodNumber": "165",
-                "prodCode": "SV2a",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV2a.png",
-                "prodName": "스칼렛&바이올렛 강화 확장팩 「포켓몬 카드 151」",
-                "artist": "5ban Graphics",
-                "rarity": "C",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2a/SV2a_137.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023014137",
                 "debug": "1"
             }
         ]

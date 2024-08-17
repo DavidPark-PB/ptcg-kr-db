@@ -817,6 +817,66 @@
         ]
     },
     {
+        "id": "SV6a-013",
+        "cardID": "포푸물070풀베010들이030",
+        "name": "포푸니",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "포푸니",
+                "pokedexNumber": 215
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "풀베기",
+                "cost": "(물)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "들이대기",
+                "cost": "(물)(물)",
+                "damage": "30",
+                "text": "상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "약삭빠르게 한 마리가 어미를 유인하고 다른 한 마리가 알을 훔치는 팀플레이를 보여 준다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "013",
+                "prodNumber": "064",
+                "prodCode": "SV6a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「나이트원더러」",
+                "artist": "Krgc",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6a/SV6a_013.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024011013",
+                "debug": "1"
+            }
+        ]
+    },
+    {
         "id": "bs3-31",
         "cardID": "포푸악060연속010속여000",
         "name": "포푸니",

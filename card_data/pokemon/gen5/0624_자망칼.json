@@ -54,8 +54,8 @@
         ]
     },
     {
-        "id": "bw3h-041",
-        "cardID": "자망강060궤찌010풀베020BW",
+        "id": "fxyb-019",
+        "cardID": "자망강060궤찌010풀베020",
         "name": "자망칼",
         "supertype": "포켓몬",
         "subtypes": [
@@ -96,7 +96,8 @@
         "retreatCost": 1,
         "flavorText": "전신이 칼날인 포켓몬이다. 싸움에서 칼의 이가 빠지면 강가의 돌로 칼을 간다.",
         "regulationMark": [
-            "BW"
+            "BW",
+            "XY"
         ],
         "version_infos": [
             {
@@ -109,6 +110,18 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw3_hb_041.jpg?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2012001041",
+                "debug": "2"
+            },
+            {
+                "number": "019",
+                "prodNumber": "036",
+                "prodCode": "fxyb",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/fxyb.png",
+                "prodName": "XY 퍼스트세트 「개구마르의 진화」",
+                "artist": "Kouki Saitou",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/FXY/FXY_W_019.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2014001019",
                 "debug": "1"
             }
         ]
@@ -283,66 +296,6 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY1/K1_X_040.jpg?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2014001040",
-                "debug": "1"
-            }
-        ]
-    },
-    {
-        "id": "fxyb-019",
-        "cardID": "자망강060궤찌010풀베020XY",
-        "name": "자망칼",
-        "supertype": "포켓몬",
-        "subtypes": [
-            "기본"
-        ],
-        "rules": [],
-        "hp": 60,
-        "pokemons": [
-            {
-                "name": "자망칼",
-                "pokedexNumber": 624
-            }
-        ],
-        "type": "(강철)",
-        "attacks": [
-            {
-                "name": "궤찌르기",
-                "cost": "(강철)",
-                "damage": "10",
-                "text": ""
-            },
-            {
-                "name": "풀베기",
-                "cost": "(무색)(무색)",
-                "damage": "20",
-                "text": ""
-            }
-        ],
-        "abilities": [],
-        "weakness": {
-            "type": "(불꽃)",
-            "value": "×2"
-        },
-        "resistance": {
-            "type": "(초)",
-            "value": "-20"
-        },
-        "retreatCost": 1,
-        "flavorText": "전신이 칼날인 포켓몬이다. 싸움에서 칼의 이가 빠지면 강가의 돌로 칼을 간다.",
-        "regulationMark": [
-            "XY"
-        ],
-        "version_infos": [
-            {
-                "number": "019",
-                "prodNumber": "036",
-                "prodCode": "fxyb",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/fxyb.png",
-                "prodName": "XY 퍼스트세트 「개구마르의 진화」",
-                "artist": "Kouki Saitou",
-                "rarity": "N",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/FXY/FXY_W_019.jpg?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2014001019",
                 "debug": "1"
             }
         ]

@@ -967,6 +967,42 @@
                 "debug": "2"
             },
             {
+                "number": "075",
+                "prodNumber": "067",
+                "prodCode": "S7R",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7R.png",
+                "prodName": "소드&실드 확장팩 「창공스트림」",
+                "artist": "PLANETA Mochizuki",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7R_075.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021009075",
+                "debug": "2"
+            },
+            {
+                "number": "076",
+                "prodNumber": "067",
+                "prodCode": "S7R",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7R.png",
+                "prodName": "소드&실드 확장팩 「창공스트림」",
+                "artist": "Ryuta Fuse",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7R_076.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021009076",
+                "debug": "2"
+            },
+            {
+                "number": "119",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "PLANETA Mochizuki",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_119.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001119",
+                "debug": "2"
+            },
+            {
                 "number": "315",
                 "prodNumber": "414",
                 "prodCode": "SI",
@@ -1003,6 +1039,18 @@
                 "debug": "2"
             },
             {
+                "number": "107",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "PLANETA Mochizuki",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_107.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001107",
+                "debug": "2"
+            },
+            {
                 "number": "131",
                 "prodNumber": "S-P",
                 "prodCode": "S-P",
@@ -1017,14 +1065,13 @@
         ]
     },
     {
-        "id": "SI-316",
+        "id": "S8b-120",
         "cardID": "레쿠드320창공다이020",
         "name": "레쿠쟈 VMAX",
         "supertype": "포켓몬",
         "subtypes": [
             "V진화",
-            "VMAX",
-            "연격"
+            "VMAX"
         ],
         "rules": [
             "포켓몬 VMAX가 기절한 경우 상대는 프라이즈를 3장 가져간다."
@@ -1079,6 +1126,30 @@
                 "debug": "2"
             },
             {
+                "number": "120",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "PLANETA Mochizuki",
+                "rarity": "RRR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_120.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001120",
+                "debug": "1"
+            },
+            {
+                "number": "252",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "Hideki Ishikawa",
+                "rarity": "CSR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_252.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001252",
+                "debug": "2"
+            },
+            {
                 "number": "316",
                 "prodNumber": "414",
                 "prodCode": "SI",
@@ -1088,7 +1159,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_316.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003316",
-                "debug": "1"
+                "debug": "2"
             },
             {
                 "number": "016",
@@ -1100,6 +1171,18 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SO/SO_016.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022018016",
+                "debug": "2"
+            },
+            {
+                "number": "108",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "PLANETA Mochizuki",
+                "rarity": "RRR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_108.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001108",
                 "debug": "2"
             },
             {

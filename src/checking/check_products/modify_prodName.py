@@ -2,7 +2,7 @@ import json
 import csv
 
 def modify_changgong():
-    file_name = '../../ptcg_kr_card_data/BS/2021/BS_2021_012_067.json'
+    file_name = '../../ptcg_kr_card_data/BS/2021/BS_2021_012_079.json'
     
     with open(file_name,mode='r',encoding='utf-8') as file:
         data = json.load(file)
@@ -71,7 +71,7 @@ if __name__ == "__main__":
     # 소드&실드 확장팩 「창공스트림」
     # 이렇게 고치기
     # 패러다임트리거도
-    #modify_changgong()
+    modify_changgong()
     #modify_paradaim()
     
     # 카드 정보에 있는 이것을
@@ -95,9 +95,9 @@ if __name__ == "__main__":
     # modify_prodname('../../ptcg_kr_card_data/BS/2022/BS_2022_005_022.json',"소드 & 실드   스타터   세트  VSTAR  「루카리오」", "소드&실드 스타터 세트 VSTAR 「루카리오」")
     
     # '../../ptcg_kr_card_data/BS/2021/BS_2021_009_023.json', "소드 & 실드   하이클래스   덱   「인텔리레온  VMAX 」", "소드&실드 하이클래스 덱 「인텔리레온  VMAX 」"
-    modify_prodname('../../ptcg_kr_card_data/BS/2021/BS_2021_009_023.json', "소드 & 실드   하이클래스   덱   「인텔리레온  VMAX 」", "소드&실드 하이클래스 덱 「인텔리레온  VMAX 」")
+    #modify_prodname('../../ptcg_kr_card_data/BS/2021/BS_2021_009_023.json', "소드 & 실드   하이클래스   덱   「인텔리레온  VMAX 」", "소드&실드 하이클래스 덱 「인텔리레온  VMAX 」")
     # '../../ptcg_kr_card_data/BS/2021/BS_2021_008_020.json', "소드 & 실드   하이클래스   덱   「팬텀  VMAX 」" , "소드&실드 하이클래스 덱  「팬텀  VMAX 」"
-    modify_prodname('../../ptcg_kr_card_data/BS/2021/BS_2021_008_020.json', "소드 & 실드   하이클래스   덱   「팬텀  VMAX 」" , "소드&실드 하이클래스 덱  「팬텀  VMAX 」")
+    #modify_prodname('../../ptcg_kr_card_data/BS/2021/BS_2021_008_020.json', "소드 & 실드   하이클래스   덱   「팬텀  VMAX 」" , "소드&실드 하이클래스 덱  「팬텀  VMAX 」")
     
     # '' , "스타터   세트  VMAX  구입특전", "스타터 세트  VMAX  구입특전"
 

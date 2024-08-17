@@ -147,6 +147,66 @@
         ]
     },
     {
+        "id": "SV6a-025",
+        "cardID": "다투격150경험매드100",
+        "name": "다투곰 붉은 달",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "다투곰",
+                "pokedexNumber": 901
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "매드바이트",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "100+",
+                "text": "상대의 배틀 포켓몬에게 올려져 있는 데미지 카운터의 수 × 30데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "경험칙",
+                "text": "자신의 차례에 이 카드를 패에서 벤치로 내보냈을 때 1번 사용할 수 있다. 자신의 패에서 「기본 (격투) 에너지」를 2장까지 선택해서 이 포켓몬에게 붙인다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "쇠처럼 단단해진 진흙으로 몸을 보호하며 어둠 속도 내다보는 왼쪽 눈을 가진 특별한 다투곰.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "025",
+                "prodNumber": "064",
+                "prodCode": "SV6a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「나이트원더러」",
+                "artist": "Souichirou Gunjima",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6a/SV6a_025.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024011025",
+                "debug": "1"
+            }
+        ]
+    },
+    {
         "id": "S-P-172",
         "cardID": "다투격230하드피트220",
         "name": "다투곰 V",

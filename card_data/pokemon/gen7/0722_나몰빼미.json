@@ -574,6 +574,66 @@
         ]
     },
     {
+        "id": "SV6a-003",
+        "cardID": "나몰풀070더하000나뭇010",
+        "name": "나몰빼미",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "나몰빼미",
+                "pokedexNumber": 722
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "더하기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱을 1장 뽑는다."
+            },
+            {
+                "name": "나뭇잎",
+                "cost": "(풀)",
+                "damage": "10",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "비행하면서 날카로운 깃털을 날리고 근거리가 되면 강렬한 킥을 날린다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "003",
+                "prodNumber": "064",
+                "prodCode": "SV6a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「나이트원더러」",
+                "artist": "Yoshimi Miyoshi",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6a/SV6a_003.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024011003",
+                "debug": "1"
+            }
+        ]
+    },
+    {
         "id": "SM-P-002",
         "cardID": "나몰풀050마구010",
         "name": "나몰빼미",

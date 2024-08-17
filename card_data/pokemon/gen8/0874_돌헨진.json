@@ -276,13 +276,12 @@
         ]
     },
     {
-        "id": "SI-246",
+        "id": "S8b-090",
         "cardID": "돌헨격130대지030기가120",
         "name": "돌헨진",
         "supertype": "포켓몬",
         "subtypes": [
-            "기본",
-            "일격"
+            "기본"
         ],
         "rules": [],
         "hp": 130,
@@ -335,6 +334,18 @@
                 "debug": "2"
             },
             {
+                "number": "090",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "Masakazu Fukuda",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_090.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001090",
+                "debug": "3"
+            },
+            {
                 "number": "246",
                 "prodNumber": "414",
                 "prodCode": "SI",
@@ -344,7 +355,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_246.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003246",
-                "debug": "1"
+                "debug": "2"
             }
         ]
     },
@@ -464,7 +475,7 @@
                 "rarity": "U",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12/S12_055.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022017055",
-                "debug": "3"
+                "debug": "1"
             }
         ]
     },

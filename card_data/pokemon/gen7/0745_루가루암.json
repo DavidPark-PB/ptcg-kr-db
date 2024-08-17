@@ -726,7 +726,7 @@
         ]
     },
     {
-        "id": "S6H-042",
+        "id": "S8b-087",
         "cardID": "루가격120로그080",
         "name": "루가루암",
         "supertype": "포켓몬",
@@ -775,6 +775,18 @@
                 "rarity": "R",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S6/S6H_042.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021004042",
+                "debug": "2"
+            },
+            {
+                "number": "087",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "Teeziro",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_087.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001087",
                 "debug": "1"
             }
         ]
@@ -838,6 +850,18 @@
                 "rarity": "RR",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_024.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011024",
+                "debug": "2"
+            },
+            {
+                "number": "071",
+                "prodNumber": "067",
+                "prodCode": "S7D",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+                "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+                "artist": "PLANETA Tsuji",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_071.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021008071",
                 "debug": "2"
             },
             {

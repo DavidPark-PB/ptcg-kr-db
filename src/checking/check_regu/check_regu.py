@@ -160,9 +160,9 @@ def check_all_regu():
     print(sorted(list(all_regus)))
         
 if __name__ == "__main__":
-    #check_regu()
+    check_regu()
     #check_basic_energy_regu()
     #check_basic_energy_AXY()
     
-    check_all_regu()
+    #check_all_regu()
     

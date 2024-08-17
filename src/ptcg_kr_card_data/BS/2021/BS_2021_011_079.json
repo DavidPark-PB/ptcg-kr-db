@@ -740,8 +740,7 @@
         "supertype": "포켓몬",
         "subtypes": [
             "기본",
-            "V",
-            "일격"
+            "V"
         ],
         "rules": [
             "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
@@ -896,8 +895,7 @@
         "name": "홍수몬",
         "supertype": "포켓몬",
         "subtypes": [
-            "기본",
-            "일격"
+            "기본"
         ],
         "rules": [],
         "hp": 110,
@@ -1110,8 +1108,7 @@
         "name": "마크탕",
         "supertype": "포켓몬",
         "subtypes": [
-            "기본",
-            "일격"
+            "기본"
         ],
         "rules": [],
         "hp": 90,
@@ -1164,8 +1161,7 @@
         "name": "하리뭉",
         "supertype": "포켓몬",
         "subtypes": [
-            "1진화",
-            "일격"
+            "1진화"
         ],
         "rules": [],
         "hp": 140,
@@ -1857,8 +1853,7 @@
         "name": "무장조",
         "supertype": "포켓몬",
         "subtypes": [
-            "기본",
-            "일격"
+            "기본"
         ],
         "rules": [],
         "hp": 120,
@@ -1958,8 +1953,7 @@
         "name": "끼리동",
         "supertype": "포켓몬",
         "subtypes": [
-            "기본",
-            "일격"
+            "기본"
         ],
         "rules": [],
         "hp": 100,
@@ -2012,8 +2006,7 @@
         "name": "대왕끼리동",
         "supertype": "포켓몬",
         "subtypes": [
-            "1진화",
-            "일격"
+            "1진화"
         ],
         "rules": [],
         "hp": 190,
@@ -2488,8 +2481,7 @@
         "supertype": "포켓몬",
         "subtypes": [
             "기본",
-            "V",
-            "일격"
+            "V"
         ],
         "rules": [
             "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
@@ -2545,8 +2537,7 @@
         "supertype": "포켓몬",
         "subtypes": [
             "V진화",
-            "VMAX",
-            "일격"
+            "VMAX"
         ],
         "rules": [
             "포켓몬 VMAX가 기절한 경우 상대는 프라이즈를 3장 가져간다."
@@ -2601,8 +2592,7 @@
         "name": "게을로",
         "supertype": "포켓몬",
         "subtypes": [
-            "기본",
-            "일격"
+            "기본"
         ],
         "rules": [],
         "hp": 70,
@@ -2649,8 +2639,7 @@
         "name": "발바로",
         "supertype": "포켓몬",
         "subtypes": [
-            "1진화",
-            "일격"
+            "1진화"
         ],
         "rules": [],
         "hp": 90,
@@ -2703,8 +2692,7 @@
         "name": "게을킹",
         "supertype": "포켓몬",
         "subtypes": [
-            "2진화",
-            "일격"
+            "2진화"
         ],
         "rules": [],
         "hp": 180,
@@ -3055,7 +3043,7 @@
         ],
         "attack": {
             "name": "강력산",
-            "cost": "(격투)(강철)(강철)(무색)(무색)",
+            "cost": "(격투) (강철) (강철) (무색) (무색)",
             "damage": "300",
             "text": "이 포켓몬에게 붙어 있는 에너지를 모두 트래쉬한다."
         },
@@ -3226,5 +3214,589 @@
         "regulationMark": "D",
         "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_067.png?w=512",
         "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011067"
+    },
+    {
+        "id": "S7D-068",
+        "cardID": "스이물210준족블리020",
+        "name": "스이쿤 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "스이쿤",
+                "pokedexNumber": 245
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "블리자드론도",
+                "cost": "(물)(무색)",
+                "damage": "20+",
+                "text": "서로의 벤치 포켓몬의 수 × 20데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "준족",
+                "text": "이 포켓몬이 배틀필드에 있다면 자신의 차례에 1번 사용할 수 있다. 자신의 덱을 1장 뽑는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "068",
+        "prodNumber": "067",
+        "prodCode": "S7D",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+        "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+        "artist": "Ayaka Yoshida",
+        "rarity": "SR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_068.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021008068"
+    },
+    {
+        "id": "S7D-069",
+        "cardID": "골루초220메가080리와180",
+        "name": "골루그 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "골루그",
+                "pokedexNumber": 623
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "메가톤펀치",
+                "cost": "(초)(무색)(무색)",
+                "damage": "80",
+                "text": ""
+            },
+            {
+                "name": "리와인드빔",
+                "cost": "(초)(초)(무색)(무색)",
+                "damage": "180",
+                "text": "상대의 진화한 배틀 포켓몬으로부터 「진화카드」를 1장 떼어내서 퇴화시킨다. 떼어낸 카드는 상대의 패로 되돌린다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "number": "069",
+        "prodNumber": "067",
+        "prodCode": "S7D",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+        "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+        "artist": "Eske Yoshinob",
+        "rarity": "SR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_069.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021008069"
+    },
+    {
+        "id": "S7D-070",
+        "cardID": "골루초220메가080리와180",
+        "name": "골루그 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "골루그",
+                "pokedexNumber": 623
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "메가톤펀치",
+                "cost": "(초)(무색)(무색)",
+                "damage": "80",
+                "text": ""
+            },
+            {
+                "name": "리와인드빔",
+                "cost": "(초)(초)(무색)(무색)",
+                "damage": "180",
+                "text": "상대의 진화한 배틀 포켓몬으로부터 「진화카드」를 1장 떼어내서 퇴화시킨다. 떼어낸 카드는 상대의 패로 되돌린다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "number": "070",
+        "prodNumber": "067",
+        "prodCode": "S7D",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+        "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+        "artist": "Oswaldo KATO",
+        "rarity": "SR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_070.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021008070"
+    },
+    {
+        "id": "S7D-071",
+        "cardID": "루가격200돌떨040크래200",
+        "name": "루가루암 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 200,
+        "pokemons": [
+            {
+                "name": "루가루암",
+                "pokedexNumber": 745
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "돌떨구기",
+                "cost": "(격투)",
+                "damage": "40",
+                "text": ""
+            },
+            {
+                "name": "크래시팽",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "200",
+                "text": "자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "number": "071",
+        "prodNumber": "067",
+        "prodCode": "S7D",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+        "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+        "artist": "PLANETA Tsuji",
+        "rarity": "SR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_071.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021008071"
+    },
+    {
+        "id": "S7D-072",
+        "cardID": "더스악210쓰레040오물130",
+        "name": "더스트나 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "더스트나",
+                "pokedexNumber": 569
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "쓰레기악취",
+                "cost": "(악)(무색)",
+                "damage": "40",
+                "text": "상대의 배틀 포켓몬을 독으로 만든다. 상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴할 수 없다."
+            },
+            {
+                "name": "오물폭탄",
+                "cost": "(악)(악)(무색)",
+                "damage": "130",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "number": "072",
+        "prodNumber": "067",
+        "prodCode": "S7D",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+        "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+        "artist": "aky CG Works",
+        "rarity": "SR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_072.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021008072"
+    },
+    {
+        "id": "S7D-073",
+        "cardID": "음번드200폭음000싱크060",
+        "name": "음번 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 200,
+        "pokemons": [
+            {
+                "name": "음번",
+                "pokedexNumber": 715
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "폭음파",
+                "cost": "(초)",
+                "damage": "",
+                "text": "상대의 포켓몬 전원에게 각각 20데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "싱크로라우드",
+                "cost": "(초)(악)",
+                "damage": "60+",
+                "text": "자신의 패와 상대의 패가 같은 장수라면 120데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "",
+        "number": "073",
+        "prodNumber": "067",
+        "prodCode": "S7D",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+        "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+        "artist": "Ayaka Yoshida",
+        "rarity": "SR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_073.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021008073"
+    },
+    {
+        "id": "S7D-074",
+        "cardID": "음번드200폭음000싱크060",
+        "name": "음번 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 200,
+        "pokemons": [
+            {
+                "name": "음번",
+                "pokedexNumber": 715
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "폭음파",
+                "cost": "(초)",
+                "damage": "",
+                "text": "상대의 포켓몬 전원에게 각각 20데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "싱크로라우드",
+                "cost": "(초)(악)",
+                "damage": "60+",
+                "text": "자신의 패와 상대의 패가 같은 장수라면 120데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "",
+        "number": "074",
+        "prodNumber": "067",
+        "prodCode": "S7D",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+        "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+        "artist": "Mitsuhiro Arita",
+        "rarity": "SR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_074.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021008074"
+    },
+    {
+        "id": "S7D-075",
+        "cardID": "두랄드220메탈070와이140",
+        "name": "두랄루돈 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "두랄루돈",
+                "pokedexNumber": 884
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "메탈크로우",
+                "cost": "(격투)(강철)",
+                "damage": "70",
+                "text": ""
+            },
+            {
+                "name": "와이드브레이커",
+                "cost": "(격투)(강철)(강철)",
+                "damage": "140",
+                "text": "상대의 다음 차례에 이 기술을 받은 포켓몬이 사용하는 기술의 데미지는 「-30」이 된다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "075",
+        "prodNumber": "067",
+        "prodCode": "S7D",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+        "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+        "artist": "PLANETA Mochizuki",
+        "rarity": "SR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_075.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021008075"
+    },
+    {
+        "id": "S7D-076",
+        "cardID": "두랄드220메탈070와이140",
+        "name": "두랄루돈 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "두랄루돈",
+                "pokedexNumber": 884
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "메탈크로우",
+                "cost": "(격투)(강철)",
+                "damage": "70",
+                "text": ""
+            },
+            {
+                "name": "와이드브레이커",
+                "cost": "(격투)(강철)(강철)",
+                "damage": "140",
+                "text": "상대의 다음 차례에 이 기술을 받은 포켓몬이 사용하는 기술의 데미지는 「-30」이 된다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "076",
+        "prodNumber": "067",
+        "prodCode": "S7D",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+        "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+        "artist": "Naoki Saito",
+        "rarity": "SR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_076.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021008076"
+    },
+    {
+        "id": "S7D-077",
+        "cardID": "금랑",
+        "name": "금랑",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드는 상대의 이전 차례에 자신의 포켓몬이 기절하지 않으면 사용할 수 없다.",
+            "자신의 트래쉬에서 기본 에너지를 1장 선택해서 자신의 포켓몬에게 붙인다.",
+            "그 뒤, 자신의 덱에서 원하는 카드를 1장 선택해서 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "077",
+        "prodNumber": "067",
+        "prodCode": "S7D",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+        "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+        "artist": "kirisAki",
+        "rarity": "SR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_077.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021008077"
+    },
+    {
+        "id": "S7D-078",
+        "cardID": "스쿨걸",
+        "name": "스쿨걸",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱을 2장 뽑는다.",
+            "상대의 남은 프라이즈 장수가 6장・4장・2장이라면 2장 더 뽑는다."
+        ],
+        "number": "078",
+        "prodNumber": "067",
+        "prodCode": "S7D",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+        "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+        "artist": "Hideki Ishikawa",
+        "rarity": "SR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_078.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021008078"
+    },
+    {
+        "id": "S7D-079",
+        "cardID": "흉내내기 아가씨",
+        "name": "흉내내기 아가씨",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패를 모두 덱으로 되돌리고 섞는다.",
+            "그 뒤, 상대의 패의 장수만큼 자신의 덱을 뽑는다."
+        ],
+        "number": "079",
+        "prodNumber": "067",
+        "prodCode": "S7D",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+        "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+        "artist": "Sanosuke Sakuma",
+        "rarity": "SR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_079.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021008079"
     }
 ]

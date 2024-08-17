@@ -504,6 +504,66 @@
         ]
     },
     {
+        "id": "SV6a-028",
+        "cardID": "골뱃악080스피030칠흑080",
+        "name": "골뱃",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "골뱃",
+                "pokedexNumber": 42
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "스피드비행",
+                "cost": "(악)",
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "칠흑의칼날",
+                "cost": "(악)(무색)",
+                "damage": "80",
+                "text": "자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "살아 있는 생물의 혈액을 좋아한다. 굶주린 동료에게 빨아들인 피를 나눠주기도 한다고 한다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "028",
+                "prodNumber": "064",
+                "prodCode": "SV6a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「나이트원더러」",
+                "artist": "Teeziro",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6a/SV6a_028.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024011028",
+                "debug": "1"
+            }
+        ]
+    },
+    {
         "id": "bs8-19",
         "cardID": "골뱃초070펄스030",
         "name": "골뱃",

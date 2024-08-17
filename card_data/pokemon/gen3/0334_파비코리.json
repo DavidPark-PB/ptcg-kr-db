@@ -842,6 +842,30 @@
                 "debug": "2"
             },
             {
+                "number": "194",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "Asako Ito",
+                "rarity": "AR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_194.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001194",
+                "debug": "2"
+            },
+            {
+                "number": "104",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "sui",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_104.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001104",
+                "debug": "2"
+            },
+            {
                 "number": "130",
                 "prodNumber": "S-P",
                 "prodCode": "S-P",
