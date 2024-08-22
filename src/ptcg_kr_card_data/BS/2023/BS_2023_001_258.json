@@ -11813,7 +11813,7 @@
         "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
         "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
         "rarity": "SR",
-        "regulationMark": "",
+        "regulationMark": "BE",
         "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_251.png?w=512",
         "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001251"
     },
@@ -11833,7 +11833,7 @@
         "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
         "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
         "rarity": "SR",
-        "regulationMark": "",
+        "regulationMark": "BE",
         "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_252.png?w=512",
         "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001252"
     },
@@ -11853,7 +11853,7 @@
         "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
         "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
         "rarity": "SR",
-        "regulationMark": "",
+        "regulationMark": "BE",
         "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_253.png?w=512",
         "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001253"
     },
@@ -11873,7 +11873,7 @@
         "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
         "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
         "rarity": "SR",
-        "regulationMark": "",
+        "regulationMark": "BE",
         "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_254.png?w=512",
         "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001254"
     },
@@ -11893,7 +11893,7 @@
         "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
         "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
         "rarity": "SR",
-        "regulationMark": "",
+        "regulationMark": "BE",
         "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_255.png?w=512",
         "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001255"
     },
@@ -11913,7 +11913,7 @@
         "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
         "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
         "rarity": "SR",
-        "regulationMark": "",
+        "regulationMark": "BE",
         "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_256.png?w=512",
         "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001256"
     },
@@ -11933,7 +11933,7 @@
         "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
         "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
         "rarity": "SR",
-        "regulationMark": "",
+        "regulationMark": "BE",
         "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_257.png?w=512",
         "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001257"
     },
@@ -11953,7 +11953,7 @@
         "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
         "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
         "rarity": "SR",
-        "regulationMark": "",
+        "regulationMark": "BE",
         "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_258.png?w=512",
         "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001258"
     },
@@ -12013,5 +12013,176 @@
         "regulationMark": "F",
         "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_259.png?w=512",
         "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001259"
+    },
+    {
+        "id": "S12a-260",
+        "cardID": "디아강280메탈040VS220",
+        "name": "오리진 디아루가 VSTAR",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VSTAR"
+        ],
+        "rules": [
+            "포켓몬 VSTAR가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 280,
+        "pokemons": [
+            {
+                "name": "디아루가",
+                "pokedexNumber": 483
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "메탈블라스트",
+                "cost": "(무색)",
+                "damage": "40+",
+                "text": "이 포켓몬에게 붙어 있는 (강철) 에너지의 개수 × 40데미지를 추가한다."
+            },
+            {
+                "name": "VSTAR 파워\n스타크로노스",
+                "cost": "(강철)(강철)(강철)(강철)(무색)",
+                "damage": "220",
+                "text": "이 차례가 끝나면 다시 1번 자신의 차례를 시작한다. (대전 중 자신은 VSTAR 파워를 1번만 사용할 수 있다.)",
+                "special": "VSTAR"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "number": "260",
+        "prodNumber": "172",
+        "prodCode": "S12a",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+        "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+        "artist": "AKIRA EGAWA",
+        "rarity": "UR",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_260.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001260"
+    },
+    {
+        "id": "S12a-261",
+        "cardID": "기라드280로스280VS000",
+        "name": "기라티나 VSTAR",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VSTAR"
+        ],
+        "rules": [
+            "포켓몬 VSTAR가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 280,
+        "pokemons": [
+            {
+                "name": "기라티나",
+                "pokedexNumber": 487
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "로스트임팩트",
+                "cost": "(풀)(초)(무색)",
+                "damage": "280",
+                "text": "자신의 필드의 포켓몬에게 붙어 있는 에너지를 2개 선택해서 로스트존에 둔다."
+            },
+            {
+                "name": "VSTAR 파워\n스타레퀴엠",
+                "cost": "(풀)(초)",
+                "damage": "",
+                "text": "이 기술은 자신의 로스트존에 카드가 10장 이상 있을 때만 사용할 수 있다. 상대의 배틀 포켓몬을 기절시킨다. (대전 중 자신은 VSTAR 파워를 1번만 사용할 수 있다.)",
+                "special": "VSTAR"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "261",
+        "prodNumber": "172",
+        "prodCode": "S12a",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+        "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+        "artist": "AKIRA EGAWA",
+        "rarity": "UR",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_261.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001261"
+    },
+    {
+        "id": "S12a-262",
+        "cardID": "아르무280스타트리200",
+        "name": "아르세우스 VSTAR",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VSTAR"
+        ],
+        "rules": [
+            "포켓몬 VSTAR가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 280,
+        "pokemons": [
+            {
+                "name": "아르세우스",
+                "pokedexNumber": 493
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "트리니티노바",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "200",
+                "text": "자신의 덱에서 기본 에너지를 3장까지 선택해서 자신의 「포켓몬 V」에게 원하는 대로 붙인다. 그리고 덱을 섞는다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "스타버스",
+                "text": "자신의 차례에 사용할 수 있다. 자신의 덱에서 원하는 카드를 2장까지 선택해서 패로 가져온다. 그리고 덱을 섞는다. (대전 중 자신은 VSTAR 파워를 1번만 사용할 수 있다.)",
+                "type": "특성",
+                "special": "VSTAR"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "262",
+        "prodNumber": "172",
+        "prodCode": "S12a",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+        "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+        "artist": "AKIRA EGAWA",
+        "rarity": "UR",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_262.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001262"
     }
 ]

@@ -1496,18 +1496,6 @@
                 "debug": "2"
             },
             {
-                "number": "050",
-                "prodNumber": "172",
-                "prodCode": "S12a",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
-                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
-                "artist": "Nurikabe",
-                "rarity": "RR",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_050.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001050",
-                "debug": "2"
-            },
-            {
                 "number": "160",
                 "prodNumber": "S-P",
                 "prodCode": "S-P",
@@ -1605,18 +1593,6 @@
                 "rarity": "UR",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10b/S10b_091.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022010091",
-                "debug": "2"
-            },
-            {
-                "number": "051",
-                "prodNumber": "172",
-                "prodCode": "S12a",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
-                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
-                "artist": "PLANETA Mochizuki",
-                "rarity": "RRR",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_051.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001051",
                 "debug": "2"
             }
         ]

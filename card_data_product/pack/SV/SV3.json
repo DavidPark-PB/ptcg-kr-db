@@ -6816,5 +6816,114 @@
         "regulationMark": "G",
         "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV3/SV3_138.png?w=512",
         "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023015138"
+    },
+    {
+        "id": "SV3-139",
+        "cardID": "리자악330테라버닝180",
+        "name": "리자몽 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 330,
+        "pokemons": [
+            {
+                "name": "리자몽",
+                "pokedexNumber": 6
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "버닝다크",
+                "cost": "(불꽃)(불꽃)",
+                "damage": "180+",
+                "text": "상대가 이미 가져간 프라이즈의 장수 × 30데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "테라스탈",
+                "text": "이 포켓몬은 벤치에 있는 한, 기술의 데미지를 받지 않는다.",
+                "type": "테라스탈"
+            },
+            {
+                "name": "연옥 지배",
+                "text": "자신의 차례에 이 카드를 패에서 꺼내서 진화시켰을 때 1번 사용할 수 있다. 자신의 덱에서 「기본 (불꽃) 에너지」를 3장까지 선택해서 자신의 포켓몬에게 원하는 대로 붙인다. 그리고 덱을 섞는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "139",
+        "prodNumber": "108",
+        "prodCode": "SV3",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV3.png",
+        "prodName": "스칼렛&바이올렛 확장팩 「흑염의 지배자」",
+        "artist": "5ban Graphics",
+        "rarity": "UR",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV3/SV3_139.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023015139"
+    },
+    {
+        "id": "SV3-140",
+        "cardID": "보울마을",
+        "name": "보울마을",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "스타디움"
+        ],
+        "rules": [
+            "스타디움은 자신의 차례에 1장 배틀필드 옆에 내놓을 수 있다.",
+            "다른 스타디움이 필드에 나오면 이 카드를 트래쉬한다.",
+            "같은 이름의 스타디움은 필드에 내보낼 수 없다."
+        ],
+        "texts": [
+            "서로의 플레이어는 자신의 차례마다 1번 자신의 덱에서 기본 포켓몬(「룰을 가진 포켓몬」은 제외)을 1장 선택해서 벤치로 내보내도 좋다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "140",
+        "prodNumber": "108",
+        "prodCode": "SV3",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV3.png",
+        "prodName": "스칼렛&바이올렛 확장팩 「흑염의 지배자」",
+        "artist": "Oswaldo KATO",
+        "rarity": "UR",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV3/SV3_140.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023015140"
+    },
+    {
+        "id": "SV3-141",
+        "cardID": "기본 불꽃 에너지",
+        "name": "기본 불꽃 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "기본 에너지"
+        ],
+        "rules": [],
+        "texts": [],
+        "number": "141",
+        "prodNumber": "108",
+        "prodCode": "SV3",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV3.png",
+        "prodName": "스칼렛&바이올렛 확장팩 「흑염의 지배자」",
+        "rarity": "UR",
+        "regulationMark": "BE",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV3/SV3_141.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023015141"
     }
 ]

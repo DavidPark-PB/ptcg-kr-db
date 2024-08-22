@@ -57,6 +57,7 @@ def  basic_energy_prodcode():
                     print(f"Error processing {file_path}: {e}")
             
                 if len(json_data) > 0:
+                    print(file_path)
                     with open(file_path, 'w', encoding='utf-8') as file:
                         json.dump(json_data, file, ensure_ascii=False, indent=4)
                         

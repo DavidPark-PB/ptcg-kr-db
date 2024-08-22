@@ -17287,5 +17287,341 @@
         "regulationMark": "G",
         "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4a/SV4a_354.png?w=512",
         "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024001354"
+    },
+    {
+        "id": "SV4a-355",
+        "cardID": "총지풀230갈망000포레220",
+        "name": "총지엔 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 230,
+        "pokemons": [
+            {
+                "name": "총지엔",
+                "pokedexNumber": 1001
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "갈망의덩굴",
+                "cost": "(풀)(풀)(무색)",
+                "damage": "",
+                "text": "상대의 벤치 포켓몬 1마리에게 상대가 이미 가져간 프라이즈의 장수 × 60데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "포레스트번",
+                "cost": "(풀)(풀)(풀)(무색)",
+                "damage": "220",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "",
+        "number": "355",
+        "prodNumber": "190",
+        "prodCode": "SV4a",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV4a.png",
+        "prodName": "스칼렛&바이올렛 하이클래스팩 「샤이니트레저 ex」",
+        "artist": "5ban Graphics",
+        "rarity": "UR",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4a/SV4a_355.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024001355"
+    },
+    {
+        "id": "SV4a-356",
+        "cardID": "위유불190시기000플레100",
+        "name": "위유이 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 190,
+        "pokemons": [
+            {
+                "name": "위유이",
+                "pokedexNumber": 1004
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "시기의 그을리기",
+                "cost": "(불꽃)",
+                "damage": "",
+                "text": "상대의 덱을 위에서부터 2장 트래쉬한다. "
+            },
+            {
+                "name": "플레임서지",
+                "cost": "(불꽃)(불꽃)",
+                "damage": "100",
+                "text": "자신의 벤치 포켓몬을 3마리까지 선택해서 덱에서 「기본 (불꽃) 에너지」를 1장씩 붙인다. 그리고 덱을 섞는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "number": "356",
+        "prodNumber": "190",
+        "prodCode": "SV4a",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV4a.png",
+        "prodName": "스칼렛&바이올렛 하이클래스팩 「샤이니트레저 ex」",
+        "artist": "PLANETA Yamashita",
+        "rarity": "UR",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4a/SV4a_356.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024001356"
+    },
+    {
+        "id": "SV4a-357",
+        "cardID": "파오물220부들헤일060",
+        "name": "파오젠 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "파오젠",
+                "pokedexNumber": 1002
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "헤일블레이드",
+                "cost": "(물)(물)",
+                "damage": "60×",
+                "text": "자신의 필드의 포켓몬에게 붙어 있는 (물) 에너지를 원하는 만큼 트래쉬하고 그 장수 × 60데미지를 준다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "부들부들 냉기",
+                "text": "이 포켓몬이 배틀필드에 있다면 자신의 차례에 1번 사용할 수 있다. 자신의 덱에서 「기본 (물) 에너지」를 2장까지 선택해서 상대에게 보여주고 패로 가져온다. 그리고 덱을 섞는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "357",
+        "prodNumber": "190",
+        "prodCode": "SV4a",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV4a.png",
+        "prodName": "스칼렛&바이올렛 하이클래스팩 「샤이니트레저 ex」",
+        "artist": "aky CG Works",
+        "rarity": "UR",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4a/SV4a_357.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024001357"
+    },
+    {
+        "id": "SV4a-358",
+        "cardID": "미라번220탠덤포톤220",
+        "name": "미라이돈 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "미라이돈",
+                "pokedexNumber": 1008
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "포톤블래스터",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "220",
+                "text": "자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "탠덤 유닛",
+                "text": "자신의 차례에 1번 사용할 수 있다. 자신의 덱에서 (번개) 타입의 기본 포켓몬을 2장까지 선택해서 벤치로 내보낸다. 그리고 덱을 섞는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "number": "358",
+        "prodNumber": "190",
+        "prodCode": "SV4a",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV4a.png",
+        "prodName": "스칼렛&바이올렛 하이클래스팩 「샤이니트레저 ex」",
+        "artist": "5ban Graphics",
+        "rarity": "UR",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4a/SV4a_358.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024001358"
+    },
+    {
+        "id": "SV4a-359",
+        "cardID": "딩루격240속박랜드150",
+        "name": "딩루 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 240,
+        "pokemons": [
+            {
+                "name": "딩루",
+                "pokedexNumber": 1003
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "랜드스쿠프",
+                "cost": "(격투)(격투)(격투)",
+                "damage": "150",
+                "text": "상대의 벤치 포켓몬 1마리에게 데미지 카운터를 2개 올린다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "속박의 대지",
+                "text": "이 포켓몬이 배틀필드에 있는 한, 상대 필드의 데미지 카운터가 올려져 있는 포켓몬(포켓몬 ex는 제외)의 특성은 모두 없어진다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "",
+        "number": "359",
+        "prodNumber": "190",
+        "prodCode": "SV4a",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV4a.png",
+        "prodName": "스칼렛&바이올렛 하이클래스팩 「샤이니트레저 ex」",
+        "artist": "5ban Graphics",
+        "rarity": "UR",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4a/SV4a_359.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024001359"
+    },
+    {
+        "id": "SV4a-360",
+        "cardID": "코라격230디노와일220",
+        "name": "코라이돈 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 230,
+        "pokemons": [
+            {
+                "name": "코라이돈",
+                "pokedexNumber": 1007
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "와일드임팩트",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "220",
+                "text": "자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "디노크라이",
+                "text": "자신의 차례에 1번 사용할 수 있으며, 사용하면 차례는 끝난다. 자신의 트래쉬에서 「기본 (격투) 에너지」를 2장까지 선택해서 자신의 (격투) 타입의 기본 포켓몬에게 원하는 대로 붙인다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "360",
+        "prodNumber": "190",
+        "prodCode": "SV4a",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV4a.png",
+        "prodName": "스칼렛&바이올렛 하이클래스팩 「샤이니트레저 ex」",
+        "artist": "aky CG Works",
+        "rarity": "UR",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4a/SV4a_360.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024001360"
     }
 ]

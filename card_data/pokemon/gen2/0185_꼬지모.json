@@ -444,7 +444,7 @@
         ]
     },
     {
-        "id": "SV2P-041",
+        "id": "SVD-058",
         "cardID": "꼬지격110치고020팔꿈090",
         "name": "꼬지모",
         "supertype": "포켓몬",
@@ -499,7 +499,7 @@
                 "rarity": "U",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2P/SV2P_041.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023011041",
-                "debug": "1"
+                "debug": "2"
             },
             {
                 "number": "080",
@@ -523,7 +523,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_058.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016058",
-                "debug": "2"
+                "debug": "1"
             }
         ]
     },

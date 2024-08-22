@@ -12,6 +12,7 @@ if __name__ == "__main__":
     rare_count = {}
     for item in all_card_data:
         rarity = item['rarity']
+        if rarity == 'HR' : print(item['prodName'], item['name'])
         if rarity not in item_set:
             item_set.add(rarity)
             rare_count[rarity] = 1
@@ -21,3 +22,5 @@ if __name__ == "__main__":
     print(list(item_set))
     print(len(list(item_set)))
     print(rare_count)
+    for key in rare_count:
+        print(key,' : ',rare_count[key])

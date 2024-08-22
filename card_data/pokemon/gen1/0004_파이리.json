@@ -738,7 +738,7 @@
         ]
     },
     {
-        "id": "SVJL-001",
+        "id": "SV4a-025",
         "cardID": "파이불070통째000불토030",
         "name": "파이리",
         "supertype": "포켓몬",
@@ -817,7 +817,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4a/SV4a_025.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024001025",
-                "debug": "2"
+                "debug": "1"
             },
             {
                 "number": "210",
@@ -841,7 +841,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVJL/SVJL_001.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024009001",
-                "debug": "1"
+                "debug": "2"
             }
         ]
     },

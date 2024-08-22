@@ -140,7 +140,7 @@
                 "rarity": "RR",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4a/SV4a_132.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024001132",
-                "debug": "1"
+                "debug": "3"
             },
             {
                 "number": "333",
@@ -213,7 +213,7 @@
                 "rarity": "U",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5M/SV5M_051.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024005051",
-                "debug": "3"
+                "debug": "1"
             }
         ]
     }

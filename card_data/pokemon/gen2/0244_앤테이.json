@@ -708,18 +708,6 @@
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_213.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001213",
                 "debug": "2"
-            },
-            {
-                "number": "019",
-                "prodNumber": "172",
-                "prodCode": "S12a",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
-                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
-                "artist": "PLANETA Mochizuki",
-                "rarity": "RR",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_019.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001019",
-                "debug": "2"
             }
         ]
     },
@@ -784,7 +772,7 @@
         ]
     },
     {
-        "id": "SVJL-005",
+        "id": "SV4a-028",
         "cardID": "앤테불130프레블레060",
         "name": "앤테이",
         "supertype": "포켓몬",
@@ -851,7 +839,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4a/SV4a_028.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024001028",
-                "debug": "2"
+                "debug": "1"
             },
             {
                 "number": "213",
@@ -875,7 +863,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVJL/SVJL_005.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024009005",
-                "debug": "1"
+                "debug": "2"
             }
         ]
     },

@@ -4507,5 +4507,109 @@
         "regulationMark": "G",
         "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4K/SV4K_092.png?w=512",
         "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023021092"
+    },
+    {
+        "id": "SV4K-093",
+        "cardID": "고동악230사납000컬래100",
+        "name": "고동치는달 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "ex",
+            "고대"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 230,
+        "pokemons": [
+            {
+                "name": "고동치는달",
+                "pokedexNumber": 1005
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "사납게 도려내기",
+                "cost": "(악)(악)(무색)",
+                "damage": "",
+                "text": "상대의 배틀 포켓몬을 기절시킨다. 그 뒤, 이 포켓몬에게 200데미지를 준다."
+            },
+            {
+                "name": "컬래머티스톰",
+                "cost": "(악)(악)(무색)",
+                "damage": "100+",
+                "text": "원한다면 필드에 나와 있는 스타디움을 트래쉬한다. 그 경우, 120데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "093",
+        "prodNumber": "066",
+        "prodCode": "SV4K",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV4K.png",
+        "prodName": "스칼렛&바이올렛 확장팩 「고대의 포효」",
+        "artist": "takuyoa",
+        "rarity": "UR",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4K/SV4K_093.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023021093"
+    },
+    {
+        "id": "SV4K-094",
+        "cardID": "럭셔리망토",
+        "name": "럭셔리망토",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "포켓몬의 도구"
+        ],
+        "rules": [
+            "포켓몬의 도구는 자신의 포켓몬에게 붙여서 사용한다.",
+            "포켓몬 1마리에게 1장만 붙일 수 있고 붙인 채로 둔다.",
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드를 붙이고 있는 포켓몬(「룰을 가진 포켓몬」은 제외)의 최대 HP는 「+100」이 되고 그 포켓몬이 상대의 포켓몬으로부터 기술의 데미지를 받아 기절했을 때 가져갈 수 있는 프라이즈는 1장 많아진다."
+        ],
+        "number": "094",
+        "prodNumber": "066",
+        "prodCode": "SV4K",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV4K.png",
+        "prodName": "스칼렛&바이올렛 확장팩 「고대의 포효」",
+        "artist": "Toyste Beach",
+        "rarity": "UR",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4K/SV4K_094.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023021094"
+    },
+    {
+        "id": "SV4K-095",
+        "cardID": "기본 악 에너지",
+        "name": "기본 악 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "기본 에너지"
+        ],
+        "rules": [],
+        "texts": [],
+        "number": "095",
+        "prodNumber": "066",
+        "prodCode": "SV4K",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV4K.png",
+        "prodName": "스칼렛&바이올렛 확장팩 「고대의 포효」",
+        "rarity": "UR",
+        "regulationMark": "BE",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4K/SV4K_095.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023021095"
     }
 ]

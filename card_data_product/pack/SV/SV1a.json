@@ -4828,5 +4828,173 @@
         "regulationMark": "G",
         "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV1a/SV1a_100.png?w=512",
         "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023010100"
+    },
+    {
+        "id": "SV1a-101",
+        "cardID": "마스풀310부케스크100",
+        "name": "마스카나 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 310,
+        "pokemons": [
+            {
+                "name": "마스카나",
+                "pokedexNumber": 908
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "스크래치네일",
+                "cost": "(무색)(무색)",
+                "damage": "100+",
+                "text": "상대의 배틀 포켓몬에게 데미지 카운터가 올려져 있다면 120데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "부케 매직",
+                "text": "자신의 차례에 자신의 패에서 「기본 (풀) 에너지」를 1장 트래쉬한다면 1번 사용할 수 있다. 상대의 벤치 포켓몬 1마리에게 데미지 카운터를 3개 올린다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "101",
+        "prodNumber": "073",
+        "prodCode": "SV1a",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV1a.png",
+        "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 강화 확장팩 「트리플렛비트」",
+        "artist": "5ban Graphics",
+        "rarity": "UR",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV1a/SV1a_101.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023010101"
+    },
+    {
+        "id": "SV1a-102",
+        "cardID": "라우불340활력050버닝270",
+        "name": "라우드본 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 340,
+        "pokemons": [
+            {
+                "name": "라우드본",
+                "pokedexNumber": 911
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "활력의노래",
+                "cost": "(불꽃)",
+                "damage": "50",
+                "text": "자신의 포켓몬 전원의 HP를 각각 「30」회복한다."
+            },
+            {
+                "name": "버닝보이스",
+                "cost": "(불꽃)(불꽃)",
+                "damage": "270-",
+                "text": "이 포켓몬에게 올려져 있는 데미지 카운터의 수 × 10데미지만큼 이 기술의 데미지는 작아진다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "number": "102",
+        "prodNumber": "073",
+        "prodCode": "SV1a",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV1a.png",
+        "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 강화 확장팩 「트리플렛비트」",
+        "artist": "5ban Graphics",
+        "rarity": "UR",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV1a/SV1a_102.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023010102"
+    },
+    {
+        "id": "SV1a-103",
+        "cardID": "웨이물320익사060스크230",
+        "name": "웨이니발 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 320,
+        "pokemons": [
+            {
+                "name": "웨이니발",
+                "pokedexNumber": 914
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "익사이팅삼바",
+                "cost": "(물)",
+                "damage": "60",
+                "text": "이 포켓몬을 벤치 포켓몬과 교체한다. 그 뒤, 상대는 상대 자신의 배틀 포켓몬을 벤치 포켓몬과 교체한다."
+            },
+            {
+                "name": "스크루슛",
+                "cost": "(물)(무색)",
+                "damage": "230",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 2개 선택해서 패로 되돌린다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "103",
+        "prodNumber": "073",
+        "prodCode": "SV1a",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV1a.png",
+        "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 강화 확장팩 「트리플렛비트」",
+        "artist": "5ban Graphics",
+        "rarity": "UR",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV1a/SV1a_103.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023010103"
     }
 ]

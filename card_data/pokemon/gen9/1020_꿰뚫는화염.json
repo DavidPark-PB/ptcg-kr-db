@@ -84,6 +84,18 @@
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_093.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024004093",
                 "debug": "2"
+            },
+            {
+                "number": "098",
+                "prodNumber": "071",
+                "prodCode": "SV5K",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5K.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「와일드포스」",
+                "artist": "5ban Graphics",
+                "rarity": "UR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_098.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024004098",
+                "debug": "2"
             }
         ]
     }

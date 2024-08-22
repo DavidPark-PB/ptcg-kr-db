@@ -6365,18 +6365,6 @@
                 "debug": "3"
             },
             {
-                "number": "145",
-                "prodNumber": "172",
-                "prodCode": "S12a",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
-                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
-                "artist": "Studio Bora Inc.",
-                "rarity": "U",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_145.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001145",
-                "debug": "3"
-            },
-            {
                 "number": "006",
                 "prodNumber": "028",
                 "prodCode": "SVB",
@@ -6629,18 +6617,6 @@
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_146.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001146",
                 "debug": "3"
-            },
-            {
-                "number": "146",
-                "prodNumber": "172",
-                "prodCode": "S12a",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
-                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
-                "artist": "Studio Bora Inc.",
-                "rarity": "U",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_146.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001146",
-                "debug": "3"
             }
         ]
     },
@@ -6837,18 +6813,6 @@
             "F"
         ],
         "version_infos": [
-            {
-                "number": "147",
-                "prodNumber": "172",
-                "prodCode": "S12a",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
-                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
-                "artist": "AYUMI ODASHIMA",
-                "rarity": "R",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_147.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001147",
-                "debug": "3"
-            },
             {
                 "number": "147",
                 "prodNumber": "172",
@@ -7327,6 +7291,52 @@
         ]
     },
     {
+        "id": "SV4K-094",
+        "cardID": "럭셔리망토",
+        "name": "럭셔리망토",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "포켓몬의 도구"
+        ],
+        "rules": [
+            "포켓몬의 도구는 자신의 포켓몬에게 붙여서 사용한다.",
+            "포켓몬 1마리에게 1장만 붙일 수 있고 붙인 채로 둔다.",
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드를 붙이고 있는 포켓몬(「룰을 가진 포켓몬」은 제외)의 최대 HP는 「+100」이 되고 그 포켓몬이 상대의 포켓몬으로부터 기술의 데미지를 받아 기절했을 때 가져갈 수 있는 프라이즈는 1장 많아진다."
+        ],
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "057",
+                "prodNumber": "062",
+                "prodCode": "SV3a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV3a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「레이징서프」",
+                "artist": "Toyste Beach",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV3a/SV3a_057.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023020057",
+                "debug": "3"
+            },
+            {
+                "number": "094",
+                "prodNumber": "066",
+                "prodCode": "SV4K",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV4K.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「고대의 포효」",
+                "artist": "Toyste Beach",
+                "rarity": "UR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4K/SV4K_094.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023021094",
+                "debug": "3"
+            }
+        ]
+    },
+    {
         "id": "SV3a-055",
         "cardID": "기술머신 암습",
         "name": "기술머신 암습",
@@ -7394,40 +7404,6 @@
                 "rarity": "U",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV3a/SV3a_056.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023020056",
-                "debug": "3"
-            }
-        ]
-    },
-    {
-        "id": "SV3a-057",
-        "cardID": "럭셔리망토",
-        "name": "럭셔리망토",
-        "supertype": "트레이너스",
-        "subtypes": [
-            "포켓몬의 도구"
-        ],
-        "rules": [
-            "포켓몬의 도구는 자신의 포켓몬에게 붙여서 사용한다.",
-            "포켓몬 1마리에게 1장만 붙일 수 있고 붙인 채로 둔다.",
-            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
-        ],
-        "texts": [
-            "이 카드를 붙이고 있는 포켓몬(「룰을 가진 포켓몬」은 제외)의 최대 HP는 「+100」이 되고 그 포켓몬이 상대의 포켓몬으로부터 기술의 데미지를 받아 기절했을 때 가져갈 수 있는 프라이즈는 1장 많아진다."
-        ],
-        "regulationMark": [
-            "G"
-        ],
-        "version_infos": [
-            {
-                "number": "057",
-                "prodNumber": "062",
-                "prodCode": "SV3a",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV3a.png",
-                "prodName": "스칼렛&바이올렛 강화 확장팩 「레이징서프」",
-                "artist": "Toyste Beach",
-                "rarity": "U",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV3a/SV3a_057.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023020057",
                 "debug": "3"
             }
         ]
@@ -7725,6 +7701,89 @@
         ]
     },
     {
+        "id": "SV5a-095",
+        "cardID": "긴급 보드",
+        "name": "긴급 보드",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "포켓몬의 도구"
+        ],
+        "rules": [
+            "포켓몬의 도구는 자신의 포켓몬에게 붙여서 사용한다.",
+            "포켓몬 1마리에게 1장만 붙일 수 있고 붙인 채로 둔다.",
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드를 붙이고 있는 포켓몬은 후퇴에 필요한 에너지가 1개만큼 적어진다.",
+            "그 포켓몬의 남은 HP가 「30」이하라면 후퇴에 필요한 에너지는 모두 없어진다."
+        ],
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "064",
+                "prodNumber": "071",
+                "prodCode": "SV5K",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5K.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「와일드포스」",
+                "artist": "Toyste Beach",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_064.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024004064",
+                "debug": "3"
+            },
+            {
+                "number": "095",
+                "prodNumber": "066",
+                "prodCode": "SV5a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「크림슨헤이즈」",
+                "artist": "Toyste Beach",
+                "rarity": "UR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5a/SV5a_095.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024007095",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "SV5K-065",
+        "cardID": "맥시멈 벨트",
+        "name": "맥시멈 벨트",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "포켓몬의 도구",
+            "ACE SPEC"
+        ],
+        "rules": [
+            "포켓몬의 도구는 자신의 포켓몬에게 붙여서 사용한다.",
+            "포켓몬 1마리에게 1장만 붙일 수 있고 붙인 채로 둔다.",
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다.",
+            "ACE SPEC 카드는 덱에 1장만 넣을 수 있다"
+        ],
+        "texts": [
+            "이 카드를 붙이고 있는 포켓몬이 사용하는 기술이 상대 배틀필드의 「포켓몬 ex」에게 주는 데미지는 「+50」이 된다."
+        ],
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "065",
+                "prodNumber": "071",
+                "prodCode": "SV5K",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5K.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「와일드포스」",
+                "artist": "inose yukie",
+                "rarity": "ACE",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_065.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024004065",
+                "debug": "3"
+            }
+        ]
+    },
+    {
         "id": "SV5M-065",
         "cardID": "헤비 배턴",
         "name": "헤비 배턴",
@@ -7790,77 +7849,6 @@
                 "rarity": "ACE",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5M/SV5M_066.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024005066",
-                "debug": "3"
-            }
-        ]
-    },
-    {
-        "id": "SV5K-064",
-        "cardID": "긴급 보드",
-        "name": "긴급 보드",
-        "supertype": "트레이너스",
-        "subtypes": [
-            "포켓몬의 도구"
-        ],
-        "rules": [
-            "포켓몬의 도구는 자신의 포켓몬에게 붙여서 사용한다.",
-            "포켓몬 1마리에게 1장만 붙일 수 있고 붙인 채로 둔다.",
-            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
-        ],
-        "texts": [
-            "이 카드를 붙이고 있는 포켓몬은 후퇴에 필요한 에너지가 1개만큼 적어진다.",
-            "그 포켓몬의 남은 HP가 「30」이하라면 후퇴에 필요한 에너지는 모두 없어진다."
-        ],
-        "regulationMark": [
-            "H"
-        ],
-        "version_infos": [
-            {
-                "number": "064",
-                "prodNumber": "071",
-                "prodCode": "SV5K",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5K.png",
-                "prodName": "스칼렛&바이올렛 확장팩 「와일드포스」",
-                "artist": "Toyste Beach",
-                "rarity": "U",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_064.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024004064",
-                "debug": "3"
-            }
-        ]
-    },
-    {
-        "id": "SV5K-065",
-        "cardID": "맥시멈 벨트",
-        "name": "맥시멈 벨트",
-        "supertype": "트레이너스",
-        "subtypes": [
-            "포켓몬의 도구",
-            "ACE SPEC"
-        ],
-        "rules": [
-            "포켓몬의 도구는 자신의 포켓몬에게 붙여서 사용한다.",
-            "포켓몬 1마리에게 1장만 붙일 수 있고 붙인 채로 둔다.",
-            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다.",
-            "ACE SPEC 카드는 덱에 1장만 넣을 수 있다"
-        ],
-        "texts": [
-            "이 카드를 붙이고 있는 포켓몬이 사용하는 기술이 상대 배틀필드의 「포켓몬 ex」에게 주는 데미지는 「+50」이 된다."
-        ],
-        "regulationMark": [
-            "H"
-        ],
-        "version_infos": [
-            {
-                "number": "065",
-                "prodNumber": "071",
-                "prodCode": "SV5K",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5K.png",
-                "prodName": "스칼렛&바이올렛 확장팩 「와일드포스」",
-                "artist": "inose yukie",
-                "rarity": "ACE",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_065.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024004065",
                 "debug": "3"
             }
         ]

@@ -181,7 +181,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4a/SV4a_150.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024001150",
-                "debug": "1"
+                "debug": "3"
             },
             {
                 "number": "315",
@@ -487,7 +487,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVI/SVI_047_L.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024006085",
-                "debug": "3"
+                "debug": "1"
             }
         ]
     }

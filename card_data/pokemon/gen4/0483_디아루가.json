@@ -794,18 +794,6 @@
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_100.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001100",
                 "debug": "2"
-            },
-            {
-                "number": "100",
-                "prodNumber": "172",
-                "prodCode": "S12a",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
-                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
-                "artist": "5ban Graphics",
-                "rarity": "RR",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_100.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001100",
-                "debug": "2"
             }
         ]
     },
@@ -894,18 +882,6 @@
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10D_086.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022007086",
                 "debug": "2"
-            },
-            {
-                "number": "101",
-                "prodNumber": "172",
-                "prodCode": "S12a",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
-                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
-                "artist": "5ban Graphics",
-                "rarity": "RRR",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_101.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001101",
-                "debug": "2"
             }
         ]
     },
@@ -970,6 +946,18 @@
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_101.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001101",
                 "debug": "1"
+            },
+            {
+                "number": "260",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "AKIRA EGAWA",
+                "rarity": "UR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_260.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001260",
+                "debug": "2"
             }
         ]
     },

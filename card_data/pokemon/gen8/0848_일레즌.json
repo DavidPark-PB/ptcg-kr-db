@@ -275,18 +275,6 @@
                 "debug": "2"
             },
             {
-                "number": "043",
-                "prodNumber": "172",
-                "prodCode": "S12a",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
-                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
-                "artist": "kodama",
-                "rarity": "C",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_043.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001043",
-                "debug": "2"
-            },
-            {
                 "number": "137",
                 "prodNumber": "S-P",
                 "prodCode": "S-P",

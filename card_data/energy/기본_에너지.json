@@ -10,8 +10,7 @@
         "rules": [],
         "texts": [],
         "regulationMark": [
-            "BE",
-            ""
+            "BE"
         ],
         "version_infos": [
             {
@@ -427,8 +426,7 @@
         "rules": [],
         "texts": [],
         "regulationMark": [
-            "BE",
-            ""
+            "BE"
         ],
         "version_infos": [
             {
@@ -762,6 +760,16 @@
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023009030"
             },
             {
+                "number": "141",
+                "prodNumber": "108",
+                "prodCode": "SV3",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV3.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「흑염의 지배자」",
+                "rarity": "UR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV3/SV3_141.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023015141"
+            },
+            {
                 "number": "000",
                 "prodNumber": "FIR",
                 "prodCode": "SVD",
@@ -894,8 +902,7 @@
         "rules": [],
         "texts": [],
         "regulationMark": [
-            "BE",
-            ""
+            "BE"
         ],
         "version_infos": [
             {
@@ -1229,6 +1236,16 @@
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023009031"
             },
             {
+                "number": "099",
+                "prodNumber": "071",
+                "prodCode": "SV2P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV2P.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「스노해저드」",
+                "rarity": "UR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2P/SV2P_099.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023011099"
+            },
+            {
                 "number": "000",
                 "prodNumber": "WAT",
                 "prodCode": "SVD",
@@ -1371,8 +1388,7 @@
         "rules": [],
         "texts": [],
         "regulationMark": [
-            "BE",
-            ""
+            "BE"
         ],
         "version_infos": [
             {
@@ -1726,6 +1742,16 @@
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023003023"
             },
             {
+                "number": "108",
+                "prodNumber": "078",
+                "prodCode": "SV1V",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV1V.png",
+                "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 확장팩 「바이올렛 ex」",
+                "rarity": "UR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV1V/SV1V_108.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023007108"
+            },
+            {
                 "number": "000",
                 "prodNumber": "LIG",
                 "prodCode": "SVB",
@@ -1868,8 +1894,7 @@
         "rules": [],
         "texts": [],
         "regulationMark": [
-            "BE",
-            ""
+            "BE"
         ],
         "version_infos": [
             {
@@ -2153,6 +2178,16 @@
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023009033"
             },
             {
+                "number": "210",
+                "prodNumber": "165",
+                "prodCode": "SV2a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV2a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「포켓몬 카드 151」",
+                "rarity": "UR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2a/SV2a_210.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023014210"
+            },
+            {
                 "number": "000",
                 "prodNumber": "PSY",
                 "prodCode": "SVD",
@@ -2295,8 +2330,7 @@
         "rules": [],
         "texts": [],
         "regulationMark": [
-            "BE",
-            ""
+            "BE"
         ],
         "version_infos": [
             {
@@ -2550,6 +2584,16 @@
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023002025"
             },
             {
+                "number": "108",
+                "prodNumber": "078",
+                "prodCode": "SV1S",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV1S.png",
+                "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 확장팩 「스칼렛 ex」",
+                "rarity": "UR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV1S/SV1S_108.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023006108"
+            },
+            {
                 "number": "000",
                 "prodNumber": "FIG",
                 "prodCode": "SVB",
@@ -2682,8 +2726,7 @@
         "rules": [],
         "texts": [],
         "regulationMark": [
-            "BE",
-            ""
+            "BE"
         ],
         "version_infos": [
             {
@@ -2987,6 +3030,16 @@
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023017045"
             },
             {
+                "number": "095",
+                "prodNumber": "066",
+                "prodCode": "SV4K",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV4K.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「고대의 포효」",
+                "rarity": "UR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4K/SV4K_095.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023021095"
+            },
+            {
                 "number": "000",
                 "prodNumber": "DAR",
                 "prodCode": "SVHK",
@@ -3129,8 +3182,7 @@
         "rules": [],
         "texts": [],
         "regulationMark": [
-            "BE",
-            ""
+            "BE"
         ],
         "version_infos": [
             {
@@ -3382,6 +3434,16 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVF/SVF_046.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023017046"
+            },
+            {
+                "number": "095",
+                "prodNumber": "066",
+                "prodCode": "SV4M",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV4M.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「미래의 일섬」",
+                "rarity": "UR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4M/SV4M_095.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023022095"
             },
             {
                 "number": "000",

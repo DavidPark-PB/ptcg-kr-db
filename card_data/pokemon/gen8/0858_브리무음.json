@@ -275,18 +275,6 @@
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_065.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001065",
                 "debug": "1"
-            },
-            {
-                "number": "065",
-                "prodNumber": "172",
-                "prodCode": "S12a",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
-                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
-                "artist": "kawayoo",
-                "rarity": "RR",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_065.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001065",
-                "debug": "2"
             }
         ]
     },
@@ -361,18 +349,6 @@
                 "rarity": "SAR",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_224.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001224",
-                "debug": "2"
-            },
-            {
-                "number": "066",
-                "prodNumber": "172",
-                "prodCode": "S12a",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
-                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
-                "artist": "5ban Graphics",
-                "rarity": "RRR",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_066.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001066",
                 "debug": "2"
             }
         ]

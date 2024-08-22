@@ -756,18 +756,6 @@
                 "debug": "2"
             },
             {
-                "number": "052",
-                "prodNumber": "172",
-                "prodCode": "S12a",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
-                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
-                "artist": "Yuu Nishida",
-                "rarity": "R",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_052.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001052",
-                "debug": "2"
-            },
-            {
                 "number": "011",
                 "prodNumber": "028",
                 "prodCode": "SVB",
@@ -902,18 +890,6 @@
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_053.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001053",
                 "debug": "1"
-            },
-            {
-                "number": "053",
-                "prodNumber": "172",
-                "prodCode": "S12a",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
-                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
-                "artist": "PLANETA Yamashita",
-                "rarity": "RR",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_053.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001053",
-                "debug": "2"
             }
         ]
     },
@@ -990,18 +966,6 @@
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_054.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001054",
                 "debug": "1"
-            },
-            {
-                "number": "054",
-                "prodNumber": "172",
-                "prodCode": "S12a",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
-                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
-                "artist": "5ban Graphics",
-                "rarity": "RRR",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_054.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001054",
-                "debug": "2"
             }
         ]
     },
@@ -1088,6 +1052,18 @@
                 "rarity": "SAR",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2a/SV2a_205.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023014205",
+                "debug": "2"
+            },
+            {
+                "number": "208",
+                "prodNumber": "165",
+                "prodCode": "SV2a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV2a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「포켓몬 카드 151」",
+                "artist": "aky CG Works",
+                "rarity": "UR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2a/SV2a_208.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023014208",
                 "debug": "2"
             },
             {

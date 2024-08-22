@@ -2557,16 +2557,6 @@
                 "rarity": "U",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_172.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001172"
-            },
-            {
-                "number": "172",
-                "prodNumber": "172",
-                "prodCode": "S12a",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
-                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
-                "rarity": "U",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_172.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001172"
             }
         ]
     },
@@ -2626,16 +2616,6 @@
                 "rarity": "U",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S11a/S11a_067.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022016067"
-            },
-            {
-                "number": "171",
-                "prodNumber": "172",
-                "prodCode": "S12a",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
-                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
-                "rarity": "U",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_171.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001171"
             },
             {
                 "number": "171",
@@ -2808,7 +2788,7 @@
         ]
     },
     {
-        "id": "SVHK-052",
+        "id": "SV5a-096",
         "cardID": "루미너스 에너지",
         "name": "루미너스 에너지",
         "supertype": "에너지",
@@ -2863,6 +2843,16 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVHM/SVHM_052.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024003052"
+            },
+            {
+                "number": "096",
+                "prodNumber": "066",
+                "prodCode": "SV5a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「크림슨헤이즈」",
+                "rarity": "UR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5a/SV5a_096.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024007096"
             }
         ]
     },
@@ -2931,6 +2921,16 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_139.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016139"
+            },
+            {
+                "number": "092",
+                "prodNumber": "062",
+                "prodCode": "SV3a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV3a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「레이징서프」",
+                "rarity": "UR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV3a/SV3a_092.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023020092"
             },
             {
                 "number": "189",
@@ -3033,36 +3033,6 @@
         ]
     },
     {
-        "id": "SV5M-071",
-        "cardID": "미스트 에너지",
-        "name": "미스트 에너지",
-        "supertype": "에너지",
-        "subtypes": [
-            "특수 에너지"
-        ],
-        "rules": [],
-        "texts": [
-            "이 카드는 포켓몬에게 붙어 있는 한, (무색) 에너지 1개분으로 작용한다.",
-            "이 카드를 붙이고 있는 포켓몬은 상대의 포켓몬이 사용하는 기술의 효과를 받지 않는다.",
-            "(이미 받은 효과는 없어지지 않는다.)"
-        ],
-        "regulationMark": [
-            "H"
-        ],
-        "version_infos": [
-            {
-                "number": "071",
-                "prodNumber": "071",
-                "prodCode": "SV5M",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5M.png",
-                "prodName": "스칼렛&바이올렛 확장팩 「사이버저지」",
-                "rarity": "U",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5M/SV5M_071.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024005071"
-            }
-        ]
-    },
-    {
         "id": "SV5K-071",
         "cardID": "네오 어퍼 에너지",
         "name": "네오 어퍼 에너지",
@@ -3091,6 +3061,36 @@
                 "rarity": "ACE",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_071.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024004071"
+            }
+        ]
+    },
+    {
+        "id": "SV5M-071",
+        "cardID": "미스트 에너지",
+        "name": "미스트 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "특수 에너지"
+        ],
+        "rules": [],
+        "texts": [
+            "이 카드는 포켓몬에게 붙어 있는 한, (무색) 에너지 1개분으로 작용한다.",
+            "이 카드를 붙이고 있는 포켓몬은 상대의 포켓몬이 사용하는 기술의 효과를 받지 않는다.",
+            "(이미 받은 효과는 없어지지 않는다.)"
+        ],
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "071",
+                "prodNumber": "071",
+                "prodCode": "SV5M",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5M.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「사이버저지」",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5M/SV5M_071.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024005071"
             }
         ]
     },

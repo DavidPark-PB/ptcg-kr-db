@@ -464,23 +464,11 @@
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_198.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001198",
                 "debug": "2"
-            },
-            {
-                "number": "118",
-                "prodNumber": "172",
-                "prodCode": "S12a",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
-                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
-                "artist": "ryoma uratsuka",
-                "rarity": "C",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_118.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001118",
-                "debug": "2"
             }
         ]
     },
     {
-        "id": "SV2P-056",
+        "id": "SVD-092",
         "cardID": "노고무070친구000물기050",
         "name": "노고치",
         "supertype": "포켓몬",
@@ -535,7 +523,7 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2P/SV2P_056.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023011056",
-                "debug": "1"
+                "debug": "2"
             },
             {
                 "number": "092",
@@ -547,7 +535,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_092.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016092",
-                "debug": "2"
+                "debug": "1"
             }
         ]
     },

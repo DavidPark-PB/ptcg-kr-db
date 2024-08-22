@@ -1574,18 +1574,6 @@
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_211.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001211",
                 "debug": "2"
-            },
-            {
-                "number": "013",
-                "prodNumber": "172",
-                "prodCode": "S12a",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
-                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
-                "artist": "N-DESIGN Inc.",
-                "rarity": "RR",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_013.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001013",
-                "debug": "2"
             }
         ]
     },
@@ -1673,18 +1661,6 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SO/SO_002.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022018002",
-                "debug": "2"
-            },
-            {
-                "number": "014",
-                "prodNumber": "172",
-                "prodCode": "S12a",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
-                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
-                "artist": "5ban Graphics",
-                "rarity": "RRR",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_014.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001014",
                 "debug": "2"
             }
         ]
@@ -1809,18 +1785,6 @@
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10b/S10b_011.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022010011",
                 "debug": "1"
-            },
-            {
-                "number": "015",
-                "prodNumber": "172",
-                "prodCode": "S12a",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
-                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
-                "artist": "Kouki Saitou",
-                "rarity": "K",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_015.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001015",
-                "debug": "2"
             },
             {
                 "number": "015",
@@ -2036,7 +2000,7 @@
         ]
     },
     {
-        "id": "SVJL-006",
+        "id": "SV4a-115",
         "cardID": "리자악330테라버닝180",
         "name": "리자몽 ex",
         "supertype": "포켓몬",
@@ -2126,6 +2090,18 @@
                 "debug": "2"
             },
             {
+                "number": "139",
+                "prodNumber": "108",
+                "prodCode": "SV3",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV3.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「흑염의 지배자」",
+                "artist": "5ban Graphics",
+                "rarity": "UR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV3/SV3_139.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023015139",
+                "debug": "2"
+            },
+            {
                 "number": "115",
                 "prodNumber": "190",
                 "prodCode": "SV4a",
@@ -2135,7 +2111,7 @@
                 "rarity": "RR",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4a/SV4a_115.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024001115",
-                "debug": "2"
+                "debug": "1"
             },
             {
                 "number": "331",
@@ -2171,7 +2147,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVJL/SVJL_006.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024009006",
-                "debug": "1"
+                "debug": "2"
             }
         ]
     },

@@ -129,7 +129,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVHK/SVHK_007.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024002007",
-                "debug": "3"
+                "debug": "1"
             }
         ]
     },
@@ -193,7 +193,7 @@
                 "rarity": "RR",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5a/SV5a_040.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024007040",
-                "debug": "1"
+                "debug": "3"
             },
             {
                 "number": "082",

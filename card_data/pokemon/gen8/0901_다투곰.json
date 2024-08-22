@@ -143,6 +143,18 @@
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5a/SV5a_091.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024007091",
                 "debug": "2"
+            },
+            {
+                "number": "094",
+                "prodNumber": "066",
+                "prodCode": "SV5a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「크림슨헤이즈」",
+                "artist": "aky CG Works",
+                "rarity": "UR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5a/SV5a_094.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024007094",
+                "debug": "2"
             }
         ]
     },

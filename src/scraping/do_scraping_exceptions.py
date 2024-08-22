@@ -441,6 +441,30 @@ def parse_VSTARUni():
     json_file_path = '../ptcg_kr_card_data/BS/2023/BS_2023_001_'+do_scraping.to_three_digit(parsed_card_num)+'.json'
     with open(json_file_path,mode='w',encoding='utf-8') as file:
         json.dump(data_json,file,ensure_ascii=False, indent=4)
+        
+# 끝에있는 UR들
+def parse_VSTARUni2():
+    url_head = 'https://pokemoncard.co.kr/cards/detail/BS2023001'
+    nums = list(range(255,270))
+    
+    parsed_card_num = 0
+    data_json = []
+    for num in nums:
+        url = url_head+do_scraping.to_three_digit(num)
+        if num == 1 or num % 5 == 0:
+            print(url)
+        
+        card_data, state = do_scraping.scrape_ptcg_kr(url)
+    
+        if state == "success":
+            data_json.append(card_data)
+            parsed_card_num += 1
+        elif state == "fail":
+            pass
+         
+    json_file_path = './'+'uni.json'
+    with open(json_file_path,mode='w',encoding='utf-8') as file:
+        json.dump(data_json,file,ensure_ascii=False, indent=4)
 
 #소드&실드 확장팩 「25th ANNIVERSARY COLLECTION」25가 피카츄vunion.  38까지 있음
 #https://pokemoncard.co.kr/cards/detail/BS2021015020
@@ -515,6 +539,126 @@ def parse_Night():
     json_file_path = '../ptcg_kr_card_data/BS/2024/BS_2024_011_'+do_scraping.to_three_digit(parsed_card_num)+'.json'
     with open(json_file_path,mode='w',encoding='utf-8') as file:
         json.dump(data_json,file,ensure_ascii=False, indent=4)
+        
+# SV 확팩들이 묘하게 UR만! 없다
+# 뒤에 번호들 파싱해야함.
+# prodNum이 50넘는걸 팩이라 간주하고 이것들의 끝번호부터 시작해서 파싱
+def parse_SV_Rares():
+    url_head_ori = 'https://pokemoncard.co.kr/cards/detail/BS'
+    years = ['2023','2024']
+    vers = list(range(1,24))
+    
+    for year in years:
+        for ver in vers:
+            url_head = url_head_ori + year + do_scraping.to_three_digit(ver)
+            
+            # 일단 하나 봐서 전체 몇개인지 체크
+            url_test = url_head + '010'
+            card_data, state = do_scraping.scrape_ptcg_kr(url_test)
+            test_rst = True
+    
+            if state == "success":
+                if int(card_data['prodNumber']) < 56:
+                    test_rst = False
+            elif state == "fail":
+                test_rst = False
+                
+            if not test_rst:
+                continue
+            
+            # 끝번호부터 40개 파싱
+            lastNum = int(card_data['prodNumber'])
+            parsed_card_num = 0
+            data_json = []
+            for num in range(1,41):
+                url = url_head+do_scraping.to_three_digit(lastNum + num)
+                if num == 1 or num % 5 == 0:
+                    print(url)
+        
+                card_data, state = do_scraping.scrape_ptcg_kr(url)
+    
+                if state == "success":
+                    data_json.append(card_data)
+                    parsed_card_num += 1
+                elif state == "fail":
+                    pass
+            
+            if parsed_card_num > 1:
+                json_file_path = '../ptcg_kr_card_data/BS/'+year+'/BS_'+year +'_'+do_scraping.to_three_digit(ver)+'_'+do_scraping.to_three_digit(parsed_card_num)+'.json'
+                with open(json_file_path,mode='w',encoding='utf-8') as file:
+                    json.dump(data_json,file,ensure_ascii=False, indent=4)
+                    
+#스칼렛&바이올렛 확장팩 「포켓몬 카드 151」	240까지 BS2023014240
+def parse_151():
+    url_head = 'https://pokemoncard.co.kr/cards/detail/BS2023014'
+    nums = list(range(241))
+    
+    parsed_card_num = 0
+    data_json = []
+    for num in nums:
+        url = url_head+do_scraping.to_three_digit(num)
+        if num == 1 or num % 5 == 0:
+            print(url)
+        
+        card_data, state = do_scraping.scrape_ptcg_kr(url)
+    
+        if state == "success":
+            data_json.append(card_data)
+            parsed_card_num += 1
+        elif state == "fail":
+            pass
+         
+    json_file_path = '../ptcg_kr_card_data/BS/2023/BBS_2024_014_'+do_scraping.to_three_digit(parsed_card_num)+'.json'
+    with open(json_file_path,mode='w',encoding='utf-8') as file:
+        json.dump(data_json,file,ensure_ascii=False, indent=4)
+        
+#스칼렛&바이올렛 확장팩 「샤트」	400 까지 BS2024001400
+def parse_ShinyTrea():
+    url_head = 'https://pokemoncard.co.kr/cards/detail/BS2024001'
+    nums = list(range(401))
+    
+    parsed_card_num = 0
+    data_json = []
+    for num in nums:
+        url = url_head+do_scraping.to_three_digit(num)
+        if num == 1 or num % 5 == 0:
+            print(url)
+        
+        card_data, state = do_scraping.scrape_ptcg_kr(url)
+    
+        if state == "success":
+            data_json.append(card_data)
+            parsed_card_num += 1
+        elif state == "fail":
+            pass
+         
+    json_file_path = '../ptcg_kr_card_data/BS/2024/BBS_2024_001_'+do_scraping.to_three_digit(parsed_card_num)+'.json'
+    with open(json_file_path,mode='w',encoding='utf-8') as file:
+        json.dump(data_json,file,ensure_ascii=False, indent=4)
+        
+def parse_banditUR():
+    url_head = 'https://pokemoncard.co.kr/cards/detail/BS2015005'
+    nums = list(range(90,100))
+    
+    parsed_card_num = 0
+    data_json = []
+    for num in nums:
+        url = url_head+do_scraping.to_three_digit(num)
+        if num == 1 or num % 5 == 0:
+            print(url)
+        
+        card_data, state = do_scraping.scrape_ptcg_kr(url)
+    
+        if state == "success":
+            data_json.append(card_data)
+            parsed_card_num += 1
+        elif state == "fail":
+            pass
+         
+    json_file_path = './'+'uni.json'
+    with open(json_file_path,mode='w',encoding='utf-8') as file:
+        json.dump(data_json,file,ensure_ascii=False, indent=4)
+
 
 if __name__ == "__main__":
     #parse_bestxy()
@@ -535,4 +679,13 @@ if __name__ == "__main__":
     #parse_25th()
     #parse_Mask()
     #parse_Night()
-    parse_VSTARUni()
+    #parse_VSTARUni()
+    
+    # ver 1.2 위해
+    #parse_SV_Rares()
+    #parse_151()
+    #parse_ShinyTrea()
+    #parse_VSTARUni2()
+    parse_banditUR()
+
+    

@@ -1299,6 +1299,18 @@
                 "debug": "3"
             },
             {
+                "number": "209",
+                "prodNumber": "165",
+                "prodCode": "SV2a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV2a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「포켓몬 카드 151」",
+                "artist": "Studio Bora Inc.",
+                "rarity": "UR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2a/SV2a_209.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023014209",
+                "debug": "3"
+            },
+            {
                 "number": "121",
                 "prodNumber": "139",
                 "prodCode": "SVD",
@@ -4876,6 +4888,18 @@
                 "debug": "3"
             },
             {
+                "number": "098",
+                "prodNumber": "071",
+                "prodCode": "SV2P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV2P.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「스노해저드」",
+                "artist": "Toyste Beach",
+                "rarity": "UR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2P/SV2P_098.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023011098",
+                "debug": "3"
+            },
+            {
                 "number": "012",
                 "prodNumber": "038",
                 "prodCode": "SVF",
@@ -5273,18 +5297,6 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SO/SO_017.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022018017",
-                "debug": "3"
-            },
-            {
-                "number": "136",
-                "prodNumber": "172",
-                "prodCode": "S12a",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
-                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
-                "artist": "Ryo Ueda",
-                "rarity": "U",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_136.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001136",
                 "debug": "3"
             },
             {
@@ -5909,18 +5921,6 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SO/SO_022.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022018022",
-                "debug": "3"
-            },
-            {
-                "number": "143",
-                "prodNumber": "172",
-                "prodCode": "S12a",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
-                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
-                "artist": "Amelicart",
-                "rarity": "U",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_143.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001143",
                 "debug": "3"
             },
             {
@@ -6681,6 +6681,18 @@
                 "debug": "3"
             },
             {
+                "number": "107",
+                "prodNumber": "078",
+                "prodCode": "SV1V",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV1V.png",
+                "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 확장팩 「바이올렛 ex」",
+                "artist": "Studio Bora Inc.",
+                "rarity": "UR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV1V/SV1V_107.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023007107",
+                "debug": "3"
+            },
+            {
                 "number": "002",
                 "prodNumber": "028",
                 "prodCode": "SVB",
@@ -7094,18 +7106,6 @@
                 "rarity": "UR",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10a/S10a_098.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022011147",
-                "debug": "3"
-            },
-            {
-                "number": "134",
-                "prodNumber": "172",
-                "prodCode": "S12a",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
-                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
-                "artist": "Ryo Ueda",
-                "rarity": "U",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_134.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001134",
                 "debug": "3"
             },
             {
@@ -10324,6 +10324,18 @@
                 "debug": "3"
             },
             {
+                "number": "107",
+                "prodNumber": "078",
+                "prodCode": "SV1S",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV1S.png",
+                "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 확장팩 「스칼렛 ex」",
+                "artist": "Toyste Beach",
+                "rarity": "UR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV1S/SV1S_107.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023006107",
+                "debug": "3"
+            },
+            {
                 "number": "001",
                 "prodNumber": "028",
                 "prodCode": "SVB",
@@ -11400,6 +11412,18 @@
                 "rarity": "U",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4M/SV4M_059.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023022059",
+                "debug": "3"
+            },
+            {
+                "number": "094",
+                "prodNumber": "066",
+                "prodCode": "SV4M",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV4M.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「미래의 일섬」",
+                "artist": "Toyste Beach",
+                "rarity": "UR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4M/SV4M_094.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023022094",
                 "debug": "3"
             },
             {
@@ -15759,18 +15783,6 @@
                 "debug": "3"
             },
             {
-                "number": "140",
-                "prodNumber": "172",
-                "prodCode": "S12a",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
-                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
-                "artist": "sadaji",
-                "rarity": "U",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_140.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001140",
-                "debug": "3"
-            },
-            {
                 "number": "015",
                 "prodNumber": "028",
                 "prodCode": "SVB",
@@ -15981,18 +15993,6 @@
                 "rarity": "U",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_057.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011057",
-                "debug": "3"
-            },
-            {
-                "number": "137",
-                "prodNumber": "172",
-                "prodCode": "S12a",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
-                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
-                "artist": "Amelicart",
-                "rarity": "U",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_137.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001137",
                 "debug": "3"
             },
             {
@@ -16446,18 +16446,6 @@
                 "debug": "3"
             },
             {
-                "number": "132",
-                "prodNumber": "172",
-                "prodCode": "S12a",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
-                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
-                "artist": "Eske Yoshinob",
-                "rarity": "U",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_132.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001132",
-                "debug": "3"
-            },
-            {
                 "number": "012",
                 "prodNumber": "028",
                 "prodCode": "SVB",
@@ -16525,18 +16513,6 @@
                 "rarity": "U",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_062.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008062",
-                "debug": "3"
-            },
-            {
-                "number": "144",
-                "prodNumber": "172",
-                "prodCode": "S12a",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
-                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
-                "artist": "Studio Bora Inc.",
-                "rarity": "U",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_144.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001144",
                 "debug": "3"
             },
             {
@@ -16699,18 +16675,6 @@
                 "rarity": "UR",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10D_087.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022007087",
-                "debug": "3"
-            },
-            {
-                "number": "141",
-                "prodNumber": "172",
-                "prodCode": "S12a",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
-                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
-                "artist": "Amelicart",
-                "rarity": "U",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_141.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001141",
                 "debug": "3"
             },
             {
@@ -16940,18 +16904,6 @@
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_135.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001135",
                 "debug": "3"
-            },
-            {
-                "number": "135",
-                "prodNumber": "172",
-                "prodCode": "S12a",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
-                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
-                "artist": "sadaji",
-                "rarity": "U",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_135.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001135",
-                "debug": "3"
             }
         ]
     },
@@ -17056,18 +17008,6 @@
                 "debug": "3"
             },
             {
-                "number": "138",
-                "prodNumber": "172",
-                "prodCode": "S12a",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
-                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
-                "artist": "Amelicart",
-                "rarity": "U",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_138.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001138",
-                "debug": "3"
-            },
-            {
                 "number": "014",
                 "prodNumber": "028",
                 "prodCode": "SVB",
@@ -17147,18 +17087,6 @@
                 "rarity": "U",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S11/S11_092.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022014092",
-                "debug": "3"
-            },
-            {
-                "number": "139",
-                "prodNumber": "172",
-                "prodCode": "S12a",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
-                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
-                "artist": "sadaji",
-                "rarity": "U",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_139.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001139",
                 "debug": "3"
             },
             {
@@ -17307,18 +17235,6 @@
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_133.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001133",
                 "debug": "3"
-            },
-            {
-                "number": "133",
-                "prodNumber": "172",
-                "prodCode": "S12a",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
-                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
-                "artist": "sadaji",
-                "rarity": "U",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_133.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001133",
-                "debug": "3"
             }
         ]
     },
@@ -17341,18 +17257,6 @@
             "E"
         ],
         "version_infos": [
-            {
-                "number": "142",
-                "prodNumber": "172",
-                "prodCode": "S12a",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
-                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
-                "artist": "Toyste Beach",
-                "rarity": "U",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_142.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001142",
-                "debug": "3"
-            },
             {
                 "number": "142",
                 "prodNumber": "172",
@@ -17586,39 +17490,6 @@
         ]
     },
     {
-        "id": "SV2P-067",
-        "cardID": "파이팅오레",
-        "name": "파이팅오레",
-        "supertype": "트레이너스",
-        "subtypes": [
-            "아이템"
-        ],
-        "rules": [
-            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
-        ],
-        "texts": [
-            "이 카드는 자신의 남은 프라이즈 장수가 상대의 남은 프라이즈 장수보다 많을 때만 사용할 수 있다.",
-            "자신의 포켓몬 1마리의 HP를 「60」회복한다."
-        ],
-        "regulationMark": [
-            "G"
-        ],
-        "version_infos": [
-            {
-                "number": "067",
-                "prodNumber": "071",
-                "prodCode": "SV2P",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV2P.png",
-                "prodName": "스칼렛&바이올렛 확장팩 「스노해저드」",
-                "artist": "Ayaka Yoshida",
-                "rarity": "U",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2P/SV2P_067.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023011067",
-                "debug": "3"
-            }
-        ]
-    },
-    {
         "id": "SVD-111",
         "cardID": "딜리버리드론",
         "name": "딜리버리드론",
@@ -17659,6 +17530,39 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_111.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016111",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "SV2P-067",
+        "cardID": "파이팅오레",
+        "name": "파이팅오레",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드는 자신의 남은 프라이즈 장수가 상대의 남은 프라이즈 장수보다 많을 때만 사용할 수 있다.",
+            "자신의 포켓몬 1마리의 HP를 「60」회복한다."
+        ],
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "067",
+                "prodNumber": "071",
+                "prodCode": "SV2P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV2P.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「스노해저드」",
+                "artist": "Ayaka Yoshida",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2P/SV2P_067.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023011067",
                 "debug": "3"
             }
         ]
@@ -18168,6 +18072,75 @@
         ]
     },
     {
+        "id": "SV5K-061",
+        "cardID": "각성의 드럼",
+        "name": "각성의 드럼",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템",
+            "ACE SPEC",
+            "고대"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다.",
+            "ACE SPEC 카드는 덱에 1장만 넣을 수 있다"
+        ],
+        "texts": [
+            "자신의 필드의 「고대」의 포켓몬의 수만큼 덱을 뽑는다."
+        ],
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "061",
+                "prodNumber": "071",
+                "prodCode": "SV5K",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5K.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「와일드포스」",
+                "artist": "Toyste Beach",
+                "rarity": "ACE",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_061.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024004061",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "SV5K-063",
+        "cardID": "주문박스",
+        "name": "주문박스",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드를 사용하면 자신의 차례는 끝난다.",
+            "자신의 덱에서 아이템을 2장까지 선택해서 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "063",
+                "prodNumber": "071",
+                "prodCode": "SV5K",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5K.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「와일드포스」",
+                "artist": "Studio Bora Inc.",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_063.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024004063",
+                "debug": "3"
+            }
+        ]
+    },
+    {
         "id": "SV5M-061",
         "cardID": "리부트 포드",
         "name": "리부트 포드",
@@ -18267,75 +18240,6 @@
                 "rarity": "U",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5M/SV5M_063.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024005063",
-                "debug": "3"
-            }
-        ]
-    },
-    {
-        "id": "SV5K-061",
-        "cardID": "각성의 드럼",
-        "name": "각성의 드럼",
-        "supertype": "트레이너스",
-        "subtypes": [
-            "아이템",
-            "ACE SPEC",
-            "고대"
-        ],
-        "rules": [
-            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다.",
-            "ACE SPEC 카드는 덱에 1장만 넣을 수 있다"
-        ],
-        "texts": [
-            "자신의 필드의 「고대」의 포켓몬의 수만큼 덱을 뽑는다."
-        ],
-        "regulationMark": [
-            "H"
-        ],
-        "version_infos": [
-            {
-                "number": "061",
-                "prodNumber": "071",
-                "prodCode": "SV5K",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5K.png",
-                "prodName": "스칼렛&바이올렛 확장팩 「와일드포스」",
-                "artist": "Toyste Beach",
-                "rarity": "ACE",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_061.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024004061",
-                "debug": "3"
-            }
-        ]
-    },
-    {
-        "id": "SV5K-063",
-        "cardID": "주문박스",
-        "name": "주문박스",
-        "supertype": "트레이너스",
-        "subtypes": [
-            "아이템"
-        ],
-        "rules": [
-            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
-        ],
-        "texts": [
-            "이 카드를 사용하면 자신의 차례는 끝난다.",
-            "자신의 덱에서 아이템을 2장까지 선택해서 상대에게 보여주고 패로 가져온다.",
-            "그리고 덱을 섞는다."
-        ],
-        "regulationMark": [
-            "H"
-        ],
-        "version_infos": [
-            {
-                "number": "063",
-                "prodNumber": "071",
-                "prodCode": "SV5K",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5K.png",
-                "prodName": "스칼렛&바이올렛 확장팩 「와일드포스」",
-                "artist": "Studio Bora Inc.",
-                "rarity": "U",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_063.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024004063",
                 "debug": "3"
             }
         ]

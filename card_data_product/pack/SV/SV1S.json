@@ -5052,5 +5052,107 @@
         "regulationMark": "G",
         "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV1S/SV1S_105.png?w=512",
         "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023006105"
+    },
+    {
+        "id": "SV1S-106",
+        "cardID": "코라격230디노와일220",
+        "name": "코라이돈 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 230,
+        "pokemons": [
+            {
+                "name": "코라이돈",
+                "pokedexNumber": 1007
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "와일드임팩트",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "220",
+                "text": "자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "디노크라이",
+                "text": "자신의 차례에 1번 사용할 수 있으며, 사용하면 차례는 끝난다. 자신의 트래쉬에서 「기본 (격투) 에너지」를 2장까지 선택해서 자신의 (격투) 타입의 기본 포켓몬에게 원하는 대로 붙인다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "106",
+        "prodNumber": "078",
+        "prodCode": "SV1S",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV1S.png",
+        "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 확장팩 「스칼렛 ex」",
+        "artist": "aky CG Works",
+        "rarity": "UR",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV1S/SV1S_106.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023006106"
+    },
+    {
+        "id": "SV1S-107",
+        "cardID": "네스트볼",
+        "name": "네스트볼",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱에서 기본 포켓몬을 1장 선택해서 벤치로 내보낸다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "107",
+        "prodNumber": "078",
+        "prodCode": "SV1S",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV1S.png",
+        "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 확장팩 「스칼렛 ex」",
+        "artist": "Toyste Beach",
+        "rarity": "UR",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV1S/SV1S_107.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023006107"
+    },
+    {
+        "id": "SV1S-108",
+        "cardID": "기본 격투 에너지",
+        "name": "기본 격투 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "기본 에너지"
+        ],
+        "rules": [],
+        "texts": [],
+        "number": "108",
+        "prodNumber": "078",
+        "prodCode": "SV1S",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV1S.png",
+        "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 확장팩 「스칼렛 ex」",
+        "rarity": "UR",
+        "regulationMark": "BE",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV1S/SV1S_108.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023006108"
     }
 ]

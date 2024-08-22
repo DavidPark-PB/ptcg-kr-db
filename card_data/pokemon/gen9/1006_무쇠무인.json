@@ -84,6 +84,18 @@
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4M/SV4M_089.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023022089",
                 "debug": "2"
+            },
+            {
+                "number": "093",
+                "prodNumber": "066",
+                "prodCode": "SV4M",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV4M.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「미래의 일섬」",
+                "artist": "aky CG Works",
+                "rarity": "UR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4M/SV4M_093.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023022093",
+                "debug": "2"
             }
         ]
     },

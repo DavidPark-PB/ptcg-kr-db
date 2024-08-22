@@ -4692,5 +4692,176 @@
         "regulationMark": "H",
         "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_097.png?w=512",
         "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024004097"
+    },
+    {
+        "id": "SV5K-098",
+        "cardID": "꿰뚫불230히트060열화260",
+        "name": "꿰뚫는화염 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "ex",
+            "고대"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 230,
+        "pokemons": [
+            {
+                "name": "꿰뚫는화염",
+                "pokedexNumber": 1020
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "히트블라스트",
+                "cost": "(불꽃)(무색)",
+                "damage": "60",
+                "text": ""
+            },
+            {
+                "name": "열화맥진",
+                "cost": "(불꽃)(불꽃)(무색)",
+                "damage": "260",
+                "text": "이 기술을 사용하면 이 포켓몬은 배틀필드를 떠날 때까지 「열화맥진」을 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "098",
+        "prodNumber": "071",
+        "prodCode": "SV5K",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5K.png",
+        "prodName": "스칼렛&바이올렛 확장팩 「와일드포스」",
+        "artist": "5ban Graphics",
+        "rarity": "UR",
+        "regulationMark": "H",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_098.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024004098"
+    },
+    {
+        "id": "SV5K-099",
+        "cardID": "굽이물220감벽카타120",
+        "name": "굽이치는물결 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "ex",
+            "고대"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "굽이치는물결",
+                "pokedexNumber": 1009
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "카타르시스 로어",
+                "cost": "(물)(무색)(무색)",
+                "damage": "120+",
+                "text": "상대의 배틀 포켓몬이 특수 상태라면 120데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "감벽 파도",
+                "text": "이 포켓몬이 사용하는 기술의 데미지는 상대의 배틀 포켓몬에게 걸려 있는 효과를 계산하지 않는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "number": "099",
+        "prodNumber": "071",
+        "prodCode": "SV5K",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5K.png",
+        "prodName": "스칼렛&바이올렛 확장팩 「와일드포스」",
+        "artist": "takuyoa",
+        "rarity": "UR",
+        "regulationMark": "H",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_099.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024004099"
+    },
+    {
+        "id": "SV5K-100",
+        "cardID": "날뛰드240터뜨000극뇌070",
+        "name": "날뛰는우레 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "ex",
+            "고대"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 240,
+        "pokemons": [
+            {
+                "name": "날뛰는우레",
+                "pokedexNumber": 1021
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "터뜨린포효",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 패를 모두 트래쉬하고 덱을 6장 뽑는다."
+            },
+            {
+                "name": "극뇌굉",
+                "cost": "(번개)(격투)",
+                "damage": "70×",
+                "text": "자신의 필드의 포켓몬에게 붙어 있는 기본 에너지를 원하는 만큼 트래쉬하고 그 장수 × 70데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "number": "100",
+        "prodNumber": "071",
+        "prodCode": "SV5K",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5K.png",
+        "prodName": "스칼렛&바이올렛 확장팩 「와일드포스」",
+        "artist": "aky CG Works",
+        "rarity": "UR",
+        "regulationMark": "H",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_100.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024004100"
     }
 ]

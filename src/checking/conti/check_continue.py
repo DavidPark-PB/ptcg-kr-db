@@ -176,5 +176,5 @@ def conti_orNot_list():
         json.dump(json_data, out_file, ensure_ascii=False, indent=4)
 
 if __name__ == "__main__":
-    #check_prod_conti()
+    check_prod_conti()
     conti_orNot_list()

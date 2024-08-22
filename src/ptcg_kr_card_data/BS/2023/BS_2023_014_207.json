@@ -10288,5 +10288,106 @@
         "regulationMark": "G",
         "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2a/SV2a_207.png?w=512",
         "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023014207"
+    },
+    {
+        "id": "SV2a-208",
+        "cardID": "뮤우초180리스게놈000",
+        "name": "뮤 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "뮤",
+                "pokedexNumber": 151
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "게놈핵",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "",
+                "text": "상대의 배틀 포켓몬이 가지고 있는 기술을 1개 선택해서 이 기술로써 사용한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "리스타트",
+                "text": "자신의 차례에 1번 사용할 수 있다. 자신의 패가 3장이 되도록 덱을 뽑는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 0,
+        "flavorText": "",
+        "number": "208",
+        "prodNumber": "165",
+        "prodCode": "SV2a",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV2a.png",
+        "prodName": "스칼렛&바이올렛 강화 확장팩 「포켓몬 카드 151」",
+        "artist": "aky CG Works",
+        "rarity": "UR",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2a/SV2a_208.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023014208"
+    },
+    {
+        "id": "SV2a-209",
+        "cardID": "포켓몬 교체",
+        "name": "포켓몬 교체",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 배틀 포켓몬을 벤치 포켓몬과 교체한다."
+        ],
+        "number": "209",
+        "prodNumber": "165",
+        "prodCode": "SV2a",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV2a.png",
+        "prodName": "스칼렛&바이올렛 강화 확장팩 「포켓몬 카드 151」",
+        "artist": "Studio Bora Inc.",
+        "rarity": "UR",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2a/SV2a_209.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023014209"
+    },
+    {
+        "id": "SV2a-210",
+        "cardID": "기본 초 에너지",
+        "name": "기본 초 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "기본 에너지"
+        ],
+        "rules": [],
+        "texts": [],
+        "number": "210",
+        "prodNumber": "165",
+        "prodCode": "SV2a",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV2a.png",
+        "prodName": "스칼렛&바이올렛 강화 확장팩 「포켓몬 카드 151」",
+        "rarity": "UR",
+        "regulationMark": "BE",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2a/SV2a_210.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023014210"
     }
 ]

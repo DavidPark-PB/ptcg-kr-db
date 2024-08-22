@@ -4698,5 +4698,176 @@
         "regulationMark": "H",
         "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5M/SV5M_097.png?w=512",
         "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024005097"
+    },
+    {
+        "id": "SV5M-098",
+        "cardID": "무쇠풀220래피프리180",
+        "name": "무쇠잎새 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "ex",
+            "미래"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "무쇠잎새",
+                "pokedexNumber": 1010
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "프리즘에지",
+                "cost": "(풀)(풀)(무색)",
+                "damage": "180",
+                "text": "자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "래피드 버니어",
+                "text": "자신의 차례에 이 카드를 패에서 벤치로 내보냈을 때 1번 사용할 수 있다. 이 포켓몬을 배틀 포켓몬과 교체한다. 교체한 경우, 자신의 필드의 포켓몬에게 붙어 있는 에너지를 원하는 만큼 선택해서 이 포켓몬에게 붙인다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "number": "098",
+        "prodNumber": "071",
+        "prodCode": "SV5M",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5M.png",
+        "prodName": "스칼렛&바이올렛 확장팩 「사이버저지」",
+        "artist": "5ban Graphics",
+        "rarity": "UR",
+        "regulationMark": "H",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5M/SV5M_098.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024005098"
+    },
+    {
+        "id": "SV5M-099",
+        "cardID": "무쇠초220코발트윈000",
+        "name": "무쇠감투 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "ex",
+            "미래"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "무쇠감투",
+                "pokedexNumber": 1023
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "트윈쇼텔",
+                "cost": "(초)(무색)(무색)",
+                "damage": "",
+                "text": "상대의 포켓몬 2마리에게 각각 50데미지를 준다. 이 기술의 데미지는 약점, 저항력과 데미지를 받는 포켓몬에게 걸려 있는 효과를 계산하지 않는다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "코발트 커맨드",
+                "text": "이 포켓몬이 있는 한, 자신의 「미래」의 포켓몬(「무쇠감투 ex」는 제외)이 사용하는 기술이 상대의 배틀 포켓몬에게 주는 데미지는 「+20」이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "099",
+        "prodNumber": "071",
+        "prodCode": "SV5M",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5M.png",
+        "prodName": "스칼렛&바이올렛 확장팩 「사이버저지」",
+        "artist": "5ban Graphics",
+        "rarity": "UR",
+        "regulationMark": "H",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5M/SV5M_099.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024005099"
+    },
+    {
+        "id": "SV5M-100",
+        "cardID": "무쇠격240리펄060파워200",
+        "name": "무쇠암석 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "ex",
+            "미래"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 240,
+        "pokemons": [
+            {
+                "name": "무쇠암석",
+                "pokedexNumber": 1022
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "리펄서액스",
+                "cost": "(격투)(무색)",
+                "damage": "60",
+                "text": "상대의 다음 차례에 이 포켓몬이 기술의 데미지를 받았을 때 기술을 사용한 포켓몬에게 데미지 카운터를 8개 올린다."
+            },
+            {
+                "name": "파워스탬프",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "200",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 2개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "number": "100",
+        "prodNumber": "071",
+        "prodCode": "SV5M",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5M.png",
+        "prodName": "스칼렛&바이올렛 확장팩 「사이버저지」",
+        "artist": "5ban Graphics",
+        "rarity": "UR",
+        "regulationMark": "H",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5M/SV5M_100.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024005100"
     }
 ]

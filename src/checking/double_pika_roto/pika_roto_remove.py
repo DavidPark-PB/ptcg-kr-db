@@ -98,6 +98,7 @@ def remove_pika_roto():
                     except Exception as e:
                         print(f"Error inserting {file_path}: {e}")
                 if pika_roto_count > 0:
+                    print(file_path)
                     with open(file_path,'w',encoding='utf-8') as out_file:
                         json.dump(data,out_file,ensure_ascii=False, indent =4) 
     

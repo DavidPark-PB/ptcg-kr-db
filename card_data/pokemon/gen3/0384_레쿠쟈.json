@@ -1039,18 +1039,6 @@
                 "debug": "2"
             },
             {
-                "number": "107",
-                "prodNumber": "172",
-                "prodCode": "S12a",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
-                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
-                "artist": "PLANETA Mochizuki",
-                "rarity": "RR",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_107.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001107",
-                "debug": "2"
-            },
-            {
                 "number": "131",
                 "prodNumber": "S-P",
                 "prodCode": "S-P",
@@ -1171,18 +1159,6 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SO/SO_016.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022018016",
-                "debug": "2"
-            },
-            {
-                "number": "108",
-                "prodNumber": "172",
-                "prodCode": "S12a",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
-                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
-                "artist": "PLANETA Mochizuki",
-                "rarity": "RRR",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_108.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001108",
                 "debug": "2"
             },
             {

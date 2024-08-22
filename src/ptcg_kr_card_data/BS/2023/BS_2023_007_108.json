@@ -5054,5 +5054,107 @@
         "regulationMark": "G",
         "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV1V/SV1V_105.png?w=512",
         "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023007105"
+    },
+    {
+        "id": "SV1V-106",
+        "cardID": "미라번220탠덤포톤220",
+        "name": "미라이돈 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "미라이돈",
+                "pokedexNumber": 1008
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "포톤블래스터",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "220",
+                "text": "자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "탠덤 유닛",
+                "text": "자신의 차례에 1번 사용할 수 있다. 자신의 덱에서 (번개) 타입의 기본 포켓몬을 2장까지 선택해서 벤치로 내보낸다. 그리고 덱을 섞는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "number": "106",
+        "prodNumber": "078",
+        "prodCode": "SV1V",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV1V.png",
+        "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 확장팩 「바이올렛 ex」",
+        "artist": "5ban Graphics",
+        "rarity": "UR",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV1V/SV1V_106.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023007106"
+    },
+    {
+        "id": "SV1V-107",
+        "cardID": "이상한사탕",
+        "name": "이상한사탕",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패에서 2진화 포켓몬을 1장 선택해서 그 포켓몬으로 진화하는 자신의 필드의 기본 포켓몬 위에 올려 1진화를 건너뛰어 진화시킨다.",
+            "(자신의 첫 번째 차례와 이번 차례에 내보낸 포켓몬에게는 사용할 수 없다.)"
+        ],
+        "number": "107",
+        "prodNumber": "078",
+        "prodCode": "SV1V",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV1V.png",
+        "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 확장팩 「바이올렛 ex」",
+        "artist": "Studio Bora Inc.",
+        "rarity": "UR",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV1V/SV1V_107.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023007107"
+    },
+    {
+        "id": "SV1V-108",
+        "cardID": "기본 번개 에너지",
+        "name": "기본 번개 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "기본 에너지"
+        ],
+        "rules": [],
+        "texts": [],
+        "number": "108",
+        "prodNumber": "078",
+        "prodCode": "SV1V",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV1V.png",
+        "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 확장팩 「바이올렛 ex」",
+        "rarity": "UR",
+        "regulationMark": "BE",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV1V/SV1V_108.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023007108"
     }
 ]

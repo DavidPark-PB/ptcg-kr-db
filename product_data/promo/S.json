@@ -9,13 +9,13 @@
             "S"
         ],
         "regulations": [
-            "D",
+            "E",
             "F",
-            "E"
+            "D"
         ],
         "in_standard_regu": true,
         "release_date": "1970-01-01",
-        "update_date": "2024-08-17",
+        "update_date": "2024-08-22",
         "image_symbol_url": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
         "card_list_index": [
             0,
@@ -207,7 +207,7 @@
             191,
             1356,
             1376,
-            15819
+            15692
         ],
         "card_list_detail": [
             {

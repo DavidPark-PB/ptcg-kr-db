@@ -4735,5 +4735,106 @@
         "regulationMark": "G",
         "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2P/SV2P_096.png?w=512",
         "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023011096"
+    },
+    {
+        "id": "SV2P-097",
+        "cardID": "파오물220부들헤일060",
+        "name": "파오젠 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "파오젠",
+                "pokedexNumber": 1002
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "헤일블레이드",
+                "cost": "(물)(물)",
+                "damage": "60×",
+                "text": "자신의 필드의 포켓몬에게 붙어 있는 (물) 에너지를 원하는 만큼 트래쉬하고 그 장수 × 60데미지를 준다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "부들부들 냉기",
+                "text": "이 포켓몬이 배틀필드에 있다면 자신의 차례에 1번 사용할 수 있다. 자신의 덱에서 「기본 (물) 에너지」를 2장까지 선택해서 상대에게 보여주고 패로 가져온다. 그리고 덱을 섞는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "097",
+        "prodNumber": "071",
+        "prodCode": "SV2P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV2P.png",
+        "prodName": "스칼렛&바이올렛 확장팩 「스노해저드」",
+        "artist": "aky CG Works",
+        "rarity": "UR",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2P/SV2P_097.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023011097"
+    },
+    {
+        "id": "SV2P-098",
+        "cardID": "대단한낚싯대",
+        "name": "대단한낚싯대",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 트래쉬에서 포켓몬과 기본 에너지를 합계 3장까지 선택해서 상대에게 보여주고 덱으로 되돌리고 섞는다."
+        ],
+        "number": "098",
+        "prodNumber": "071",
+        "prodCode": "SV2P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV2P.png",
+        "prodName": "스칼렛&바이올렛 확장팩 「스노해저드」",
+        "artist": "Toyste Beach",
+        "rarity": "UR",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2P/SV2P_098.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023011098"
+    },
+    {
+        "id": "SV2P-099",
+        "cardID": "기본 물 에너지",
+        "name": "기본 물 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "기본 에너지"
+        ],
+        "rules": [],
+        "texts": [],
+        "number": "099",
+        "prodNumber": "071",
+        "prodCode": "SV2P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV2P.png",
+        "prodName": "스칼렛&바이올렛 확장팩 「스노해저드」",
+        "rarity": "UR",
+        "regulationMark": "BE",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2P/SV2P_099.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023011099"
     }
 ]

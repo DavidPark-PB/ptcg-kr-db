@@ -84,6 +84,18 @@
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4K/SV4K_090.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023021090",
                 "debug": "2"
+            },
+            {
+                "number": "093",
+                "prodNumber": "066",
+                "prodCode": "SV4K",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV4K.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「고대의 포효」",
+                "artist": "takuyoa",
+                "rarity": "UR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4K/SV4K_093.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023021093",
+                "debug": "2"
             }
         ]
     },

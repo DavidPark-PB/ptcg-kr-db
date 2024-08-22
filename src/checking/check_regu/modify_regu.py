@@ -153,10 +153,9 @@ def BW_regu():
             
         
 if __name__ == "__main__":
-    #basic_energy_regu()
+    basic_energy_regu()
     #mewtwo_geno_regu()
     #DP_regu()
     #BW_regu()
     
-    print('hello')
     

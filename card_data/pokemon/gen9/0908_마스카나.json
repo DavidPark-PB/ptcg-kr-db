@@ -145,6 +145,18 @@
                 "debug": "2"
             },
             {
+                "number": "101",
+                "prodNumber": "073",
+                "prodCode": "SV1a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV1a.png",
+                "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 강화 확장팩 「트리플렛비트」",
+                "artist": "5ban Graphics",
+                "rarity": "UR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV1a/SV1a_101.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023010101",
+                "debug": "2"
+            },
+            {
                 "number": "014",
                 "prodNumber": "190",
                 "prodCode": "SV4a",
