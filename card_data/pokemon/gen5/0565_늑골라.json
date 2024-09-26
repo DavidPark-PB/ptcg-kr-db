@@ -55,6 +55,7 @@
                 "rarity": "U",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW2/bw2_red_017.jpg?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2011003017",
+                "regu": "BW",
                 "debug": "1"
             }
         ]
@@ -115,6 +116,7 @@
                 "rarity": "U",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW9/bw9_022.jpg?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013005022",
+                "regu": "BW",
                 "debug": "3"
             }
         ]
@@ -175,6 +177,68 @@
                 "rarity": "U",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM11/SM11_017.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019013017",
+                "regu": "C",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV7-023",
+        "cardID": "늑골물160원시하이150",
+        "name": "늑골라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 160,
+        "pokemons": [
+            {
+                "name": "늑골라",
+                "pokedexNumber": 565
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "하이드로 크래시",
+                "cost": "(물)(물)",
+                "damage": "150",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "원시의 수칙",
+                "text": "이 포켓몬이 있는 한, 자신의 포켓몬이 사용하는 기술이 상대 배틀필드의 진화 포켓몬에게 주는 데미지는 「+30」이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "먹이의 껍질과 뼈까지 남김없이 깨끗하게 먹어 치워서 등껍질은 두껍고 단단하게 성장한다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "023",
+                "prodNumber": "102",
+                "prodCode": "SV7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV7.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「스텔라미라클」",
+                "artist": "LINNE",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV7/SV7_023.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024012023",
+                "regu": "H",
                 "debug": "1"
             }
         ]
@@ -245,6 +309,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_319.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP000000240",
+                "regu": "C",
                 "debug": "1"
             }
         ]

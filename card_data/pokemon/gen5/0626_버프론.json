@@ -55,6 +55,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/FS/bw1_fs_f_027.jpg?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2011002027",
+                "regu": "BW",
                 "debug": "3"
             }
         ]
@@ -115,6 +116,7 @@
                 "rarity": "U",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW1/bw1_black_046.jpg?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2011001046",
+                "regu": "BW",
                 "debug": "2"
             },
             {
@@ -127,6 +129,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/EBB/ebb_091.jpg?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013006091",
+                "regu": "BW",
                 "debug": "1"
             }
         ]
@@ -187,6 +190,7 @@
                 "rarity": "R",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW5/bw5_blade_045.jpg?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2012006045",
+                "regu": "BW",
                 "debug": "1"
             }
         ]
@@ -247,6 +251,7 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY5/XY5_GV_057.jpg?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015001057",
+                "regu": "XY",
                 "debug": "1"
             }
         ]
@@ -307,6 +312,7 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM3H/SM3H_045.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017008045",
+                "regu": "A",
                 "debug": "1"
             }
         ]
@@ -367,6 +373,7 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_059.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002059",
+                "regu": "E",
                 "debug": "1"
             }
         ]
@@ -427,6 +434,7 @@
                 "rarity": "U",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S11/S11_089.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022014089",
+                "regu": "F",
                 "debug": "1"
             }
         ]
@@ -487,6 +495,68 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_098.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016098",
+                "regu": "G",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV7-081",
+        "cardID": "버프무100컬리저력130",
+        "name": "버프론",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "버프론",
+                "pokedexNumber": 626
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "저력",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "130",
+                "text": "자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "컬리 월",
+                "text": "이 포켓몬과 자신의 다른 「버프론」이 있는 한, 자신의 (무색) 타입의 기본 포켓몬 전원이 상대의 포켓몬으로부터 받는 기술의 데미지는 「-60」이 된다. 이 효과는 이 특성을 가진 포켓몬이 몇 마리 있더라도 중복되지 않는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "박치기만으로 자동차를 부순다. 머리의 털이 풍성할수록 무리에서 지위가 올라간다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "081",
+                "prodNumber": "102",
+                "prodCode": "SV7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV7.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「스텔라미라클」",
+                "artist": "GOSSAN",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV7/SV7_081.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024012081",
+                "regu": "H",
                 "debug": "1"
             }
         ]

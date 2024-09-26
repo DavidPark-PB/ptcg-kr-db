@@ -55,6 +55,7 @@
                 "rarity": "U",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S2/S2_048.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020005048",
+                "regu": "D",
                 "debug": "1"
             },
             {
@@ -67,6 +68,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_082.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016082",
+                "regu": "D",
                 "debug": "2"
             },
             {
@@ -79,6 +81,7 @@
                 "rarity": "S",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_257.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016257",
+                "regu": "D",
                 "debug": "2"
             }
         ]
@@ -142,6 +145,7 @@
                 "rarity": "RR",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S3a/S3a_031.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020012031",
+                "regu": "D",
                 "debug": "1"
             },
             {
@@ -154,6 +158,7 @@
                 "rarity": "SR",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S3a/S3a_079.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020012079",
+                "regu": "D",
                 "debug": "2"
             }
         ]
@@ -217,6 +222,7 @@
                 "rarity": "RRR",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S3a/S3a_032.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020012032",
+                "regu": "D",
                 "debug": "1"
             }
         ]
@@ -277,6 +283,7 @@
                 "rarity": "U",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4/S4_052.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020014052",
+                "regu": "D",
                 "debug": "1"
             }
         ]
@@ -337,6 +344,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_081.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001081",
+                "regu": "E",
                 "debug": "3"
             },
             {
@@ -349,7 +357,69 @@
                 "rarity": "CHR",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_201.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001201",
+                "regu": "E",
                 "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SV7-044",
+        "cardID": "마휘초110알록000매지060",
+        "name": "마휘핑",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "마휘핑",
+                "pokedexNumber": 869
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "알록달록 스위트",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱에서 이 포켓몬에게 붙어 있는 기본 에너지와 같은 타입의 포켓몬을 합계 5장까지 선택해서 상대에게 보여주고 패로 가져온다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "매지컬숏",
+                "cost": "(초)(무색)",
+                "damage": "60",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "정성껏 보살핌을 받은 마휘핑이 만든 크림은 맛이 일품이라 다정하게 키우는 트레이너들이 많다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "044",
+                "prodNumber": "102",
+                "prodCode": "SV7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV7.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「스텔라미라클」",
+                "artist": "Natsumi Yoshida",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV7/SV7_044.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024012044",
+                "regu": "H",
+                "debug": "1"
             }
         ]
     }

@@ -49,6 +49,7 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW1/bw1_black_038.jpg?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2011001038",
+                "regu": "BW",
                 "debug": "1"
             }
         ]
@@ -109,6 +110,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BG_cobalon/bw1_cobalon_004.jpg?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2011006004",
+                "regu": "BW",
                 "debug": "1"
             }
         ]
@@ -163,6 +165,7 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw4_053.jpg?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2012003053",
+                "regu": "BW",
                 "debug": "1"
             }
         ]
@@ -223,6 +226,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/PD/PD_006.jpg?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2013001006",
+                "regu": "BW",
                 "debug": "3"
             }
         ]
@@ -277,6 +281,7 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY11/XY11A_036.jpg?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016006036",
+                "regu": "XY",
                 "debug": "1"
             }
         ]
@@ -331,6 +336,7 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S3/S3_069.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020011069",
+                "regu": "D",
                 "debug": "1"
             }
         ]
@@ -391,6 +397,7 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S9/S9_069.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022002069",
+                "regu": "F",
                 "debug": "1"
             }
         ]
@@ -445,6 +452,7 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S11a/S11a_046.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022016046",
+                "regu": "F",
                 "debug": "1"
             }
         ]
@@ -499,6 +507,68 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/KD/kd_008.jpg?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2012007008",
+                "regu": "BW",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV7-067",
+        "cardID": "기어강060끌어000빔빔020",
+        "name": "기어르",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "기어르",
+                "pokedexNumber": 599
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "끌어당기기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱을 1장 뽑는다."
+            },
+            {
+                "name": "빔",
+                "cost": "(무색)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "2개의 몸은 쌍둥이보다도 가깝다. 다른 몸과 있으면 제대로 맞물리지 못한다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "067",
+                "prodNumber": "102",
+                "prodCode": "SV7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV7.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「스텔라미라클」",
+                "artist": "osare",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV7/SV7_067.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024012067",
+                "regu": "H",
                 "debug": "1"
             }
         ]

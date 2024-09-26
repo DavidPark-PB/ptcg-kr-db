@@ -55,6 +55,7 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY4/XY4_036.jpg?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2014004036",
+                "regu": "XY",
                 "debug": "3"
             }
         ]
@@ -109,6 +110,7 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP3/CP3_014.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016003014",
+                "regu": "XY",
                 "debug": "1"
             }
         ]
@@ -169,6 +171,7 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM6B/SM6B_026.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018006026",
+                "regu": "B",
                 "debug": "1"
             },
             {
@@ -181,7 +184,69 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM6B/SM6B_095.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018006095",
+                "regu": "B",
                 "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SV7-061",
+        "cardID": "꼴깍악070침침010독의030",
+        "name": "꼴깍몬",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "꼴깍몬",
+                "pokedexNumber": 316
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "침",
+                "cost": "(악)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "독의숨",
+                "cost": "(악)(악)(무색)",
+                "damage": "30",
+                "text": "상대의 배틀 포켓몬을 독으로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "심장과 뇌가 작고 몸 대부분이 위다. 무엇이든 녹이는 위액을 만들어 낸다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "061",
+                "prodNumber": "102",
+                "prodCode": "SV7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV7.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「스텔라미라클」",
+                "artist": "Shimaris Yukichi",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV7/SV7_061.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024012061",
+                "regu": "H",
+                "debug": "1"
             }
         ]
     },
@@ -241,6 +306,7 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS9/bs9_ko_14.jpg?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010009014",
+                "regu": "DP",
                 "debug": "1"
             }
         ]

@@ -102,7 +102,7 @@ def remove_pika_roto():
                     with open(file_path,'w',encoding='utf-8') as out_file:
                         json.dump(data,out_file,ensure_ascii=False, indent =4) 
     
-    #print(pika_roto_count)
+    print(pika_roto_count)
 
 if __name__ == "__main__":
     remove_pika_roto()

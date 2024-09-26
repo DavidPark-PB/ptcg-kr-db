@@ -49,6 +49,7 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW8/bw8_sf_043.jpg?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013002043",
+                "regu": "BW",
                 "debug": "3"
             }
         ]
@@ -103,6 +104,7 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY8/XY8_BLUE_049.jpg?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015006049",
+                "regu": "XY",
                 "debug": "1"
             }
         ]
@@ -163,6 +165,7 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM3H/SM3H_043.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017008043",
+                "regu": "A",
                 "debug": "1"
             }
         ]
@@ -217,6 +220,7 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10b/SM10b_038.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019011038",
+                "regu": "C",
                 "debug": "1"
             }
         ]
@@ -277,6 +281,7 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1H/S1H_047.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020003047",
+                "regu": "D",
                 "debug": "1"
             }
         ]
@@ -337,6 +342,7 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S9a/S9a_055.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022004088",
+                "regu": "F",
                 "debug": "1"
             },
             {
@@ -349,6 +355,7 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S9a/S9a_055_m.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022004089",
+                "regu": "F",
                 "debug": "2"
             },
             {
@@ -361,6 +368,7 @@
                 "rarity": "CHR",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S9a/S9a_073.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022004118",
+                "regu": "F",
                 "debug": "2"
             }
         ]
@@ -415,6 +423,62 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_054.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024004054",
+                "regu": "H",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV7-076",
+        "cardID": "부우무070세번010",
+        "name": "부우부",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "부우부",
+                "pokedexNumber": 163
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "세번찌르기",
+                "cost": "(무색)",
+                "damage": "10×",
+                "text": "동전을 3번 던져서 앞면이 나온 수 × 10데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "정확하게 시간을 알리기 때문에 세상의 이치를 깨우친 지혜의 신으로 섬기는 나라도 있다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "076",
+                "prodNumber": "102",
+                "prodCode": "SV7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV7.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「스텔라미라클」",
+                "artist": "Yukihiro Tada",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV7/SV7_076.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024012076",
+                "regu": "H",
                 "debug": "1"
             }
         ]
@@ -475,6 +539,7 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS1/bs1_kr_43.jpg?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010001043",
+                "regu": "DP",
                 "debug": "1"
             }
         ]

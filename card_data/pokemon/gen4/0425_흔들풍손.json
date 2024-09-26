@@ -55,6 +55,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw_ssd_004.jpg?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2012005004",
+                "regu": "BW",
                 "debug": "3"
             }
         ]
@@ -109,6 +110,7 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW5/bw5_blast_024.jpg?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2012005024",
+                "regu": "BW",
                 "debug": "1"
             }
         ]
@@ -169,6 +171,7 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW9/bw9_026.jpg?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013005026",
+                "regu": "BW",
                 "debug": "1"
             }
         ]
@@ -223,6 +226,7 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY11/XY11A_023.jpg?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016006023",
+                "regu": "XY",
                 "debug": "1"
             }
         ]
@@ -283,6 +287,7 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM5M/SM5M_023.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018002023",
+                "regu": "B",
                 "debug": "1"
             }
         ]
@@ -337,6 +342,7 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10a/SM10a_014.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019010014",
+                "regu": "C",
                 "debug": "1"
             }
         ]
@@ -391,6 +397,7 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10D_026.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022007026",
+                "regu": "F",
                 "debug": "1"
             }
         ]
@@ -451,6 +458,7 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV1S/SV1S_029.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023006029",
+                "regu": "G",
                 "debug": "2"
             },
             {
@@ -463,6 +471,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_052.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016052",
+                "regu": "G",
                 "debug": "2"
             },
             {
@@ -475,6 +484,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4a/SV4a_083.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024001083",
+                "regu": "G",
                 "debug": "1"
             },
             {
@@ -487,7 +497,63 @@
                 "rarity": "S",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4a/SV4a_260.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024001260",
+                "regu": "G",
                 "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SV7-040",
+        "cardID": "흔들초070부풀010",
+        "name": "흔들풍손",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "흔들풍손",
+                "pokedexNumber": 425
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "부풀기",
+                "cost": "(초)",
+                "damage": "10",
+                "text": "상대의 다음 차례에 이 포켓몬이 받는 기술의 데미지는 「-10」이 된다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "정처 없이 떠 있는 모습에서 길 잃은 영혼의 이정표라고 전해지는 옛날이야기도 있다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "040",
+                "prodNumber": "102",
+                "prodCode": "SV7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV7.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「스텔라미라클」",
+                "artist": "Miki Tanaka",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV7/SV7_040.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024012040",
+                "regu": "H",
+                "debug": "1"
             }
         ]
     },
@@ -547,6 +613,7 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS3/bs3_ko_10.jpg?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010003010",
+                "regu": "DP",
                 "debug": "1"
             }
         ]

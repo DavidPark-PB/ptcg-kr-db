@@ -55,6 +55,7 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY9/XY9_070.jpg?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016001070",
+                "regu": "XY",
                 "debug": "1"
             }
         ]
@@ -115,6 +116,7 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM5S/SM5S_050.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018001050",
+                "regu": "B",
                 "debug": "1"
             }
         ]
@@ -175,6 +177,7 @@
                 "rarity": "U",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9B/SM9b_042.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019005042",
+                "regu": "C",
                 "debug": "1"
             }
         ]
@@ -235,6 +238,7 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_058.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002058",
+                "regu": "E",
                 "debug": "1"
             }
         ]
@@ -295,6 +299,7 @@
                 "rarity": "U",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S9a/S9a_060.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022004097",
+                "regu": "F",
                 "debug": "3"
             },
             {
@@ -307,7 +312,63 @@
                 "rarity": "U",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S9a/S9a_060_m.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022004098",
+                "regu": "F",
                 "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SV7-079",
+        "cardID": "몬냥무120데굴080",
+        "name": "몬냥이",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "몬냥이",
+                "pokedexNumber": 432
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "데굴냥",
+                "cost": "(무색)(무색)",
+                "damage": "80",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 다음 차례에 이 포켓몬은 기술의 데미지나 효과를 받지 않는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "다른 포켓몬의 거처라 할지라도 편안하면 눌러앉아 자신의 거처로 삼아버린다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "079",
+                "prodNumber": "102",
+                "prodCode": "SV7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV7.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「스텔라미라클」",
+                "artist": "Saboteri",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV7/SV7_079.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024012079",
+                "regu": "H",
+                "debug": "1"
             }
         ]
     },
@@ -367,6 +428,7 @@
                 "rarity": "R",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS1/bs1_kr_54.jpg?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010001054",
+                "regu": "DP",
                 "debug": "1"
             }
         ]

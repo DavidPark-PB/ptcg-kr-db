@@ -49,6 +49,7 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1a/S1a_010.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020004010",
+                "regu": "D",
                 "debug": "1"
             }
         ]
@@ -103,6 +104,7 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S2/S2_011.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020005011",
+                "regu": "D",
                 "debug": "2"
             },
             {
@@ -115,6 +117,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_017.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016017",
+                "regu": "D",
                 "debug": "2"
             },
             {
@@ -127,6 +130,7 @@
                 "rarity": "S",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_211.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016211",
+                "regu": "D",
                 "debug": "2"
             },
             {
@@ -139,6 +143,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_012.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001012",
+                "regu": "D",
                 "debug": "3"
             }
         ]
@@ -193,6 +198,7 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7R_009.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021012009",
+                "regu": "E",
                 "debug": "1"
             }
         ]
@@ -253,6 +259,7 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5a/SV5a_048.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024007048",
+                "regu": "H",
                 "debug": "1"
             },
             {
@@ -265,6 +272,7 @@
                 "rarity": "AR",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5a/SV5a_077.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024007077",
+                "regu": "H",
                 "debug": "2"
             }
         ]
@@ -319,6 +327,62 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6/SV6_011.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024008011",
+                "regu": "H",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV7-010",
+        "cardID": "과사풀040분비020",
+        "name": "과사삭벌레",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 40,
+        "pokemons": [
+            {
+                "name": "과사삭벌레",
+                "pokedexNumber": 840
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "분비액뿜기",
+                "cost": "(풀)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "사과 안에 살고 있다. 사과가 없어지면 몸의 수분이 빠져나와 약해진다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "010",
+                "prodNumber": "102",
+                "prodCode": "SV7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV7.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「스텔라미라클」",
+                "artist": "Yoriyuki Ikegami",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV7/SV7_010.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024012010",
+                "regu": "H",
                 "debug": "1"
             }
         ]

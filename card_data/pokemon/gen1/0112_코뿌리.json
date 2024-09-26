@@ -55,6 +55,7 @@
                 "rarity": "U",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY1/K1_Y_032.jpg?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2014501032",
+                "regu": "XY",
                 "debug": "1"
             }
         ]
@@ -115,6 +116,7 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY5/XY5_GV_030.jpg?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015001030",
+                "regu": "XY",
                 "debug": "2"
             },
             {
@@ -127,6 +129,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/PROMO/XYpromo_062.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/PR2015001062",
+                "regu": "XY",
                 "debug": "3"
             }
         ]
@@ -187,6 +190,7 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM3N/SM3N_028.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017009028",
+                "regu": "A",
                 "debug": "1"
             },
             {
@@ -199,6 +203,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMK/SMK_014.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019004014",
+                "regu": "A",
                 "debug": "2"
             }
         ]
@@ -259,6 +264,7 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10/SM10_049.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019007049",
+                "regu": "C",
                 "debug": "1"
             }
         ]
@@ -319,6 +325,7 @@
                 "rarity": "U",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1H/S1H_029.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020003029",
+                "regu": "D",
                 "debug": "1"
             }
         ]
@@ -379,6 +386,7 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S9a/S9a_038.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022004062",
+                "regu": "F",
                 "debug": "1"
             },
             {
@@ -391,6 +399,7 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S9a/S9a_038_m.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022004063",
+                "regu": "F",
                 "debug": "2"
             }
         ]
@@ -451,6 +460,62 @@
                 "rarity": "U",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2a/SV2a_112.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023014112",
+                "regu": "G",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV7-051",
+        "cardID": "코뿌격140파괴080",
+        "name": "코뿌리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "코뿌리",
+                "pokedexNumber": 112
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "파괴의뿔",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "80",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "뒷발로만 걸을 수 있게 진화하면서 험준한 산까지 서식지를 넓힐 수 있었다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "051",
+                "prodNumber": "102",
+                "prodCode": "SV7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV7.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「스텔라미라클」",
+                "artist": "Ryuta Fuse",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV7/SV7_051.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024012051",
+                "regu": "H",
                 "debug": "1"
             }
         ]

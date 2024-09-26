@@ -359,7 +359,7 @@ def check_pokemons(pokemons, name):
 # id : 물리적 카드의 고유번호
 # cardID : 추상적 카드의 고유번호
 # 포켓몬이름앞두글자+타입첫글자+체력(3자리로 포멧)+첫기술이름두글자+데미지(0도 포함)(3자리로포멧)(곱하기등생략)
-def make_cardID(pokemons,type_,hp,attacks):
+def make_cardID_old(pokemons,type_,hp,attacks):
     cardID = ''
     
     def to_three_digit(x):
@@ -406,6 +406,79 @@ def make_cardID(pokemons,type_,hp,attacks):
         cardID += '000'
     
     return cardID
+
+def make_cardID(item):
+    def to_three_digit(x):
+        if x >= 100 :
+            return str(x)
+        elif x >= 10 :
+            return "0" + str(x)
+        else :
+            return "00" + str(x)
+        
+    supertype = item.get('supertype','?')
+    if supertype == '?':
+        print("ERROR : supertype")
+        print(item['url'])
+    elif supertype != '포켓몬':
+        return item['name']
+    else:
+        cardID = ''
+        pokemons = item['pokemons']
+        type_ = item['type']
+        hp = item['hp']
+        attacks = item['attacks']
+        abilitites = item['abilities']
+    
+        # 포켓몬 이름 앞 두글자
+        # 만약 한글자라면, 그런경우가 뮤, 삐 밖에 없기에 직접 하드코딩
+        pokemon_name = pokemons[0]['name']
+        if len(pokemon_name) == 1:
+            if pokemon_name == '뮤':
+                cardID += '뮤우'
+            elif pokemon_name == '삐':
+                cardID += '삐이'
+            else:
+                cardID += pokemon_name + pokemon_name
+        else:
+            cardID += pokemon_name[:2]
+
+        # 타입 첫글자
+        cardID += re.sub(r'\((.*?)\)', lambda m: m.group(1)[0], type_)
+
+        # 체력 세글자
+        cardID += to_three_digit(hp)
+        
+        # 특수능력 있으면 첫번째것 두글자
+        if len(abilitites) != 0:
+            abil_name = abilitites[0]['name'].replace(' ','').strip()
+            if len(abil_name) == 1:
+                cardID += abil_name + abil_name
+            else:
+                cardID += abil_name[:2]
+    
+        # 첫기술 이름 앞 두글자
+        # 데미지 세글자
+        # 기술이 없을때도 예외처리
+        # 기술명 한글자는 두번반복, 공백있으면 다 삭제
+        if len(attacks) != 0:
+            for i in range(len(attacks)):
+                attack_name = attacks[i]['name'].replace(' ','').strip()
+                if len(attack_name) == 1:
+                    cardID += attack_name + attack_name
+                else:
+                    cardID += attack_name[:2]
+
+                attack_damage = attacks[i]['damage']
+                if attack_damage:
+                    cardID += to_three_digit(int(re.findall(r'\d+',attack_damage)[0]))
+                else:
+                    cardID += to_three_digit(0)
+        else:
+            cardID += '없음'
+            cardID += '000'
+
+        return cardID
 
 def parse(soup, url):    
     # 카드의 데이터 담는 사전
@@ -575,7 +648,7 @@ def parse(soup, url):
     if not check_pokemons(pokemons, name):
         log_error_message('check pokemons',url)
     else:
-        cardID = make_cardID(pokemons,type_,hp,attacks)
+        cardID = make_cardID_old(pokemons,type_,hp,attacks)
 
     # 데이터 사전에 넣고 리턴
     data['id'] = id_
@@ -606,4 +679,8 @@ def parse(soup, url):
     data['cardImgURL'] = cardImgURL
     data['cardPageURL'] = url
     
+    ## 카드id의 부여방식 변경 240926
+    cardID = make_cardID(data)
+    data['cardID'] = cardID   
+     
     return data

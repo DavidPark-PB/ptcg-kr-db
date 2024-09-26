@@ -55,6 +55,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMA/SMA_017.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2017001017",
+                "regu": "A",
                 "debug": "2"
             },
             {
@@ -67,6 +68,7 @@
                 "rarity": "U",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM1M/SM1M_019.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017002019",
+                "regu": "A",
                 "debug": "2"
             },
             {
@@ -79,6 +81,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM1+/SM1plus_020.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017003020",
+                "regu": "A",
                 "debug": "2"
             },
             {
@@ -91,6 +94,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM1+/SM1plus_075.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017003075",
+                "regu": "A",
                 "debug": "2"
             },
             {
@@ -103,6 +107,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMC/SMC_007.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2017003007",
+                "regu": "A",
                 "debug": "3"
             },
             {
@@ -115,6 +120,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM4+/SM4plus_030.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017013030",
+                "regu": "A",
                 "debug": "2"
             },
             {
@@ -127,6 +133,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM4+/SM4plus_030.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018011030",
+                "regu": "A",
                 "debug": "2"
             }
         ]
@@ -187,6 +194,7 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9A/SM9a_017.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019003017",
+                "regu": "C",
                 "debug": "1"
             },
             {
@@ -199,6 +207,7 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9A/SM9a_077.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019003077",
+                "regu": "C",
                 "debug": "2"
             }
         ]
@@ -259,6 +268,7 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1a/S1a_029.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020004029",
+                "regu": "D",
                 "debug": "1"
             }
         ]
@@ -319,6 +329,7 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_032.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018032",
+                "regu": "E",
                 "debug": "1"
             }
         ]
@@ -382,6 +393,7 @@
                 "rarity": "K",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_039.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001039",
+                "regu": "F",
                 "debug": "1"
             }
         ]
@@ -436,6 +448,7 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5M/SV5M_027.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024005027",
+                "regu": "H",
                 "debug": "1"
             },
             {
@@ -448,7 +461,63 @@
                 "rarity": "AR",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5M/SV5M_076.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024005076",
+                "regu": "H",
                 "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SV7-034",
+        "cardID": "전지번080병렬000",
+        "name": "전지충이",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "전지충이",
+                "pokedexNumber": 737
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "병렬로줄서기",
+                "cost": "(번개)",
+                "damage": "",
+                "text": "자신의 덱에서 「전지충이」를 3장까지 선택해서 벤치로 내보낸다. 그리고 덱을 섞는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "먹은 낙엽을 소화할 때 전기를 만들어서 비축한다. 턱 끝을 통해 방전한다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "034",
+                "prodNumber": "102",
+                "prodCode": "SV7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV7.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「스텔라미라클」",
+                "artist": "Makura Tami",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV7/SV7_034.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024012034",
+                "regu": "H",
+                "debug": "1"
             }
         ]
     }

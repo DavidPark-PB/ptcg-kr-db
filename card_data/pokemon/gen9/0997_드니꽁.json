@@ -55,6 +55,7 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2P/SV2P_026.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023011026",
+                "regu": "G",
                 "debug": "2"
             },
             {
@@ -67,6 +68,7 @@
                 "rarity": "AR",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2P/SV2P_076.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023011076",
+                "regu": "G",
                 "debug": "2"
             },
             {
@@ -79,6 +81,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4a/SV4a_052.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024001052",
+                "regu": "G",
                 "debug": "2"
             },
             {
@@ -91,6 +94,7 @@
                 "rarity": "S",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4a/SV4a_234.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024001234",
+                "regu": "G",
                 "debug": "2"
             },
             {
@@ -103,6 +107,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVJP/SVJP_005.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024010005",
+                "regu": "G",
                 "debug": "2"
             },
             {
@@ -115,6 +120,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV-P/SV-P_031.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SVP000000031",
+                "regu": "G",
                 "debug": "3"
             }
         ]

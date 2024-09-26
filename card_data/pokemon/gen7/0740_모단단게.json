@@ -55,6 +55,7 @@
                 "rarity": "U",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM1M/SM1M_015.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017002015",
+                "regu": "A",
                 "debug": "1"
             }
         ]
@@ -115,6 +116,7 @@
                 "rarity": "U",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM3H/SM3H_030.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017008030",
+                "regu": "A",
                 "debug": "1"
             },
             {
@@ -127,6 +129,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_032.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000034",
+                "regu": "A",
                 "debug": "2"
             }
         ]
@@ -187,6 +190,7 @@
                 "rarity": "U",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10/SM10_054.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019007054",
+                "regu": "C",
                 "debug": "1"
             }
         ]
@@ -247,6 +251,7 @@
                 "rarity": "U",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM11a/SM11a_037.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019014037",
+                "regu": "C",
                 "debug": "1"
             }
         ]
@@ -307,6 +312,7 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S6/S6K_041.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021005041",
+                "regu": "E",
                 "debug": "1"
             }
         ]
@@ -370,6 +376,7 @@
                 "rarity": "RR",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_026.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018026",
+                "regu": "E",
                 "debug": "2"
             },
             {
@@ -382,6 +389,7 @@
                 "rarity": "SR",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_103.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018103",
+                "regu": "E",
                 "debug": "2"
             },
             {
@@ -394,6 +402,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_112.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003112",
+                "regu": "E",
                 "debug": "3"
             }
         ]
@@ -454,6 +463,68 @@
                 "rarity": "U",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2D/SV2D_043.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023012043",
+                "regu": "G",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV7-024",
+        "cardID": "모단물160준비크게250",
+        "name": "모단단게",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 160,
+        "pokemons": [
+            {
+                "name": "모단단게",
+                "pokedexNumber": 740
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "크게휘두르기 펀치",
+                "cost": "(물)(무색)(무색)(무색)(무색)",
+                "damage": "250",
+                "text": "자신의 다음 차례에 이 포켓몬은 「크게휘두르기 펀치」를 사용할 수 없다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "준비 작업",
+                "text": "자신의 트래쉬에 있는 「곤포」의 장수만큼 이 포켓몬이 기술을 사용하기 위한 (무색) 에너지는 적어진다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "펀치는 강력하지만 움직임이 둔하다. 입에서 얼음 거품을 뿜어서 상대의 움직임을 저지한다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "024",
+                "prodNumber": "102",
+                "prodCode": "SV7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV7.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「스텔라미라클」",
+                "artist": "nagimiso",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV7/SV7_024.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024012024",
+                "regu": "H",
                 "debug": "1"
             }
         ]

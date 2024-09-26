@@ -19,6 +19,9 @@ def remove_first_occurrence(A, B):
 url_head = "https://pokemoncard.co.kr/card/"
 FIRST_PROD_ID = 1
 LAST_PROD_ID = 647
+
+FIRST_PROD_ID = 640
+LAST_PROD_ID = 670
 prod_data = []
 
 for prod_id in range(FIRST_PROD_ID,LAST_PROD_ID+1):
@@ -66,7 +69,7 @@ for prod_id in range(FIRST_PROD_ID,LAST_PROD_ID+1):
             prod_info[i] = remove_first_occurrence(prod_info[i],keywords[i])
             prod_info[i] = remove_first_occurrence(prod_info[i],'\n')
         
-        data['release-date'] = prod_info[0]
+        data['releaseDate'] = prod_info[0]
         data['price'] = prod_info[1]
         data['contents'] = prod_info[2]
         data['caution'] = prod_info[3]
@@ -74,10 +77,10 @@ for prod_id in range(FIRST_PROD_ID,LAST_PROD_ID+1):
         data['type'] = "unknown"
         data['info'] = prod_info
     
-    data['prod_url'] = url_prod
+    data['url'] = url_prod
     prod_data.append(data)
 
 # json으로 저장
-json_file_name = "product_info_ori.json"
+json_file_name = "product_info_ori_240926.json"
 with open(json_file_name, 'w', encoding='utf-8') as f:
     json.dump(prod_data, f, ensure_ascii=False, indent =4)

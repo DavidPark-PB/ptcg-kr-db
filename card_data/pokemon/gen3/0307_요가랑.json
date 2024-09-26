@@ -49,6 +49,7 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY5/XY5_GV_034.jpg?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015001034",
+                "regu": "XY",
                 "debug": "1"
             },
             {
@@ -61,6 +62,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP4/CP4_070.jpg?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016004070",
+                "regu": "XY",
                 "debug": "2"
             },
             {
@@ -73,6 +75,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMXY/SMXY_059.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS201707059",
+                "regu": "XY",
                 "debug": "2"
             }
         ]
@@ -133,6 +136,7 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM7/SM7_045.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018007045",
+                "regu": "B",
                 "debug": "1"
             }
         ]
@@ -187,6 +191,7 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10a/SM10a_020.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019010020",
+                "regu": "C",
                 "debug": "1"
             }
         ]
@@ -241,6 +246,7 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S2/S2_052.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020005052",
+                "regu": "D",
                 "debug": "1"
             }
         ]
@@ -295,6 +301,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SL/SLL_002.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022005002",
+                "regu": "F",
                 "debug": "1"
             }
         ]
@@ -355,6 +362,7 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12/S12_037.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022017037",
+                "regu": "F",
                 "debug": "3"
             }
         ]
@@ -409,6 +417,7 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV1S/SV1S_038.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023006038",
+                "regu": "G",
                 "debug": "1"
             }
         ]
@@ -469,6 +478,7 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5M/SV5M_037.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024005037",
+                "regu": "H",
                 "debug": "1"
             }
         ]
@@ -523,6 +533,68 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVI/SVI_029_L.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024006074",
+                "regu": "H",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV7-053",
+        "cardID": "요가격070명상000촙촙050",
+        "name": "요가랑",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "요가랑",
+                "pokedexNumber": 307
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "명상",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "이 포켓몬의 HP를 「20」회복한다."
+            },
+            {
+                "name": "촙",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "50",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "명상으로 정신력을 높여 공중에 뜬다. 하루에 나무열매 하나만 먹는다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "053",
+                "prodNumber": "102",
+                "prodCode": "SV7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV7.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「스텔라미라클」",
+                "artist": "Yuu Nishida",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV7/SV7_053.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024012053",
+                "regu": "H",
                 "debug": "1"
             }
         ]
@@ -583,6 +655,7 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS5/bs5_ko_27.jpg?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010005027",
+                "regu": "DP",
                 "debug": "1"
             }
         ]

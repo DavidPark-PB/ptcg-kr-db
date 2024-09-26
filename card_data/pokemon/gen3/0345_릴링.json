@@ -55,6 +55,7 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW9/bw9_003.jpg?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013005003",
+                "regu": "BW",
                 "debug": "3"
             }
         ]
@@ -115,6 +116,62 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM12/SM12_003.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019016003",
+                "regu": "C",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV7-003",
+        "cardID": "릴링풀100붙들050",
+        "name": "릴링",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "릴링",
+                "pokedexNumber": 345
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "붙들어매기",
+                "cost": "(풀)",
+                "damage": "50",
+                "text": "상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "화석에서 복원된 포켓몬. 약 1억 년 전에 따뜻한 바다에 서식했었다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "003",
+                "prodNumber": "102",
+                "prodCode": "SV7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV7.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「스텔라미라클」",
+                "artist": "Ounishi",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV7/SV7_003.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024012003",
+                "regu": "H",
                 "debug": "1"
             }
         ]

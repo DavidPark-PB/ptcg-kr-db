@@ -55,6 +55,7 @@
                 "rarity": "U",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW9/bw9_004.jpg?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013005004",
+                "regu": "BW",
                 "debug": "3"
             }
         ]
@@ -115,6 +116,68 @@
                 "rarity": "U",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM12/SM12_004.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019016004",
+                "regu": "C",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV7-004",
+        "cardID": "릴리풀150골라독기100",
+        "name": "릴리요",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "릴리요",
+                "pokedexNumber": 346
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "독기바람",
+                "cost": "(풀)",
+                "damage": "100×",
+                "text": "상대의 배틀 포켓몬이 받고 있는 특수 상태의 수 × 100데미지를 준다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "골라골라 점액",
+                "text": "자신의 차례에 1번 사용할 수 있다. 동전을 1번 던져서 앞면이 나오면 독・화상・혼란 중 1개 선택해서 상대의 배틀 포켓몬을 그 상태로 만든다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "다리가 짧아 걸음이 느리지만 목과 촉수가 3배로 늘어나서 멀리 있는 먹이를 잡는다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "004",
+                "prodNumber": "102",
+                "prodCode": "SV7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV7.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「스텔라미라클」",
+                "artist": "miki kudo",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV7/SV7_004.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024012004",
+                "regu": "H",
                 "debug": "1"
             }
         ]

@@ -55,6 +55,7 @@
                 "rarity": "U",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1H/S1H_014.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020003014",
+                "regu": "D",
                 "debug": "1"
             },
             {
@@ -67,6 +68,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_043.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016043",
+                "regu": "D",
                 "debug": "2"
             },
             {
@@ -79,6 +81,7 @@
                 "rarity": "S",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_228.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016228",
+                "regu": "D",
                 "debug": "2"
             }
         ]
@@ -142,6 +145,7 @@
                 "rarity": "RR",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S3/S3_026.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020011026",
+                "regu": "D",
                 "debug": "1"
             },
             {
@@ -154,6 +158,7 @@
                 "rarity": "SR",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S3/S3_102.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020011102",
+                "regu": "D",
                 "debug": "2"
             }
         ]
@@ -217,6 +222,7 @@
                 "rarity": "RRR",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S3/S3_027.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020011027",
+                "regu": "D",
                 "debug": "1"
             }
         ]
@@ -277,6 +283,7 @@
                 "rarity": "U",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4/S4_026.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020014026",
+                "regu": "D",
                 "debug": "1"
             }
         ]
@@ -337,6 +344,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SE/SEK_009.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2021002009",
+                "regu": "E",
                 "debug": "3"
             },
             {
@@ -349,6 +357,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_121.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003121",
+                "regu": "E",
                 "debug": "2"
             }
         ]
@@ -403,6 +412,68 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SH/SH_004_L.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021013030",
+                "regu": "E",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV7-026",
+        "cardID": "갈가물140철벽하드080",
+        "name": "갈가부기",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "갈가부기",
+                "pokedexNumber": 834
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "하드크런치",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "80+",
+                "text": "상대의 배틀 포켓몬에게 데미지 카운터가 올려져 있다면 80데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "철벽 셸",
+                "text": "이 포켓몬은 상대의 포켓몬으로부터 「200」이상의 기술의 데미지를 받지 않는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "물가에 숨어 있다가 먹잇감이 물을 마시러 오면 목을 길게 늘여서 덥석 물어 버린다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "026",
+                "prodNumber": "102",
+                "prodCode": "SV7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV7.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「스텔라미라클」",
+                "artist": "Dsuke",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV7/SV7_026.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024012026",
+                "regu": "H",
                 "debug": "1"
             }
         ]

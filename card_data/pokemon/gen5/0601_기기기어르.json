@@ -55,6 +55,7 @@
                 "rarity": "R",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW1/bw1_black_040.jpg?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2011001040",
+                "regu": "BW",
                 "debug": "1"
             }
         ]
@@ -115,6 +116,7 @@
                 "rarity": "R",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw4_055.jpg?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2012003055",
+                "regu": "BW",
                 "debug": "1"
             }
         ]
@@ -176,6 +178,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/PD/PD_008.jpg?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2013001008",
+                "regu": "BW",
                 "debug": "3"
             }
         ]
@@ -236,6 +239,7 @@
                 "rarity": "R",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY11/XY11A_038.jpg?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016006038",
+                "regu": "XY",
                 "debug": "1"
             }
         ]
@@ -296,6 +300,7 @@
                 "rarity": "U",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S3/S3_071.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020011071",
+                "regu": "D",
                 "debug": "1"
             }
         ]
@@ -356,6 +361,7 @@
                 "rarity": "U",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S9/S9_071.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022002071",
+                "regu": "F",
                 "debug": "1"
             }
         ]
@@ -416,6 +422,68 @@
                 "rarity": "U",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S11a/S11a_048.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022016048",
+                "regu": "F",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV7-069",
+        "cardID": "기기강140긴급하이130",
+        "name": "기기기어르",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "기기기어르",
+                "pokedexNumber": 601
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "하이퍼빔",
+                "cost": "(무색)(무색)",
+                "damage": "130",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 모두 트래쉬한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "긴급 회전",
+                "text": "자신의 차례에 이 카드가 패에 있고 상대의 필드에 2진화 포켓몬이 있다면 1번 사용할 수 있다. 이 카드를 벤치로 내보낸다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 3,
+        "flavorText": "가시 끝에서 강한 전격을 발사한다. 빨간 코어에 많은 에너지를 비축하고 있다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "069",
+                "prodNumber": "102",
+                "prodCode": "SV7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV7.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「스텔라미라클」",
+                "artist": "Tonji Matsuno",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV7/SV7_069.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024012069",
+                "regu": "H",
                 "debug": "1"
             }
         ]

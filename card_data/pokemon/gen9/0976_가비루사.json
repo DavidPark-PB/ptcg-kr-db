@@ -55,6 +55,7 @@
                 "rarity": "R",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2P/SV2P_023.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023011023",
+                "regu": "G",
                 "debug": "2"
             },
             {
@@ -67,7 +68,8 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4a/SV4a_048.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024001048",
-                "debug": "3"
+                "regu": "G",
+                "debug": "1"
             },
             {
                 "number": "230",
@@ -79,6 +81,7 @@
                 "rarity": "S",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4a/SV4a_230.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024001230",
+                "regu": "G",
                 "debug": "2"
             }
         ]
@@ -139,6 +142,7 @@
                 "rarity": "U",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4K/SV4K_026.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023021026",
+                "regu": "G",
                 "debug": "1"
             },
             {
@@ -151,7 +155,69 @@
                 "rarity": "AR",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4K/SV4K_070.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023021070",
+                "regu": "G",
                 "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SV7-027",
+        "cardID": "가비물130준비소닉110",
+        "name": "가비루사",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "가비루사",
+                "pokedexNumber": 976
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "소닉에지",
+                "cost": "(무색)(무색)(무색)(무색)",
+                "damage": "110",
+                "text": "이 기술의 데미지는 상대의 배틀 포켓몬에게 걸려 있는 효과를 계산하지 않는다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "준비 작업",
+                "text": "자신의 트래쉬에 있는 「곤포」의 장수만큼 이 포켓몬이 기술을 사용하기 위한 (무색) 에너지는 적어진다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "높은 재생 능력을 자랑한다. 군살을 버려서 몸을 가볍게 하고 먹잇감을 향해 돌격한다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "027",
+                "prodNumber": "102",
+                "prodCode": "SV7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV7.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「스텔라미라클」",
+                "artist": "GOTO minori",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV7/SV7_027.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024012027",
+                "regu": "H",
+                "debug": "3"
             }
         ]
     }

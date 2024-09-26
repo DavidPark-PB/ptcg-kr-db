@@ -55,6 +55,7 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1H/S1H_004.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020003004",
+                "regu": "D",
                 "debug": "1"
             },
             {
@@ -67,6 +68,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_014.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016014",
+                "regu": "D",
                 "debug": "2"
             },
             {
@@ -79,6 +81,7 @@
                 "rarity": "S",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_209.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016209",
+                "regu": "D",
                 "debug": "2"
             }
         ]
@@ -133,6 +136,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SE/SEF_008.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2021001008",
+                "regu": "E",
                 "debug": "1"
             },
             {
@@ -145,6 +149,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_038.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003038",
+                "regu": "E",
                 "debug": "2"
             }
         ]
@@ -199,6 +204,7 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S6a/S6a_009.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021007009",
+                "regu": "E",
                 "debug": "1"
             }
         ]
@@ -253,6 +259,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SH/SH_003_R.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021013003",
+                "regu": "E",
                 "debug": "1"
             }
         ]
@@ -307,7 +314,63 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S-P/S-P_002.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SP000000002",
+                "regu": "D",
                 "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "SV7-008",
+        "cardID": "꼬모풀060더블010",
+        "name": "꼬모카",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "꼬모카",
+                "pokedexNumber": 829
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "더블스핀",
+                "cost": "(무색)",
+                "damage": "10×",
+                "text": "동전을 2번 던져서 앞면이 나온 수 × 10데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "다리 하나를 땅에 꽂은 채 햇빛을 잔뜩 받으면 꽃잎이 선명한 색을 띠게 된다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "008",
+                "prodNumber": "102",
+                "prodCode": "SV7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV7.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「스텔라미라클」",
+                "artist": "Heisuke Kitazawa",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV7/SV7_008.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024012008",
+                "regu": "H",
+                "debug": "1"
             }
         ]
     }

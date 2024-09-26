@@ -55,6 +55,7 @@
                 "rarity": "R",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW2/bw2_red_047.jpg?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2011003047",
+                "regu": "BW",
                 "debug": "2"
             },
             {
@@ -67,6 +68,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/EBB/ebb_069.jpg?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013006069",
+                "regu": "BW",
                 "debug": "3"
             }
         ]
@@ -130,6 +132,7 @@
                 "rarity": "R",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW6/bw6_freezevolt_040.jpg?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2012008040",
+                "regu": "BW",
                 "debug": "1"
             },
             {
@@ -142,6 +145,7 @@
                 "rarity": "SR",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW6/bw6_freezevolt_061.jpg?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2012008061",
+                "regu": "BW",
                 "debug": "2"
             }
         ]
@@ -202,6 +206,7 @@
                 "rarity": "R",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY3/XY3_056.jpg?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2014003056",
+                "regu": "XY",
                 "debug": "1"
             }
         ]
@@ -256,6 +261,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMXY/SMXY_064.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS201707064",
+                "regu": "XY",
                 "debug": "1"
             }
         ]
@@ -316,6 +322,7 @@
                 "rarity": "R",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10/SM10_052.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019007052",
+                "regu": "C",
                 "debug": "2"
             },
             {
@@ -328,6 +335,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM12a/SM12a_069.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019017069",
+                "regu": "C",
                 "debug": "1"
             },
             {
@@ -340,6 +348,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM30A/SM30A_039.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019018039",
+                "regu": "C",
                 "debug": "2"
             }
         ]
@@ -400,6 +409,7 @@
                 "rarity": "R",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7R_039.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021012039",
+                "regu": "E",
                 "debug": "2"
             },
             {
@@ -412,6 +422,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_232.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003232",
+                "regu": "E",
                 "debug": "1"
             }
         ]
@@ -472,6 +483,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SL/SLL_006.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022005006",
+                "regu": "F",
                 "debug": "1"
             }
         ]

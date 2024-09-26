@@ -55,6 +55,7 @@
                 "rarity": "U",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP3/CP3_027.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016003027",
+                "regu": "XY",
                 "debug": "2"
             },
             {
@@ -67,6 +68,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/PROMO/XYpromo_029.jpg?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/PR2015001029",
+                "regu": "XY",
                 "debug": "1"
             }
         ]
@@ -130,6 +132,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XYH/XYH_008.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2016004008",
+                "regu": "XY",
                 "debug": "3"
             }
         ]
@@ -190,6 +193,7 @@
                 "rarity": "R",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM3H/SM3H_037.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017008037",
+                "regu": "A",
                 "debug": "2"
             },
             {
@@ -202,6 +206,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM4+/SM4plus_074.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017013074",
+                "regu": "A",
                 "debug": "1"
             },
             {
@@ -214,6 +219,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM4+/SM4plus_074.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018011074",
+                "regu": "A",
                 "debug": "2"
             },
             {
@@ -226,6 +232,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8B/SM8b_094.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019002094",
+                "regu": "A",
                 "debug": "2"
             },
             {
@@ -238,6 +245,7 @@
                 "rarity": "S",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8B/SM8b_196.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019002196",
+                "regu": "A",
                 "debug": "2"
             }
         ]
@@ -301,6 +309,7 @@
                 "rarity": "PR",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM6/SM6_051.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018004051",
+                "regu": "B",
                 "debug": "2"
             },
             {
@@ -313,6 +322,7 @@
                 "rarity": "PR",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8B/SM8b_058.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019002058",
+                "regu": "B",
                 "debug": "2"
             },
             {
@@ -325,6 +335,7 @@
                 "rarity": "PR",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM12a/SM12a_070.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019017070",
+                "regu": "B",
                 "debug": "1"
             }
         ]
@@ -385,6 +396,7 @@
                 "rarity": "R",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S3a/S3a_030.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020012030",
+                "regu": "D",
                 "debug": "1"
             }
         ]
@@ -445,6 +457,7 @@
                 "rarity": "R",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S9a/S9a_035.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022004058",
+                "regu": "F",
                 "debug": "1"
             },
             {
@@ -457,6 +470,7 @@
                 "rarity": "R",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_063.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001063",
+                "regu": "F",
                 "debug": "2"
             },
             {
@@ -469,6 +483,7 @@
                 "rarity": "AR",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_186.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001186",
+                "regu": "F",
                 "debug": "2"
             }
         ]
@@ -532,6 +547,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/PROMO/XYpromo_027.jpg?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/PR2015001027",
+                "regu": "XY",
                 "debug": "1"
             }
         ]
@@ -590,6 +606,68 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/PROMO/XYpromo_028.jpg?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/PR2015001028",
+                "regu": "XY",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV7-058",
+        "cardID": "디안격110난반040파워060",
+        "name": "디안시",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "디안시",
+                "pokedexNumber": 719
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "난반사",
+                "cost": "(무색)",
+                "damage": "40×",
+                "text": "상대의 포켓몬 전원에게 붙어 있는 특수 에너지의 장수 × 40데미지를 준다."
+            },
+            {
+                "name": "파워젬",
+                "cost": "(격투)(무색)",
+                "damage": "60",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "멜리시의 돌연변이다. 분홍빛으로 빛나는 몸은 세계에서 가장 아름답다고 일컬어진다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "058",
+                "prodNumber": "102",
+                "prodCode": "SV7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV7.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「스텔라미라클」",
+                "artist": "Jiro Sasumo",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV7/SV7_058.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024012058",
+                "regu": "H",
                 "debug": "1"
             }
         ]

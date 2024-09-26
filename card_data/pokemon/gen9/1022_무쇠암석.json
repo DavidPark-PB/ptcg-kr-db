@@ -59,7 +59,8 @@
                 "rarity": "RR",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5M/SV5M_041.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024005041",
-                "debug": "3"
+                "regu": "H",
+                "debug": "1"
             },
             {
                 "number": "087",
@@ -71,6 +72,7 @@
                 "rarity": "SR",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5M/SV5M_087.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024005087",
+                "regu": "H",
                 "debug": "2"
             },
             {
@@ -83,6 +85,7 @@
                 "rarity": "SAR",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5M/SV5M_095.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024005095",
+                "regu": "H",
                 "debug": "2"
             },
             {
@@ -95,7 +98,64 @@
                 "rarity": "UR",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5M/SV5M_100.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024005100",
+                "regu": "H",
                 "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SV7-047",
+        "cardID": "무쇠초140어저170",
+        "name": "무쇠암석",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "미래"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "무쇠암석",
+                "pokedexNumber": 1022
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "어저스트혼",
+                "cost": "(초)(무색)",
+                "damage": "170",
+                "text": "자신의 패와 상대의 패가 같은 장수가 아니라면 이 기술은 실패한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 3,
+        "flavorText": "몸은 금속질로 되어있다고 한다. 이름은 오래된 책에 기록된 정체불명의 물체에서 유래됐다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "047",
+                "prodNumber": "102",
+                "prodCode": "SV7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV7.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「스텔라미라클」",
+                "artist": "GIDORA",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV7/SV7_047.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024012047",
+                "regu": "H",
+                "debug": "3"
             }
         ]
     }

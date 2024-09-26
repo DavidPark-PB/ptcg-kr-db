@@ -55,6 +55,7 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY9/XY9_069.jpg?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016001069",
+                "regu": "XY",
                 "debug": "1"
             }
         ]
@@ -109,6 +110,7 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM5S/SM5S_049.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018001049",
+                "regu": "B",
                 "debug": "1"
             }
         ]
@@ -169,6 +171,7 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9B/SM9b_041.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019005041",
+                "regu": "C",
                 "debug": "2"
             },
             {
@@ -181,6 +184,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM12a/SM12a_113.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019017113",
+                "regu": "C",
                 "debug": "1"
             }
         ]
@@ -241,6 +245,7 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_057.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002057",
+                "regu": "E",
                 "debug": "1"
             }
         ]
@@ -295,6 +300,7 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S9a/S9a_059.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022004095",
+                "regu": "F",
                 "debug": "1"
             },
             {
@@ -307,6 +313,7 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S9a/S9a_059_m.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022004096",
+                "regu": "F",
                 "debug": "2"
             }
         ]
@@ -367,7 +374,63 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/ST1/st1_kr_49.jpg?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2010001049",
+                "regu": "DP",
                 "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "SV7-078",
+        "cardID": "나옹무060걸기020",
+        "name": "나옹마",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "나옹마",
+                "pokedexNumber": 431
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "걸기",
+                "cost": "(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "마음에 안 들면 발톱을 세우지만 가끔 울음소리로 응석을 부리는 성격이 일부에게 매우 인기가 있다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "078",
+                "prodNumber": "102",
+                "prodCode": "SV7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV7.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「스텔라미라클」",
+                "artist": "Yuriko Akase",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV7/SV7_078.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024012078",
+                "regu": "H",
+                "debug": "1"
             }
         ]
     },
@@ -427,6 +490,7 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS1/bs1_kr_53.jpg?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010001053",
+                "regu": "DP",
                 "debug": "1"
             }
         ]

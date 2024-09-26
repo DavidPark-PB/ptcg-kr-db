@@ -55,6 +55,7 @@
                 "rarity": "U",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV1S/SV1S_020.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023006020",
+                "regu": "G",
                 "debug": "2"
             },
             {
@@ -67,6 +68,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4a/SV4a_045.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024001045",
+                "regu": "G",
                 "debug": "3"
             },
             {
@@ -79,6 +81,7 @@
                 "rarity": "S",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4a/SV4a_227.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024001227",
+                "regu": "G",
                 "debug": "2"
             },
             {
@@ -91,6 +94,7 @@
                 "rarity": "AR",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4a/SV4a_338.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024001338",
+                "regu": "G",
                 "debug": "2"
             }
         ]
@@ -145,6 +149,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_031.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016031",
+                "regu": "G",
                 "debug": "1"
             }
         ]
@@ -205,6 +210,7 @@
                 "rarity": "U",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4K/SV4K_025.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023021025",
+                "regu": "G",
                 "debug": "1"
             }
         ]
@@ -274,6 +280,7 @@
                 "rarity": "RR",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_025.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024004025",
+                "regu": "H",
                 "debug": "1"
             },
             {
@@ -286,6 +293,7 @@
                 "rarity": "SR",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_087.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024004087",
+                "regu": "H",
                 "debug": "2"
             }
         ]

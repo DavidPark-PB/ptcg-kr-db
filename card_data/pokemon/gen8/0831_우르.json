@@ -55,6 +55,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SA/SA_L_011.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020001083",
+                "regu": "D",
                 "debug": "1"
             }
         ]
@@ -109,6 +110,7 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1H/S1H_050.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020003050",
+                "regu": "D",
                 "debug": "1"
             },
             {
@@ -121,6 +123,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_152.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016152",
+                "regu": "D",
                 "debug": "2"
             },
             {
@@ -133,6 +136,7 @@
                 "rarity": "S",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_302.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016302",
+                "regu": "D",
                 "debug": "2"
             }
         ]
@@ -193,6 +197,7 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_054.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011054",
+                "regu": "E",
                 "debug": "2"
             },
             {
@@ -205,6 +210,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_362.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003362",
+                "regu": "E",
                 "debug": "1"
             }
         ]
@@ -259,6 +265,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SH/SH_013_D.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021013065",
+                "regu": "E",
                 "debug": "1"
             }
         ]
@@ -313,6 +320,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SN/SN_011.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022009011",
+                "regu": "F",
                 "debug": "1"
             }
         ]
@@ -373,7 +381,63 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S-P/S-P_026.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SP000000026",
+                "regu": "D",
                 "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "SV7-086",
+        "cardID": "우르무070무너030",
+        "name": "우르",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "우르",
+                "pokedexNumber": 831
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "무너뜨리기",
+                "cost": "(무색)(무색)",
+                "damage": "30",
+                "text": "원한다면 필드에 나와 있는 스타디움을 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "곱슬곱슬한 털은 훌륭한 쿠션 역할을 한다. 절벽에서 떨어져도 아무렇지도 않다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "086",
+                "prodNumber": "102",
+                "prodCode": "SV7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV7.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「스텔라미라클」",
+                "artist": "Wintr Wandr",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV7/SV7_086.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024012086",
+                "regu": "H",
+                "debug": "1"
             }
         ]
     }

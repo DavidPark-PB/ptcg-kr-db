@@ -968,6 +968,16 @@
             {
                 "number": "000",
                 "prodNumber": "000",
+                "prodCode": "xyf",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xyf.png",
+                "prodName": "XY BREAK 콤보 60장 덱 「골덕 BREAK +펄기아 EX」",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XYF/XYF_017.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2015006017"
+            },
+            {
+                "number": "000",
+                "prodNumber": "000",
                 "prodCode": "cp4",
                 "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp4.png",
                 "prodName": "XY BREAK 확장팩 「프리미엄 챔피언팩」",

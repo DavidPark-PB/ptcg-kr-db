@@ -3081,5 +3081,1444 @@
         "regulationMark": "H",
         "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6a/SV6a_064.png?w=512",
         "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024011064"
+    },
+    {
+        "id": "SV6a-065",
+        "cardID": "카푸풀140우드220",
+        "name": "카푸브루루",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "카푸브루루",
+                "pokedexNumber": 787
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "우드해머",
+                "cost": "(풀)(풀)(무색)(무색)",
+                "damage": "220",
+                "text": "이 포켓몬에게도 30데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "큰 나무를 뽑아서 빙빙 휘두른다. 초목을 무성하게 만들어 그 에너지를 흡수한다.",
+        "number": "065",
+        "prodNumber": "064",
+        "prodCode": "SV6a",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6a.png",
+        "prodName": "스칼렛&바이올렛 강화 확장팩 「나이트원더러」",
+        "artist": "IKEDA Saki",
+        "rarity": "AR",
+        "regulationMark": "H",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6a/SV6a_065.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024011065"
+    },
+    {
+        "id": "SV6a-066",
+        "cardID": "헬가불120물기050바크100",
+        "name": "헬가",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "헬가",
+                "pokedexNumber": 229
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "물기",
+                "cost": "(무색)(무색)",
+                "damage": "50",
+                "text": ""
+            },
+            {
+                "name": "바크아웃",
+                "cost": "(불꽃)(무색)(무색)",
+                "damage": "100",
+                "text": "상대의 다음 차례에 이 기술을 받은 포켓몬이 사용하는 기술의 데미지는 「-100」이 된다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "기분 나쁜 울음소리를 들은 포켓몬은 겁이 나서 그대로 곧장 자신의 둥지로 돌아간다.",
+        "number": "066",
+        "prodNumber": "064",
+        "prodCode": "SV6a",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6a.png",
+        "prodName": "스칼렛&바이올렛 강화 확장팩 「나이트원더러」",
+        "artist": "Taiga Kasai",
+        "rarity": "AR",
+        "regulationMark": "H",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6a/SV6a_066.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024011066"
+    },
+    {
+        "id": "SV6a-067",
+        "cardID": "쏘드물060가만000지느020",
+        "name": "쏘드라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "쏘드라",
+                "pokedexNumber": 116
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "가만히있기",
+                "cost": "(물)",
+                "damage": "",
+                "text": "이 포켓몬의 HP를 「30」회복한다."
+            },
+            {
+                "name": "지느러미 커터",
+                "cost": "(무색)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "잔잔하게 흐르는 고요한 바다에 산다. 습격당하면 새까만 먹물을 내뿜고 그 틈에 도망친다.",
+        "number": "067",
+        "prodNumber": "064",
+        "prodCode": "SV6a",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6a.png",
+        "prodName": "스칼렛&바이올렛 강화 확장팩 「나이트원더러」",
+        "artist": "Shinya Komatsu",
+        "rarity": "AR",
+        "regulationMark": "H",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6a/SV6a_067.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024011067"
+    },
+    {
+        "id": "SV6a-068",
+        "cardID": "해골초060마중000중얼030",
+        "name": "해골몽",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "해골몽",
+                "pokedexNumber": 355
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "마중나가기",
+                "cost": "(초)",
+                "damage": "",
+                "text": "자신의 트래쉬에서 「해골몽」을 3장까지 선택해서 벤치로 내보낸다."
+            },
+            {
+                "name": "중얼거리기",
+                "cost": "(초)(초)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "새빨간 외눈으로 노려보며 생체 에너지를 빨아들이면 어마어마한 한기에 휩싸이게 된다.",
+        "number": "068",
+        "prodNumber": "064",
+        "prodCode": "SV6a",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6a.png",
+        "prodName": "스칼렛&바이올렛 강화 확장팩 「나이트원더러」",
+        "artist": "James Turner",
+        "rarity": "AR",
+        "regulationMark": "H",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6a/SV6a_068.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024011068"
+    },
+    {
+        "id": "SV6a-069",
+        "cardID": "미라초090커스도깨050",
+        "name": "미라몽",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "미라몽",
+                "pokedexNumber": 356
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "도깨비불",
+                "cost": "(초)(초)",
+                "damage": "50",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "커스 봄",
+                "text": "자신의 차례에 1번 사용할 수 있으며, 사용하면 이 포켓몬을 기절시킨다. 상대의 포켓몬 1마리에게 데미지 카운터를 5개 올린다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "몸 안에서 타오르고 있는 새빨간 외눈이 미라몽의 본체라고 전해지고 있으나, 누구도 본 적은 없다.",
+        "number": "069",
+        "prodNumber": "064",
+        "prodCode": "SV6a",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6a.png",
+        "prodName": "스칼렛&바이올렛 강화 확장팩 「나이트원더러」",
+        "artist": "James Turner",
+        "rarity": "AR",
+        "regulationMark": "H",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6a/SV6a_069.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024011069"
+    },
+    {
+        "id": "SV6a-070",
+        "cardID": "야느초160커스그림150",
+        "name": "야느와르몽",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 160,
+        "pokemons": [
+            {
+                "name": "야느와르몽",
+                "pokedexNumber": 477
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "그림자묶기",
+                "cost": "(초)(초)(무색)",
+                "damage": "150",
+                "text": "상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴할 수 없다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "커스 봄",
+                "text": "자신의 차례에 1번 사용할 수 있으며, 사용하면 이 포켓몬을 기절시킨다. 상대의 포켓몬 1마리에게 데미지 카운터를 13개 올린다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 3,
+        "flavorText": "이승과 저승을 오가며 헤매는 영혼을 흡수해 옮긴다고 하여 사람들이 두려워한다.",
+        "number": "070",
+        "prodNumber": "064",
+        "prodCode": "SV6a",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6a.png",
+        "prodName": "스칼렛&바이올렛 강화 확장팩 「나이트원더러」",
+        "artist": "James Turner",
+        "rarity": "AR",
+        "regulationMark": "H",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6a/SV6a_070.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024011070"
+    },
+    {
+        "id": "SV6a-071",
+        "cardID": "크레초120치유000크레080",
+        "name": "크레세리아",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "크레세리아",
+                "pokedexNumber": 488
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "치유춤",
+                "cost": "(초)",
+                "damage": "",
+                "text": "자신의 포켓몬 전원의 HP를 각각 「20」회복한다."
+            },
+            {
+                "name": "크레센트퍼지",
+                "cost": "(초)(초)(초)",
+                "damage": "80+",
+                "text": "원한다면 뒷면으로 된 자신의 프라이즈를 1장 선택해서 앞면으로 한다. 그 경우, 80데미지를 추가한다. (대전이 종료될 때까지 그 프라이즈는 앞면이 위를 향한 채로 둔다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "비행할 때는 베일 같은 날개에서 빛나는 입자를 흩뿌린다. 초승달의 화신으로 불리고 있다.",
+        "number": "071",
+        "prodNumber": "064",
+        "prodCode": "SV6a",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6a.png",
+        "prodName": "스칼렛&바이올렛 강화 확장팩 「나이트원더러」",
+        "artist": "satoma",
+        "rarity": "AR",
+        "regulationMark": "H",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6a/SV6a_071.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024011071"
+    },
+    {
+        "id": "SV6a-072",
+        "cardID": "조로악070밟기010더블020",
+        "name": "조로아",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "조로아",
+                "pokedexNumber": 570
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "밟기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "더블할퀴기",
+                "cost": "(악)(무색)",
+                "damage": "20×",
+                "text": "동전을 2번 던져서 앞면이 나온 수 × 20데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "사람이나 다른 포켓몬으로 둔갑한다. 자신의 정체를 감추어 위험으로부터 몸을 지키는 것이다.",
+        "number": "072",
+        "prodNumber": "064",
+        "prodCode": "SV6a",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6a.png",
+        "prodName": "스칼렛&바이올렛 강화 확장팩 「나이트원더러」",
+        "artist": "REND",
+        "rarity": "AR",
+        "regulationMark": "H",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6a/SV6a_072.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024011072"
+    },
+    {
+        "id": "SV6a-073",
+        "cardID": "끼리강100몸통030진검070",
+        "name": "끼리동",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "끼리동",
+                "pokedexNumber": 878
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "몸통박치기",
+                "cost": "(강철)(무색)",
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "진검승부",
+                "cost": "(강철)(강철)(무색)",
+                "damage": "70",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 3,
+        "flavorText": "5t의 짐을 들어 올릴 수 있다. 아침이 되면 무리 지어 동굴에 가서 먹이로 쓸 광석을 찾는다.",
+        "number": "073",
+        "prodNumber": "064",
+        "prodCode": "SV6a",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6a.png",
+        "prodName": "스칼렛&바이올렛 강화 확장팩 「나이트원더러」",
+        "artist": "Mina Nakai",
+        "rarity": "AR",
+        "regulationMark": "H",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6a/SV6a_073.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024011073"
+    },
+    {
+        "id": "SV6a-074",
+        "cardID": "액슨드100긴장용의080",
+        "name": "액슨도",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "액슨도",
+                "pokedexNumber": 611
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "용의파동",
+                "cost": "(격투)(강철)",
+                "damage": "80",
+                "text": "자신의 덱을 위에서부터 1장 트래쉬한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "긴장감",
+                "text": "이 포켓몬은 상대가 패에서 아이템 또는 서포트를 꺼내서 사용했을 때 그 효과를 받지 않는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "굵은 어금니를 사용해 먹이를 깔끔하게 손질하여 먹을 것과 보관할 것을 나눈다.",
+        "number": "074",
+        "prodNumber": "064",
+        "prodCode": "SV6a",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6a.png",
+        "prodName": "스칼렛&바이올렛 강화 확장팩 「나이트원더러」",
+        "artist": "MINAMINAMI Take",
+        "rarity": "AR",
+        "regulationMark": "H",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6a/SV6a_074.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024011074"
+    },
+    {
+        "id": "SV6a-075",
+        "cardID": "페르무110마구050슬래100",
+        "name": "페르시온",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "페르시온",
+                "pokedexNumber": 53
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "마구할퀴기",
+                "cost": "(무색)(무색)",
+                "damage": "50×",
+                "text": "동전을 3번 던져서 앞면이 나온 수 × 50데미지를 준다."
+            },
+            {
+                "name": "슬래시크루",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "100",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "성격이 거칠기 때문에 꼬리를 바짝 세우고 있으면 주의해야 한다. 달려들어서 물겠다는 경고이기 때문이다.",
+        "number": "075",
+        "prodNumber": "064",
+        "prodCode": "SV6a",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6a.png",
+        "prodName": "스칼렛&바이올렛 강화 확장팩 「나이트원더러」",
+        "artist": "Whisker",
+        "rarity": "AR",
+        "regulationMark": "H",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6a/SV6a_075.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024011075"
+    },
+    {
+        "id": "SV6a-076",
+        "cardID": "이븐무130파워030한방130",
+        "name": "이븐곰",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "이븐곰",
+                "pokedexNumber": 760
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "파워차지",
+                "cost": "(무색)",
+                "damage": "30",
+                "text": "자신의 덱에서 기본 에너지를 1장 선택해서 이 포켓몬에게 붙인다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "한방 먹이기",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "130",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "동료로 인정하면 애정을 표현하기 위해 껴안으려 하지만 뼈가 으스러질 수 있으므로 위험하다.",
+        "number": "076",
+        "prodNumber": "064",
+        "prodCode": "SV6a",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6a.png",
+        "prodName": "스칼렛&바이올렛 강화 확장팩 「나이트원더러」",
+        "artist": "Takeshi Nakamura",
+        "rarity": "AR",
+        "regulationMark": "H",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6a/SV6a_076.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024011076"
+    },
+    {
+        "id": "SV6a-077",
+        "cardID": "킹드물310왕의000하이050",
+        "name": "킹드라 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 310,
+        "pokemons": [
+            {
+                "name": "킹드라",
+                "pokedexNumber": 230
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "왕의호령",
+                "cost": "(물)",
+                "damage": "",
+                "text": "자신의 트래쉬에서 (물) 포켓몬을 3장까지 선택해서 벤치로 내보낸다."
+            },
+            {
+                "name": "하이드로펌프",
+                "cost": "(무색)(무색)",
+                "damage": "50+",
+                "text": "이 포켓몬에게 붙어 있는 (물) 에너지의 개수 × 50데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "number": "077",
+        "prodNumber": "064",
+        "prodCode": "SV6a",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6a.png",
+        "prodName": "스칼렛&바이올렛 강화 확장팩 「나이트원더러」",
+        "artist": "PLANETA Igarashi",
+        "rarity": "SR",
+        "regulationMark": "H",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6a/SV6a_077.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024011077"
+    },
+    {
+        "id": "SV6a-078",
+        "cardID": "부르번280테라액셀020스피250",
+        "name": "부르르룸 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 280,
+        "pokemons": [
+            {
+                "name": "부르르룸",
+                "pokedexNumber": 966
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "액셀플래시",
+                "cost": "(강철)",
+                "damage": "20+",
+                "text": "이 차례에 이 포켓몬이 벤치에서 배틀필드로 나왔다면 120데미지를 추가한다."
+            },
+            {
+                "name": "스피드 브레이크",
+                "cost": "(강철)(강철)(강철)",
+                "damage": "250",
+                "text": "이 포켓몬과 붙어 있는 모든 카드를 트래쉬한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "테라스탈",
+                "text": "이 포켓몬은 벤치에 있는 한, 기술의 데미지를 받지 않는다.",
+                "type": "테라스탈"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "number": "078",
+        "prodNumber": "064",
+        "prodCode": "SV6a",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6a.png",
+        "prodName": "스칼렛&바이올렛 강화 확장팩 「나이트원더러」",
+        "artist": "PLANETA Mochizuki",
+        "rarity": "SR",
+        "regulationMark": "H",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6a/SV6a_078.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024011078"
+    },
+    {
+        "id": "SV6a-079",
+        "cardID": "조타악250포이000크레130",
+        "name": "조타구 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 250,
+        "pokemons": [
+            {
+                "name": "조타구",
+                "pokedexNumber": 1014
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "포이즌머슬",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱에서 「기본 (악) 에너지」를 2장까지 선택해서 이 포켓몬에게 붙인다. 그리고 덱을 섞는다. 붙였을 경우, 이 포켓몬을 독으로 만든다."
+            },
+            {
+                "name": "크레이지체인",
+                "cost": "(악)(악)(무색)",
+                "damage": "130+",
+                "text": "이 포켓몬이 독이라면 130데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "number": "079",
+        "prodNumber": "064",
+        "prodCode": "SV6a",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6a.png",
+        "prodName": "스칼렛&바이올렛 강화 확장팩 「나이트원더러」",
+        "artist": "5ban Graphics",
+        "rarity": "SR",
+        "regulationMark": "H",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6a/SV6a_079.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024011079"
+    },
+    {
+        "id": "SV6a-080",
+        "cardID": "이야악210허탈더티190",
+        "name": "이야후 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "이야후",
+                "pokedexNumber": 1015
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "더티헤드",
+                "cost": "(악)(악)(무색)",
+                "damage": "190",
+                "text": "자신의 다음 차례에 이 포켓몬은 「더티헤드」를 사용할 수 없다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "허탈감",
+                "text": "이 포켓몬이 상대의 포켓몬으로부터 기술의 데미지를 받아 기절했을 때 자신의 필드에 「복숭악동 ex」가 있다면 가져갈 수 있는 프라이즈는 1장 적어진다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "number": "080",
+        "prodNumber": "064",
+        "prodCode": "SV6a",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6a.png",
+        "prodName": "스칼렛&바이올렛 강화 확장팩 「나이트원더러」",
+        "artist": "5ban Graphics",
+        "rarity": "SR",
+        "regulationMark": "H",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6a/SV6a_080.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024011080"
+    },
+    {
+        "id": "SV6a-081",
+        "cardID": "기로악210역이크루000",
+        "name": "기로치 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "기로치",
+                "pokedexNumber": 1016
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "크루얼애로",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "",
+                "text": "상대의 포켓몬 1마리에게 100데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "역이용",
+                "text": "상대의 이전 차례에 자신의 포켓몬이 기절했다면 자신의 차례에 1번 사용할 수 있다. 자신의 덱을 3장 뽑는다. 이 차례에 이미 다른 「역이용」을 사용했다면 이 특성은 사용할 수 없다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "number": "081",
+        "prodNumber": "064",
+        "prodCode": "SV6a",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6a.png",
+        "prodName": "스칼렛&바이올렛 강화 확장팩 「나이트원더러」",
+        "artist": "5ban Graphics",
+        "rarity": "SR",
+        "regulationMark": "H",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6a/SV6a_081.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024011081"
+    },
+    {
+        "id": "SV6a-082",
+        "cardID": "복숭악190지배짜증060",
+        "name": "복숭악동 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 190,
+        "pokemons": [
+            {
+                "name": "복숭악동",
+                "pokedexNumber": 1025
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "짜증나는 버스트",
+                "cost": "(악)(악)",
+                "damage": "60×",
+                "text": "상대가 이미 가져간 프라이즈의 장수 × 60데미지를 준다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "지배의 사슬",
+                "text": "자신의 차례에 1번 사용할 수 있다. 자신의 벤치의 (악) 포켓몬(「복숭악동 ex」는 제외)을 1마리 선택해서 배틀 포켓몬과 교체한다. 그 뒤, 새로운 배틀 포켓몬을 독으로 만든다. 이 차례에 이미 다른 「지배의 사슬」을 사용했다면 이 특성은 사용할 수 없다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "number": "082",
+        "prodNumber": "064",
+        "prodCode": "SV6a",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6a.png",
+        "prodName": "스칼렛&바이올렛 강화 확장팩 「나이트원더러」",
+        "artist": "aky CG Works",
+        "rarity": "SR",
+        "regulationMark": "H",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6a/SV6a_082.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024011082"
+    },
+    {
+        "id": "SV6a-083",
+        "cardID": "도희의 비기",
+        "name": "도희의 비기",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 (악) 포켓몬을 2마리까지 선택해서 자신의 덱에서 「기본 (악) 에너지」를 1장씩 붙인다.",
+            "그리고 덱을 섞는다.",
+            "배틀 포켓몬에게 붙였을 경우, 그 포켓몬을 독으로 만든다."
+        ],
+        "number": "083",
+        "prodNumber": "064",
+        "prodCode": "SV6a",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6a.png",
+        "prodName": "스칼렛&바이올렛 강화 확장팩 「나이트원더러」",
+        "artist": "Taira Akitsu",
+        "rarity": "SR",
+        "regulationMark": "H",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6a/SV6a_083.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024011083"
+    },
+    {
+        "id": "SV6a-084",
+        "cardID": "아크로마의 집념",
+        "name": "아크로마의 집념",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱에서 스타디움과 에너지를 1장씩 선택해서 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "084",
+        "prodNumber": "064",
+        "prodCode": "SV6a",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6a.png",
+        "prodName": "스칼렛&바이올렛 강화 확장팩 「나이트원더러」",
+        "artist": "hncl",
+        "rarity": "SR",
+        "regulationMark": "H",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6a/SV6a_084.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024011084"
+    },
+    {
+        "id": "SV6a-085",
+        "cardID": "카시오페아",
+        "name": "카시오페아",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드는 자신의 패가 이 카드 1장일 때만 사용할 수 있다.",
+            "자신의 덱에서 원하는 카드를 2장까지 선택해서 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "085",
+        "prodNumber": "064",
+        "prodCode": "SV6a",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6a.png",
+        "prodName": "스칼렛&바이올렛 강화 확장팩 「나이트원더러」",
+        "artist": "Atsushi Furusawa",
+        "rarity": "SR",
+        "regulationMark": "H",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6a/SV6a_085.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024011085"
+    },
+    {
+        "id": "SV6a-086",
+        "cardID": "크세로시키의 속셈",
+        "name": "크세로시키의 속셈",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "상대는 상대 자신의 패를 3장이 되도록 트래쉬한다."
+        ],
+        "number": "086",
+        "prodNumber": "064",
+        "prodCode": "SV6a",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6a.png",
+        "prodName": "스칼렛&바이올렛 강화 확장팩 「나이트원더러」",
+        "artist": "GOSSAN",
+        "rarity": "SR",
+        "regulationMark": "H",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6a/SV6a_086.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024011086"
+    },
+    {
+        "id": "SV6a-087",
+        "cardID": "조타악250포이000크레130",
+        "name": "조타구 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 250,
+        "pokemons": [
+            {
+                "name": "조타구",
+                "pokedexNumber": 1014
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "포이즌머슬",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱에서 「기본 (악) 에너지」를 2장까지 선택해서 이 포켓몬에게 붙인다. 그리고 덱을 섞는다. 붙였을 경우, 이 포켓몬을 독으로 만든다."
+            },
+            {
+                "name": "크레이지체인",
+                "cost": "(악)(악)(무색)",
+                "damage": "130+",
+                "text": "이 포켓몬이 독이라면 130데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "number": "087",
+        "prodNumber": "064",
+        "prodCode": "SV6a",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6a.png",
+        "prodName": "스칼렛&바이올렛 강화 확장팩 「나이트원더러」",
+        "artist": "kantaro",
+        "rarity": "SAR",
+        "regulationMark": "H",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6a/SV6a_087.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024011087"
+    },
+    {
+        "id": "SV6a-088",
+        "cardID": "이야악210허탈더티190",
+        "name": "이야후 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "이야후",
+                "pokedexNumber": 1015
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "더티헤드",
+                "cost": "(악)(악)(무색)",
+                "damage": "190",
+                "text": "자신의 다음 차례에 이 포켓몬은 「더티헤드」를 사용할 수 없다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "허탈감",
+                "text": "이 포켓몬이 상대의 포켓몬으로부터 기술의 데미지를 받아 기절했을 때 자신의 필드에 「복숭악동 ex」가 있다면 가져갈 수 있는 프라이즈는 1장 적어진다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "number": "088",
+        "prodNumber": "064",
+        "prodCode": "SV6a",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6a.png",
+        "prodName": "스칼렛&바이올렛 강화 확장팩 「나이트원더러」",
+        "artist": "kantaro",
+        "rarity": "SAR",
+        "regulationMark": "H",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6a/SV6a_088.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024011088"
+    },
+    {
+        "id": "SV6a-089",
+        "cardID": "기로악210역이크루000",
+        "name": "기로치 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "기로치",
+                "pokedexNumber": 1016
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "크루얼애로",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "",
+                "text": "상대의 포켓몬 1마리에게 100데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "역이용",
+                "text": "상대의 이전 차례에 자신의 포켓몬이 기절했다면 자신의 차례에 1번 사용할 수 있다. 자신의 덱을 3장 뽑는다. 이 차례에 이미 다른 「역이용」을 사용했다면 이 특성은 사용할 수 없다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "number": "089",
+        "prodNumber": "064",
+        "prodCode": "SV6a",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6a.png",
+        "prodName": "스칼렛&바이올렛 강화 확장팩 「나이트원더러」",
+        "artist": "kantaro",
+        "rarity": "SAR",
+        "regulationMark": "H",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6a/SV6a_089.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024011089"
+    },
+    {
+        "id": "SV6a-090",
+        "cardID": "복숭악190지배짜증060",
+        "name": "복숭악동 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 190,
+        "pokemons": [
+            {
+                "name": "복숭악동",
+                "pokedexNumber": 1025
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "짜증나는 버스트",
+                "cost": "(악)(악)",
+                "damage": "60×",
+                "text": "상대가 이미 가져간 프라이즈의 장수 × 60데미지를 준다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "지배의 사슬",
+                "text": "자신의 차례에 1번 사용할 수 있다. 자신의 벤치의 (악) 포켓몬(「복숭악동 ex」는 제외)을 1마리 선택해서 배틀 포켓몬과 교체한다. 그 뒤, 새로운 배틀 포켓몬을 독으로 만든다. 이 차례에 이미 다른 「지배의 사슬」을 사용했다면 이 특성은 사용할 수 없다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "number": "090",
+        "prodNumber": "064",
+        "prodCode": "SV6a",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6a.png",
+        "prodName": "스칼렛&바이올렛 강화 확장팩 「나이트원더러」",
+        "artist": "kantaro",
+        "rarity": "SAR",
+        "regulationMark": "H",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6a/SV6a_090.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024011090"
+    },
+    {
+        "id": "SV6a-091",
+        "cardID": "카시오페아",
+        "name": "카시오페아",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드는 자신의 패가 이 카드 1장일 때만 사용할 수 있다.",
+            "자신의 덱에서 원하는 카드를 2장까지 선택해서 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "091",
+        "prodNumber": "064",
+        "prodCode": "SV6a",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6a.png",
+        "prodName": "스칼렛&바이올렛 강화 확장팩 「나이트원더러」",
+        "artist": "burari",
+        "rarity": "SAR",
+        "regulationMark": "H",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6a/SV6a_091.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024011091"
+    },
+    {
+        "id": "SV6a-092",
+        "cardID": "복숭악190지배짜증060",
+        "name": "복숭악동 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 190,
+        "pokemons": [
+            {
+                "name": "복숭악동",
+                "pokedexNumber": 1025
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "짜증나는 버스트",
+                "cost": "(악)(악)",
+                "damage": "60×",
+                "text": "상대가 이미 가져간 프라이즈의 장수 × 60데미지를 준다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "지배의 사슬",
+                "text": "자신의 차례에 1번 사용할 수 있다. 자신의 벤치의 (악) 포켓몬(「복숭악동 ex」는 제외)을 1마리 선택해서 배틀 포켓몬과 교체한다. 그 뒤, 새로운 배틀 포켓몬을 독으로 만든다. 이 차례에 이미 다른 「지배의 사슬」을 사용했다면 이 특성은 사용할 수 없다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "number": "092",
+        "prodNumber": "064",
+        "prodCode": "SV6a",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6a.png",
+        "prodName": "스칼렛&바이올렛 강화 확장팩 「나이트원더러」",
+        "artist": "aky CG Works",
+        "rarity": "UR",
+        "regulationMark": "H",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6a/SV6a_092.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024011092"
+    },
+    {
+        "id": "SV6a-093",
+        "cardID": "대지의 그릇",
+        "name": "대지의 그릇",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템",
+            "고대"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드는 자신의 패를 1장 트래쉬하지 않으면 사용할 수 없다.",
+            "자신의 덱에서 기본 에너지를 2장까지 선택해서 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "093",
+        "prodNumber": "064",
+        "prodCode": "SV6a",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6a.png",
+        "prodName": "스칼렛&바이올렛 강화 확장팩 「나이트원더러」",
+        "artist": "AYUMI ODASHIMA",
+        "rarity": "UR",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6a/SV6a_093.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024011093"
+    },
+    {
+        "id": "SV6a-094",
+        "cardID": "힘의 모래시계",
+        "name": "힘의 모래시계",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "포켓몬의 도구"
+        ],
+        "rules": [
+            "포켓몬의 도구는 자신의 포켓몬에게 붙여서 사용한다.",
+            "포켓몬 1마리에게 1장만 붙일 수 있고 붙인 채로 둔다.",
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 차례의 마지막에 이 카드를 붙이고 있는 포켓몬이 배틀필드에 있다면 자신의 트래쉬에서 기본 에너지를 1장 선택해서 그 포켓몬에게 붙여도 좋다."
+        ],
+        "number": "094",
+        "prodNumber": "064",
+        "prodCode": "SV6a",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6a.png",
+        "prodName": "스칼렛&바이올렛 강화 확장팩 「나이트원더러」",
+        "artist": "Studio Bora Inc.",
+        "rarity": "UR",
+        "regulationMark": "H",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6a/SV6a_094.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024011094"
     }
 ]

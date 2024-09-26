@@ -55,6 +55,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/DC/dc_008.jpg?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2012004008",
+                "regu": "BW",
                 "debug": "1"
             }
         ]
@@ -121,6 +122,7 @@
                 "rarity": "R",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY6/XY6_047.jpg?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015004047",
+                "regu": "XY",
                 "debug": "1"
             }
         ]
@@ -191,6 +193,7 @@
                 "rarity": "RR",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM6B/SM6B_045.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018006045",
+                "regu": "B",
                 "debug": "1"
             },
             {
@@ -203,6 +206,7 @@
                 "rarity": "SR",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM6B/SM6B_072.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018006072",
+                "regu": "B",
                 "debug": "2"
             }
         ]
@@ -263,6 +267,7 @@
                 "rarity": "R",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM7/SM7_065.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018007065",
+                "regu": "B",
                 "debug": "1"
             }
         ]
@@ -326,6 +331,7 @@
                 "rarity": "RR",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S3/S3_080.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020011080",
+                "regu": "D",
                 "debug": "1"
             },
             {
@@ -338,6 +344,7 @@
                 "rarity": "SR",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S3/S3_108.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020011108",
+                "regu": "D",
                 "debug": "2"
             }
         ]
@@ -401,6 +408,7 @@
                 "rarity": "RRR",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S3/S3_081.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020011081",
+                "regu": "D",
                 "debug": "1"
             }
         ]
@@ -461,6 +469,7 @@
                 "rarity": "R",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7R_045.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021012045",
+                "regu": "E",
                 "debug": "1"
             }
         ]
@@ -471,9 +480,12 @@
         "name": "보만다 EX",
         "supertype": "포켓몬",
         "subtypes": [
-            "기본"
+            "기본",
+            "EX"
         ],
-        "rules": [],
+        "rules": [
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
         "hp": 180,
         "pokemons": [
             {
@@ -521,6 +533,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/PROMO/XYP_177.jpg?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/PR2016001001",
+                "regu": "XY",
                 "debug": "3"
             }
         ]
@@ -531,9 +544,12 @@
         "name": "M보만다 EX",
         "supertype": "포켓몬",
         "subtypes": [
-            "M진화"
+            "M진화",
+            "EX"
         ],
-        "rules": [],
+        "rules": [
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
         "hp": 230,
         "pokemons": [
             {
@@ -575,6 +591,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/PROMO/XYP_178.jpg?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/PR2016001002",
+                "regu": "XY",
                 "debug": "1"
             }
         ]

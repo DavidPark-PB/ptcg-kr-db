@@ -1,5 +1,25 @@
 [
     {
+        "id": "xyf-000",
+        "cardID": "기본 물 에너지",
+        "name": "기본 물 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "기본 에너지"
+        ],
+        "rules": [],
+        "texts": [],
+        "number": "000",
+        "prodNumber": "000",
+        "prodCode": "xyf",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xyf.png",
+        "prodName": "XY BREAK 콤보 60장 덱 「골덕 BREAK +펄기아 EX」",
+        "rarity": "N",
+        "regulationMark": "BE",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XYF/XYF_017.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2015006017"
+    },
+    {
         "id": "xyf-001",
         "cardID": "고라물060밟기020",
         "name": "고라파덕",
@@ -240,5 +260,291 @@
         "regulationMark": "XY",
         "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XYF/XYF_005.jpg?w=512",
         "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2015006005"
+    },
+    {
+        "id": "xyf-007",
+        "cardID": "펄기물180아쿠040펄허120",
+        "name": "펄기아 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "EX"
+        ],
+        "rules": [
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "펄기아",
+                "pokedexNumber": 484
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "아쿠아터보",
+                "cost": "(물)(물)",
+                "damage": "40",
+                "text": "자신의 덱에서 (물) 에너지를 2장까지 선택해서 벤치 포켓몬 1마리에게 붙인다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "펄허리케인",
+                "cost": "(물)(물)(물)(물)",
+                "damage": "120",
+                "text": "상대의 벤치 포켓몬을 1마리 선택해서 그 포켓몬에게도 30데미지를 준다. (벤치는 약점 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "007",
+        "prodNumber": "016",
+        "prodCode": "xyf",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xyf.png",
+        "prodName": "XY BREAK 콤보 60장 덱 「골덕 BREAK +펄기아 EX」",
+        "artist": "Eske Yoshinob",
+        "rarity": "N",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XYF/XYF_007.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2015006007"
+    },
+    {
+        "id": "xyf-008",
+        "cardID": "다이브볼",
+        "name": "다이브볼",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱에서 (물) 포켓몬을 1장 선택해서 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "008",
+        "prodNumber": "016",
+        "prodCode": "xyf",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xyf.png",
+        "prodName": "XY BREAK 콤보 60장 덱 「골덕 BREAK +펄기아 EX」",
+        "artist": "Toyste Beach",
+        "rarity": "N",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XYF/XYF_008.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2015006008"
+    },
+    {
+        "id": "xyf-009",
+        "cardID": "배틀서처",
+        "name": "배틀서처",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 트래쉬에서 서포트를 1장 선택해서 상대에게 보여주고 패로 가져온다."
+        ],
+        "number": "009",
+        "prodNumber": "016",
+        "prodCode": "xyf",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xyf.png",
+        "prodName": "XY BREAK 콤보 60장 덱 「골덕 BREAK +펄기아 EX」",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XYF/XYF_009.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2015006009"
+    },
+    {
+        "id": "xyf-010",
+        "cardID": "포켓몬 교체",
+        "name": "포켓몬 교체",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 배틀 포켓몬을 벤치 포켓몬과 교체한다."
+        ],
+        "number": "010",
+        "prodNumber": "016",
+        "prodCode": "xyf",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xyf.png",
+        "prodName": "XY BREAK 콤보 60장 덱 「골덕 BREAK +펄기아 EX」",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XYF/XYF_010.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2015006010"
+    },
+    {
+        "id": "xyf-011",
+        "cardID": "포켓몬 캐처",
+        "name": "포켓몬 캐처",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "동전을 한 번 던져서 앞면이 나오면 상대의 벤치 포켓몬을 1마리 선택해서 배틀 포켓몬과 교체한다."
+        ],
+        "number": "011",
+        "prodNumber": "016",
+        "prodCode": "xyf",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xyf.png",
+        "prodName": "XY BREAK 콤보 60장 덱 「골덕 BREAK +펄기아 EX」",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XYF/XYF_011.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2015006011"
+    },
+    {
+        "id": "xyf-012",
+        "cardID": "풀회복약",
+        "name": "풀회복약",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 포켓몬을 1마리 선택해서 HP를 모두 회복한다.",
+            "그 뒤 그 포켓몬에게 붙어 있는 에너지를 모두 트래쉬한다."
+        ],
+        "number": "012",
+        "prodNumber": "016",
+        "prodCode": "xyf",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xyf.png",
+        "prodName": "XY BREAK 콤보 60장 덱 「골덕 BREAK +펄기아 EX」",
+        "artist": "Toyste Beach",
+        "rarity": "N",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XYF/XYF_012.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2015006012"
+    },
+    {
+        "id": "xyf-013",
+        "cardID": "이슬의 의욕",
+        "name": "이슬의 의욕",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패를 1장 선택해서 트래쉬한다.",
+            "그 뒤 자신의 덱을 위에서부터 8장 보고 그 중에서 원하는 카드를 1장 선택해서 패로 가져온다.",
+            "남은 카드는 덱으로 되돌리고 덱을 섞는다."
+        ],
+        "number": "013",
+        "prodNumber": "016",
+        "prodCode": "xyf",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xyf.png",
+        "prodName": "XY BREAK 콤보 60장 덱 「골덕 BREAK +펄기아 EX」",
+        "artist": "Ken Sugimori",
+        "rarity": "N",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XYF/XYF_013.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2015006013"
+    },
+    {
+        "id": "xyf-014",
+        "cardID": "털보박사의 관찰",
+        "name": "털보박사의 관찰",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패를 모두 덱으로 되돌리고 덱을 섞는다.",
+            "동전을 한 번 던져서 앞면이 나오면 7장 뒷면이 나오면 4장 자신의 덱을 뽑는다."
+        ],
+        "number": "014",
+        "prodNumber": "016",
+        "prodCode": "xyf",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xyf.png",
+        "prodName": "XY BREAK 콤보 60장 덱 「골덕 BREAK +펄기아 EX」",
+        "artist": "Yusuke Ohmura",
+        "rarity": "N",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XYF/XYF_014.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2015006014"
+    },
+    {
+        "id": "xyf-015",
+        "cardID": "티에르노",
+        "name": "티에르노",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱을 3장 뽑는다."
+        ],
+        "number": "015",
+        "prodNumber": "016",
+        "prodCode": "xyf",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xyf.png",
+        "prodName": "XY BREAK 콤보 60장 덱 「골덕 BREAK +펄기아 EX」",
+        "artist": "Ken Sugimori",
+        "rarity": "N",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XYF/XYF_015.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2015006015"
+    },
+    {
+        "id": "xyf-016",
+        "cardID": "플라타느박사",
+        "name": "플라타느박사",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패를 모두 트래쉬하고 덱을 7장 뽑는다."
+        ],
+        "number": "016",
+        "prodNumber": "016",
+        "prodCode": "xyf",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xyf.png",
+        "prodName": "XY BREAK 콤보 60장 덱 「골덕 BREAK +펄기아 EX」",
+        "artist": "Yusuke Ohmura",
+        "rarity": "N",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XYF/XYF_016.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2015006016"
     }
 ]

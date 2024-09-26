@@ -49,6 +49,7 @@
                 "rarity": "U",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5a/SV5a_049.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024007049",
+                "regu": "H",
                 "debug": "3"
             }
         ]
@@ -109,6 +110,7 @@
                 "rarity": "U",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6/SV6_012.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024008012",
+                "regu": "H",
                 "debug": "1"
             },
             {
@@ -121,7 +123,63 @@
                 "rarity": "AR",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6/SV6_103.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024008103",
+                "regu": "H",
                 "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SV7-011",
+        "cardID": "과미풀090코팅020",
+        "name": "과미르",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "과미르",
+                "pokedexNumber": 1011
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "코팅어택",
+                "cost": "(풀)",
+                "damage": "20",
+                "text": "상대의 다음 차례에 이 포켓몬은 기본 포켓몬으로부터 기술의 데미지를 받지 않는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "머리를 내밀고 있는 외미르와 꼬리를 내밀고 있는 내미르가 사과 안에서 서로 도우며 지낸다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "011",
+                "prodNumber": "102",
+                "prodCode": "SV7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV7.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「스텔라미라클」",
+                "artist": "Souichirou Gunjima",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV7/SV7_011.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024012011",
+                "regu": "H",
+                "debug": "1"
             }
         ]
     }

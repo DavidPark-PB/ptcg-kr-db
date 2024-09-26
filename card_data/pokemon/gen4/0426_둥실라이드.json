@@ -55,6 +55,7 @@
                 "rarity": "U",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW5/bw5_blast_025.jpg?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2012005025",
+                "regu": "BW",
                 "debug": "1"
             }
         ]
@@ -115,6 +116,7 @@
                 "rarity": "U",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW9/bw9_027.jpg?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013005027",
+                "regu": "BW",
                 "debug": "3"
             }
         ]
@@ -175,6 +177,7 @@
                 "rarity": "U",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY11/XY11A_024.jpg?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016006024",
+                "regu": "XY",
                 "debug": "1"
             }
         ]
@@ -235,6 +238,7 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM5M/SM5M_024.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018002024",
+                "regu": "B",
                 "debug": "1"
             }
         ]
@@ -295,6 +299,7 @@
                 "rarity": "U",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10a/SM10a_015.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019010015",
+                "regu": "C",
                 "debug": "1"
             }
         ]
@@ -349,6 +354,7 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10D_027.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022007027",
+                "regu": "F",
                 "debug": "1"
             }
         ]
@@ -409,6 +415,7 @@
                 "rarity": "U",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV1S/SV1S_030.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023006030",
+                "regu": "G",
                 "debug": "2"
             },
             {
@@ -421,6 +428,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_053.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016053",
+                "regu": "G",
                 "debug": "2"
             },
             {
@@ -433,6 +441,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4a/SV4a_084.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024001084",
+                "regu": "G",
                 "debug": "1"
             },
             {
@@ -445,7 +454,63 @@
                 "rarity": "S",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4a/SV4a_261.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024001261",
+                "regu": "G",
                 "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SV7-041",
+        "cardID": "둥실초130다함050",
+        "name": "둥실라이드",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "둥실라이드",
+                "pokedexNumber": 426
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "다함께폭발",
+                "cost": "(초)",
+                "damage": "50×",
+                "text": "자신의 필드의 「흔들풍손」과 「둥실라이드」의 수 × 50데미지를 준다. 자신의 필드의 「흔들풍손」과 「둥실라이드」 전원에게도 각각 30데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "사람이나 포켓몬을 운반한다. 단, 바람에 의해 날려가 버리기 때문에 목적지를 정할 수 없다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "041",
+                "prodNumber": "102",
+                "prodCode": "SV7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV7.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「스텔라미라클」",
+                "artist": "sowsow",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV7/SV7_041.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024012041",
+                "regu": "H",
+                "debug": "1"
             }
         ]
     },
@@ -505,6 +570,7 @@
                 "rarity": "U",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS3/bs3_ko_11.jpg?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010003011",
+                "regu": "DP",
                 "debug": "1"
             }
         ]

@@ -55,6 +55,7 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1a/S1a_050.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020004050",
+                "regu": "D",
                 "debug": "1"
             },
             {
@@ -67,6 +68,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_121.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016121",
+                "regu": "D",
                 "debug": "2"
             },
             {
@@ -79,6 +81,7 @@
                 "rarity": "S",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_282.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016282",
+                "regu": "D",
                 "debug": "2"
             }
         ]
@@ -133,6 +136,7 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S6a/S6a_052.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021007052",
+                "regu": "E",
                 "debug": "1"
             }
         ]
@@ -193,7 +197,69 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_286.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003286",
+                "regu": "F",
                 "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "SV7-064",
+        "cardID": "메롱악070수벽010발톱040",
+        "name": "메롱꿍",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "메롱꿍",
+                "pokedexNumber": 859
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "수벽치기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "발톱 베어가르기",
+                "cost": "(악)(무색)(무색)",
+                "damage": "40",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "무리를 만들어 지내면서 서로에게 장난을 치거나 짓궂은 짓을 하며 실력을 갈고닦는다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "064",
+                "prodNumber": "102",
+                "prodCode": "SV7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV7.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「스텔라미라클」",
+                "artist": "Tomokazu Komiya",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV7/SV7_064.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024012064",
+                "regu": "H",
+                "debug": "1"
             }
         ]
     }

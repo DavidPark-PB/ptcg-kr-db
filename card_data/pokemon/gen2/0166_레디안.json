@@ -55,6 +55,7 @@
                 "rarity": "U",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY1/K1_Y_005.jpg?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2014501005",
+                "regu": "XY",
                 "debug": "3"
             }
         ]
@@ -115,6 +116,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM2+/SM2plus_005.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017007005",
+                "regu": "A",
                 "debug": "1"
             },
             {
@@ -127,6 +129,7 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM2+/SM2plus_071.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017007071",
+                "regu": "A",
                 "debug": "2"
             }
         ]
@@ -187,6 +190,68 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S6/S6K_002.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021005002",
+                "regu": "E",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV7-002",
+        "cardID": "레디풀090반짝스피070",
+        "name": "레디안",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "레디안",
+                "pokedexNumber": 166
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "스피드스타",
+                "cost": "(무색)(무색)",
+                "damage": "70",
+                "text": "이 기술의 데미지는 약점, 저항력과 상대의 배틀 포켓몬에게 걸려 있는 효과를 계산하지 않는다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "반짝별 모양",
+                "text": "자신의 차례에 이 카드를 패에서 꺼내서 진화시켰을 때 1번 사용할 수 있다. 상대 벤치의 남은 HP가 「90」이하인 포켓몬을 1마리 선택해서 배틀 포켓몬과 교체한다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "밤하늘의 별이 깜빡일 때 반짝이는 가루를 흩뿌리며 훨훨 날아간다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "002",
+                "prodNumber": "102",
+                "prodCode": "SV7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV7.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「스텔라미라클」",
+                "artist": "Masako Tomii",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV7/SV7_002.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024012002",
+                "regu": "H",
                 "debug": "1"
             }
         ]

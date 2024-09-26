@@ -55,6 +55,7 @@
                 "rarity": "R",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY1/K1_Y_033.jpg?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2014501033",
+                "regu": "XY",
                 "debug": "3"
             }
         ]
@@ -115,6 +116,7 @@
                 "rarity": "U",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY5/XY5_GV_031.jpg?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015001031",
+                "regu": "XY",
                 "debug": "1"
             }
         ]
@@ -180,6 +182,7 @@
                 "rarity": "R",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY5/XY5_GV_032.jpg?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015001032",
+                "regu": "XY",
                 "debug": "1"
             }
         ]
@@ -240,6 +243,7 @@
                 "rarity": "R",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM3N/SM3N_029.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017009029",
+                "regu": "A",
                 "debug": "1"
             }
         ]
@@ -300,6 +304,7 @@
                 "rarity": "U",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10/SM10_050.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019007050",
+                "regu": "C",
                 "debug": "1"
             }
         ]
@@ -360,6 +365,7 @@
                 "rarity": "R",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1H/S1H_030.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020003030",
+                "regu": "D",
                 "debug": "1"
             }
         ]
@@ -423,6 +429,7 @@
                 "rarity": "RR",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S3/S3_049.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020011049",
+                "regu": "D",
                 "debug": "1"
             },
             {
@@ -435,6 +442,7 @@
                 "rarity": "SR",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S3/S3_104.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020011104",
+                "regu": "D",
                 "debug": "2"
             }
         ]
@@ -495,6 +503,7 @@
                 "rarity": "U",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S9a/S9a_039.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022004064",
+                "regu": "F",
                 "debug": "1"
             },
             {
@@ -507,7 +516,69 @@
                 "rarity": "U",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S9a/S9a_039_m.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022004065",
+                "regu": "F",
                 "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SV7-052",
+        "cardID": "거대격200와이드릴180",
+        "name": "거대코뿌리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 200,
+        "pokemons": [
+            {
+                "name": "거대코뿌리",
+                "pokedexNumber": 464
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "드릴라이너",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "180",
+                "text": "상대의 배틀 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "와이드 월",
+                "text": "이 포켓몬이 배틀필드에 있는 한, 자신의 포켓몬 전원은 상대가 패에서 서포트를 꺼내서 사용했을 때 그 효과를 받지 않는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "뇌는 코뿌리보다도 작지만 그만큼 에너지를 모조리 전투에 사용하기 때문에 강하다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "052",
+                "prodNumber": "102",
+                "prodCode": "SV7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV7.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「스텔라미라클」",
+                "artist": "Mitsuhiro Arita",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV7/SV7_052.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024012052",
+                "regu": "H",
+                "debug": "1"
             }
         ]
     }

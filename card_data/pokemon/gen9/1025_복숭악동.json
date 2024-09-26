@@ -58,7 +58,47 @@
                 "rarity": "RR",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6a/SV6a_039.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024011039",
+                "regu": "H",
                 "debug": "3"
+            },
+            {
+                "number": "082",
+                "prodNumber": "064",
+                "prodCode": "SV6a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「나이트원더러」",
+                "artist": "aky CG Works",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6a/SV6a_082.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024011082",
+                "regu": "H",
+                "debug": "2"
+            },
+            {
+                "number": "090",
+                "prodNumber": "064",
+                "prodCode": "SV6a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「나이트원더러」",
+                "artist": "kantaro",
+                "rarity": "SAR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6a/SV6a_090.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024011090",
+                "regu": "H",
+                "debug": "2"
+            },
+            {
+                "number": "092",
+                "prodNumber": "064",
+                "prodCode": "SV6a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「나이트원더러」",
+                "artist": "aky CG Works",
+                "rarity": "UR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6a/SV6a_092.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024011092",
+                "regu": "H",
+                "debug": "2"
             }
         ]
     }

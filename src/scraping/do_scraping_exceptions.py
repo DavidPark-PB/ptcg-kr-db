@@ -658,7 +658,75 @@ def parse_banditUR():
     json_file_path = './'+'uni.json'
     with open(json_file_path,mode='w',encoding='utf-8') as file:
         json.dump(data_json,file,ensure_ascii=False, indent=4)
-
+        
+def parse_stella():
+    url_head = 'https://pokemoncard.co.kr/cards/detail/BS2024012'
+    nums = list(range(110))
+    
+    parsed_card_num = 0
+    data_json = []
+    for num in nums:
+        url = url_head+do_scraping.to_three_digit(num)
+        if num == 1 or num % 5 == 0:
+            print(url)
+        
+        card_data, state = do_scraping.scrape_ptcg_kr(url)
+    
+        if state == "success":
+            data_json.append(card_data)
+            parsed_card_num += 1
+        elif state == "fail":
+            pass
+         
+    json_file_path = '../ptcg_kr_card_data/BS/2024/BS_2024_012_'+do_scraping.to_three_digit(parsed_card_num)+'.json'
+    with open(json_file_path,mode='w',encoding='utf-8') as file:
+        json.dump(data_json,file,ensure_ascii=False, indent=4)
+        
+def parse_Night2():
+    url_head = 'https://pokemoncard.co.kr/cards/detail/BS2024011'
+    nums = list(range(100))
+    
+    parsed_card_num = 0
+    data_json = []
+    for num in nums:
+        url = url_head+do_scraping.to_three_digit(num)
+        if num == 1 or num % 5 == 0:
+            print(url)
+        
+        card_data, state = do_scraping.scrape_ptcg_kr(url)
+    
+        if state == "success":
+            data_json.append(card_data)
+            parsed_card_num += 1
+        elif state == "fail":
+            pass
+         
+    json_file_path = '../ptcg_kr_card_data/BS/2024/BS_2024_011_'+do_scraping.to_three_digit(parsed_card_num)+'.json'
+    with open(json_file_path,mode='w',encoding='utf-8') as file:
+        json.dump(data_json,file,ensure_ascii=False, indent=4)
+        
+def parse_Parukia():
+    url_head = 'https://pokemoncard.co.kr/cards/detail/ST2015006'
+    nums = list(range(80))
+    
+    parsed_card_num = 0
+    data_json = []
+    for num in nums:
+        url = url_head+do_scraping.to_three_digit(num)
+        if num == 1 or num % 5 == 0:
+            print(url)
+        
+        card_data, state = do_scraping.scrape_ptcg_kr(url)
+    
+        if state == "success":
+            data_json.append(card_data)
+            parsed_card_num += 1
+        elif state == "fail":
+            pass
+         
+    json_file_path = '../ptcg_kr_card_data/ST/2015/ST_2015_006_'+do_scraping.to_three_digit(parsed_card_num)+'.json'
+    with open(json_file_path,mode='w',encoding='utf-8') as file:
+        json.dump(data_json,file,ensure_ascii=False, indent=4)
 
 if __name__ == "__main__":
     #parse_bestxy()
@@ -686,6 +754,13 @@ if __name__ == "__main__":
     #parse_151()
     #parse_ShinyTrea()
     #parse_VSTARUni2()
-    parse_banditUR()
-
+    #parse_banditUR()
+    
+    # ver 2.0 위해
+    #스텔라미라클 카드정보 추가
+    parse_stella()
+    #나이트 원더러 고레어 카드 추가
+    parse_Night2()
+    #누락 데이터 추가
+    parse_Parukia()
     

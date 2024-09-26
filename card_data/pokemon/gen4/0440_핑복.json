@@ -48,6 +48,7 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10/SM10_077.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019007077",
+                "regu": "C",
                 "debug": "1"
             }
         ]
@@ -108,6 +109,7 @@
                 "rarity": "C",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS4/bs4_ko_32.jpg?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010004032",
+                "regu": "DP",
                 "debug": "3"
             }
         ]

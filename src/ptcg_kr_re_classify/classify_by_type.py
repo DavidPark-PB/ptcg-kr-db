@@ -65,6 +65,7 @@ def get_pokemon_version(item, debug = 3):
     data['rarity'] = item['rarity']
     data['cardImgURL'] = item['cardImgURL']
     data['cardPageURL'] = item['cardPageURL']
+    data['regu'] = item['regulationMark']
     
     if debug:
         data['debug'] = str(debug)

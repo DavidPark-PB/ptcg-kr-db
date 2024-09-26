@@ -13,20 +13,9 @@
         ],
         "in_standard_regu": false,
         "release_date": "1970-01-01",
-        "update_date": "2024-08-22",
+        "update_date": "2024-09-26",
         "image_symbol_url": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/dppromo.png",
         "card_list_index": [
-            1141,
-            1142,
-            1143,
-            1144,
-            1145,
-            1146,
-            1147,
-            1148,
-            1149,
-            1150,
-            1151,
             1152,
             1153,
             1154,
@@ -177,9 +166,20 @@
             1299,
             1300,
             1301,
-            1325,
-            1326,
-            1327
+            1302,
+            1303,
+            1304,
+            1305,
+            1306,
+            1307,
+            1308,
+            1309,
+            1310,
+            1311,
+            1312,
+            1336,
+            1337,
+            1338
         ],
         "card_list_detail": [
             {
@@ -2781,7 +2781,8 @@
                 "name": "보만다 EX",
                 "supertype": "포켓몬",
                 "subtypes": [
-                    "기본"
+                    "기본",
+                    "EX"
                 ],
                 "type": "(드래곤)",
                 "pokemons": [
@@ -2799,7 +2800,8 @@
                 "name": "M보만다 EX",
                 "supertype": "포켓몬",
                 "subtypes": [
-                    "M진화"
+                    "M진화",
+                    "EX"
                 ],
                 "type": "(드래곤)",
                 "pokemons": [

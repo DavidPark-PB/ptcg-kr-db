@@ -271,6 +271,7 @@ def fix_cardID_ver2():
                     except Exception as e:
                         print(f"Error inserting {file_path}: {e}")
                 if id_count > 0:
+                    print(file_path)
                     with open(file_path,'w',encoding='utf-8') as out_file:
                         json.dump(data,out_file,ensure_ascii=False, indent =4) 
 
