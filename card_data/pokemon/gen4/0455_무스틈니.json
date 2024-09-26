@@ -434,67 +434,6 @@
         ]
     },
     {
-        "id": "st1-09",
-        "cardID": "무스풀080덩굴020꿀꺽030",
-        "name": "무스틈니",
-        "supertype": "포켓몬",
-        "subtypes": [
-            "기본"
-        ],
-        "rules": [],
-        "hp": 80,
-        "pokemons": [
-            {
-                "name": "무스틈니",
-                "pokedexNumber": 455
-            }
-        ],
-        "type": "(풀)",
-        "attacks": [
-            {
-                "name": "덩굴채찍",
-                "cost": "(무색)(무색)",
-                "damage": "20",
-                "text": ""
-            },
-            {
-                "name": "꿀꺽",
-                "cost": "(풀)(풀)(무색)",
-                "damage": "30",
-                "text": "동전을 한 번 던져서 앞면이 나오면 상대에게 준 데미지만큼의 데미지 카운터를 자신으로부터 제거한다."
-            }
-        ],
-        "abilities": [],
-        "weakness": {
-            "type": "(불꽃)",
-            "value": "20"
-        },
-        "resistance": {
-            "type": "(물)",
-            "value": "-20"
-        },
-        "retreatCost": 2,
-        "flavorText": "달콤한 냄새의 타액으로 먹이를 끌어들여 큰 턱으로 꿀꺽한다. 하루에 걸쳐 먹이를 먹는다.",
-        "regulationMark": [
-            "DP"
-        ],
-        "version_infos": [
-            {
-                "number": "09",
-                "prodNumber": "55",
-                "prodCode": "st1",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/st1.png",
-                "prodName": "DP 랜덤 구축덱",
-                "artist": "Satoshi Ohta",
-                "rarity": "N",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/ST1/st1_kr_9.jpg?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2010001009",
-                "regu": "DP",
-                "debug": "1"
-            }
-        ]
-    },
-    {
         "id": "SV7-005",
         "cardID": "무스풀110집어000덮어130",
         "name": "무스틈니",
@@ -551,6 +490,67 @@
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV7/SV7_005.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024012005",
                 "regu": "H",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "st1-09",
+        "cardID": "무스풀080덩굴020꿀꺽030",
+        "name": "무스틈니",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "무스틈니",
+                "pokedexNumber": 455
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "덩굴채찍",
+                "cost": "(무색)(무색)",
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "꿀꺽",
+                "cost": "(풀)(풀)(무색)",
+                "damage": "30",
+                "text": "동전을 한 번 던져서 앞면이 나오면 상대에게 준 데미지만큼의 데미지 카운터를 자신으로부터 제거한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "20"
+        },
+        "resistance": {
+            "type": "(물)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "달콤한 냄새의 타액으로 먹이를 끌어들여 큰 턱으로 꿀꺽한다. 하루에 걸쳐 먹이를 먹는다.",
+        "regulationMark": [
+            "DP"
+        ],
+        "version_infos": [
+            {
+                "number": "09",
+                "prodNumber": "55",
+                "prodCode": "st1",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/st1.png",
+                "prodName": "DP 랜덤 구축덱",
+                "artist": "Satoshi Ohta",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/ST1/st1_kr_9.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2010001009",
+                "regu": "DP",
                 "debug": "1"
             }
         ]

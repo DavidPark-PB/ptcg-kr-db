@@ -570,67 +570,6 @@
         ]
     },
     {
-        "id": "S-P-003",
-        "cardID": "에이불170불꽃040홍련160",
-        "name": "에이스번",
-        "supertype": "포켓몬",
-        "subtypes": [
-            "2진화"
-        ],
-        "rules": [],
-        "hp": 170,
-        "pokemons": [
-            {
-                "name": "에이스번",
-                "pokedexNumber": 815
-            }
-        ],
-        "type": "(불꽃)",
-        "attacks": [
-            {
-                "name": "불꽃두르기",
-                "cost": "(불꽃)",
-                "damage": "40",
-                "text": "자신의 트래쉬에서 (불꽃) 에너지를 1장 선택해서 이 포켓몬에게 붙인다."
-            },
-            {
-                "name": "홍련의 불꽃",
-                "cost": "(불꽃)(불꽃)(무색)",
-                "damage": "160",
-                "text": "동전을 1번 던져서 뒷면이 나오면 이 포켓몬에게 붙어 있는 에너지를 2개 선택해서 트래쉬한다."
-            }
-        ],
-        "abilities": [],
-        "weakness": {
-            "type": "(물)",
-            "value": "×2"
-        },
-        "resistance": {
-            "type": "",
-            "value": "--"
-        },
-        "retreatCost": 2,
-        "flavorText": "작은 돌을 리프팅해서 불꽃의 축구공을 만들고 날카로운 슛으로 상대를 태워버린다.",
-        "regulationMark": [
-            "D"
-        ],
-        "version_infos": [
-            {
-                "number": "003",
-                "prodNumber": "S-P",
-                "prodCode": "S-P",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
-                "prodName": "소드&실드 프로모팩 제1탄",
-                "artist": "Shin Nagasawa",
-                "rarity": "N",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S-P/S-P_003.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SP000000003",
-                "regu": "D",
-                "debug": "3"
-            }
-        ]
-    },
-    {
         "id": "SV7-018",
         "cardID": "에이불320테라플레280가닛000",
         "name": "에이스번 ex",
@@ -694,6 +633,67 @@
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024012018",
                 "regu": "H",
                 "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S-P-003",
+        "cardID": "에이불170불꽃040홍련160",
+        "name": "에이스번",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 170,
+        "pokemons": [
+            {
+                "name": "에이스번",
+                "pokedexNumber": 815
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "불꽃두르기",
+                "cost": "(불꽃)",
+                "damage": "40",
+                "text": "자신의 트래쉬에서 (불꽃) 에너지를 1장 선택해서 이 포켓몬에게 붙인다."
+            },
+            {
+                "name": "홍련의 불꽃",
+                "cost": "(불꽃)(불꽃)(무색)",
+                "damage": "160",
+                "text": "동전을 1번 던져서 뒷면이 나오면 이 포켓몬에게 붙어 있는 에너지를 2개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "작은 돌을 리프팅해서 불꽃의 축구공을 만들고 날카로운 슛으로 상대를 태워버린다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "003",
+                "prodNumber": "S-P",
+                "prodCode": "S-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "소드&실드 프로모팩 제1탄",
+                "artist": "Shin Nagasawa",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S-P/S-P_003.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SP000000003",
+                "regu": "D",
+                "debug": "3"
             }
         ]
     }

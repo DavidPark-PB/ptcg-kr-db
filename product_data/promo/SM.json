@@ -9,8 +9,8 @@
             "SM"
         ],
         "regulations": [
-            "C",
             "B",
+            "C",
             "A"
         ],
         "in_standard_regu": false,
@@ -1879,7 +1879,9 @@
                 "name": "베베놈",
                 "supertype": "포켓몬",
                 "subtypes": [
-                    "기본"
+                    "기본",
+                    "울트라비스트",
+                    "울트라비스트"
                 ],
                 "type": "(초)",
                 "pokemons": [
@@ -1908,7 +1910,8 @@
                 "name": "전수목",
                 "supertype": "포켓몬",
                 "subtypes": [
-                    "기본"
+                    "기본",
+                    "울트라비스트"
                 ],
                 "type": "(번개)",
                 "pokemons": [
@@ -2038,7 +2041,8 @@
                 "subtypes": [
                     "기본",
                     "EX",
-                    "GX"
+                    "GX",
+                    "울트라비스트"
                 ],
                 "type": "(초)",
                 "pokemons": [
@@ -2103,7 +2107,8 @@
                 "name": "네크로즈마 황혼의 갈기",
                 "supertype": "포켓몬",
                 "subtypes": [
-                    "기본"
+                    "기본",
+                    "울트라비스트"
                 ],
                 "type": "(강철)",
                 "pokemons": [
@@ -2121,7 +2126,8 @@
                 "name": "네크로즈마 새벽의 날개",
                 "supertype": "포켓몬",
                 "subtypes": [
-                    "기본"
+                    "기본",
+                    "울트라비스트"
                 ],
                 "type": "(초)",
                 "pokemons": [
@@ -2808,7 +2814,8 @@
                 "name": "울트라네크로즈마",
                 "supertype": "포켓몬",
                 "subtypes": [
-                    "기본"
+                    "기본",
+                    "울트라비스트"
                 ],
                 "type": "(드래곤)",
                 "pokemons": [
@@ -3098,7 +3105,8 @@
                 "name": "베베놈",
                 "supertype": "포켓몬",
                 "subtypes": [
-                    "기본"
+                    "기본",
+                    "울트라비스트"
                 ],
                 "type": "(초)",
                 "pokemons": [
@@ -3875,7 +3883,8 @@
                 "name": "차곡차곡",
                 "supertype": "포켓몬",
                 "subtypes": [
-                    "기본"
+                    "기본",
+                    "울트라비스트"
                 ],
                 "type": "(격투)",
                 "pokemons": [

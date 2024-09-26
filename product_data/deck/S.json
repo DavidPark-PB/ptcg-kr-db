@@ -1973,8 +1973,8 @@
             "S"
         ],
         "regulations": [
-            "C",
             "D",
+            "C",
             "B"
         ],
         "in_standard_regu": false,
@@ -2336,8 +2336,8 @@
             "S"
         ],
         "regulations": [
-            "C",
             "D",
+            "C",
             "B"
         ],
         "in_standard_regu": false,
@@ -2674,8 +2674,8 @@
             "S"
         ],
         "regulations": [
-            "D",
-            "E"
+            "E",
+            "D"
         ],
         "in_standard_regu": false,
         "release_date": "2021-01-13",
@@ -3037,8 +3037,8 @@
             "S"
         ],
         "regulations": [
-            "D",
-            "E"
+            "E",
+            "D"
         ],
         "in_standard_regu": false,
         "release_date": "2021-01-13",
@@ -3388,8 +3388,8 @@
             "S"
         ],
         "regulations": [
-            "D",
-            "E"
+            "E",
+            "D"
         ],
         "in_standard_regu": false,
         "release_date": "2021-07-07",
@@ -3770,8 +3770,8 @@
             "S"
         ],
         "regulations": [
-            "D",
-            "E"
+            "E",
+            "D"
         ],
         "in_standard_regu": false,
         "release_date": "2021-07-07",
@@ -4094,8 +4094,8 @@
             "S"
         ],
         "regulations": [
-            "D",
-            "E"
+            "E",
+            "D"
         ],
         "in_standard_regu": false,
         "release_date": "2021-12-17",
@@ -4644,8 +4644,8 @@
             "S"
         ],
         "regulations": [
-            "F",
-            "E"
+            "E",
+            "F"
         ],
         "in_standard_regu": true,
         "release_date": "2022-04-23",
@@ -12365,9 +12365,9 @@
             "S"
         ],
         "regulations": [
+            "E",
             "F",
-            "D",
-            "E"
+            "D"
         ],
         "in_standard_regu": true,
         "release_date": "2022-05-04",
@@ -12730,9 +12730,9 @@
             "S"
         ],
         "regulations": [
-            "F",
+            "E",
             "D",
-            "E"
+            "F"
         ],
         "in_standard_regu": true,
         "release_date": "2022-05-04",
@@ -13085,8 +13085,8 @@
             "S"
         ],
         "regulations": [
-            "F",
-            "E"
+            "E",
+            "F"
         ],
         "in_standard_regu": true,
         "release_date": "2022-05-27",
@@ -13499,8 +13499,8 @@
             "S"
         ],
         "regulations": [
-            "F",
-            "E"
+            "E",
+            "F"
         ],
         "in_standard_regu": true,
         "release_date": "2022-08-10",
@@ -13838,8 +13838,8 @@
             "S"
         ],
         "regulations": [
-            "F",
-            "E"
+            "E",
+            "F"
         ],
         "in_standard_regu": true,
         "release_date": "2022-08-10",
@@ -14177,8 +14177,8 @@
             "S"
         ],
         "regulations": [
-            "F",
-            "E"
+            "E",
+            "F"
         ],
         "in_standard_regu": true,
         "release_date": "2022-12-16",

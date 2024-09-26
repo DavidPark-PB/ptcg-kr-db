@@ -517,7 +517,9 @@
         "name": "매시붕",
         "supertype": "포켓몬",
         "subtypes": [
-            "기본"
+            "기본",
+            "울트라비스트",
+            "울트라비스트"
         ],
         "rules": [],
         "hp": 130,
@@ -3400,7 +3402,9 @@
         "supertype": "포켓몬",
         "subtypes": [
             "기본",
-            "TAG TEAM"
+            "TAG TEAM",
+            "울트라비스트",
+            "울트라비스트"
         ],
         "rules": [
             "TAG TEAM이 기절한 경우 상대는 프라이즈를 3장 가져간다."
@@ -3725,7 +3729,9 @@
         "name": "울트라네크로즈마",
         "supertype": "포켓몬",
         "subtypes": [
-            "기본"
+            "기본",
+            "울트라비스트",
+            "울트라비스트"
         ],
         "rules": [],
         "hp": 110,
@@ -4981,7 +4987,8 @@
         "supertype": "포켓몬",
         "subtypes": [
             "기본",
-            "TAG TEAM"
+            "TAG TEAM",
+            "울트라비스트"
         ],
         "rules": [
             "TAG TEAM이 기절한 경우 상대는 프라이즈를 3장 가져간다."
@@ -5048,7 +5055,8 @@
         "supertype": "포켓몬",
         "subtypes": [
             "기본",
-            "TAG TEAM"
+            "TAG TEAM",
+            "울트라비스트"
         ],
         "rules": [
             "TAG TEAM이 기절한 경우 상대는 프라이즈를 3장 가져간다."

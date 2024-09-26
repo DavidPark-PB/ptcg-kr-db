@@ -8327,6 +8327,187 @@
         ]
     },
     {
+        "id": "SV7-092",
+        "cardID": "디럭스봄",
+        "name": "디럭스봄",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "포켓몬의 도구",
+            "ACE SPEC"
+        ],
+        "rules": [
+            "포켓몬의 도구는 자신의 포켓몬에게 붙여서 사용한다.",
+            "포켓몬 1마리에게 1장만 붙일 수 있고 붙인 채로 둔다.",
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다.",
+            "ACE SPEC 카드는 덱에 1장만 넣을 수 있다"
+        ],
+        "texts": [
+            "이 카드를 붙이고 있는 포켓몬이 배틀필드에서 상대의 포켓몬으로부터 기술의 데미지를 받았을 때 기술을 사용한 포켓몬에게 데미지 카운터를 12개 올린다.",
+            "그 뒤, 이 카드를 트래쉬한다."
+        ],
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "092",
+                "prodNumber": "102",
+                "prodCode": "SV7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV7.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「스텔라미라클」",
+                "artist": "inose yukie",
+                "rarity": "ACE",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV7/SV7_092.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024012092",
+                "regu": "H",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "SV7-093",
+        "cardID": "반짝이는 결정",
+        "name": "반짝이는 결정",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "포켓몬의 도구",
+            "ACE SPEC"
+        ],
+        "rules": [
+            "포켓몬의 도구는 자신의 포켓몬에게 붙여서 사용한다.",
+            "포켓몬 1마리에게 1장만 붙일 수 있고 붙인 채로 둔다.",
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다.",
+            "ACE SPEC 카드는 덱에 1장만 넣을 수 있다"
+        ],
+        "texts": [
+            "이 카드를 붙이고 있는 「테라스탈」의 포켓몬이 기술을 사용할 때 그 기술을 사용하기 위한 에너지는 1개만큼 적어진다.",
+            "(적어지는 것은 어느 타입의 에너지여도 좋다.)"
+        ],
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "093",
+                "prodNumber": "102",
+                "prodCode": "SV7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV7.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「스텔라미라클」",
+                "artist": "Toyste Beach",
+                "rarity": "ACE",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV7/SV7_093.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024012093",
+                "regu": "H",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "SV7-094",
+        "cardID": "야파열매",
+        "name": "야파열매",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "포켓몬의 도구"
+        ],
+        "rules": [
+            "포켓몬의 도구는 자신의 포켓몬에게 붙여서 사용한다.",
+            "포켓몬 1마리에게 1장만 붙일 수 있고 붙인 채로 둔다.",
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드를 붙이고 있는 포켓몬이 상대의 (초) 포켓몬으로부터 기술의 데미지를 받을 때 그 데미지는 「-60」이 되고 이 카드를 트래쉬한다."
+        ],
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "094",
+                "prodNumber": "102",
+                "prodCode": "SV7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV7.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「스텔라미라클」",
+                "artist": "Studio Bora Inc.",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV7/SV7_094.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024012094",
+                "regu": "H",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "SV7-095",
+        "cardID": "오카열매",
+        "name": "오카열매",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "포켓몬의 도구"
+        ],
+        "rules": [
+            "포켓몬의 도구는 자신의 포켓몬에게 붙여서 사용한다.",
+            "포켓몬 1마리에게 1장만 붙일 수 있고 붙인 채로 둔다.",
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드를 붙이고 있는 포켓몬이 상대의 (불꽃) 포켓몬으로부터 기술의 데미지를 받을 때 그 데미지는 「-60」이 되고 이 카드를 트래쉬한다."
+        ],
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "095",
+                "prodNumber": "102",
+                "prodCode": "SV7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV7.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「스텔라미라클」",
+                "artist": "Studio Bora Inc.",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV7/SV7_095.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024012095",
+                "regu": "H",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "SV7-096",
+        "cardID": "중력구슬",
+        "name": "중력구슬",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "포켓몬의 도구"
+        ],
+        "rules": [
+            "포켓몬의 도구는 자신의 포켓몬에게 붙여서 사용한다.",
+            "포켓몬 1마리에게 1장만 붙일 수 있고 붙인 채로 둔다.",
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드를 붙이고 있는 포켓몬이 배틀필드에 있는 한, 서로의 배틀 포켓몬의 후퇴에 필요한 에너지는 각각 1개만큼 많아진다."
+        ],
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "096",
+                "prodNumber": "102",
+                "prodCode": "SV7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV7.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「스텔라미라클」",
+                "artist": "Toyste Beach",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV7/SV7_096.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024012096",
+                "regu": "H",
+                "debug": "3"
+            }
+        ]
+    },
+    {
         "id": "S-P-034",
         "cardID": "역경글러브",
         "name": "역경글러브",
@@ -8754,187 +8935,6 @@
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/PROMO/XYP_179.jpg?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/PR2016001003",
                 "regu": "XY",
-                "debug": "3"
-            }
-        ]
-    },
-    {
-        "id": "SV7-092",
-        "cardID": "디럭스봄",
-        "name": "디럭스봄",
-        "supertype": "트레이너스",
-        "subtypes": [
-            "포켓몬의 도구",
-            "ACE SPEC"
-        ],
-        "rules": [
-            "포켓몬의 도구는 자신의 포켓몬에게 붙여서 사용한다.",
-            "포켓몬 1마리에게 1장만 붙일 수 있고 붙인 채로 둔다.",
-            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다.",
-            "ACE SPEC 카드는 덱에 1장만 넣을 수 있다"
-        ],
-        "texts": [
-            "이 카드를 붙이고 있는 포켓몬이 배틀필드에서 상대의 포켓몬으로부터 기술의 데미지를 받았을 때 기술을 사용한 포켓몬에게 데미지 카운터를 12개 올린다.",
-            "그 뒤, 이 카드를 트래쉬한다."
-        ],
-        "regulationMark": [
-            "H"
-        ],
-        "version_infos": [
-            {
-                "number": "092",
-                "prodNumber": "102",
-                "prodCode": "SV7",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV7.png",
-                "prodName": "스칼렛&바이올렛 확장팩 「스텔라미라클」",
-                "artist": "inose yukie",
-                "rarity": "ACE",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV7/SV7_092.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024012092",
-                "regu": "H",
-                "debug": "3"
-            }
-        ]
-    },
-    {
-        "id": "SV7-093",
-        "cardID": "반짝이는 결정",
-        "name": "반짝이는 결정",
-        "supertype": "트레이너스",
-        "subtypes": [
-            "포켓몬의 도구",
-            "ACE SPEC"
-        ],
-        "rules": [
-            "포켓몬의 도구는 자신의 포켓몬에게 붙여서 사용한다.",
-            "포켓몬 1마리에게 1장만 붙일 수 있고 붙인 채로 둔다.",
-            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다.",
-            "ACE SPEC 카드는 덱에 1장만 넣을 수 있다"
-        ],
-        "texts": [
-            "이 카드를 붙이고 있는 「테라스탈」의 포켓몬이 기술을 사용할 때 그 기술을 사용하기 위한 에너지는 1개만큼 적어진다.",
-            "(적어지는 것은 어느 타입의 에너지여도 좋다.)"
-        ],
-        "regulationMark": [
-            "H"
-        ],
-        "version_infos": [
-            {
-                "number": "093",
-                "prodNumber": "102",
-                "prodCode": "SV7",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV7.png",
-                "prodName": "스칼렛&바이올렛 확장팩 「스텔라미라클」",
-                "artist": "Toyste Beach",
-                "rarity": "ACE",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV7/SV7_093.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024012093",
-                "regu": "H",
-                "debug": "3"
-            }
-        ]
-    },
-    {
-        "id": "SV7-094",
-        "cardID": "야파열매",
-        "name": "야파열매",
-        "supertype": "트레이너스",
-        "subtypes": [
-            "포켓몬의 도구"
-        ],
-        "rules": [
-            "포켓몬의 도구는 자신의 포켓몬에게 붙여서 사용한다.",
-            "포켓몬 1마리에게 1장만 붙일 수 있고 붙인 채로 둔다.",
-            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
-        ],
-        "texts": [
-            "이 카드를 붙이고 있는 포켓몬이 상대의 (초) 포켓몬으로부터 기술의 데미지를 받을 때 그 데미지는 「-60」이 되고 이 카드를 트래쉬한다."
-        ],
-        "regulationMark": [
-            "H"
-        ],
-        "version_infos": [
-            {
-                "number": "094",
-                "prodNumber": "102",
-                "prodCode": "SV7",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV7.png",
-                "prodName": "스칼렛&바이올렛 확장팩 「스텔라미라클」",
-                "artist": "Studio Bora Inc.",
-                "rarity": "U",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV7/SV7_094.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024012094",
-                "regu": "H",
-                "debug": "3"
-            }
-        ]
-    },
-    {
-        "id": "SV7-095",
-        "cardID": "오카열매",
-        "name": "오카열매",
-        "supertype": "트레이너스",
-        "subtypes": [
-            "포켓몬의 도구"
-        ],
-        "rules": [
-            "포켓몬의 도구는 자신의 포켓몬에게 붙여서 사용한다.",
-            "포켓몬 1마리에게 1장만 붙일 수 있고 붙인 채로 둔다.",
-            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
-        ],
-        "texts": [
-            "이 카드를 붙이고 있는 포켓몬이 상대의 (불꽃) 포켓몬으로부터 기술의 데미지를 받을 때 그 데미지는 「-60」이 되고 이 카드를 트래쉬한다."
-        ],
-        "regulationMark": [
-            "H"
-        ],
-        "version_infos": [
-            {
-                "number": "095",
-                "prodNumber": "102",
-                "prodCode": "SV7",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV7.png",
-                "prodName": "스칼렛&바이올렛 확장팩 「스텔라미라클」",
-                "artist": "Studio Bora Inc.",
-                "rarity": "U",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV7/SV7_095.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024012095",
-                "regu": "H",
-                "debug": "3"
-            }
-        ]
-    },
-    {
-        "id": "SV7-096",
-        "cardID": "중력구슬",
-        "name": "중력구슬",
-        "supertype": "트레이너스",
-        "subtypes": [
-            "포켓몬의 도구"
-        ],
-        "rules": [
-            "포켓몬의 도구는 자신의 포켓몬에게 붙여서 사용한다.",
-            "포켓몬 1마리에게 1장만 붙일 수 있고 붙인 채로 둔다.",
-            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
-        ],
-        "texts": [
-            "이 카드를 붙이고 있는 포켓몬이 배틀필드에 있는 한, 서로의 배틀 포켓몬의 후퇴에 필요한 에너지는 각각 1개만큼 많아진다."
-        ],
-        "regulationMark": [
-            "H"
-        ],
-        "version_infos": [
-            {
-                "number": "096",
-                "prodNumber": "102",
-                "prodCode": "SV7",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV7.png",
-                "prodName": "스칼렛&바이올렛 확장팩 「스텔라미라클」",
-                "artist": "Toyste Beach",
-                "rarity": "U",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV7/SV7_096.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024012096",
-                "regu": "H",
                 "debug": "3"
             }
         ]

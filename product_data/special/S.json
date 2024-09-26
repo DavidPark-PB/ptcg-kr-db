@@ -10,8 +10,8 @@
             "S"
         ],
         "regulations": [
-            "C",
             "D",
+            "C",
             "B"
         ],
         "in_standard_regu": false,
@@ -1365,8 +1365,8 @@
             "S"
         ],
         "regulations": [
-            "D",
-            "E"
+            "E",
+            "D"
         ],
         "in_standard_regu": false,
         "release_date": "2021-06-16",
@@ -1730,8 +1730,8 @@
             "S"
         ],
         "regulations": [
-            "D",
-            "E"
+            "E",
+            "D"
         ],
         "in_standard_regu": false,
         "release_date": "2021-11-12",
@@ -1987,8 +1987,8 @@
             "S"
         ],
         "regulations": [
-            "D",
-            "E"
+            "E",
+            "D"
         ],
         "in_standard_regu": false,
         "release_date": "2021-11-27",

@@ -636,67 +636,6 @@
         ]
     },
     {
-        "id": "XY-P-060",
-        "cardID": "랜턴물100드레020빛의080",
-        "name": "랜턴",
-        "supertype": "포켓몬",
-        "subtypes": [
-            "1진화"
-        ],
-        "rules": [],
-        "hp": 100,
-        "pokemons": [
-            {
-                "name": "랜턴",
-                "pokedexNumber": 171
-            }
-        ],
-        "type": "(물)",
-        "attacks": [
-            {
-                "name": "드레인핀",
-                "cost": "(물)",
-                "damage": "20",
-                "text": "이 포켓몬의 HP를 「20」회복한다."
-            },
-            {
-                "name": "빛의파도",
-                "cost": "(물)(물)(무색)",
-                "damage": "80",
-                "text": "이 포켓몬에게 붙어 있는 에너지를 1개 트래쉬하고 상대의 배틀 포켓몬을 혼란으로 만든다."
-            }
-        ],
-        "abilities": [],
-        "weakness": {
-            "type": "(풀)",
-            "value": "×2"
-        },
-        "resistance": {
-            "type": "",
-            "value": "--"
-        },
-        "retreatCost": 2,
-        "flavorText": "눈부신 빛을 발산하여 상대의 눈을 안 보이게 만들어 움직이지 못하는 동안에 통째로 삼켜버린다.",
-        "regulationMark": [
-            "XY"
-        ],
-        "version_infos": [
-            {
-                "number": "060",
-                "prodNumber": "XY-P",
-                "prodCode": "XY-P",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/dppromo.png",
-                "prodName": "XY 프로모 카드",
-                "artist": "Kanako Eo",
-                "rarity": "N",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/PROMO/XYpromo_060.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/PR2015001060",
-                "regu": "XY",
-                "debug": "3"
-            }
-        ]
-    },
-    {
         "id": "SV7-031",
         "cardID": "랜턴번120착란000썬더140",
         "name": "랜턴",
@@ -754,6 +693,67 @@
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024012031",
                 "regu": "H",
                 "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "XY-P-060",
+        "cardID": "랜턴물100드레020빛의080",
+        "name": "랜턴",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "랜턴",
+                "pokedexNumber": 171
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "드레인핀",
+                "cost": "(물)",
+                "damage": "20",
+                "text": "이 포켓몬의 HP를 「20」회복한다."
+            },
+            {
+                "name": "빛의파도",
+                "cost": "(물)(물)(무색)",
+                "damage": "80",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 1개 트래쉬하고 상대의 배틀 포켓몬을 혼란으로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "눈부신 빛을 발산하여 상대의 눈을 안 보이게 만들어 움직이지 못하는 동안에 통째로 삼켜버린다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "060",
+                "prodNumber": "XY-P",
+                "prodCode": "XY-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/dppromo.png",
+                "prodName": "XY 프로모 카드",
+                "artist": "Kanako Eo",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/PROMO/XYpromo_060.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/PR2015001060",
+                "regu": "XY",
+                "debug": "3"
             }
         ]
     },

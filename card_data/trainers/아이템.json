@@ -19795,6 +19795,112 @@
         ]
     },
     {
+        "id": "SV7-089",
+        "cardID": "오래된 덮개화석",
+        "name": "오래된 덮개화석",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드는 HP60의 (무색) 타입의 기본 포켓몬으로서 필드에 내보낼 수 있다.",
+            "이 카드는 특수 상태가 되지 않으며 후퇴할 수 없다.",
+            "자신의 차례라면 필드에 나와 있는 이 카드를 트래쉬할 수 있다.",
+            "이 포켓몬은 상대의 포켓몬이 사용하는 기술의 효과를 받지 않는다."
+        ],
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "089",
+                "prodNumber": "102",
+                "prodCode": "SV7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV7.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「스텔라미라클」",
+                "artist": "AYUMI ODASHIMA",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV7/SV7_089.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024012089",
+                "regu": "H",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "SV7-090",
+        "cardID": "오래된 뿌리화석",
+        "name": "오래된 뿌리화석",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드는 HP60의 (무색) 타입의 기본 포켓몬으로서 필드에 내보낼 수 있다.",
+            "이 카드는 특수 상태가 되지 않으며 후퇴할 수 없다.",
+            "자신의 차례라면 필드에 나와 있는 이 카드를 트래쉬할 수 있다.",
+            "이 포켓몬이 배틀필드에 있는 한, 상대의 기본 포켓몬은 기술을 사용하기 위한 에너지가 (무색) 에너지 1개만큼 많아진다."
+        ],
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "090",
+                "prodNumber": "102",
+                "prodCode": "SV7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV7.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「스텔라미라클」",
+                "artist": "AYUMI ODASHIMA",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV7/SV7_090.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024012090",
+                "regu": "H",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "SV7-091",
+        "cardID": "유리나팔",
+        "name": "유리나팔",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드는 자신의 필드에 「테라스탈」의 포켓몬이 있을 때만 사용할 수 있다.",
+            "자신의 벤치의 (무색) 포켓몬을 2마리까지 선택해서 트래쉬에서 기본 에너지를 1장씩 붙인다."
+        ],
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "091",
+                "prodNumber": "102",
+                "prodCode": "SV7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV7.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「스텔라미라클」",
+                "artist": "Toyste Beach",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV7/SV7_091.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024012091",
+                "regu": "H",
+                "debug": "3"
+            }
+        ]
+    },
+    {
         "id": "S-P-110",
         "cardID": "윽우지로봇",
         "name": "윽우지로봇",
@@ -20975,112 +21081,6 @@
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV-P/SV-P_2024_S4_003.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SVP002024012",
                 "regu": "G",
-                "debug": "3"
-            }
-        ]
-    },
-    {
-        "id": "SV7-089",
-        "cardID": "오래된 덮개화석",
-        "name": "오래된 덮개화석",
-        "supertype": "트레이너스",
-        "subtypes": [
-            "아이템"
-        ],
-        "rules": [
-            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
-        ],
-        "texts": [
-            "이 카드는 HP60의 (무색) 타입의 기본 포켓몬으로서 필드에 내보낼 수 있다.",
-            "이 카드는 특수 상태가 되지 않으며 후퇴할 수 없다.",
-            "자신의 차례라면 필드에 나와 있는 이 카드를 트래쉬할 수 있다.",
-            "이 포켓몬은 상대의 포켓몬이 사용하는 기술의 효과를 받지 않는다."
-        ],
-        "regulationMark": [
-            "H"
-        ],
-        "version_infos": [
-            {
-                "number": "089",
-                "prodNumber": "102",
-                "prodCode": "SV7",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV7.png",
-                "prodName": "스칼렛&바이올렛 확장팩 「스텔라미라클」",
-                "artist": "AYUMI ODASHIMA",
-                "rarity": "C",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV7/SV7_089.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024012089",
-                "regu": "H",
-                "debug": "3"
-            }
-        ]
-    },
-    {
-        "id": "SV7-090",
-        "cardID": "오래된 뿌리화석",
-        "name": "오래된 뿌리화석",
-        "supertype": "트레이너스",
-        "subtypes": [
-            "아이템"
-        ],
-        "rules": [
-            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
-        ],
-        "texts": [
-            "이 카드는 HP60의 (무색) 타입의 기본 포켓몬으로서 필드에 내보낼 수 있다.",
-            "이 카드는 특수 상태가 되지 않으며 후퇴할 수 없다.",
-            "자신의 차례라면 필드에 나와 있는 이 카드를 트래쉬할 수 있다.",
-            "이 포켓몬이 배틀필드에 있는 한, 상대의 기본 포켓몬은 기술을 사용하기 위한 에너지가 (무색) 에너지 1개만큼 많아진다."
-        ],
-        "regulationMark": [
-            "H"
-        ],
-        "version_infos": [
-            {
-                "number": "090",
-                "prodNumber": "102",
-                "prodCode": "SV7",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV7.png",
-                "prodName": "스칼렛&바이올렛 확장팩 「스텔라미라클」",
-                "artist": "AYUMI ODASHIMA",
-                "rarity": "C",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV7/SV7_090.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024012090",
-                "regu": "H",
-                "debug": "3"
-            }
-        ]
-    },
-    {
-        "id": "SV7-091",
-        "cardID": "유리나팔",
-        "name": "유리나팔",
-        "supertype": "트레이너스",
-        "subtypes": [
-            "아이템"
-        ],
-        "rules": [
-            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
-        ],
-        "texts": [
-            "이 카드는 자신의 필드에 「테라스탈」의 포켓몬이 있을 때만 사용할 수 있다.",
-            "자신의 벤치의 (무색) 포켓몬을 2마리까지 선택해서 트래쉬에서 기본 에너지를 1장씩 붙인다."
-        ],
-        "regulationMark": [
-            "H"
-        ],
-        "version_infos": [
-            {
-                "number": "091",
-                "prodNumber": "102",
-                "prodCode": "SV7",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV7.png",
-                "prodName": "스칼렛&바이올렛 확장팩 「스텔라미라클」",
-                "artist": "Toyste Beach",
-                "rarity": "U",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV7/SV7_091.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024012091",
-                "regu": "H",
                 "debug": "3"
             }
         ]

@@ -4111,8 +4111,8 @@
             "S"
         ],
         "regulations": [
-            "G",
-            "E"
+            "E",
+            "G"
         ],
         "in_standard_regu": true,
         "release_date": "2023-10-11",
@@ -4455,9 +4455,9 @@
             "S"
         ],
         "regulations": [
+            "E",
             "F",
-            "G",
-            "E"
+            "G"
         ],
         "in_standard_regu": true,
         "release_date": "2023-10-11",
@@ -5708,9 +5708,9 @@
             "S"
         ],
         "regulations": [
-            "H",
+            "F",
             "G",
-            "F"
+            "H"
         ],
         "in_standard_regu": true,
         "release_date": "2024-02-24",

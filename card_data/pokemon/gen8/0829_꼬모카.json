@@ -265,61 +265,6 @@
         ]
     },
     {
-        "id": "S-P-002",
-        "cardID": "꼬모풀050노래000",
-        "name": "꼬모카",
-        "supertype": "포켓몬",
-        "subtypes": [
-            "기본"
-        ],
-        "rules": [],
-        "hp": 50,
-        "pokemons": [
-            {
-                "name": "꼬모카",
-                "pokedexNumber": 829
-            }
-        ],
-        "type": "(풀)",
-        "attacks": [
-            {
-                "name": "노래하기",
-                "cost": "(무색)",
-                "damage": "",
-                "text": "상대의 배틀 포켓몬을 잠듦으로 만든다."
-            }
-        ],
-        "abilities": [],
-        "weakness": {
-            "type": "(불꽃)",
-            "value": "×2"
-        },
-        "resistance": {
-            "type": "",
-            "value": "--"
-        },
-        "retreatCost": 1,
-        "flavorText": "다리 하나를 땅에 꽂은 채 햇빛을 잔뜩 받으면 꽃잎이 선명한 색을 띠게 된다.",
-        "regulationMark": [
-            "D"
-        ],
-        "version_infos": [
-            {
-                "number": "002",
-                "prodNumber": "S-P",
-                "prodCode": "S-P",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
-                "prodName": "소드&실드 프로모팩 제1탄",
-                "artist": "Naoki Saito",
-                "rarity": "N",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S-P/S-P_002.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SP000000002",
-                "regu": "D",
-                "debug": "3"
-            }
-        ]
-    },
-    {
         "id": "SV7-008",
         "cardID": "꼬모풀060더블010",
         "name": "꼬모카",
@@ -371,6 +316,61 @@
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024012008",
                 "regu": "H",
                 "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S-P-002",
+        "cardID": "꼬모풀050노래000",
+        "name": "꼬모카",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "꼬모카",
+                "pokedexNumber": 829
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "노래하기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "상대의 배틀 포켓몬을 잠듦으로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "다리 하나를 땅에 꽂은 채 햇빛을 잔뜩 받으면 꽃잎이 선명한 색을 띠게 된다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "002",
+                "prodNumber": "S-P",
+                "prodCode": "S-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "소드&실드 프로모팩 제1탄",
+                "artist": "Naoki Saito",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S-P/S-P_002.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SP000000002",
+                "regu": "D",
+                "debug": "3"
             }
         ]
     }

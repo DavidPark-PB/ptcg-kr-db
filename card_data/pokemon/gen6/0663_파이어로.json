@@ -700,61 +700,6 @@
         ]
     },
     {
-        "id": "XY-P-152",
-        "cardID": "파이불170플레150",
-        "name": "파이어로 BREAK",
-        "supertype": "포켓몬",
-        "subtypes": [
-            "BREAK진화"
-        ],
-        "rules": [],
-        "hp": 170,
-        "pokemons": [
-            {
-                "name": "파이어로",
-                "pokedexNumber": 663
-            }
-        ],
-        "type": "(불꽃)",
-        "attacks": [
-            {
-                "name": "플레어드라이브",
-                "cost": "(불꽃)(불꽃)",
-                "damage": "150",
-                "text": "이 포켓몬에게 붙어 있는 [불꽃]에너지를 모두 트래쉬한다."
-            }
-        ],
-        "abilities": [],
-        "weakness": {
-            "type": "",
-            "value": "--"
-        },
-        "resistance": {
-            "type": "",
-            "value": "--"
-        },
-        "retreatCost": 0,
-        "flavorText": "",
-        "regulationMark": [
-            "XY"
-        ],
-        "version_infos": [
-            {
-                "number": "152",
-                "prodNumber": "XY-P",
-                "prodCode": "XY-P",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/dppromo.png",
-                "prodName": "XY 프로모 카드",
-                "artist": "5ban Graphics",
-                "rarity": "N",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/PROMO/XYpromo_152.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/PR2015001152",
-                "regu": "XY",
-                "debug": "3"
-            }
-        ]
-    },
-    {
         "id": "SV7-085",
         "cardID": "파이무140에어110",
         "name": "파이어로",
@@ -806,6 +751,61 @@
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024012085",
                 "regu": "H",
                 "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "XY-P-152",
+        "cardID": "파이불170플레150",
+        "name": "파이어로 BREAK",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "BREAK진화"
+        ],
+        "rules": [],
+        "hp": 170,
+        "pokemons": [
+            {
+                "name": "파이어로",
+                "pokedexNumber": 663
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "플레어드라이브",
+                "cost": "(불꽃)(불꽃)",
+                "damage": "150",
+                "text": "이 포켓몬에게 붙어 있는 [불꽃]에너지를 모두 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "152",
+                "prodNumber": "XY-P",
+                "prodCode": "XY-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/dppromo.png",
+                "prodName": "XY 프로모 카드",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/PROMO/XYpromo_152.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/PR2015001152",
+                "regu": "XY",
+                "debug": "3"
             }
         ]
     }

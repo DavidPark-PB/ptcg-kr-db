@@ -458,61 +458,6 @@
         ]
     },
     {
-        "id": "kd-008",
-        "cardID": "기어강040돌격030",
-        "name": "기어르",
-        "supertype": "포켓몬",
-        "subtypes": [
-            "기본"
-        ],
-        "rules": [],
-        "hp": 40,
-        "pokemons": [
-            {
-                "name": "기어르",
-                "pokedexNumber": 599
-            }
-        ],
-        "type": "(강철)",
-        "attacks": [
-            {
-                "name": "돌격",
-                "cost": "(강철)(무색)",
-                "damage": "30",
-                "text": "이 포켓몬에게도 10데미지를 준다."
-            }
-        ],
-        "abilities": [],
-        "weakness": {
-            "type": "(불꽃)",
-            "value": "×2"
-        },
-        "resistance": {
-            "type": "(초)",
-            "value": "-20"
-        },
-        "retreatCost": 2,
-        "flavorText": "두 개의 몸은 그 조합 방법이 정해져 있다. 다른 몸과는 맞물리지 않고 떨어져 버린다.",
-        "regulationMark": [
-            "BW"
-        ],
-        "version_infos": [
-            {
-                "number": "008",
-                "prodNumber": "015",
-                "prodCode": "kd",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/kd.png",
-                "prodName": "BW 「케르디오 덱」",
-                "artist": "MAHOU",
-                "rarity": "N",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/KD/kd_008.jpg?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2012007008",
-                "regu": "BW",
-                "debug": "1"
-            }
-        ]
-    },
-    {
         "id": "SV7-067",
         "cardID": "기어강060끌어000빔빔020",
         "name": "기어르",
@@ -569,6 +514,61 @@
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV7/SV7_067.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024012067",
                 "regu": "H",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "kd-008",
+        "cardID": "기어강040돌격030",
+        "name": "기어르",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 40,
+        "pokemons": [
+            {
+                "name": "기어르",
+                "pokedexNumber": 599
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "돌격",
+                "cost": "(강철)(무색)",
+                "damage": "30",
+                "text": "이 포켓몬에게도 10데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "두 개의 몸은 그 조합 방법이 정해져 있다. 다른 몸과는 맞물리지 않고 떨어져 버린다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "008",
+                "prodNumber": "015",
+                "prodCode": "kd",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/kd.png",
+                "prodName": "BW 「케르디오 덱」",
+                "artist": "MAHOU",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/KD/kd_008.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2012007008",
+                "regu": "BW",
                 "debug": "1"
             }
         ]

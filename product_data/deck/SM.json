@@ -2885,7 +2885,9 @@
                 "name": "전수목",
                 "supertype": "포켓몬",
                 "subtypes": [
-                    "기본"
+                    "기본",
+                    "울트라비스트",
+                    "울트라비스트"
                 ],
                 "type": "(번개)",
                 "pokemons": [
@@ -3070,8 +3072,8 @@
             "SM"
         ],
         "regulations": [
-            "C",
             "B",
+            "C",
             "A"
         ],
         "in_standard_regu": false,
@@ -3736,8 +3738,8 @@
             "SM"
         ],
         "regulations": [
-            "C",
             "B",
+            "C",
             "A"
         ],
         "in_standard_regu": false,
@@ -4915,8 +4917,8 @@
             "SM"
         ],
         "regulations": [
-            "C",
             "B",
+            "C",
             "A"
         ],
         "in_standard_regu": false,
@@ -5465,8 +5467,8 @@
             "SM"
         ],
         "regulations": [
-            "C",
             "B",
+            "C",
             "A"
         ],
         "in_standard_regu": false,

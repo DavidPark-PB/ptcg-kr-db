@@ -847,6 +847,67 @@
         ]
     },
     {
+        "id": "SV7-038",
+        "cardID": "야돈초080꼬리000몸통030",
+        "name": "야돈",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "야돈",
+                "pokedexNumber": 79
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "꼬리 늘어뜨리기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 트래쉬에서 포켓몬을 1장 선택해서 상대에게 보여주고 패로 가져온다."
+            },
+            {
+                "name": "몸통박치기",
+                "cost": "(초)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "항상 멍하니 있어서 무슨 생각을 하고 있는지 알 수 없다. 꼬리로 먹이를 낚는 것이 특기다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "038",
+                "prodNumber": "102",
+                "prodCode": "SV7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV7.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「스텔라미라클」",
+                "artist": "Teeziro",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV7/SV7_038.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024012038",
+                "regu": "H",
+                "debug": "1"
+            }
+        ]
+    },
+    {
         "id": "S-P-121",
         "cardID": "야돈초070다함00020030",
         "name": "가라르 야돈",
@@ -905,67 +966,6 @@
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SP000000121",
                 "regu": "E",
                 "debug": "3"
-            }
-        ]
-    },
-    {
-        "id": "SV7-038",
-        "cardID": "야돈초080꼬리000몸통030",
-        "name": "야돈",
-        "supertype": "포켓몬",
-        "subtypes": [
-            "기본"
-        ],
-        "rules": [],
-        "hp": 80,
-        "pokemons": [
-            {
-                "name": "야돈",
-                "pokedexNumber": 79
-            }
-        ],
-        "type": "(초)",
-        "attacks": [
-            {
-                "name": "꼬리 늘어뜨리기",
-                "cost": "(무색)",
-                "damage": "",
-                "text": "자신의 트래쉬에서 포켓몬을 1장 선택해서 상대에게 보여주고 패로 가져온다."
-            },
-            {
-                "name": "몸통박치기",
-                "cost": "(초)(무색)",
-                "damage": "30",
-                "text": ""
-            }
-        ],
-        "abilities": [],
-        "weakness": {
-            "type": "(악)",
-            "value": "×2"
-        },
-        "resistance": {
-            "type": "(격투)",
-            "value": "-30"
-        },
-        "retreatCost": 2,
-        "flavorText": "항상 멍하니 있어서 무슨 생각을 하고 있는지 알 수 없다. 꼬리로 먹이를 낚는 것이 특기다.",
-        "regulationMark": [
-            "H"
-        ],
-        "version_infos": [
-            {
-                "number": "038",
-                "prodNumber": "102",
-                "prodCode": "SV7",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV7.png",
-                "prodName": "스칼렛&바이올렛 확장팩 「스텔라미라클」",
-                "artist": "Teeziro",
-                "rarity": "C",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV7/SV7_038.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024012038",
-                "regu": "H",
-                "debug": "1"
             }
         ]
     }
