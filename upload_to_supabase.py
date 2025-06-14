@@ -7,12 +7,14 @@ SUPABASE_URL = os.getenv("SUPABASE_URL")
 SUPABASE_API_KEY = os.getenv("SUPABASE_API_KEY")
 TABLE_NAME = "cards_kr"
 
+# 요청 헤더
 headers = {
     "apikey": SUPABASE_API_KEY,
     "Authorization": f"Bearer {SUPABASE_API_KEY}",
     "Content-Type": "application/json"
 }
 
+# 카드 JSON 파일 전체 읽기
 def load_all_cards():
     card_list = []
     for root, _, files in os.walk("card_data"):
@@ -22,15 +24,20 @@ def load_all_cards():
                     with open(os.path.join(root, file), encoding="utf-8") as f:
                         data = json.load(f)
 
-                        # set_id 추출 로직 (list/dict/string 모두 대응)
-                        if isinstance(data.get("set"), list) and data["set"] and isinstance(data["set"][0], dict):
-                            set_id = data["set"][0].get("id")
-                        elif isinstance(data.get("set"), dict):
-                            set_id = data["set"].get("id")
-                        else:
-                            set_id = data.get("set")
+                        # set_id 필드 방어 처리
+                        set_id = None
+                        set_value = data.get("set")
+                        if isinstance(set_value, list):
+                            if set_value and isinstance(set_value[0], dict):
+                                set_id = set_value[0].get("id")
+                            elif set_value and isinstance(set_value[0], str):
+                                set_id = set_value[0]
+                        elif isinstance(set_value, dict):
+                            set_id = set_value.get("id")
+                        elif isinstance(set_value, str):
+                            set_id = set_value
 
-                        # type 추출 (list만 허용)
+                        # type 필드 방어 처리
                         card_type = (
                             data["types"][0]
                             if isinstance(data.get("types"), list) and data["types"]
@@ -56,6 +63,7 @@ def load_all_cards():
     print(f"✅ 총 {len(card_list)}개의 카드 로드 완료")
     return card_list
 
+# 업로드 실행
 cards = load_all_cards()
 
 for i in range(0, len(cards), 50):
