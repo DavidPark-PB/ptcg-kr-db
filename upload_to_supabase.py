@@ -2,10 +2,12 @@ import os
 import json
 import requests
 
+# Supabase 정보
 SUPABASE_URL = os.getenv("SUPABASE_URL")
 SUPABASE_API_KEY = os.getenv("SUPABASE_API_KEY")
 TABLE_NAME = "cards_kr"
 
+# HTTP 헤더
 headers = {
     "apikey": SUPABASE_API_KEY,
     "Authorization": f"Bearer {SUPABASE_API_KEY}",
@@ -21,11 +23,11 @@ def load_all_cards():
                     with open(os.path.join(root, file), encoding="utf-8") as f:
                         data = json.load(f)
 
-                        # ✅ 리스트 형태 JSON 방어
+                        # 리스트 형태 JSON 방어
                         if isinstance(data, list):
                             data = data[0]
 
-                        # set 필드 처리
+                        # set_id 파싱
                         set_id = None
                         set_value = data.get("set")
                         if isinstance(set_value, list):
@@ -38,30 +40,37 @@ def load_all_cards():
                         elif isinstance(set_value, str):
                             set_id = set_value
 
-                        # type 필드 처리
+                        # type 파싱
                         card_type = (
                             data["types"][0]
                             if isinstance(data.get("types"), list) and data["types"]
                             else None
                         )
 
+                        # id 없으면 set_number, 그래도 없으면 파일명으로라도
+                        card_id = data.get("id") or data.get("set_number") or file.replace(".json", "")
+                        card_image = data.get("image")
+
+                        # 카드 객체 생성
                         card = {
-                            "id": data.get("id") or data.get("set_number"),
+                            "id": card_id,
                             "name": data.get("name"),
-                            "image": data.get("image"),
+                            "image": card_image,
                             "rarity": data.get("rarity"),
                             "set_id": set_id,
                             "type": card_type,
                             "supertype": data.get("supertype")
                         }
 
-                        if card["id"] and card["image"]:
-                            card_list.append(card)
-                        else:
-                            print(f"❗ card 누락: {data.get('name')}")
+                        # 로그 출력 (필드 누락 확인용)
+                        if not data.get("id"):
+                            print(f"⚠️ id 없음: {file}")
+                        if not data.get("image"):
+                            print(f"⚠️ image 없음: {file}")
+
+                        card_list.append(card)
                 except Exception as e:
                     print(f"❌ JSON 오류: {file} - {e}")
-                    print(f"↪️ 원본 타입: {type(data)}")
     print(f"✅ 총 {len(card_list)}개의 카드 로드 완료")
     return card_list
 
