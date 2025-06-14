@@ -14,7 +14,7 @@ headers = {
     "Content-Type": "application/json"
 }
 
-# 카드 JSON 파일 전체 읽기
+# 카드 데이터 읽기 함수
 def load_all_cards():
     card_list = []
     for root, _, files in os.walk("card_data"):
@@ -24,7 +24,7 @@ def load_all_cards():
                     with open(os.path.join(root, file), encoding="utf-8") as f:
                         data = json.load(f)
 
-                        # set_id 필드 방어 처리
+                        # set_id 처리
                         set_id = None
                         set_value = data.get("set")
                         if isinstance(set_value, list):
@@ -37,7 +37,7 @@ def load_all_cards():
                         elif isinstance(set_value, str):
                             set_id = set_value
 
-                        # type 필드 방어 처리
+                        # type 처리
                         card_type = (
                             data["types"][0]
                             if isinstance(data.get("types"), list) and data["types"]
@@ -60,10 +60,11 @@ def load_all_cards():
                             print(f"❗ card 누락: {data.get('name')}")
                 except Exception as e:
                     print(f"❌ JSON 오류: {file} - {e}")
+                    print(f"↪️ set 필드 원본값: {data.get('set')}")
     print(f"✅ 총 {len(card_list)}개의 카드 로드 완료")
     return card_list
 
-# 업로드 실행
+# 카드 데이터 업로드
 cards = load_all_cards()
 
 for i in range(0, len(cards), 50):
